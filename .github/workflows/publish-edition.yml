@@ -71,5 +71,15 @@ jobs:
             echo "Nothing changed"
           else
             git commit -m "Edition $(date -u +%F)"
-            git push
+            # The run takes ~20 minutes; someone may have pushed to main meanwhile. Pull their
+            # changes first (the new edition wins if the same generated file changed), then push.
+            for attempt in 1 2 3; do
+              if git pull --rebase -X theirs origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}"; then
+                exit 0
+              fi
+              echo "Push attempt $attempt failed; retrying"
+              sleep $((attempt * 5))
+            done
+            echo "Could not push the edition"
+            exit 1
           fi

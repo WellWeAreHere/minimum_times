@@ -1,138 +1,71 @@
-# Minimum Times (C++)
+# Minimum Times
 
-"The minimum news you need." A daily news digest written in C++:
-a C++ program reads news feeds, groups articles into events, grades them, summarizes the best
-ones and writes a plain HTML website.
+"The minimum news you need." A C++ program that reads Google News, groups articles into events,
+grades them, summarizes the best ones and writes a static website (`docs/`).
 
-## What happens on each run
+## How it works
 
-1. **Fetch feeds** (`src/rss.cpp`) –
-   - *National (India):* 6 Google News keyword searches, one per category.
-   - *International:* Google's **World** topic feed (UK edition), 60 stories. Google does not split
-     it into categories, so step 5 sorts each story by headline keywords. The World feed is almost
-     all politics, conflict and disasters, so International sports / science / entertainment /
-     business are often thin or empty.
-   - *International sports:* Google's Sports topic feed from the US, UK, Australia and South
-     Africa editions (20 stories each), because World has almost no sport. Germany and China
-     have no English Google News edition, so they cannot be used. The same story seen by several
-     editions is merged by text similarity into one event.
-   - Each Google item also lists the **same story from up to 5 other outlets** in its description.
-     We read those: they become extra articles of the same event (Google's own grouping), which
-     is what makes the "how many outlets covered it" signal real. Only the first 2 related
-     articles per story have their text downloaded; all of them still count as outlets.
-2. **Find the real article** (`src/gnews.cpp`) – Google News links are wrappers; this decodes the
-   publisher's real URL.
-3. **Extract the text** (`src/extract.cpp`) – downloads each page and pulls out the article body
-   (JSON-LD, `<article>` tag, or the block with the most paragraphs). Pages that are blocked, empty
-   or too short are skipped, and the reason is logged.
-4. **Group into events** (`src/cluster.cpp`) – see "TF-IDF" below.
-5. **Grade each event** (`src/score.cpp`) – plain arithmetic, no AI:
-   - *coverage*: how many different outlets reported it (60%)
-   - *rank*: how high Google News ranked it (20%)
-   - *freshness*: how recent it is (20%)
-   - local stories (e.g. "high school football") are demoted, and the category is corrected using
-     keyword lists when a keyword feed put a story in the wrong section.
-6. **Select** – an event needs at least 2 different outlets and a score of 0.35. Each category keeps
-   its best 4. A category with nothing good is published empty.
-7. **Summarize** (`src/summarize.cpp`) – the **only** AI step. For each selected event the model
-   writes a micro (≤20 words), normal (≤40 words) and extended summary. Plain rules then check the
-   result (word limits, no "this article…" phrasing, **every number must appear in the source
-   text**). If the AI is unavailable or fails a check, real sentences are copied from the articles
-   instead.
-8. **Drop repeats** – events too similar to the last two editions (or sharing a source URL) are
-   removed.
-9. **Write the site** (`src/render.cpp`) and a log of every candidate event.
-
-### TF-IDF in one paragraph
-
-Each article becomes a list of numbers saying which words it is about. A word counts for more when
-it is common in this article but rare across all articles (so "Padikkal" matters, "government"
-barely does). Two articles are compared with *cosine similarity* (0 = nothing in common, 1 =
-identical). Articles whose similarity is above `CLUSTER_THRESHOLD` are merged into one event
-(average-link clustering).
+1. **Fetch** – India: 6 keyword feeds. International: Google's World feed plus the Sports feed of
+   the US, UK, Australia and South Africa editions. Each Google item also lists the same story from
+   other outlets; those become extra articles of one event.
+2. **Extract** – resolve the real publisher URL and pull the article text. Blocked, empty or too
+   short pages are skipped and logged.
+3. **Group** – TF-IDF similarity merges articles about the same event.
+4. **Grade** (no AI) – outlets covering it (60%), Google rank (20%), freshness (20%). Local stories
+   are demoted and categories are fixed with keyword lists. An event needs 2+ outlets and a score
+   of 0.35; each category keeps its best 4.
+5. **Summarize** (the only AI step) – micro (20 words), normal (40) and extended (150) summaries
+   from NVIDIA's API. Rule checks reject over-long text, "this article…" phrasing and any number
+   not in the sources. On failure, or without a key, real sentences are copied from the articles.
+6. **Drop repeats** of the last two editions, then write the site and a log of every candidate.
 
 ## Build and run
 
-Requires a C++20 compiler, CMake, Ninja, libcurl, nlohmann-json, pugixml and gumbo-parser.
+Needs a C++20 compiler, CMake, Ninja, libcurl, nlohmann-json, pugixml, gumbo-parser.
 
-**Windows (MSYS2 UCRT64 shell):**
 ```bash
+# Windows (MSYS2 UCRT64)
 pacman -S mingw-w64-ucrt-x86_64-{gcc,cmake,ninja,curl,nlohmann-json,pugixml,gumbo-parser,pkgconf}
-cmake -S . -B build -G Ninja
-cmake --build build
-ctest --test-dir build --output-on-failure
-./build/minimum_times --no-ai          # extractive summaries, no API key needed
-```
-
-**Linux (Debian/Ubuntu):**
-```bash
+# Debian/Ubuntu
 sudo apt install cmake ninja-build pkg-config libcurl4-openssl-dev nlohmann-json3-dev libpugixml-dev libgumbo-dev
+
+cmake -S . -B build -G Ninja && cmake --build build
+ctest --test-dir build --output-on-failure
+./build/minimum_times            # full edition, writes docs/ (about 20 minutes with AI)
 ```
 
-**API key:** put `NVIDIA_API_KEY=your-key` in a file named `.env.local` (or `.env`) in the folder you
-run the program from. See `.env.example`. Both files are git-ignored. A real environment variable
-takes priority over the file.
+Options: `--no-ai`, `--out DIR`, `--log-dir DIR`, `--date YYYY-MM-DD`, `--max-per-feed N`,
+`--rerender` (rebuild pages from saved data, no network).
 
-Options: `--out DIR` (default `docs`), `--log-dir DIR` (default `data/logs`), `--date YYYY-MM-DD`,
-`--no-ai`, `--max-per-feed N` (quick test runs). Set `NVIDIA_API_KEY` to enable AI summaries
-(`NVIDIA_MODEL` overrides the model). A full run takes roughly 12 minutes (mostly downloading
-~500 article pages).
+**Key and model:** put `NVIDIA_API_KEY=...` (and optionally `NVIDIA_MODEL=...`) in `.env.local`
+in the folder you run from (git-ignored; see `.env.example`). Default model:
+`mistralai/mistral-large-4-1t-a52b`. It is a reasoning model, so requests are slow; set
+`NVIDIA_REASONING_EFFORT=none` for models that allow it.
 
-## Deploying on Vercel
+## Deploy
 
-Vercel only *hosts* the finished site; the edition is still generated by the GitHub workflow
-(a C++ build plus ~20 minutes of work does not belong in a Vercel build).
+GitHub Actions (`.github/workflows/publish-edition.yml`) runs twice a day, builds, tests,
+generates an edition and commits `docs/` and `data/logs/`. Vercel only hosts `docs/` (see
+`vercel.json`) and redeploys on every push.
 
-1. Push this repository to GitHub and add the `NVIDIA_API_KEY` repository secret.
-2. On vercel.com choose **Add New -> Project**, import the repository, and leave every build
-   setting alone. `vercel.json` already says: no framework, no install or build command,
-   output directory `docs`.
-3. Deploy. From then on, each time the workflow commits a new edition to `main`, Vercel
-   redeploys automatically.
+1. Push to GitHub, add the repository secret `NVIDIA_API_KEY`.
+2. Import the repo on Vercel and deploy with the default settings.
+3. Run the workflow once from the Actions tab (Run workflow).
 
-`vercel.json` also sends security headers (including a strict Content-Security-Policy: scripts
-only from the site itself). If you add your own domain, do it in the Vercel project settings.
+## Site
 
-## Reader preferences
-
-`docs/prefs.js` (about 20 lines) remembers each reader's theme, extreme mode, last tab and the
-categories chosen **separately for National and International**, using the browser's
-`localStorage`. Nothing is sent anywhere, no cookies are used, and the page works the same if
-storage is blocked. After changing the page design, rebuild all pages from saved data with
-`./build/minimum_times --rerender` (no network needed).
-
-## Publishing (GitHub Pages alternative)
-
-`docs/` is the website. In the GitHub repo settings choose **Pages -> Deploy from branch -> main
--> /docs**. `.github/workflows/publish-edition.yml` builds, tests, runs the program twice a day
-(add the `NVIDIA_API_KEY` repository secret) and commits the new edition.
-
-Output layout: `docs/index.html` (latest), `docs/archive.html`, `docs/editions/DATE.html`,
-`docs/data/DATE.json`. The page is HTML and CSS: tabs, extreme mode, theme, categories and collapsing are CSS, and the
-only script (`prefs.js`) just remembers the reader's choices. There are no A-/A+ buttons; use the
-browser's zoom.
+Static HTML/CSS. The only script, `docs/prefs.js`, saves the reader's theme, extreme mode, tab
+and categories per tab in the browser's `localStorage`; nothing is sent anywhere.
 
 ## Tuning
 
-Everything tunable is in **`src/config.hpp`**: thresholds, weights, limits, feeds, category
-keyword lists, demote phrases. Change a number, rebuild, rerun.
+All numbers, feeds, category keywords and demote phrases live in `src/config.hpp`. Each run's
+`data/logs/DATE.jsonl` records every candidate event, its score and why it was dropped.
 
-Every run writes `data/logs/DATE.jsonl` with one line per candidate event: its features, score,
-whether it was published and why not ("single_publisher", "below_threshold", "category_full",
-"no_extracted_text", "repeat_of_previous_edition"). That is the raw material for improving the
-grading later (for example by labelling events by hand and fitting a small model on those features).
+## Limits
 
-## Known limits
-
-- Importance is *coverage-based*: a heavily covered celebrity rumour can still outrank something
-  quieter but more important. The keyword lists and demote phrases are blunt, hand-written rules.
-- Extractive fallback summaries read like headlines plus a lead sentence, not polished prose.
-- Google News link decoding and publisher pages can change or block us; failures are logged.
-- A story with only one extractable outlet is never published (by design).
-- The AI path needs a real `NVIDIA_API_KEY` and its parsing is only exercised by live runs.
-
-## Tests
-
-`tests/test_core.cpp` covers the parts that need no network: tokenizing, RSS parsing, link
-decoding, text extraction, clustering, grading, summary checks, rendering (including HTML
-escaping) and repeat detection.
+- Importance is coverage-based, and the keyword rules are blunt.
+- Fallback summaries read like headlines.
+- Google link decoding and publisher sites can break or block us; failures are logged.
+- International sports / science are thin when the feeds have little, and Germany and China have
+  no English Google News edition.
