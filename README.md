@@ -1,6 +1,6 @@
 # Minimum Times (C++)
 
-"The minimum news you need." A daily news digest written in C++ with no JavaScript anywhere:
+"The minimum news you need." A daily news digest written in C++:
 a C++ program reads news feeds, groups articles into events, grades them, summarizes the best
 ones and writes a plain HTML website.
 
