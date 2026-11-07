@@ -1,0 +1,383 @@
+{
+  "date": "2026-11-08",
+  "events": [
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "Israel's president Isaac Herzog tasked opposition leader Gadi Eisenkot with forming a new coalition government after last week's election failed to produce a majority for either his bloc or Prime Minister Benjamin Netanyahu's. In the 120-seat Knesset, Netanyahu's right-wing bloc won 53 seats while Eisenkot's centrist bloc secured 48. Two Arab-led alliances won an unprecedented 19 seats, positioning them as potential kingmakers, though most Jewish parties pledged not to work with them. During consultations, Eisenkot received 67 recommendations for the premiership compared to Netanyahu's 46. The former military chief, who served as chief of staff from 2015 to 2019, now has 28 days to form an administration, with a potential 14-day extension. If successful, he would replace Netanyahu, Israel's longest-serving premier.",
+      "id": "international-politics-1",
+      "micro_summary": "Israel's president tasked Gadi Eisenkot with forming a coalition within 28 days after deadlocked elections.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.875,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo"
+        },
+        {
+          "publisher": "The Times of Israel",
+          "url": "https://www.timesofisrael.com/liveblog-november-07-2026/"
+        }
+      ],
+      "summary": "Israel's president tasked opposition leader Gadi Eisenkot with forming a coalition government after last week's election left neither his bloc nor Prime Minister Netanyahu's with a majority in the 120-seat Knesset. Eisenkot has 28 days to form an administration.",
+      "timestamp": "2026-11-07T21:03:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "President Donald Trump offered the White House press secretary position to Dana White, chief executive of the Ultimate Fighting Championship, in a social media post on Saturday. Trump described White as \"a violent Fighter and Warrior\" and asked him to bring six UFC fighters—Islam Makhachev, Khabib Nurmagomedov, Justin Gaethje, Daniel Cormier, Amanda Nunes, and Kayla Harrison—to serve as press aides, stating, \"We need these people to defend us against the Lunatic Left.\" The position has been vacant since mid-October following Katie Zacharia's departure. White, who staged a cage-fighting event at the White House for Trump's 80th birthday in June, posted a photo behind the press briefing room lectern captioned \"On to the next chapter.\" The government position pays $195,000 annually, while White's fortune from the UFC is estimated at over $600 million. Trump's post included images of the six fighters, with Harrison's last name misspelled as \"Harris.\"",
+      "id": "international-politics-2",
+      "micro_summary": "President Trump offered UFC chief Dana White the White House press secretary job and asked him to bring six fighters.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.844,
+      "sources": [
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo"
+        },
+        {
+          "publisher": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/07/donald-trump-dana-white-press-secretary"
+        }
+      ],
+      "summary": "President Trump offered UFC chief Dana White the White House press secretary position via social media, asking him to bring six fighters including Islam Makhachev and Amanda Nunes to serve as press aides to \"defend us against the Lunatic Left.\"",
+      "timestamp": "2026-11-07T19:06:45Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "science",
+      "extended_summary": "Iran is undertaking significant construction near major missile sites and repairing bases damaged by months of US and Israeli air strikes. Satellite imagery from November shows digging and new buildings at the Garmdareh base near Tehran and the Shahroud base in the north, with repairs visible at at least 12 other military sites including Kermanshah and Parchin. The Islamic Revolutionary Guards Corps announced it has transferred missile and drone production lines to underground facilities, including an \"underground missile city,\" allowing continued weapons production despite bombardment. Analysts suggest excavations at Shahroud may relate to moving production underground to protect it from strikes. The US-Israeli war began on February 28, prompting Iran to close the Strait of Hormuz and triggering a global energy crisis. Recent limited US strikes targeted Qeshm Island while mediation efforts continue.",
+      "id": "international-science-1",
+      "micro_summary": "Iran constructs underground missile facilities and repairs damaged bases after US-Israeli air strikes.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.796,
+      "sources": [
+        {
+          "publisher": "The Times of Israel",
+          "url": "https://www.timesofisrael.com/irgc-says-its-self-imposed-limit-on-ballistic-missile-range-has-been-lifted/"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage"
+        }
+      ],
+      "summary": "Iran is building underground missile complexes and repairing bases damaged by US and Israeli air strikes, with satellite imagery showing new construction at sites including Karaj and Shahroud as the IRGC moves production underground.",
+      "timestamp": "2026-11-07T21:07:46Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "science",
+      "extended_summary": "Ukrainian forces have increasingly deployed unmanned ground vehicles (UGVs) in the war, including a major all-robot assault on or before October 30 near Druzheliubivka in Kharkiv Oblast, where the 3rd Assault Brigade sent 28 UGVs—eight self-exploding and twenty armed with grenade launchers—across the gray zone, though Russian FPV drones reportedly defeated the attack. Separately, Ukraine's military intelligence tested a flamethrower-equipped ground robot with the Bratstvo unit of the Timur Special Unit on November 4, though technical details remain undisclosed. These developments reflect Kyiv's push to field thousands of UGVs, with former defense minister Mykhailo Fedorov claiming Ukraine would acquire 25,000 in the first half of 2026. Other armed UGVs, such as the DevDroid Droid TW-12.7, have reportedly killed 20 Russian troops in a single remotely conducted assault.",
+      "id": "international-science-2",
+      "micro_summary": "Ukrainian forces deployed 28 unmanned ground vehicles in an assault and tested a flamethrower robot.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.624,
+      "sources": [
+        {
+          "publisher": "Euromaidan Press",
+          "url": "https://euromaidanpress.com/2026/11/06/28-ugv-assault/"
+        },
+        {
+          "publisher": "UNITED24 Media",
+          "url": "https://united24media.com/war-in-ukraine/ukraine-just-added-one-more-trick-to-its-ground-robots-and-russian-infantry-wont-like-it-24099"
+        },
+        {
+          "publisher": "Ukrinform",
+          "url": "https://www.ukrinform.net/rubric-ato/4182313-ground-robotic-systems-complete-record-31398-logistics-and-evacuation-missions-in-october.html"
+        }
+      ],
+      "summary": "Ukraine's 3rd Assault Brigade sent 28 unmanned ground vehicles into an assault near Druzheliubivka, while military intelligence tested a flamethrower-equipped robot, expanding Kyiv's robotic arsenal.",
+      "timestamp": "2026-11-06T19:26:56Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "Texas defeated Missouri 34-20 in a college football game at Faurot Field in Columbia, Missouri, on Saturday, November 7, 2026. The No. 7 Longhorns faced the Tigers in a contest marked by controversial officiating, including a third-quarter play where Texas quarterback Arch Manning was ruled to have fumbled despite his arm moving forward, a call that stood after review and led to a touchdown two plays later that tied the game at 20-20. Missouri head coach Eli Drinkwitz addressed the media following the loss. Missouri running back Ahmad Hardy played in his first game since being shot by a stray bullet at a concert in Mississippi in May. Missouri players including Naseshaun Montgomery scored touchdowns during the first half, but Texas ultimately secured the victory with a final score of 34-20.",
+      "id": "international-sports-1",
+      "micro_summary": "Texas defeated Missouri 34-20 in a college football game at Faurot Field on November 7, 2026.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.879,
+      "sources": [
+        {
+          "publisher": "ESPN",
+          "url": "https://www.espn.com/college-football/story/_/id/50411883/arch-manning-defense-help-no-7-texas-rally-missouri"
+        },
+        {
+          "publisher": "STLtoday.com",
+          "url": "https://www.stltoday.com/sports/college/mizzou/article_111e4785-6ec6-4c1a-b820-68461b6dd478.html"
+        },
+        {
+          "publisher": "Fox News",
+          "url": "https://www.foxnews.com/outkick-sports/arch-manning-texas-escape-missouri-wild-officiating-controversy-sends-sec-showdown-chaos"
+        }
+      ],
+      "summary": "Texas defeated Missouri 34-20 at Faurot Field in Columbia on November 7, 2026, with a controversial fumble call on Arch Manning preceding a touchdown that tied the game 20-20 in the third quarter.",
+      "timestamp": "2026-11-07T21:06:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "Usman Khawaja has claimed in his new book Sabr that the entire Australian cricket team was aware of the 2018 Cape Town ball-tampering scandal, contradicting Cricket Australia's official findings. While the governing body concluded that only David Warner, Steve Smith and Cameron Bancroft had prior knowledge and suspended them, Khawaja insists \"It was all of us. Not the batters, not the bowlers, not the staff. All of us.\" He alleges sandpaper was first used during the second Test in Port Elizabeth, now Gqeberha, before the infamous third Test in Cape Town, and points to staff involvement during the Newlands Test. Khawaja also reveals he urged the dressing room to take collective responsibility after the incident, but blame fell entirely on the three players. Cricket Australia has defended its integrity process, stating it remains \"comfortable\" with its findings that all relevant information was properly considered.",
+      "id": "international-sports-2",
+      "micro_summary": "Usman Khawaja claims the entire Australian cricket team knew about the 2018 sandpaper scandal.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.872,
+      "sources": [
+        {
+          "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "url": "https://www.abc.net.au/news/2026-11-08/cameron-bancroft-backed-to-keep-calm-after-sandpaper-revel/107360442"
+        },
+        {
+          "publisher": "News.com.au",
+          "url": "https://www.news.com.au/sport/cricket/usman-khawaja-exposes-sandpapergate-lie-to-reveal-truth-about-the-scandal/news-story/5d19e8c7aac9f764b73a727f5f551450"
+        },
+        {
+          "publisher": "Nine.com.au",
+          "url": "https://www.nine.com.au/sport/cricket/news-usman-khawaja-book-sandpaper-details-australia-south-africa-cameron-bancroft-steve-smith-david-warner-20261107-p61c6y.html"
+        }
+      ],
+      "summary": "Usman Khawaja claims in his new book that the entire Australian team knew about the 2018 Cape Town ball-tampering scandal, contradicting Cricket Australia's findings that only three players were involved.",
+      "timestamp": "2026-11-07T20:10:51Z"
+    },
+    {
+      "ai": true,
+      "articles": 9,
+      "category": "sports",
+      "extended_summary": "Lando Norris secured pole position for McLaren at the Brazilian Grand Prix at Interlagos, setting a 1m27.470s lap on intermediate tyres in a wet session red-flagged for over an hour due to heavy rain and standing water. The qualifying took two and a half hours to complete. George Russell finished second on track, two tenths behind Norris, but carries a five-place grid penalty for a power unit change. Kimi Antonelli qualified third, six tenths adrift, and is promoted to second on the grid, while Liam Lawson moves from fifth to third. Charles Leclerc qualified fourth but drops to 14th with a ten-place engine penalty. Max Verstappen, classified 16th after not setting a Q2 time, and Lewis Hamilton, eliminated in Q2, start 21st and 20th respectively with power unit penalties. Mercedes can clinch the constructors' championship by outscoring Ferrari by three points.",
+      "id": "international-sports-3",
+      "micro_summary": "Lando Norris claimed pole position at the Brazilian Grand Prix with a 1m27.470s lap in wet qualifying.",
+      "publishers": 7,
+      "scope": "international",
+      "score": 0.866,
+      "sources": [
+        {
+          "publisher": "Autosport",
+          "url": "https://www.autosport.com/f1/news/f1-brazilian-gp-lando-norris-takes-pole-in-soaking-wet-qualifying/10872710/"
+        },
+        {
+          "publisher": "Formula 1",
+          "url": "https://www.formula1.com/en/latest/article/norris-beats-russell-to-pole-position-in-dramatic-rain-affected-sao-paolo-qualifying.2V60rhlQjdS5my1uFrOKUH"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/sport/2026/nov/07/lando-norris-claims-pole-for-f1-sao-paulo-gp-as-rain-disrupts-qualifying"
+        },
+        {
+          "publisher": "Crash.net",
+          "url": "https://www.crash.net/f1/results/1109817/1/f1-brazil-grand-prix-full-qualifying-results"
+        }
+      ],
+      "summary": "Lando Norris took pole position for McLaren at the rain-soaked Brazilian Grand Prix with a 1m27.470s lap, beating George Russell by two tenths. Grid penalties promote Kimi Antonelli to second and Liam Lawson to third.",
+      "timestamp": "2026-11-07T20:33:58Z"
+    },
+    {
+      "ai": true,
+      "articles": 10,
+      "category": "sports",
+      "extended_summary": "Lewis Hamilton and Max Verstappen will start at the back of the Sao Paulo Grand Prix grid at Interlagos due to engine penalties. Verstappen's back-of-the-grid start was confirmed after changing multiple engine parts ahead of final practice. Hamilton initially faced a 10-place drop for taking a fifth international combustion engine, but after his new engine emitted smoke during final practice and completed only seven laps, Ferrari replaced the entire power unit, triggering a back-of-the-grid start. Charles Leclerc retains a 10-place grid penalty for his fifth ICE, while George Russell drops five places for a new engine as it is the second time his car has breached the season's ICE limits.",
+      "id": "international-sports-4",
+      "micro_summary": "Lewis Hamilton and Max Verstappen start at the back of the Sao Paulo Grand Prix grid due to engine penalties.",
+      "publishers": 7,
+      "scope": "international",
+      "score": 0.861,
+      "sources": [
+        {
+          "publisher": "Formula 1",
+          "url": "https://www.formula1.com/en/latest/article/hamilton-leclerc-and-verstappen-set-for-sao-paulo-grand-prix-penalties-after-power-unit-changes.7B5CuFFCN1F6Txc8YwcEhd"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/c574p28devp4o"
+        },
+        {
+          "publisher": "Motorsport.com",
+          "url": "https://www.motorsport.com/f1/news/lewis-hamilton-and-max-verstappen-warn-of-difficult-brazilian-gp-comebacks/10872784/"
+        },
+        {
+          "publisher": "Sky Sports",
+          "url": "https://www.skysports.com/f1/news/13609202/sao-paulo-gp-grid-penalties-lewis-hamilton-max-verstappen-charles-leclerc-to-drop-down-interlagos-grid"
+        },
+        {
+          "publisher": "RacingNews365",
+          "url": "https://racingnews365.com/lewis-hamilton-handed-further-power-unit-punishment-ahead-of-sao-paulo-gp"
+        }
+      ],
+      "summary": "Lewis Hamilton and Max Verstappen will start at the back of the Sao Paulo Grand Prix grid due to engine penalties, while Charles Leclerc drops 10 places and George Russell five places at Interlagos.",
+      "timestamp": "2026-11-07T17:28:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "On Saturday at about 3pm, a 25-year-old Polish man drove onto Krakow's Main Market Square and opened fire with an automatic weapon, killing six people—four women and two men, including one British citizen—and wounding 16 others, among them two police officers and five foreign nationals. The gunman, who acted alone and wore military-style attire, was fascinated by far-right ideologies and held ultra-nationalistic views. Police shot and detained him; he was hospitalized for injuries, with one officer in critical condition. Later, three additional bodies were found at the suspect's home. Poland's defense minister called the attack an act of terror, while the prime minister praised the police response and the president expressed condolences to victims' families.",
+      "id": "international-tragedies-1",
+      "micro_summary": "A gunman killed six people and wounded 16 others in a shooting at Krakow's Main Market Square on Saturday.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.877,
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman"
+        },
+        {
+          "publisher": "Sky News",
+          "url": "https://news.sky.com/story/poland-shooting-latest-at-least-three-killed-in-shooting-in-polish-city-of-krakow-police-say-13608720"
+        }
+      ],
+      "summary": "A gunman opened fire in Krakow's Main Market Square on Saturday, killing six and wounding 16, including police and foreigners. The 25-year-old Polish suspect, influenced by far-right ideology, was shot and detained by police.",
+      "timestamp": "2026-11-07T20:48:45Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "A relative discovered the body of a baby inside a freezer in the basement of a home in Allariz, Galicia. The Civil Guard launched an investigation after the remains were found on Monday by a relative of the deceased woman who owned the appliance. Authorities from Ourense are investigating, and the body was transferred the same day for forensic examination. The remains are those of a foetus of just over 32 weeks gestation thought to have breathed. Experts are determining whether the death occurred during childbirth or was a miscarriage, and pathologists are establishing when the baby died, possibly as long ago as two decades. Police are taking statements from family and neighbours, and DNA samples from close relatives are being analysed to determine any biological link. The investigation ordered by the Ourense courts remains ongoing.",
+      "id": "international-tragedies-2",
+      "micro_summary": "A dead foetus over 32 weeks gestation was found in a freezer in Allariz, Galicia.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.844,
+      "sources": [
+        {
+          "publisher": "Birmingham Live",
+          "url": "https://www.birminghammail.co.uk/news/world-news/woman-finds-dead-baby-late-34879236"
+        },
+        {
+          "publisher": "The Mirror",
+          "url": "https://www.mirror.co.uk/news/world-news/babys-body-found-inside-freezer-37854486"
+        },
+        {
+          "publisher": "Wales Online",
+          "url": "https://www.walesonline.co.uk/news/uk-news/baby-found-freezer-basement-apartment-34879286"
+        }
+      ],
+      "summary": "A relative discovered a dead baby in a freezer in the basement of a home in Allariz, Galicia. The Civil Guard launched an investigation after the remains of a foetus over 32 weeks gestation were found on Monday.",
+      "timestamp": "2026-11-07T18:34:44Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "Heavy rain and strong winds swept through Gaza, flooding tens of thousands of tents where displaced Palestinians live. In al-Mina camp, home to about 1,700 families, water rose 30 to 40cm, soaking bedding and clothes and leaving children shivering in the cold. Families in the camp have been awake since midnight as rainwater seeped into shelters, with some tents collapsing on top of occupants. In Nuseirat, rainfall threatens families in buildings damaged by bombardments. The Hamas-run government reported about 70,000 tents flooded and dozens of cracked walls and roofs collapsing, causing injuries including critical ones. Ninety percent of Gaza residents have been displaced by the war, many multiple times, with limited access to clean water. Aid agencies warn the situation will worsen with the rainy season, noting shortages of tarpaulins and tents due to restrictions and budget cuts, and fear deaths from hypothermia like last year.",
+      "id": "international-tragedies-3",
+      "micro_summary": "Heavy rains flooded 70,000 tents in Gaza, leaving displaced families exposed to cold and wet conditions.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.816,
+      "sources": [
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cx240e5py64jo"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/2026/11/7/buildings-damaged-in-israel-bombing-at-risk-of-collapse-as-rain-floods-gaza"
+        },
+        {
+          "publisher": "Channel 4",
+          "url": "https://www.channel4.com/news/gaza-flooding-heavy-rain-hits-thousands-of-tents-sheltering-displaced-palestinians"
+        }
+      ],
+      "summary": "Heavy rain and strong winds flooded tens of thousands of tents across Gaza, soaking bedding and clothes of displaced families and causing some tents to collapse, with water levels rising 30 to 40cm in camps.",
+      "timestamp": "2026-11-07T16:25:55Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "entertainment",
+      "extended_summary": "Vinod Kapri's 111-minute film Pyre, which took two years to reach cinemas after winning 18 international awards, is wowing critics and audiences across India. The film depicts the tender love and quiet loneliness of elderly couple Padam Singh and Tulsi, known locally as Bubu and Aama, who live in a remote Uttarakhand village without roads or electricity. Married for 65 years, they have waited 28 years for their son Hariya, who left for Mumbai, to return. The narrative explores outmigration that has emptied Himalayan hamlets into ghost villages and the impact of climate change. The lead actors are villagers who had never acted before, including Kapri's uncle Padam Singh and Heera Devi, whose performances have earned praise from Naseeruddin Shah and Anupam Kher. Social media shows audiences leaving theatres in tears.",
+      "id": "national-entertainment-2",
+      "micro_summary": "Vinod Kapri's 111-minute film Pyre is wowing critics and audiences across India after two years.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.595,
+      "sources": [
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.com/news/articles/c6ly334rem5do"
+        },
+        {
+          "publisher": "Ratopati",
+          "url": "https://english.ratopati.com/story/85970/the-indian-film-that-no-one-wanted-to-release-finally-became-a-hit"
+        }
+      ],
+      "summary": "Vinod Kapri's 111-minute film Pyre, depicting an elderly couple's love and loneliness in Uttarakhand, is winning acclaim across India after two years and 18 international awards, with villagers as lead actors praised by Bollywood figures.",
+      "timestamp": "2026-11-07T14:33:32Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "politics",
+      "extended_summary": "The Delhi High Court ordered the immediate removal of six AI-generated social media posts and videos portraying Chief Minister Rekha Gupta as a liquor vendor, hawker and delivery agent. Justice Manoj Jain granted interim relief in Gupta's defamation suit against the Aam Aadmi Party and others, covering five posts on X and one on Facebook. The court ruled that while public office invites scrutiny, political satire cannot be used to compromise an individual's dignity. The material allegedly depicted Gupta as head of a purported 'Har Har Rekha or Ghar Ghar Theka' scheme, with one video showing her and Deputy Chief Minister Parvesh Sahib Singh pouring liquor and ice cubes. The court directed platforms to remove the six URLs immediately, issued summons to the defendants, and asked them to file written statements within 30 days, with the matter scheduled for further consideration on December 4.",
+      "id": "national-politics-1",
+      "micro_summary": "Delhi High Court orders removal of six AI-generated posts portraying Chief Minister Rekha Gupta as a liquor vendor.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.556,
+      "sources": [
+        {
+          "publisher": "India Today",
+          "url": "https://www.indiatoday.in/amp/india/law-news/story/delhi-high-court-orders-rekha-gupta-ai-posts-removed-3034653-2026-11-07"
+        },
+        {
+          "publisher": "www.nationpathindia.com",
+          "url": "https://www.nationpathindia.com/politics/delhi-high-court-ai-posts-rekha-gupta-removal"
+        }
+      ],
+      "summary": "The Delhi High Court ordered the removal of six AI-generated social media posts portraying Chief Minister Rekha Gupta as a liquor vendor, granting interim relief in her defamation suit against the Aam Aadmi Party.",
+      "timestamp": "2026-11-07T18:33:53Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "tragedies",
+      "extended_summary": "A fire broke out on a high floor of a 32-storey residential building in the Lokhandwala area of Andheri West, Mumbai, on Saturday night. The fire brigade received a call about the blaze at 9:50 pm; the fire was on the 15th or 17th floor of Runwal Tower. Four fire engines and other equipment were immediately deployed to the spot to douse the flames. Firefighters managed to bring the fire completely under control and subsequently undertook cooling operations at the site. No casualties or injuries have been reported so far. The cause of the fire is yet to be ascertained by officials.",
+      "id": "national-tragedies-3",
+      "micro_summary": "Fire broke out in 32-storey Mumbai residential tower; no injuries reported and blaze brought under control.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.583,
+      "sources": [
+        {
+          "publisher": "ThePrint",
+          "url": "https://theprint.in/india/fire-breaks-out-on-15th-floor-of-highrise-in-mumbais-lokhandwala-area-no-report-of-injuries/3093404/?amp"
+        },
+        {
+          "publisher": "www.indiagazette.com",
+          "url": "https://www.indiagazette.com/news/279418867/maharashtra-fire-breaks-out-on-17th-floor-of-32-storey-in-mumbai-lokhandwala"
+        }
+      ],
+      "summary": "A fire broke out on the 15th or 17th floor of a 32-storey residential building in Mumbai's Andheri West on Saturday night; four fire engines were deployed, the blaze was doused, and no injuries were reported.",
+      "timestamp": "2026-11-07T17:27:00Z"
+    }
+  ]
+}
