@@ -1,0 +1,75 @@
+name: Publish daily edition
+
+on:
+  schedule:
+    - cron: "30 9 * * *"    # 3:00 PM IST
+    - cron: "45 18 * * *"   # 12:15 AM IST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Never run two editions at once: they both write to docs/ and push.
+concurrency:
+  group: publish-edition
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    env:
+      NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}   # optional: without it summaries are extractive
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install build dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y cmake ninja-build pkg-config \
+            libcurl4-openssl-dev nlohmann-json3-dev libpugixml-dev libgumbo-dev
+
+      - name: Build and test
+        run: |
+          cmake -S . -B build -G Ninja -DCMAKE_BUILD_TYPE=Release
+          cmake --build build
+          ctest --test-dir build --output-on-failure
+
+      - name: Generate edition (with retries)
+        shell: bash
+        run: |
+          delayed_retry_used=false
+          for attempt in 1 2 3 4 5; do
+            echo "Edition generation attempt $attempt/5"
+            set +e
+            ./build/minimum_times --out docs --log-dir data/logs
+            status=$?
+            set -e
+
+            if [ "$status" -eq 0 ]; then exit 0; fi
+
+            if [ "$attempt" -lt 5 ]; then
+              if [ "$status" -eq 75 ] && [ "$delayed_retry_used" = false ]; then
+                delay=1200
+                delayed_retry_used=true
+                echo "Every feed returned HTTP 503; retrying in 20 minutes"
+              else
+                delay=$((attempt * 30))
+                echo "Attempt failed; retrying in ${delay}s"
+              fi
+              sleep "$delay"
+            fi
+          done
+          echo "Edition generation failed after 5 attempts"
+          exit 1
+
+      - name: Commit the new edition
+        run: |
+          git config user.name "minimum-times-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs data/logs
+          if git diff --staged --quiet; then
+            echo "Nothing changed"
+          else
+            git commit -m "Edition $(date -u +%F)"
+            git push
+          fi

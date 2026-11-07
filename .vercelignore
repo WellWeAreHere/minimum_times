@@ -1,0 +1,8 @@
+# Only docs/ is deployed. Never upload secrets or build files if someone deploys from this folder.
+.env
+.env.local
+.env.*
+/build/
+/src/
+/tests/
+/data/

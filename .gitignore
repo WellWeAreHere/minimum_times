@@ -1,0 +1,6 @@
+build/
+*.o
+*.exe
+.vscode/
+.env
+.env.local

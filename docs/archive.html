@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Minimum Times — Archive</title><style>
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;font:16px/1.5 Georgia,'Times New Roman',serif;background:#000}
+.ctl{position:absolute;opacity:0;pointer-events:none}
+.page{--bg:#000;--fg:#fff;--muted:#9a9a9a;--line:#333;--panel:#111;
+  background:var(--bg);color:var(--fg);min-height:100vh}
+@media (prefers-color-scheme:light){
+  .page{--bg:#fff;--fg:#111;--muted:#666;--line:#ddd;--panel:#f6f6f6}}
+#flip:checked ~ .page{--bg:#fff;--fg:#111;--muted:#666;--line:#ddd;--panel:#f6f6f6}
+@media (prefers-color-scheme:light){
+  #flip:checked ~ .page{--bg:#000;--fg:#fff;--muted:#9a9a9a;--line:#333;--panel:#111}}
+.wrap{max-width:56rem;margin:0 auto;padding:2rem 1rem 3rem}
+h1{font-size:2.4rem;letter-spacing:-.02em;margin:0 0 .25rem}
+.tag{color:var(--muted);margin:0}
+.date{color:var(--muted);font:12px/1.4 system-ui,sans-serif;text-transform:uppercase;letter-spacing:.08em;margin:.5rem 0 0}
+.top{display:flex;flex-wrap:wrap;gap:1rem;justify-content:space-between;align-items:flex-end;margin-bottom:2.5rem}
+.btns{display:flex;flex-wrap:wrap;gap:.5rem}
+.btn,.tab,.catmenu summary{font:600 13px/1 system-ui,sans-serif;border:1px solid var(--line);
+  color:var(--muted);padding:.8rem 1rem;min-height:44px;display:inline-flex;align-items:center;
+  cursor:pointer;background:transparent;text-decoration:none;user-select:none;list-style:none}
+.btn:hover,.tab:hover,.catmenu summary:hover{border-color:var(--muted)}
+.catmenu summary::-webkit-details-marker{display:none}
+.bar{display:flex;flex-wrap:wrap;gap:.5rem;align-items:flex-start;margin-bottom:2rem}
+.catmenu{position:relative}
+.menu{position:absolute;z-index:5;left:0;top:calc(100% + .4rem);width:18rem;background:var(--bg);
+  border:1px solid var(--line);padding:1rem;display:grid;gap:.4rem;box-shadow:0 6px 20px rgba(0,0,0,.35)}
+.menu label{font:14px/1.2 system-ui,sans-serif;padding:.6rem .2rem;cursor:pointer;color:var(--fg)}
+h2{font-size:1.5rem;border-bottom:1px solid var(--line);padding-bottom:.6rem;margin:0 0 1.5rem}
+.cat{margin-bottom:2rem}
+.cat>details>summary{font-weight:700;font-size:1.2rem;border-bottom:1px solid var(--line);
+  padding:.4rem 0 .7rem;cursor:pointer;list-style:none;display:flex;justify-content:space-between}
+.cat>details>summary::-webkit-details-marker{display:none}
+.cat>details>summary::after{content:"\2212"}
+.cat>details:not([open])>summary::after{content:"+"}
+.none{color:var(--muted);padding:1rem 0;margin:0}
+.event{border-bottom:1px solid var(--line)}
+.event>summary{padding:1rem 0;cursor:pointer;list-style:none}
+.event>summary::-webkit-details-marker{display:none}
+.event>summary:hover{background:var(--panel)}
+.line{font-size:1.15rem;line-height:1.35;display:block}
+.meta{display:block;font:12px/1.4 system-ui,sans-serif;color:var(--muted);margin-top:.4rem}
+.more{background:var(--panel);padding:1.25rem 1rem;margin-bottom:.25rem}
+.label{font:600 11px/1.2 system-ui,sans-serif;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin:0 0 .6rem}
+.more p.body{margin:0;line-height:1.75}
+.src{margin:1rem 0 0;padding:1rem 0 0 1.1rem;border-top:1px solid var(--line);font:14px/1.9 system-ui,sans-serif}
+.src a{color:var(--fg)}
+footer{border-top:1px solid var(--line);padding-top:1.25rem;font:14px/1.5 system-ui,sans-serif;color:var(--muted);margin-top:3rem}
+footer a{color:var(--fg)}
+.archive a{color:var(--fg)}
+.archive li{padding:.4rem 0}
+.scope{display:block}
+#sc-national:checked ~ .page #scope-international{display:none}
+#sc-international:checked ~ .page #scope-national{display:none}
+#extreme:checked ~ .page .normal{display:none}
+#extreme:not(:checked) ~ .page .micro{display:none}
+#sc-national:checked ~ .page label[for=sc-national],
+#sc-international:checked ~ .page label[for=sc-international],
+#extreme:checked ~ .page label[for=extreme]{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+.menu label::before{content:"\2610\00a0\00a0"}
+#sc-national:checked ~ .page .menu-international{display:none}
+#sc-international:checked ~ .page .menu-national{display:none}
+#cat-national-politics:not(:checked) ~ .page #scope-national .sec-politics{display:none}
+#cat-national-politics:checked ~ .page label[for=cat-national-politics]::before{content:"\2611\00a0\00a0"}
+#cat-national-politics:focus-visible ~ .page label[for=cat-national-politics]{outline:2px solid var(--fg)}
+#cat-national-sports:not(:checked) ~ .page #scope-national .sec-sports{display:none}
+#cat-national-sports:checked ~ .page label[for=cat-national-sports]::before{content:"\2611\00a0\00a0"}
+#cat-national-sports:focus-visible ~ .page label[for=cat-national-sports]{outline:2px solid var(--fg)}
+#cat-national-business:not(:checked) ~ .page #scope-national .sec-business{display:none}
+#cat-national-business:checked ~ .page label[for=cat-national-business]::before{content:"\2611\00a0\00a0"}
+#cat-national-business:focus-visible ~ .page label[for=cat-national-business]{outline:2px solid var(--fg)}
+#cat-national-science:not(:checked) ~ .page #scope-national .sec-science{display:none}
+#cat-national-science:checked ~ .page label[for=cat-national-science]::before{content:"\2611\00a0\00a0"}
+#cat-national-science:focus-visible ~ .page label[for=cat-national-science]{outline:2px solid var(--fg)}
+#cat-national-entertainment:not(:checked) ~ .page #scope-national .sec-entertainment{display:none}
+#cat-national-entertainment:checked ~ .page label[for=cat-national-entertainment]::before{content:"\2611\00a0\00a0"}
+#cat-national-entertainment:focus-visible ~ .page label[for=cat-national-entertainment]{outline:2px solid var(--fg)}
+#cat-national-tragedies:not(:checked) ~ .page #scope-national .sec-tragedies{display:none}
+#cat-national-tragedies:checked ~ .page label[for=cat-national-tragedies]::before{content:"\2611\00a0\00a0"}
+#cat-national-tragedies:focus-visible ~ .page label[for=cat-national-tragedies]{outline:2px solid var(--fg)}
+#cat-international-politics:not(:checked) ~ .page #scope-international .sec-politics{display:none}
+#cat-international-politics:checked ~ .page label[for=cat-international-politics]::before{content:"\2611\00a0\00a0"}
+#cat-international-politics:focus-visible ~ .page label[for=cat-international-politics]{outline:2px solid var(--fg)}
+#cat-international-sports:not(:checked) ~ .page #scope-international .sec-sports{display:none}
+#cat-international-sports:checked ~ .page label[for=cat-international-sports]::before{content:"\2611\00a0\00a0"}
+#cat-international-sports:focus-visible ~ .page label[for=cat-international-sports]{outline:2px solid var(--fg)}
+#cat-international-business:not(:checked) ~ .page #scope-international .sec-business{display:none}
+#cat-international-business:checked ~ .page label[for=cat-international-business]::before{content:"\2611\00a0\00a0"}
+#cat-international-business:focus-visible ~ .page label[for=cat-international-business]{outline:2px solid var(--fg)}
+#cat-international-science:not(:checked) ~ .page #scope-international .sec-science{display:none}
+#cat-international-science:checked ~ .page label[for=cat-international-science]::before{content:"\2611\00a0\00a0"}
+#cat-international-science:focus-visible ~ .page label[for=cat-international-science]{outline:2px solid var(--fg)}
+#cat-international-entertainment:not(:checked) ~ .page #scope-international .sec-entertainment{display:none}
+#cat-international-entertainment:checked ~ .page label[for=cat-international-entertainment]::before{content:"\2611\00a0\00a0"}
+#cat-international-entertainment:focus-visible ~ .page label[for=cat-international-entertainment]{outline:2px solid var(--fg)}
+#cat-international-tragedies:not(:checked) ~ .page #scope-international .sec-tragedies{display:none}
+#cat-international-tragedies:checked ~ .page label[for=cat-international-tragedies]::before{content:"\2611\00a0\00a0"}
+#cat-international-tragedies:focus-visible ~ .page label[for=cat-international-tragedies]{outline:2px solid var(--fg)}
+#sc-national:focus-visible ~ .page label[for=sc-national]{outline:2px solid var(--fg);outline-offset:2px}
+#sc-international:focus-visible ~ .page label[for=sc-international]{outline:2px solid var(--fg);outline-offset:2px}
+#extreme:focus-visible ~ .page label[for=extreme]{outline:2px solid var(--fg);outline-offset:2px}
+#flip:focus-visible ~ .page label[for=flip]{outline:2px solid var(--fg);outline-offset:2px}
+</style></head>
+<body><div class="page"><div class="wrap"><header class="top"><div><h1>MINIMUM TIMES</h1><p class="tag">Past editions</p></div><div class="btns"><a class="btn" href="index.html">LATEST</a></div></header>
+<ul class="archive"><li><a href="editions/2026-11-07.html">Saturday, 7 November 2026</a></li></ul></div></div></body></html>
