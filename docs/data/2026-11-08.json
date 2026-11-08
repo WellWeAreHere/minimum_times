@@ -4,380 +4,712 @@
     {
       "ai": true,
       "articles": 5,
-      "category": "politics",
-      "extended_summary": "Israel's president Isaac Herzog tasked opposition leader Gadi Eisenkot with forming a new coalition government after last week's election failed to produce a majority for either his bloc or Prime Minister Benjamin Netanyahu's. In the 120-seat Knesset, Netanyahu's right-wing bloc won 53 seats while Eisenkot's centrist bloc secured 48. Two Arab-led alliances won an unprecedented 19 seats, positioning them as potential kingmakers, though most Jewish parties pledged not to work with them. During consultations, Eisenkot received 67 recommendations for the premiership compared to Netanyahu's 46. The former military chief, who served as chief of staff from 2015 to 2019, now has 28 days to form an administration, with a potential 14-day extension. If successful, he would replace Netanyahu, Israel's longest-serving premier.",
-      "id": "international-politics-1",
-      "micro_summary": "Israel's president tasked Gadi Eisenkot with forming a coalition within 28 days after deadlocked elections.",
+      "category": "business",
+      "extended_summary": "A Houthi missile struck the Al-Aqiq commercial tower housing Aramco offices in Riyadh's King Abdullah Financial District, causing structural damage to upper floors. Saudi-led coalition forces intercepted and destroyed two ballistic missiles fired toward the capital. The Houthis claimed responsibility for six military operations targeting Aramco facilities and King Khalid International Airport. The building sustained minor damage from falling shrapnel with no injuries, though witnesses saw ambulances heading to the area. The attack marks an escalation in the war between Saudi Arabia and the Iran-backed Houthis. The Houthis are thought to have demanded $51 billion from Saudi Arabia to end the war, a claim denied by the kingdom. Recent weeks have seen attacks on Riyadh airport, including one that killed 13 people last month.",
+      "id": "international-business-1",
+      "micro_summary": "A Houthi missile struck an Aramco building in Riyadh's financial district while Saudi forces intercepted two ballistic missiles.",
       "publishers": 5,
       "scope": "international",
-      "score": 0.875,
+      "score": 0.789,
       "sources": [
         {
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government"
+          "publisher": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/world-news/2026/11/08/houthi-missile-smashes-saudi-skyscraper/"
+        },
+        {
+          "publisher": "CNN",
+          "url": "https://www.cnn.com/2026/11/08/middleeast/saudi-arabia-riyadh-missile-financial-intl"
+        },
+        {
+          "publisher": "WSJ",
+          "url": "https://www.wsj.com/world/middle-east/iconic-saudi-tower-hit-as-yemens-houthis-target-riyadh-889ae71f"
+        }
+      ],
+      "summary": "A Houthi missile struck an Aramco building in Riyadh's King Abdullah Financial District, damaging the Al-Aqiq tower, while Saudi air defenses intercepted two ballistic missiles. The Houthis claimed responsibility for multiple attacks on Saudi targets.",
+      "timestamp": "2026-11-08T10:18:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "President Isaac Herzog selected former military chief Gadi Eisenkot to form a new government after Prime Minister Benjamin Netanyahu's ruling coalition lost its parliamentary majority in the October elections. Eisenkot, leader of the Yashar party, has 28 days to cobble together a coalition and may seek a 14-day extension. Neither Eisenkot nor Netanyahu commands the 61-seat majority required in Israel's 120-member Knesset. Eisenkot's potential coalition includes his Yashar party, the centre-left Democrats, Naftali Bennett's Together party and Avigdor Lieberman's Yisrael Beiteinu, totaling 48 seats. Arab-led parties Ra'am and the Joint List, holding 19 seats, have endorsed Eisenkot, which would give the anti-Netanyahu camp 67 seats, but Eisenkot has ruled out including Arab parties in his government while Lieberman rejects relying on their support for a minority administration.",
+      "id": "international-politics-1",
+      "micro_summary": "Gadi Eisenkot has 28 days to form a government after Netanyahu lost his parliamentary majority.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.854,
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/8/will-eisenkot-be-able-to-form-israels-next-govt-amid-divided-opposition"
         },
         {
           "publisher": "BBC",
           "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo"
         },
         {
-          "publisher": "The Times of Israel",
-          "url": "https://www.timesofisrael.com/liveblog-november-07-2026/"
+          "publisher": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/world-news/2026/11/08/four-reasons-why-ousting-netanyahu-could-get-ugly/"
         }
       ],
-      "summary": "Israel's president tasked opposition leader Gadi Eisenkot with forming a coalition government after last week's election left neither his bloc nor Prime Minister Netanyahu's with a majority in the 120-seat Knesset. Eisenkot has 28 days to form an administration.",
-      "timestamp": "2026-11-07T21:03:00Z"
+      "summary": "President Isaac Herzog tasked opposition leader Gadi Eisenkot with forming a new government after Prime Minister Benjamin Netanyahu's coalition lost its majority. Eisenkot has 28 days to assemble a coalition in the 120-seat Knesset where no party holds 61 seats.",
+      "timestamp": "2026-11-08T13:26:05Z"
     },
     {
       "ai": true,
       "articles": 5,
       "category": "politics",
-      "extended_summary": "President Donald Trump offered the White House press secretary position to Dana White, chief executive of the Ultimate Fighting Championship, in a social media post on Saturday. Trump described White as \"a violent Fighter and Warrior\" and asked him to bring six UFC fighters—Islam Makhachev, Khabib Nurmagomedov, Justin Gaethje, Daniel Cormier, Amanda Nunes, and Kayla Harrison—to serve as press aides, stating, \"We need these people to defend us against the Lunatic Left.\" The position has been vacant since mid-October following Katie Zacharia's departure. White, who staged a cage-fighting event at the White House for Trump's 80th birthday in June, posted a photo behind the press briefing room lectern captioned \"On to the next chapter.\" The government position pays $195,000 annually, while White's fortune from the UFC is estimated at over $600 million. Trump's post included images of the six fighters, with Harrison's last name misspelled as \"Harris.\"",
+      "extended_summary": "New Zealand voters face weeks of uncertainty after a knife-edge election left Prime Minister Christopher Luxon's conservative National-led coalition with a paper-thin majority. Preliminary results show the right-wing coalition holding 67 seats in an expanded 131-seat parliament, while the opposition bloc of Labour, the Greens and Te Pāti Māori is projected to have 57 seats. Nearly 400,000 special votes, including those from overseas voters, remain uncounted, meaning final tally could shift the balance of power. The Electoral Commission will deliver official results on November 27, after which coalition negotiations could extend for weeks. The result reflects voter discontent, with the two major parties recording their lowest combined party vote ever at 58%, as swing voters shifted to minor parties. The centrist Opportunity party crossed the 5% threshold to enter parliament for the first time in three decades and may become a kingmaker if the coalition falls short of a majority.",
       "id": "international-politics-2",
-      "micro_summary": "President Trump offered UFC chief Dana White the White House press secretary job and asked him to bring six fighters.",
+      "micro_summary": "New Zealand election leaves conservative coalition with 67 seats and razor-thin majority pending final count on November 27.",
       "publishers": 5,
       "scope": "international",
-      "score": 0.844,
+      "score": 0.853,
       "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/08/nz-election-2026-national-labour-rejection-by-voters"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o"
+        },
+        {
+          "publisher": "CNN",
+          "url": "https://www.cnn.com/2026/11/07/world/new-zealand-election-result-uncertain-intl-hnk"
+        }
+      ],
+      "summary": "New Zealand's election left Prime Minister Christopher Luxon's National-led coalition with a paper-thin 67-seat majority in the 131-seat parliament, while the opposition bloc holds 57 seats, with nearly 400,000 special votes uncounted before final results on November 27.",
+      "timestamp": "2026-11-08T14:32:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "On day 1,719 of the conflict, Russia launched 172 drones and 36 ballistic missiles, including KN-23 missiles supplied by North Korea, striking 12 Ukrainian regions with Kyiv hit hardest. The attacks plunged five regions into darkness, damaged a kindergarten, residential buildings and the North Bridge, and injured nine people including one child. Energy infrastructure including substations connecting nuclear plants to Kyiv were damaged, disrupting electricity, water and heating as temperatures dropped. President Volodymyr Zelenskyy accused Russia of intensifying strikes to pressure Kyiv ahead of US-brokered trilateral talks in Abu Dhabi scheduled for Tuesday and Wednesday, stating Moscow perceives diplomacy as aggression. Zelenskyy also urged the United States to supply additional Patriot missile interceptors to address shortages.",
+      "id": "international-politics-3",
+      "micro_summary": "Russia launched 172 drones and 36 missiles at Ukraine, plunging five regions into darkness ahead of peace talks.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.831,
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/08/ukraine-war-briefing-russia-ramping-up-attacks-to-pressure-kyiv-at-trilateral-talks-zelenskyy-says"
+        }
+      ],
+      "summary": "Russia launched 172 drones and 36 ballistic missiles at Ukraine, damaging energy infrastructure and plunging five regions into darkness, injuring nine people, as Kyiv accused Moscow of pressuring it ahead of trilateral talks in Abu Dhabi next week.",
+      "timestamp": "2026-11-08T12:27:29Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "President Donald Trump announced on social media that he had offered UFC boss Dana White the position of White House press secretary, calling him 'a violent Fighter and Warrior' who would be a press secretary 'like none other.' Trump urged White to accept and suggested bringing UFC fighters to 'defend us against the Lunatic Left.' White said he is flying to Washington to meet Trump on Monday but declined to say if he was interested, noting he already has many jobs including UFC, Power Slap, Zuffa Boxing, and Meta. White also posted a photo behind the White House press briefing room lectern captioned 'On to the next chapter.' The position has been vacant since mid-October when Katie Zacharia quit after less than five days.",
+      "id": "international-politics-4",
+      "micro_summary": "President Trump offered UFC boss Dana White the White House press secretary position and will meet him Monday.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.823,
+      "sources": [
+        {
+          "publisher": "Euronews.com",
+          "url": "https://www.euronews.com/2026/11/08/trump-offers-ufc-boss-press-secretary-role-dana-please-take-the-job"
+        },
         {
           "publisher": "BBC",
           "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo"
         },
         {
-          "publisher": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html"
-        },
-        {
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/nov/07/donald-trump-dana-white-press-secretary"
+          "publisher": "Financial Times",
+          "url": "https://www.ft.com/content/52c3c7ac-f0ee-4b90-a2c8-68e76d120a79?syn-25a6b1a6=1"
         }
       ],
-      "summary": "President Trump offered UFC chief Dana White the White House press secretary position via social media, asking him to bring six fighters including Islam Makhachev and Amanda Nunes to serve as press aides to \"defend us against the Lunatic Left.\"",
-      "timestamp": "2026-11-07T19:06:45Z"
+      "summary": "President Trump offered UFC boss Dana White the White House press secretary job, calling him a 'violent Fighter and Warrior.' White said he is flying to Washington to meet Trump Monday but noted he has many jobs.",
+      "timestamp": "2026-11-08T07:04:37Z"
     },
     {
       "ai": true,
       "articles": 5,
       "category": "science",
-      "extended_summary": "Iran is undertaking significant construction near major missile sites and repairing bases damaged by months of US and Israeli air strikes. Satellite imagery from November shows digging and new buildings at the Garmdareh base near Tehran and the Shahroud base in the north, with repairs visible at at least 12 other military sites including Kermanshah and Parchin. The Islamic Revolutionary Guards Corps announced it has transferred missile and drone production lines to underground facilities, including an \"underground missile city,\" allowing continued weapons production despite bombardment. Analysts suggest excavations at Shahroud may relate to moving production underground to protect it from strikes. The US-Israeli war began on February 28, prompting Iran to close the Strait of Hormuz and triggering a global energy crisis. Recent limited US strikes targeted Qeshm Island while mediation efforts continue.",
+      "extended_summary": "The Cumbre Vieja volcano on La Palma in Spain's Canary Islands poses a potential megatsunami threat if its western flank collapses into the North Atlantic. Volcanologist Professor Bill McGuire warns that such a collapse could generate 65-foot waves capable of reaching the US East Coast within nine hours, devastating coastal communities. The disaster would also wipe out parts of Europe including La Palma and neighboring islands with waves potentially hundreds of meters high. Computer simulations support these projections, while boulders found in the Bahamas suggest ancient Canary Islands tsunamis crossed the Atlantic. Although not an imminent threat and potentially centuries away, the volcano last erupted in 2021 for 85 days, destroying over 2,800 buildings across nearly 12 square kilometers.",
       "id": "international-science-1",
-      "micro_summary": "Iran constructs underground missile facilities and repairs damaged bases after US-Israeli air strikes.",
+      "micro_summary": "Cumbre Vieja volcano collapse could trigger 65-foot megatsunami reaching US East Coast within nine hours.",
       "publishers": 5,
       "scope": "international",
-      "score": 0.796,
+      "score": 0.719,
       "sources": [
         {
-          "publisher": "The Times of Israel",
-          "url": "https://www.timesofisrael.com/irgc-says-its-self-imposed-limit-on-ballistic-missile-range-has-been-lifted/"
+          "publisher": "The Mirror",
+          "url": "https://www.mirror.co.uk/news/world-news/cumbre-vieja-megatsunami-volcano-us-37853496"
+        },
+        {
+          "publisher": "New York Post",
+          "url": "https://nypost.com/2026/11/06/us-news/us-east-coast-could-face-cataclysmic-megatsunami-from-unstable-spain-volcano-scientist-warns/"
+        },
+        {
+          "publisher": "The Sun",
+          "url": "https://www.the-sun.com/news/17272073/megatsunami-east-coast-volcano-canary-islands-spain-warning/"
+        }
+      ],
+      "summary": "A collapse of the Cumbre Vieja volcano on La Palma could unleash a megatsunami with 65-foot waves reaching the US East Coast within nine hours, devastating coastal communities and parts of Europe.",
+      "timestamp": "2026-11-07T12:37:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "science",
+      "extended_summary": "Iran is undertaking significant new construction near at least two major missile sites and repairing bases damaged by months of US and Israeli air strikes. Satellite imagery from November shows digging and new buildings at the Garmdareh military base in Karaj near Tehran and the Shahroud base in the north, while at least 12 other military sites show signs of repairs. New roofs have been built at the Kermanshah missile base, and debris has been cleared at the Parchin military complex. The Islamic Revolutionary Guards Corps has transferred missile and drone production lines to underground facilities, allowing continued production while adversaries assumed stockpiles were dwindling. An underground missile city is set to be unveiled, and excavations near Shahroud may be related to moving production underground to protect it from further strikes. Restrictions on missile range have been lifted.",
+      "id": "international-science-2",
+      "micro_summary": "Iran constructs underground missile facilities at sites damaged by US and Israeli air strikes.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.571,
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage"
         },
         {
           "publisher": "BBC",
           "url": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro"
         },
         {
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage"
+          "publisher": "The Times",
+          "url": "https://www.thetimes.com/world/middle-east/article/iranians-prepare-us-nuclear-attack-pickaxe-mountain-9grz5mznq"
         }
       ],
-      "summary": "Iran is building underground missile complexes and repairing bases damaged by US and Israeli air strikes, with satellite imagery showing new construction at sites including Karaj and Shahroud as the IRGC moves production underground.",
-      "timestamp": "2026-11-07T21:07:46Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "science",
-      "extended_summary": "Ukrainian forces have increasingly deployed unmanned ground vehicles (UGVs) in the war, including a major all-robot assault on or before October 30 near Druzheliubivka in Kharkiv Oblast, where the 3rd Assault Brigade sent 28 UGVs—eight self-exploding and twenty armed with grenade launchers—across the gray zone, though Russian FPV drones reportedly defeated the attack. Separately, Ukraine's military intelligence tested a flamethrower-equipped ground robot with the Bratstvo unit of the Timur Special Unit on November 4, though technical details remain undisclosed. These developments reflect Kyiv's push to field thousands of UGVs, with former defense minister Mykhailo Fedorov claiming Ukraine would acquire 25,000 in the first half of 2026. Other armed UGVs, such as the DevDroid Droid TW-12.7, have reportedly killed 20 Russian troops in a single remotely conducted assault.",
-      "id": "international-science-2",
-      "micro_summary": "Ukrainian forces deployed 28 unmanned ground vehicles in an assault and tested a flamethrower robot.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.624,
-      "sources": [
-        {
-          "publisher": "Euromaidan Press",
-          "url": "https://euromaidanpress.com/2026/11/06/28-ugv-assault/"
-        },
-        {
-          "publisher": "UNITED24 Media",
-          "url": "https://united24media.com/war-in-ukraine/ukraine-just-added-one-more-trick-to-its-ground-robots-and-russian-infantry-wont-like-it-24099"
-        },
-        {
-          "publisher": "Ukrinform",
-          "url": "https://www.ukrinform.net/rubric-ato/4182313-ground-robotic-systems-complete-record-31398-logistics-and-evacuation-missions-in-october.html"
-        }
-      ],
-      "summary": "Ukraine's 3rd Assault Brigade sent 28 unmanned ground vehicles into an assault near Druzheliubivka, while military intelligence tested a flamethrower-equipped robot, expanding Kyiv's robotic arsenal.",
-      "timestamp": "2026-11-06T19:26:56Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "sports",
-      "extended_summary": "Texas defeated Missouri 34-20 in a college football game at Faurot Field in Columbia, Missouri, on Saturday, November 7, 2026. The No. 7 Longhorns faced the Tigers in a contest marked by controversial officiating, including a third-quarter play where Texas quarterback Arch Manning was ruled to have fumbled despite his arm moving forward, a call that stood after review and led to a touchdown two plays later that tied the game at 20-20. Missouri head coach Eli Drinkwitz addressed the media following the loss. Missouri running back Ahmad Hardy played in his first game since being shot by a stray bullet at a concert in Mississippi in May. Missouri players including Naseshaun Montgomery scored touchdowns during the first half, but Texas ultimately secured the victory with a final score of 34-20.",
-      "id": "international-sports-1",
-      "micro_summary": "Texas defeated Missouri 34-20 in a college football game at Faurot Field on November 7, 2026.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.879,
-      "sources": [
-        {
-          "publisher": "ESPN",
-          "url": "https://www.espn.com/college-football/story/_/id/50411883/arch-manning-defense-help-no-7-texas-rally-missouri"
-        },
-        {
-          "publisher": "STLtoday.com",
-          "url": "https://www.stltoday.com/sports/college/mizzou/article_111e4785-6ec6-4c1a-b820-68461b6dd478.html"
-        },
-        {
-          "publisher": "Fox News",
-          "url": "https://www.foxnews.com/outkick-sports/arch-manning-texas-escape-missouri-wild-officiating-controversy-sends-sec-showdown-chaos"
-        }
-      ],
-      "summary": "Texas defeated Missouri 34-20 at Faurot Field in Columbia on November 7, 2026, with a controversial fumble call on Arch Manning preceding a touchdown that tied the game 20-20 in the third quarter.",
-      "timestamp": "2026-11-07T21:06:00Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "sports",
-      "extended_summary": "Usman Khawaja has claimed in his new book Sabr that the entire Australian cricket team was aware of the 2018 Cape Town ball-tampering scandal, contradicting Cricket Australia's official findings. While the governing body concluded that only David Warner, Steve Smith and Cameron Bancroft had prior knowledge and suspended them, Khawaja insists \"It was all of us. Not the batters, not the bowlers, not the staff. All of us.\" He alleges sandpaper was first used during the second Test in Port Elizabeth, now Gqeberha, before the infamous third Test in Cape Town, and points to staff involvement during the Newlands Test. Khawaja also reveals he urged the dressing room to take collective responsibility after the incident, but blame fell entirely on the three players. Cricket Australia has defended its integrity process, stating it remains \"comfortable\" with its findings that all relevant information was properly considered.",
-      "id": "international-sports-2",
-      "micro_summary": "Usman Khawaja claims the entire Australian cricket team knew about the 2018 sandpaper scandal.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.872,
-      "sources": [
-        {
-          "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
-          "url": "https://www.abc.net.au/news/2026-11-08/cameron-bancroft-backed-to-keep-calm-after-sandpaper-revel/107360442"
-        },
-        {
-          "publisher": "News.com.au",
-          "url": "https://www.news.com.au/sport/cricket/usman-khawaja-exposes-sandpapergate-lie-to-reveal-truth-about-the-scandal/news-story/5d19e8c7aac9f764b73a727f5f551450"
-        },
-        {
-          "publisher": "Nine.com.au",
-          "url": "https://www.nine.com.au/sport/cricket/news-usman-khawaja-book-sandpaper-details-australia-south-africa-cameron-bancroft-steve-smith-david-warner-20261107-p61c6y.html"
-        }
-      ],
-      "summary": "Usman Khawaja claims in his new book that the entire Australian team knew about the 2018 Cape Town ball-tampering scandal, contradicting Cricket Australia's findings that only three players were involved.",
-      "timestamp": "2026-11-07T20:10:51Z"
-    },
-    {
-      "ai": true,
-      "articles": 9,
-      "category": "sports",
-      "extended_summary": "Lando Norris secured pole position for McLaren at the Brazilian Grand Prix at Interlagos, setting a 1m27.470s lap on intermediate tyres in a wet session red-flagged for over an hour due to heavy rain and standing water. The qualifying took two and a half hours to complete. George Russell finished second on track, two tenths behind Norris, but carries a five-place grid penalty for a power unit change. Kimi Antonelli qualified third, six tenths adrift, and is promoted to second on the grid, while Liam Lawson moves from fifth to third. Charles Leclerc qualified fourth but drops to 14th with a ten-place engine penalty. Max Verstappen, classified 16th after not setting a Q2 time, and Lewis Hamilton, eliminated in Q2, start 21st and 20th respectively with power unit penalties. Mercedes can clinch the constructors' championship by outscoring Ferrari by three points.",
-      "id": "international-sports-3",
-      "micro_summary": "Lando Norris claimed pole position at the Brazilian Grand Prix with a 1m27.470s lap in wet qualifying.",
-      "publishers": 7,
-      "scope": "international",
-      "score": 0.866,
-      "sources": [
-        {
-          "publisher": "Autosport",
-          "url": "https://www.autosport.com/f1/news/f1-brazilian-gp-lando-norris-takes-pole-in-soaking-wet-qualifying/10872710/"
-        },
-        {
-          "publisher": "Formula 1",
-          "url": "https://www.formula1.com/en/latest/article/norris-beats-russell-to-pole-position-in-dramatic-rain-affected-sao-paolo-qualifying.2V60rhlQjdS5my1uFrOKUH"
-        },
-        {
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/sport/2026/nov/07/lando-norris-claims-pole-for-f1-sao-paulo-gp-as-rain-disrupts-qualifying"
-        },
-        {
-          "publisher": "Crash.net",
-          "url": "https://www.crash.net/f1/results/1109817/1/f1-brazil-grand-prix-full-qualifying-results"
-        }
-      ],
-      "summary": "Lando Norris took pole position for McLaren at the rain-soaked Brazilian Grand Prix with a 1m27.470s lap, beating George Russell by two tenths. Grid penalties promote Kimi Antonelli to second and Liam Lawson to third.",
-      "timestamp": "2026-11-07T20:33:58Z"
+      "summary": "Iran is undertaking significant construction at multiple missile sites, including Garmdareh and Shahroud, building underground facilities to protect missile production from air strikes, while repairing damage from months of US and Israeli attacks at bases including Kermanshah and Parchin.",
+      "timestamp": "2026-11-07T15:39:53Z"
     },
     {
       "ai": true,
       "articles": 10,
       "category": "sports",
-      "extended_summary": "Lewis Hamilton and Max Verstappen will start at the back of the Sao Paulo Grand Prix grid at Interlagos due to engine penalties. Verstappen's back-of-the-grid start was confirmed after changing multiple engine parts ahead of final practice. Hamilton initially faced a 10-place drop for taking a fifth international combustion engine, but after his new engine emitted smoke during final practice and completed only seven laps, Ferrari replaced the entire power unit, triggering a back-of-the-grid start. Charles Leclerc retains a 10-place grid penalty for his fifth ICE, while George Russell drops five places for a new engine as it is the second time his car has breached the season's ICE limits.",
-      "id": "international-sports-4",
-      "micro_summary": "Lewis Hamilton and Max Verstappen start at the back of the Sao Paulo Grand Prix grid due to engine penalties.",
-      "publishers": 7,
+      "extended_summary": "Liverpool secured a 3-1 victory over Crystal Palace at Selhurst Park, halting a two-game losing run and propelling the side back into the top four, nine points behind leaders Arsenal. Florian Wirtz scored his first Premier League goal of the season, assisted by Bradley Barcola, while Alexander Isak added a late goal in the 90th minute to seal the win; Isak now has seven league goals, placing him second in the golden boot race. The result leaves Crystal Palace bottom of the table after 10 games with only two wins, increasing pressure on manager Pierre Sage. Mac Allister tested goalkeeper Dean Henderson within 20 seconds, and Palace, who have scored just nine goals this season, failed to capitalize on first-half chances before Liverpool's second goal just after halftime.",
+      "id": "international-sports-1",
+      "micro_summary": "Liverpool beat Crystal Palace 3-1 at Selhurst Park to end their two-game losing run.",
+      "publishers": 9,
       "scope": "international",
-      "score": 0.861,
+      "score": 0.953,
       "sources": [
         {
-          "publisher": "Formula 1",
-          "url": "https://www.formula1.com/en/latest/article/hamilton-leclerc-and-verstappen-set-for-sao-paulo-grand-prix-penalties-after-power-unit-changes.7B5CuFFCN1F6Txc8YwcEhd"
+          "publisher": "TNT Sports",
+          "url": "https://www.tntsports.co.uk/football/premier-league/2026-2027/live-crystal-palace-liverpool_mtc21883113/live-commentary.shtml"
         },
         {
           "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/sport/formula1/articles/c574p28devp4o"
+          "url": "https://www.bbc.co.uk/sport/football/live/c6r7ydrm8xlyt"
         },
         {
-          "publisher": "Motorsport.com",
-          "url": "https://www.motorsport.com/f1/news/lewis-hamilton-and-max-verstappen-warn-of-difficult-brazilian-gp-comebacks/10872784/"
+          "publisher": "The Independent",
+          "url": "https://www.independent.co.uk/sport/football/crystal-palace-liverpool-score-result-wirtz-mac-allister-isak-b3081240.html"
+        },
+        {
+          "publisher": "Liverpool.com",
+          "url": "https://www.liverpool.com/liverpool-fc-news/features/liverpool-lineup-crystal-palace-nyoni-34878021"
         },
         {
           "publisher": "Sky Sports",
-          "url": "https://www.skysports.com/f1/news/13609202/sao-paulo-gp-grid-penalties-lewis-hamilton-max-verstappen-charles-leclerc-to-drop-down-interlagos-grid"
-        },
-        {
-          "publisher": "RacingNews365",
-          "url": "https://racingnews365.com/lewis-hamilton-handed-further-power-unit-punishment-ahead-of-sao-paulo-gp"
+          "url": "https://www.skysports.com/football/live-blog/13592888/crystal-palace-vs-liverpool-live-premier-league-score-updates-news-prediction-line-ups-and-how-to-watch-or-stream"
         }
       ],
-      "summary": "Lewis Hamilton and Max Verstappen will start at the back of the Sao Paulo Grand Prix grid due to engine penalties, while Charles Leclerc drops 10 places and George Russell five places at Interlagos.",
-      "timestamp": "2026-11-07T17:28:00Z"
+      "summary": "Liverpool defeated Crystal Palace 3-1 at Selhurst Park, ending a two-game losing run and returning to the top four. Florian Wirtz scored his first Premier League goal of the season.",
+      "timestamp": "2026-11-08T14:00:00Z"
     },
     {
-      "ai": true,
-      "articles": 5,
-      "category": "tragedies",
-      "extended_summary": "On Saturday at about 3pm, a 25-year-old Polish man drove onto Krakow's Main Market Square and opened fire with an automatic weapon, killing six people—four women and two men, including one British citizen—and wounding 16 others, among them two police officers and five foreign nationals. The gunman, who acted alone and wore military-style attire, was fascinated by far-right ideologies and held ultra-nationalistic views. Police shot and detained him; he was hospitalized for injuries, with one officer in critical condition. Later, three additional bodies were found at the suspect's home. Poland's defense minister called the attack an act of terror, while the prime minister praised the police response and the president expressed condolences to victims' families.",
-      "id": "international-tragedies-1",
-      "micro_summary": "A gunman killed six people and wounded 16 others in a shooting at Krakow's Main Market Square on Saturday.",
-      "publishers": 5,
+      "ai": false,
+      "articles": 9,
+      "category": "sports",
+      "extended_summary": "Ben Earl (left) and Harry Wilson (right) will meet in England v Australia this weekend England and Australia are set to resume their storied rivalry this weekend, as both sides seek to land a sucker punch in the Nations Championship opener on Sunday. This feels a pivotal Test for both sides, as they look to show their recent improvements are no flash in the pan. England come into the upcoming block finally back to winning ways, after two victories against Fiji and Argentina, but before that had endured their worst-ever Six Nations campaign and lost to the Springboks in their July Nations Championship opener. The Wallabies, meanwhile, seem to have found a new lease of life under new boss Les Kiss, and they sit on a record of five wins from seven in his tenure. However, those two defeats have come in their most recent outings, falling to an aggregate",
+      "id": "international-sports-2",
+      "micro_summary": "(2) England v Australia: Nations Championship.",
+      "publishers": 8,
       "scope": "international",
-      "score": 0.877,
+      "score": 0.943,
       "sources": [
-        {
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow"
-        },
         {
           "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman"
+          "url": "https://www.theguardian.com/sport/live/2026/nov/08/england-v-australia-nations-championship-rugby-union-live"
         },
         {
-          "publisher": "Sky News",
-          "url": "https://news.sky.com/story/poland-shooting-latest-at-least-three-killed-in-shooting-in-polish-city-of-krakow-police-say-13608720"
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/sport/rugby-union/live/crrpn80dgn9t"
+        },
+        {
+          "publisher": "ESPN",
+          "url": "https://www.espn.co.uk/rugby/story/_/id/50408766/england-australia-live-rugby-nations-championship-updates-wallabies-visit-twickenham"
+        },
+        {
+          "publisher": "Sky Sports",
+          "url": "https://www.skysports.com/rugby-union/live-blog/13609499/england-vs-australia-live-nations-championship-updates-latest-scores-team-news-commentary-from-allianz-stadium-twickenham"
+        },
+        {
+          "publisher": "Planet Rugby",
+          "url": "https://www.planetrugby.com/news/england-v-wallabies-prediction-steve-borthwicks-side-to-have-just-enough-to-win-as-hosts-pass-acid-test-for-november-block"
         }
       ],
-      "summary": "A gunman opened fire in Krakow's Main Market Square on Saturday, killing six and wounding 16, including police and foreigners. The 25-year-old Polish suspect, influenced by far-right ideology, was shot and detained by police.",
-      "timestamp": "2026-11-07T20:48:45Z"
+      "summary": "(2) England v Australia: Nations Championship. The England scrum-half was similarly picked off by New Zealand's Dalton Papali'i in a defeat by New Zealand in 2022.",
+      "timestamp": "2026-11-08T15:40:55Z"
     },
     {
       "ai": true,
-      "articles": 5,
-      "category": "tragedies",
-      "extended_summary": "A relative discovered the body of a baby inside a freezer in the basement of a home in Allariz, Galicia. The Civil Guard launched an investigation after the remains were found on Monday by a relative of the deceased woman who owned the appliance. Authorities from Ourense are investigating, and the body was transferred the same day for forensic examination. The remains are those of a foetus of just over 32 weeks gestation thought to have breathed. Experts are determining whether the death occurred during childbirth or was a miscarriage, and pathologists are establishing when the baby died, possibly as long ago as two decades. Police are taking statements from family and neighbours, and DNA samples from close relatives are being analysed to determine any biological link. The investigation ordered by the Ourense courts remains ongoing.",
-      "id": "international-tragedies-2",
-      "micro_summary": "A dead foetus over 32 weeks gestation was found in a freezer in Allariz, Galicia.",
-      "publishers": 5,
+      "articles": 10,
+      "category": "sports",
+      "extended_summary": "Aston Villa manager Unai Emery has stated that Manchester United currently operate at the same elite level as La Liga champions Barcelona ahead of Sunday's Premier League fixture at Old Trafford. Villa travel to Manchester on a five-game unbeaten run but are reeling from a comprehensive 3-0 Champions League defeat against Barcelona. Despite United enduring a dismal domestic campaign under Michael Carrick with just one league victory since August, Emery refuses to underestimate the hosts. The Spaniard has never won at Old Trafford during his managerial career, and Villa have lost their last six visits to the stadium across all competitions. The match represents the final Premier League game before the international break and could be Carrick's last as United head coach, with the club sitting third from bottom in the table.",
+      "id": "international-sports-3",
+      "micro_summary": "Aston Villa face Manchester United at Old Trafford after suffering a 3-0 defeat to Barcelona.",
+      "publishers": 7,
       "scope": "international",
-      "score": 0.844,
-      "sources": [
-        {
-          "publisher": "Birmingham Live",
-          "url": "https://www.birminghammail.co.uk/news/world-news/woman-finds-dead-baby-late-34879236"
-        },
-        {
-          "publisher": "The Mirror",
-          "url": "https://www.mirror.co.uk/news/world-news/babys-body-found-inside-freezer-37854486"
-        },
-        {
-          "publisher": "Wales Online",
-          "url": "https://www.walesonline.co.uk/news/uk-news/baby-found-freezer-basement-apartment-34879286"
-        }
-      ],
-      "summary": "A relative discovered a dead baby in a freezer in the basement of a home in Allariz, Galicia. The Civil Guard launched an investigation after the remains of a foetus over 32 weeks gestation were found on Monday.",
-      "timestamp": "2026-11-07T18:34:44Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "tragedies",
-      "extended_summary": "Heavy rain and strong winds swept through Gaza, flooding tens of thousands of tents where displaced Palestinians live. In al-Mina camp, home to about 1,700 families, water rose 30 to 40cm, soaking bedding and clothes and leaving children shivering in the cold. Families in the camp have been awake since midnight as rainwater seeped into shelters, with some tents collapsing on top of occupants. In Nuseirat, rainfall threatens families in buildings damaged by bombardments. The Hamas-run government reported about 70,000 tents flooded and dozens of cracked walls and roofs collapsing, causing injuries including critical ones. Ninety percent of Gaza residents have been displaced by the war, many multiple times, with limited access to clean water. Aid agencies warn the situation will worsen with the rainy season, noting shortages of tarpaulins and tents due to restrictions and budget cuts, and fear deaths from hypothermia like last year.",
-      "id": "international-tragedies-3",
-      "micro_summary": "Heavy rains flooded 70,000 tents in Gaza, leaving displaced families exposed to cold and wet conditions.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.816,
+      "score": 0.902,
       "sources": [
         {
           "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cx240e5py64jo"
+          "url": "https://www.bbc.co.uk/sport/football/live/cq2d6wgrey22t"
         },
         {
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/features/2026/11/7/buildings-damaged-in-israel-bombing-at-risk-of-collapse-as-rain-floods-gaza"
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/nov/08/man-utd-v-aston-villa-premier-league-live"
         },
         {
-          "publisher": "Channel 4",
-          "url": "https://www.channel4.com/news/gaza-flooding-heavy-rain-hits-thousands-of-tents-sheltering-displaced-palestinians"
+          "publisher": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/13592908/man-utd-vs-aston-villa-live-premier-league-score-updates-news-prediction-line-ups-and-how-to-watch-or-stream"
+        },
+        {
+          "publisher": "Goal.com",
+          "url": "https://www.goal.com/en/news/unai-emery-michael-carrick-manchester-united-barcelona-old-trafford/blt1d18cc1c9c2c46f7"
         }
       ],
-      "summary": "Heavy rain and strong winds flooded tens of thousands of tents across Gaza, soaking bedding and clothes of displaced families and causing some tents to collapse, with water levels rising 30 to 40cm in camps.",
-      "timestamp": "2026-11-07T16:25:55Z"
+      "summary": "Aston Villa manager Unai Emery compared Manchester United to Barcelona after a 3-0 defeat to them, ahead of Sunday's Old Trafford match where Villa lost their last six visits. United have one league win under Carrick.",
+      "timestamp": "2026-11-08T15:24:51Z"
+    },
+    {
+      "ai": true,
+      "articles": 10,
+      "category": "sports",
+      "extended_summary": "Usman Khawaja has claimed that the entire Australian cricket team knew about and shared responsibility for the sandpaper ball-tampering scandal during the 2018 Cape Town Test against South Africa. In his memoir Sabr and social media videos, the retired opener said he would \"not deny\" everyone knew about the plot, though he insisted he had not thrown anyone under the bus. Only captain Steve Smith, vice-captain David Warner and opener Cameron Bancroft were suspended and punished for the incident. Khawaja, who retired in January after scoring 6,229 runs in 88 Tests, revealed he had attempted to go public with the details in 2018 and again in 2021. Four bowlers including Pat Cummins, who denied knowledge in a 2021 statement, remain in the team, while former coach Darren Lehmann also denied that everyone knew. Khawaja said Smith, Warner and Bancroft were the victims who took the blame for the whole team.",
+      "id": "international-sports-4",
+      "micro_summary": "Usman Khawaja claims the entire Australian team knew about 2018 sandpaper use in Cape Town Test.",
+      "publishers": 9,
+      "scope": "international",
+      "score": 0.889,
+      "sources": [
+        {
+          "publisher": "Nine.com.au",
+          "url": "https://www.nine.com.au/sport/nrl/mark-tubby-taylor-claims-today-show-wide-world-of-sports-comments-usman-khawaja-fresh-2018-ball-tampering-evidence-20261108-p61cdi.html"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/sport/2026/nov/08/usman-khawaja-defends-timing-of-australian-ball-tampering-revelations"
+        },
+        {
+          "publisher": "Cricinfo",
+          "url": "https://www.cricinfo.com/story/cameron-bancroft-keen-to-move-on-as-ball-tampering-returns-to-the-headlines-1561834"
+        },
+        {
+          "publisher": "News24",
+          "url": "https://www.news24.com/sport/cricket/defiant-khawaja-defends-re-igniting-ball-tampering-scandal-20261108-0289"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.com/sport/cricket/articles/c65yn1j4lrgno"
+        }
+      ],
+      "summary": "Usman Khawaja claims the entire Australian team knew about and was responsible for using sandpaper on the ball during the 2018 Cape Town Test against South Africa, while only Steve Smith, David Warner and Cameron Bancroft were punished.",
+      "timestamp": "2026-11-08T08:12:26Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "Two trains collided between Kafr Ammar and Al-Raqqa stations in Giza, near Cairo, killing at least four people and injuring nearly 90 others. Several carriages derailed after one train struck the rear of another, disrupting railroad traffic. Dozens of ambulances transported the injured to nearby hospitals while cranes were deployed to remove the wreckage. The Egyptian railway system, the oldest in Africa and the Middle East, has a history of deadly accidents, including a fire at Ramses station that killed 25 people and a 2017 collision near Alexandria that killed more than 40. President Abdul Fattah al-Sisi said he was following the incident with great interest and directed authorities to provide necessary medical care, investigate the circumstances, and hold accountable anyone proven negligent. He also expressed sincere condolences to the families of the deceased and wishes for the recovery of the injured.",
+      "id": "international-tragedies-1",
+      "micro_summary": "Two trains collided in Egypt, killing at least four people and injuring nearly 90.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.874,
+      "sources": [
+        {
+          "publisher": "Sky News",
+          "url": "https://news.sky.com/story/four-dead-and-88-injured-in-train-crash-near-cairo-13609748"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/live/c6reyn7zl8rdt"
+        },
+        {
+          "publisher": "CNN",
+          "url": "https://www.cnn.com/2026/11/08/africa/egypt-train-collision-deaths-intl"
+        }
+      ],
+      "summary": "Two trains collided between Kafr Ammar and Al-Raqqa stations in Giza near Cairo, killing at least four people and injuring nearly 90, with several carriages derailed and dozens of ambulances dispatched to hospitals.",
+      "timestamp": "2026-11-08T15:04:32Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "A 24-year-old Polish national killed six and injured 17 in a shooting in Kraków's Main Market Square on Saturday, believed inspired by far-right ideologies. Police arrived 23 seconds after the first emergency call and exchanged gunfire with the suspect, who shot at random from his car. Two officers, Jakub Kulik and Artur Morański, both under 30, were wounded detaining the gunman. Kulik, a former paratrooper and volunteer firefighter, was hit by three bullets and left critically injured; Morański was shot in the chest. Both underwent surgery and were brought out of medically induced comas on Sunday. Prime Minister Donald Tusk said the officers \"probably saved many human lives,\" while Justice Minister Waldemar Żurek stated their response \"prevented further human casualties.\" The suspect remains in critical condition. Police found three bodies at his apartment identified as his parents and sister. A unit specializing in \"terrorist offences\" is leading the investigation.",
+      "id": "international-tragedies-2",
+      "micro_summary": "A gunman killed six in Kraków while two police officers were wounded detaining him, one critically injured by three bullets.",
+      "publishers": 4,
+      "scope": "international",
+      "score": 0.803,
+      "sources": [
+        {
+          "publisher": "Sky News",
+          "url": "https://news.sky.com/story/british-national-among-six-killed-by-far-right-gunman-in-krakow-rampage-13609612"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.com/news/live/cq3dj1xv02vyt"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/08/two-police-officers-heroes-confronting-krakow-gunman-poland"
+        }
+      ],
+      "summary": "A gunman killed six and injured 17 in a Kraków shooting Saturday; two police officers were wounded detaining him, with one critically injured after being hit by three bullets, as officials praised them for preventing further casualties.",
+      "timestamp": "2026-11-08T11:19:55Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "A magnitude 5.7 earthquake struck central Japan at 1:04am on Sunday at a depth of 40km in western Shizuoka Prefecture, injuring more than 20 people in Aichi and Shizuoka prefectures. The quake shattered windows, scattered glass across streets, and caused books to fall from shelves. Some injuries occurred when people fell on stairs. The tremor affected a wide area including Hamamatsu, Kyoto, Nara, Yamanashi, and Gifu. No tsunami warning was issued. Authorities warned residents to prepare for possible strong quakes over the next week and to watch for mudslides, falling rocks, and rainfall effects. No changes were detected in the Nankai Trough. Local train services were suspended and Shinkansen bullet trains ran at reduced speeds, with Tokaido Shinkansen services delayed between Shizuoka and Gifu-Hashima stations.",
+      "id": "international-tragedies-3",
+      "micro_summary": "A magnitude 5.7 earthquake struck central Japan early Sunday, injuring more than 20 people.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.785,
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/8/earthquake-hits-central-japan-injuring-more-than-20-people"
+        },
+        {
+          "publisher": "Japan Today",
+          "url": "https://japantoday.com/category/national/m5.7-quake-strikes-central-japan-over-20-injured"
+        },
+        {
+          "publisher": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://abcnews.com/International/wireStory/strong-earthquake-preliminary-magnitude-57-strikes-japan-meteorological-137946690"
+        }
+      ],
+      "summary": "A magnitude 5.7 earthquake struck western Shizuoka Prefecture at 1:04am local time Sunday, injuring over 20 people across Aichi and Shizuoka. The quake shattered windows and disrupted train services, with authorities warning of possible stronger quakes in coming days.",
+      "timestamp": "2026-11-08T04:23:39Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "Fire largely destroyed Hitler's Eagle's Nest, known as Kehlsteinhaus, on the evening of October 23 at its mountaintop location 1,834 meters above Berchtesgaden in Bavaria. Built by the Nazis in 1938 and frequented by Adolf Hitler, the historic monument had operated as a restaurant attracting tens of thousands of tourists annually. Police arrested a 33-year-old man with a diagnosed mental illness on suspicion of arson and placed him in a secure psychiatric hospital. The blaze has intensified debate over the site's future: some historians advocate clearing the rubble and returning the mountain to its natural state to avoid Neo-Nazi pilgrimage, while Bavarian state officials support rebuilding. The nearby Obersalzberg Documentation Centre, opened in the 1990s, was unaffected. Unlike Hitler's Berghof residence, which was demolished in 1952, the Eagle's Nest survived World War II.",
+      "id": "international-tragedies-4",
+      "micro_summary": "Fire largely destroyed Hitler's Eagle's Nest in Bavaria on October 23, sparking a debate over rebuilding.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.711,
+      "sources": [
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko"
+        },
+        {
+          "publisher": "www.israelhayom.com",
+          "url": "https://www.israelhayom.com/2026/11/08/restore-or-erase-fire-at-hitlers-eagles-nest-sparks-debate-in-germany/"
+        },
+        {
+          "publisher": "Newser",
+          "url": "https://www.newser.com/story/399245/germany-debates-rebuilding-hitlers-retreat-after-arson.html"
+        }
+      ],
+      "summary": "Fire largely destroyed Hitler's Eagle's Nest in Bavaria on October 23. A 33-year-old man was arrested for suspected arson. The site, built in 1938, sparked debate between those wanting it demolished and officials supporting reconstruction.",
+      "timestamp": "2026-11-08T00:48:59Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "business",
+      "extended_summary": "Indian equity markets ended the special one-hour Muhurat trading session on Diwali marginally lower, marking the start of Samvat 2083. The BSE Sensex fell 28.62 points, or 0.04%, to close at 80,999.40 after touching an intraday high of 81,442.11, while the NSE Nifty declined 43.95 points, or 0.18%, to settle at 24,986.40, slipping below the 25,000 mark. The decline ended an eight-year run of gains for both benchmark indices during Diwali sessions and followed a seven-session rally that delivered the strongest weekly gains since February 2021. Despite the fall, investors' wealth increased by Rs 2.60 lakh crore, taking total BSE market capitalisation to Rs 5,05,67,743.40 crore. Seven of 16 sectoral indices ended positive, with pharmaceuticals gaining 1.7% and metals rising 0.4%, while the Nifty Smallcap 100 rose 1% and Midcap 100 gained 0.1%.",
+      "id": "national-business-1",
+      "micro_summary": "Indian stock markets ended Diwali Muhurat trading marginally lower, with the Sensex closing at 80,999.40.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.603,
+      "sources": [
+        {
+          "publisher": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/muhurat-trading-stock-markets-end-marginally-lower-in-special-diwali-session-snapping-7-day-rally/articleshow/135660198.cms"
+        },
+        {
+          "publisher": "Firstpost",
+          "url": "https://www.firstpost.com/business/indian-stock-market-pauses-after-seven-day-rally-as-sensex-nifty-end-diwali-session-lower-14058695.html"
+        }
+      ],
+      "summary": "Indian equity markets ended Sunday's Diwali Muhurat trading session marginally lower after a seven-session rally, with the Sensex falling 0.04% to 80,999.40 and the Nifty declining 0.18% to 24,986.40, ending an eight-year run of gains.",
+      "timestamp": "2026-11-08T14:01:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "business",
+      "extended_summary": "India's economic growth is expected to accelerate in the coming year, supported by strong macroeconomic fundamentals and renewed foreign investor interest, Ashishkumar Chauhan, Managing Director and CEO of the National Stock Exchange, said during Muhurat trading on Diwali. India remains the world's fastest-growing major economy with a 7.5 per cent year-on-year GDP growth rate, and Chauhan expressed confidence that momentum would strengthen further. Despite importing nearly 85 per cent of its oil requirements, India is managing its fiscal deficit well through strong tax collections, enabling heavy investment in infrastructure and job creation. Domestic financial savings have grown to nearly USD 1.4 trillion annually, while foreign institutional investors have shown renewed interest in Indian equities ahead of the new Samvat year. The NSE has also achieved nanosecond-level response times, positioning it as the fastest exchange globally, and is deploying artificial intelligence to enhance analytics for retail investors.",
+      "id": "national-business-2",
+      "micro_summary": "India's economy is expected to accelerate with 7.5% GDP growth and renewed foreign investment, NSE CEO says.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.596,
+      "sources": [
+        {
+          "publisher": "Moneycontrol.com",
+          "url": "https://www.moneycontrol.com/news/business/economy/indian-economy-to-grow-faster-foreign-capital-returning-to-markets-nse-ceo-ashishkumar-chauhan-14074971.html"
+        },
+        {
+          "publisher": "The Economic Times",
+          "url": "https://m.economictimes.com/markets/stocks/news/indian-economy-to-grow-faster-foreign-capital-returning-to-markets-nse-ceo-ashishkumar-chauhan/articleshow/135656058.cms"
+        }
+      ],
+      "summary": "India's economic growth is expected to accelerate in the coming year, backed by 7.5% GDP growth, nearly USD 1.4 trillion in domestic savings, and renewed foreign institutional investor interest, NSE CEO Ashishkumar Chauhan said during Muhurat trading.",
+      "timestamp": "2026-11-08T11:45:05Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "business",
+      "extended_summary": "Foreign portfolio investors invested Rs 38,971 crore in Indian equities this week, reversing earlier selling trends as a sharp decline in global technology stocks made Indian markets more attractive. The shift occurred amid concerns over heavy spending on artificial intelligence and a possible slowdown in data centre investments, which triggered selling across global markets. All three major US indices recorded their biggest single-day losses since April 2025 on Thursday, erasing gains from Wednesday when the Dow jumped more than 1,500 points. While FPIs turned aggressive buyers, domestic institutional investors remained sellers on all trading days. The aggressive buying by FPIs and a short squeeze pushed the Nifty up by 7.58% in a week. India, regarded as a non-AI trade, became a favoured destination due to impressive earnings growth and attractive large-cap valuations.",
+      "id": "national-business-3",
+      "micro_summary": "Foreign portfolio investors invested Rs 38,971 crore in Indian equities this week amid global AI stock sell-off.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.443,
+      "sources": [
+        {
+          "publisher": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/fiis-return-to-dalal-street-pump-rs-38971-crore-into-indian-equities-amid-ai-sell-off/articleshow/135650408.cms"
+        },
+        {
+          "publisher": "Moneycontrol.com",
+          "url": "https://www.moneycontrol.com/news/business/ai-stocks-lose-their-shine-india-gains-fpis-pump-rs-38-971-crore-into-equities-in-a-week-14074703.html"
+        }
+      ],
+      "summary": "Foreign portfolio investors invested Rs 38,971 crore in Indian equities this week as a global sell-off in AI stocks made India attractive, while domestic institutional investors remained sellers and the Nifty rose 7.58%.",
+      "timestamp": "2026-11-08T04:34:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 7,
+      "category": "entertainment",
+      "extended_summary": "Hrithik Roshan attended the 15th LACMA Art + Film Gala at the Los Angeles County Museum of Art on November 7, 2026. The annual fundraising event, co-chaired by Leonardo DiCaprio and Eva Chow since 2011, honoured artist Vija Celmins and filmmaker Denis Villeneuve. Roshan joined international celebrities including Kim Kardashian, Kylie Jenner, Nicole Kidman, Andrew Garfield, Anya Taylor-Joy, Michelle Yeoh, BLACKPINK's Rosé and AESPA's Ningning. He greeted photographers with folded hands in a traditional namaste and wore a custom-tailored tuxedo with a bow tie. The appearance marked the first time an Indian actor received an invitation to the prestigious gathering, highlighting growing international recognition of Indian film personalities. Proceeds support LACMA's cultural, educational and film programmes.",
+      "id": "national-entertainment-1",
+      "micro_summary": "Hrithik Roshan attended the 15th LACMA Art + Film Gala in Los Angeles on November 7, 2026.",
+      "publishers": 7,
+      "scope": "national",
+      "score": 0.87,
+      "sources": [
+        {
+          "publisher": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hrithik-roshan-becomes-first-mainstream-indian-actor-to-attend-lacma-art-film-gala-joins-leonardo-dicaprio-kylie-jenner-kim-kardashian-among-others/amp_articleshow/135659215.cms"
+        },
+        {
+          "publisher": "The News Mill",
+          "url": "https://thenewsmill.com/2026/11/hrithik-roshan-becomes-first-indian-actor-at-lacma-art-film-gala/"
+        },
+        {
+          "publisher": "India Today",
+          "url": "https://www.indiatoday.in/movies/celebrities/story/hrithik-roshan-lacma-art-film-gala-2026-kim-kardashian-kylie-jenner-3034767-2026-11-08"
+        },
+        {
+          "publisher": "Bollywood Hungama",
+          "url": "https://www.bollywoodhungama.com/news/bollywood/hrithik-roshan-attends-lacma-art-film-gala-2026-becomes-first-mainstream-indian-actor-to-grace-event/"
+        },
+        {
+          "publisher": "Moneycontrol.com",
+          "url": "https://www.moneycontrol.com/entertainment/hrithik-roshan-becomes-first-indian-actor-to-attend-lacma-art-film-gala-joins-kylie-jenner-kim-kardashian-and-other-hollywood-celebs-article-14074875.html/amp"
+        },
+        {
+          "publisher": "www.nationpathindia.com",
+          "url": "https://www.nationpathindia.com/entertainment/hrithik-roshan-lacma-art-film-gala-2026-los-angeles"
+        }
+      ],
+      "summary": "Hrithik Roshan attended the 15th LACMA Art + Film Gala in Los Angeles on November 7, 2026, joining celebrities including Kim Kardashian and Leonardo DiCaprio, and greeted photographers with a traditional namaste.",
+      "timestamp": "2026-11-08T14:29:03Z"
     },
     {
       "ai": true,
       "articles": 2,
       "category": "entertainment",
-      "extended_summary": "Vinod Kapri's 111-minute film Pyre, which took two years to reach cinemas after winning 18 international awards, is wowing critics and audiences across India. The film depicts the tender love and quiet loneliness of elderly couple Padam Singh and Tulsi, known locally as Bubu and Aama, who live in a remote Uttarakhand village without roads or electricity. Married for 65 years, they have waited 28 years for their son Hariya, who left for Mumbai, to return. The narrative explores outmigration that has emptied Himalayan hamlets into ghost villages and the impact of climate change. The lead actors are villagers who had never acted before, including Kapri's uncle Padam Singh and Heera Devi, whose performances have earned praise from Naseeruddin Shah and Anupam Kher. Social media shows audiences leaving theatres in tears.",
+      "extended_summary": "Nitesh Tiwari's Ramayana: Part One, starring Ranbir Kapoor, Sai Pallavi and Yash, began its theatrical run on November 5. The film opened with an India net collection of Rs 64.85 crore and a domestic gross of Rs 77.50 crore. On Day 2, collections fell 25.9% to Rs 48.05 crore net. Saturday brought a recovery with Rs 69.80 crore net, pushing the three-day total to Rs 182.70 crore. By Day 4, the film crossed the Rs 200-crore mark, reaching Rs 223.39 crore net with a domestic gross of Rs 266.26 crore. Day 3 Hindi collections contributed Rs 53 crore, followed by Kannada, Telugu and Malayalam. Overseas collections reached Rs 157.25 crore, bringing the worldwide gross to Rs 375.50 crore.",
       "id": "national-entertainment-2",
-      "micro_summary": "Vinod Kapri's 111-minute film Pyre is wowing critics and audiences across India after two years.",
+      "micro_summary": "Ramayana crossed Rs 200 crore at Indian box office within four days, reaching Rs 223.39 crore net.",
       "publishers": 2,
       "scope": "national",
-      "score": 0.595,
+      "score": 0.584,
       "sources": [
         {
-          "publisher": "BBC",
-          "url": "https://www.bbc.com/news/articles/c6ly334rem5do"
+          "publisher": "NDTV Profit",
+          "url": "https://www.ndtvprofit.com/business/entertainment-cinema-bollywood-movie-ramayana-box-office-collection-day-4-ranbir-kapoor-yash-sai-pallavi-nitesh-tiwari-film-sunday-earnings-12300531"
         },
         {
-          "publisher": "Ratopati",
-          "url": "https://english.ratopati.com/story/85970/the-indian-film-that-no-one-wanted-to-release-finally-became-a-hit"
+          "publisher": "NDTV",
+          "url": "https://www.ndtv.com/entertainment/ramayana-box-office-collection-day-3-ranbir-kapoor-sai-pallavi-film-earns-more-than-opening-day-with-rs-182-crore-in-india-12298976"
         }
       ],
-      "summary": "Vinod Kapri's 111-minute film Pyre, depicting an elderly couple's love and loneliness in Uttarakhand, is winning acclaim across India after two years and 18 international awards, with villagers as lead actors praised by Bollywood figures.",
-      "timestamp": "2026-11-07T14:33:32Z"
+      "summary": "Nitesh Tiwari's Ramayana starring Ranbir Kapoor crossed Rs 200 crore at the Indian box office within four days, collecting Rs 223.39 crore net after earning Rs 69.80 crore on Day 3 and Rs 40.69 crore on Day 4.",
+      "timestamp": "2026-11-08T14:10:31Z"
+    },
+    {
+      "ai": true,
+      "articles": 3,
+      "category": "politics",
+      "extended_summary": "Prime Minister Narendra Modi celebrated Diwali with security forces at the CoBRA Operations Base in Karanpur, Bastar, Chhattisgarh, describing the occasion as a historic milestone marking the first festival with every district free from Naxalism. He stated that for the first time in 47 years, not a single CRPF personnel member had lost their life while on duty during the past year. Modi expressed gratitude to personnel from the CRPF, CoBRA, BSF, ITBP, SSB and state police forces, conveying the appreciation of 140 crore citizens. He recalled that Left-Wing Extremism had previously affected more than 230 districts across nearly 20 states, with Chhattisgarh witnessing over 1,000 security personnel martyred, including 76 CRPF personnel killed in the 2010 Dantewada attacks. The Prime Minister attributed the achievement to decisive policies adopted after 2014 and the courage of security forces, noting that 50 crore people have also emerged from extreme poverty.",
+      "id": "national-politics-1",
+      "micro_summary": "Prime Minister Modi celebrated Diwali in Bastar marking first Naxal-free Diwali and no CRPF deaths in 47 years.",
+      "publishers": 3,
+      "scope": "national",
+      "score": 0.664,
+      "sources": [
+        {
+          "publisher": "PM India",
+          "url": "https://www.pmindia.gov.in/en/news_updates/pm-celebrates-diwali-with-the-security-forces-at-cobra-operations-base-at-karanpur-in-bastar-chhattisgarh/?comment=disable"
+        },
+        {
+          "publisher": "DD India",
+          "url": "https://ddindia.co.in/2026/11/pm-modi-celebrates-diwali-with-security-forces-in-bastar-says-every-district-is-now-naxal-free/"
+        },
+        {
+          "publisher": "India Today",
+          "url": "https://www.indiatoday.in/amp/india/video/prime-minister-modi-celebrates-diwali-with-security-forces-marking-victory-over-naxalism-ytvd-3034994-2026-11-08"
+        }
+      ],
+      "summary": "Prime Minister Modi celebrated Diwali with security forces in Bastar, Chhattisgarh, marking the first Diwali with all districts free from Naxalism and no CRPF deaths in 47 years.",
+      "timestamp": "2026-11-08T16:01:59Z"
     },
     {
       "ai": true,
       "articles": 2,
       "category": "politics",
-      "extended_summary": "The Delhi High Court ordered the immediate removal of six AI-generated social media posts and videos portraying Chief Minister Rekha Gupta as a liquor vendor, hawker and delivery agent. Justice Manoj Jain granted interim relief in Gupta's defamation suit against the Aam Aadmi Party and others, covering five posts on X and one on Facebook. The court ruled that while public office invites scrutiny, political satire cannot be used to compromise an individual's dignity. The material allegedly depicted Gupta as head of a purported 'Har Har Rekha or Ghar Ghar Theka' scheme, with one video showing her and Deputy Chief Minister Parvesh Sahib Singh pouring liquor and ice cubes. The court directed platforms to remove the six URLs immediately, issued summons to the defendants, and asked them to file written statements within 30 days, with the matter scheduled for further consideration on December 4.",
-      "id": "national-politics-1",
-      "micro_summary": "Delhi High Court orders removal of six AI-generated posts portraying Chief Minister Rekha Gupta as a liquor vendor.",
+      "extended_summary": "Bangladesh's Law Minister Md Asaduzzaman called ousted prime minister Sheikh Hasina a \"convicted criminal\" and confirmed Dhaka has requested her extradition from India under bilateral treaty. He said the government would follow due process rather than emotion. The request follows Hasina's November 2025 conviction in absentia by International Crimes Tribunal for crimes against humanity during July-August 2024 uprising, resulting in death sentence on one charge and life imprisonment on another. Hasina fled to India on August 5, 2024, after mass uprising ended her 15-year rule. An interim government led by Muhammad Yunus took charge, and in February Bangladesh Nationalist Party led by Tarique Rahman formed government after parliamentary elections. India has acknowledged receiving extradition requests but has not announced decision, stating matter is being examined through established processes. Hasina has stated she intends to return to Bangladesh in December despite risk of imprisonment or death.",
+      "id": "national-politics-2",
+      "micro_summary": "Bangladesh requests India extradite ousted prime minister Sheikh Hasina, convicted and sentenced to death.",
       "publishers": 2,
       "scope": "national",
-      "score": 0.556,
+      "score": 0.546,
       "sources": [
         {
-          "publisher": "India Today",
-          "url": "https://www.indiatoday.in/amp/india/law-news/story/delhi-high-court-orders-rekha-gupta-ai-posts-removed-3034653-2026-11-07"
+          "publisher": "BusinessLine",
+          "url": "https://www.thehindubusinessline.com/news/world/bangladesh-law-minister-calls-hasina-convicted-criminal-says-extradition-request-sent-to-india/article71680801.ece"
         },
         {
-          "publisher": "www.nationpathindia.com",
-          "url": "https://www.nationpathindia.com/politics/delhi-high-court-ai-posts-rekha-gupta-removal"
+          "publisher": "India Today",
+          "url": "https://www.indiatoday.in/world/story/sheikh-hasina-extradition-bangladesh-seeks-return-from-india-3034825-2026-11-08"
         }
       ],
-      "summary": "The Delhi High Court ordered the removal of six AI-generated social media posts portraying Chief Minister Rekha Gupta as a liquor vendor, granting interim relief in her defamation suit against the Aam Aadmi Party.",
-      "timestamp": "2026-11-07T18:33:53Z"
+      "summary": "Bangladesh's Law Minister Md Asaduzzaman called ousted prime minister Sheikh Hasina a \"convicted criminal\" and confirmed Dhaka has requested her extradition from India under the bilateral treaty, following her November 2025 conviction for crimes against humanity.",
+      "timestamp": "2026-11-08T10:56:34Z"
+    },
+    {
+      "ai": true,
+      "articles": 3,
+      "category": "sports",
+      "extended_summary": "Pakistan Under-19 defeated India by three wickets in the ACC Men's U19 Asia Cup at Al Amerat Cricket Ground in Oman. Chasing 209, Pakistan found themselves at 63/5 before captain Hamza Zahoor anchored the chase with an unbeaten 100, forming a 107-run partnership with Hasnain Abbas Dar, who scored 38. India had posted 208 in 46.3 overs after a disastrous start that saw captain Lakshya Raichandani dismissed for a duck in the first over. Arjun Rajput scored 107 off 85 balls to give India hope, but the side collapsed to 170/7 before being bowled out. Pakistan's bowlers, led by Ali Raza with three wickets, restricted India, while Zahoor guided his side home with 12 balls to spare. The victory extended Pakistan's winning run against India in the tournament to two consecutive editions and moved them to the top of Group A, with India dropping to second place.",
+      "id": "national-sports-1",
+      "micro_summary": "Pakistan defeated India by three wickets in the Under-19 Asia Cup, with Hamza Zahoor scoring an unbeaten 100.",
+      "publishers": 3,
+      "scope": "national",
+      "score": 0.614,
+      "sources": [
+        {
+          "publisher": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/sports/cricket/news/hamza-zahoors-century-overshadows-arjun-rajputs-107-as-pakistan-u19-pull-off-thrilling-three-wicket-win-over-india/articleshow/135659392.cms"
+        },
+        {
+          "publisher": "Revsportz",
+          "url": "https://revsportz.in/arjun-rajputs-hundred-goes-in-vain-as-pakistan-beat-india-in-u-19-asia-cup/"
+        },
+        {
+          "publisher": "India Today",
+          "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-beat-india-u19-asia-cup-hamza-zahoor-arjun-rajput-3034948-2026-11-08"
+        }
+      ],
+      "summary": "Pakistan beat India by three wickets in the Under-19 Asia Cup at Al Amerat, Oman, chasing down 209 with Hamza Zahoor's unbeaten 100 after India posted 208, anchored by Arjun Rajput's 107.",
+      "timestamp": "2026-11-08T13:31:35Z"
+    },
+    {
+      "ai": false,
+      "articles": 2,
+      "category": "sports",
+      "extended_summary": "Indian cricketers Ravindra Jadeja and Yuzvendra Chahal, along with former India players Irfan Pathan and Suresh Raina, took to social media on Sunday to extend Diwali greetings to fans, wishing them happiness and prosperity on the festival of lights. Jadeja extended Diwali greetings in a unique way, sharing a post featuring himself in a pink kurta, symbolising his association with Rajasthan Royals (RR), while also uploading an Instagram story in a yellow kurta, reflecting his long-standing association with Chennai Super Kings (CSK).&#xD;&#xA;&#xD;&#xA;Notably, ahead of the Indian Premier League (IPL) 2026 season, Ravindra Jadeja and England all-rounder Sam Curran moved from CSK to RR, while wicketkeeper-batter Sanju Samson joined CSK for Rs 18 crore. Jadeja&#x27;s fee was revised to Rs 14 crore, down from Rs 18 crore, at which he was retained by CSK ahead of the previous season.&#xD;&#xA;&#xD;&#xA;Jadeja wrote, &#x201C;Happy diwali to everyone&#x201D; in his Instagram post.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;View this post on",
+      "id": "national-sports-2",
+      "micro_summary": "Cricket Great From Across the Border Wishes India on Diwali.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.586,
+      "sources": [
+        {
+          "publisher": "Rediff",
+          "url": "https://www.rediff.com/cricket/report/cricket-great-from-across-the-border-wishes-india-on-diwali/20261108.htm"
+        },
+        {
+          "publisher": "NDTV Sports",
+          "url": "https://sports.ndtv.com/cricket/ravindra-jadeja-yuzvendra-chahal-lead-diwali-wishes-from-indian-cricket-fraternity-12300329"
+        }
+      ],
+      "summary": "Cricket Great From Across the Border Wishes India on Diwali. Warm wishes, Suresh Raina.Irfan Pathan wrote on X: Aap sabhi ko Diwali ki bahut bahut shubhkamnayein!",
+      "timestamp": "2026-11-08T15:01:14Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "sports",
+      "extended_summary": "Anuj Shrivatri of Madhya Pradesh became India's 100th chess Grandmaster on Sunday by winning the 7th ASEAN Plus Individual Open Chess Championship. The 2004-born player finished with seven points after nine rounds, half a point ahead of Vietnam's Nguyen Duc Hoa, while Nouri Alekhine of the Philippines placed third on six points. Shrivatri, who began the tournament with a loss, won his final two games to secure the title on Diwali, becoming the first Grandmaster from Madhya Pradesh. The milestone ends a wait dating to 1988 when Viswanathan Anand became India's first Grandmaster, following recent additions including S Aswath as the 98th in July and VS Rathanvel as the 99th. Shrivatri earned the International Master title in 2020.",
+      "id": "national-sports-3",
+      "micro_summary": "Anuj Shrivatri of Madhya Pradesh became India's 100th chess Grandmaster after winning the ASEAN Plus Open with seven points.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.585,
+      "sources": [
+        {
+          "publisher": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/sports/chess/india-gets-its-100th-grandmaster-anuj-shrivatri-becomes-first-gm-from-madhya-pradesh/articleshow/135660706.cms"
+        },
+        {
+          "publisher": "The Indian Express",
+          "url": "https://indianexpress.com/article/sports/chess/anuj-shrivatri-creates-history-becomes-india-100th-grandmaster-10955712/"
+        }
+      ],
+      "summary": "Anuj Shrivatri of Madhya Pradesh became India's 100th chess Grandmaster on Sunday by winning the 7th ASEAN Plus Individual Open Chess Championship with seven points, becoming the first Grandmaster from his state.",
+      "timestamp": "2026-11-08T14:55:40Z"
     },
     {
       "ai": true,
       "articles": 2,
       "category": "tragedies",
-      "extended_summary": "A fire broke out on a high floor of a 32-storey residential building in the Lokhandwala area of Andheri West, Mumbai, on Saturday night. The fire brigade received a call about the blaze at 9:50 pm; the fire was on the 15th or 17th floor of Runwal Tower. Four fire engines and other equipment were immediately deployed to the spot to douse the flames. Firefighters managed to bring the fire completely under control and subsequently undertook cooling operations at the site. No casualties or injuries have been reported so far. The cause of the fire is yet to be ascertained by officials.",
-      "id": "national-tragedies-3",
-      "micro_summary": "Fire broke out in 32-storey Mumbai residential tower; no injuries reported and blaze brought under control.",
+      "extended_summary": "A fire broke out at a factory in the Najafgarh area on Sunday, prompting the immediate deployment of 22 fire service vehicles to the scene. The blaze was reported at 4:21 pm at a factory situated in Nangli Sakrawati, in southwest Delhi. Initially, two water tenders, two water bowsers and a quick response vehicle were rushed to the spot to address the situation. The fire was upgraded to a medium-category blaze at 5:25 pm, following which additional resources were deployed to the factory location in the Najafgarh area. So far, no injuries have been reported in connection with this fire incident.",
+      "id": "national-tragedies-2",
+      "micro_summary": "A fire at a Najafgarh factory prompted deployment of 22 fire vehicles with no injuries reported.",
       "publishers": 2,
       "scope": "national",
-      "score": 0.583,
+      "score": 0.569,
       "sources": [
         {
-          "publisher": "ThePrint",
-          "url": "https://theprint.in/india/fire-breaks-out-on-15th-floor-of-highrise-in-mumbais-lokhandwala-area-no-report-of-injuries/3093404/?amp"
+          "publisher": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/india/fire-breaks-out-at-factory-in-southwest-delhis-najafgarh-22-fire-tenders-rushed-20029921.htm"
         },
         {
-          "publisher": "www.indiagazette.com",
-          "url": "https://www.indiagazette.com/news/279418867/maharashtra-fire-breaks-out-on-17th-floor-of-32-storey-in-mumbai-lokhandwala"
+          "publisher": "The Economic Times",
+          "url": "https://m.economictimes.com/news/india/massive-fire-breaks-out-at-garment-factory-in-delhis-najafgarh-25-fire-tenders-deployed/articleshow/135659868.cms"
         }
       ],
-      "summary": "A fire broke out on the 15th or 17th floor of a 32-storey residential building in Mumbai's Andheri West on Saturday night; four fire engines were deployed, the blaze was doused, and no injuries were reported.",
-      "timestamp": "2026-11-07T17:27:00Z"
+      "summary": "A fire broke out at a factory in Nangli Sakrawati, southwest Delhi, on Sunday at 4:21 pm, prompting 22 fire service vehicles; the blaze was upgraded to medium-category at 5:25 pm with no injuries reported.",
+      "timestamp": "2026-11-08T14:47:36Z"
     }
   ]
 }
