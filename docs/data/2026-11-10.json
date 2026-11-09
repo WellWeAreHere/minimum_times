@@ -1,0 +1,580 @@
+{
+  "date": "2026-11-10",
+  "events": [
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "business",
+      "extended_summary": "Former President Joe Biden announced that he will undertake only limited promotion of his upcoming memoir, Promise Me America, scheduled for publication on November 17, due to his health. Biden, 83, was diagnosed with an aggressive form of prostate cancer in May 2025 that had spread to his bones. In a social media post, he stated that while the disease has not stopped him, it sometimes slows him down, preventing him from doing as many conversations about the book as hoped. The memoir covers his one-term presidency beginning in 2021, including the January 6 Capitol insurrection, the Covid-19 response, and his criticism of Donald Trump, whom Biden accuses of leading an insurrection and pardoning more than 1,500 rioters. Biden expressed hope that the words on the page speak for themselves and thanked the American people for their support since his diagnosis became public.",
+      "id": "international-business-1",
+      "micro_summary": "Joe Biden will limit promotion of his November 17 memoir due to aggressive prostate cancer.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.698,
+      "sources": [
+        {
+          "publisher": "The Sun",
+          "url": "https://www.thesun.co.uk/news/40965879/former-president-joe-biden-cancer-update-memoir/"
+        },
+        {
+          "publisher": "Sky News",
+          "url": "https://news.sky.com/story/some-days-are-better-than-others-joe-biden-scales-back-book-tour-as-he-reveals-cancer-treatment-slows-me-down-13610122"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/09/biden-presidency-memoir-promise-me-america-cancer"
+        }
+      ],
+      "summary": "Former President Joe Biden announced limited promotion of his memoir Promise Me America, publishing November 17, due to aggressive prostate cancer diagnosed in May 2025 that has slowed him down, though he hopes the book speaks for itself.",
+      "timestamp": "2026-11-09T10:38:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "business",
+      "extended_summary": "Ten men face trial in Lithuania and Poland accused of planning and carrying out arson attacks on cargo parcels across several European countries on behalf of Russia's military intelligence agency, the GRU. The defendants include Vasilij Kovacs, a 63-year-old Ukrainian man who lived in Latvia for over 30 years before his arrest on March 1, 2025. Lithuanian and Polish prosecutors allege the group transported modified massage pillows concealing incendiary devices and targeted logistics hubs. One incident involved a parcel fire at Leipzig airport on July 20, 2024, just before loading onto a DHL cargo plane. The accused claim innocence and deny knowingly working for Russian intelligence. Investigators describe Kovacs as a \"disposable agent\" recruited through messaging services like Telegram as the GRU increasingly relies on intermediaries to operate in Europe.",
+      "id": "international-business-2",
+      "micro_summary": "Ten men face trial in Lithuania and Poland for planning GRU-directed arson attacks across Europe including a Leipzig airport fire.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.68,
+      "sources": [
+        {
+          "publisher": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/world-news/2026/11/09/putin-russia-ordinary-foot-soldiers-wreaking-havoc-europe/"
+        },
+        {
+          "publisher": "UNITED24 Media",
+          "url": "https://united24media.com/war-in-ukraine/sabotage-attacks-inside-russia-surge-88-as-moscow-expands-covert-operations-across-europe-24171"
+        },
+        {
+          "publisher": "Kyiv Post",
+          "url": "https://www.kyivpost.com/post/89550"
+        }
+      ],
+      "summary": "Ten men, including Ukrainian national Vasilij Kovacs, face trial in Lithuania and Poland accused of carrying out arson attacks on cargo parcels across Europe for Russia's GRU, including a July 2024 fire at Leipzig airport.",
+      "timestamp": "2026-11-09T05:00:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "Simon Stiell, the UN climate chief, opened critical UN climate talks in Turkey by warning that a global fossil fuel price crisis is spreading inflation worldwide and urging delegates from almost 200 countries to accelerate the shift to electrification and renewable energy. The two-week summit, hosted by Turkey with Australia leading negotiations, expects 100,000 visitors including at least 95 heads of state, with a global leaders summit scheduled for Wednesday and Thursday. The talks face pressure to deliver results after years of slow progress, opening as a historic El Niño builds and months after a glacier collapse in Nepal and Tibet killed at least 1,459 people. Scientists confirmed global heating will reach at least 1.8C, exceeding the 1.5C goal set in 2015. UN Secretary General António Guterres urged leaders to cut emissions faster and accelerate a just transition from fossil fuels.",
+      "id": "international-politics-1",
+      "micro_summary": "Simon Stiell opens UN climate talks in Turkey urging faster electrification as warming reaches 1.8C.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.88,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/environment/2026/nov/09/high-fossil-fuel-prices-spread-inflation-like-cancer-cop31egotiator-tells-cop31"
+        },
+        {
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/environment/20261109-cop31-betting-on-electricity-to-break-the-climate-deadlock"
+        },
+        {
+          "publisher": "Politico",
+          "url": "https://www.politico.com/news/2026/11/08/climate-cop-antalya-un-energy-turkey-01155429"
+        }
+      ],
+      "summary": "Simon Stiell opened UN climate talks in Turkey, warning that fossil fuel prices are spreading inflation globally and urging almost 200 nations to accelerate electrification as global heating reaches 1.8C, beyond the 1.5C target.",
+      "timestamp": "2026-11-09T19:13:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "Two people were detained near the White House following separate security breaches at Lafayette Park on Monday morning. Around 10am local time, a suspect drove a vehicle onto the pavement at the northern edge near 16th and H Streets Northwest, where a silver sedan emitted smoke before the driver exited and swung at officers. The combative driver was quickly arrested, and the Metropolitan Police Department's Explosive Ordnance Disposal unit swept the vehicle. Around the same time, a second individual jumped a barrier near the northwest corner and was taken into custody. President Donald Trump was inside the executive residence, prompting a brief White House lockdown and road closures that were lifted after one hour. Authorities have not stated charges, and it is unclear if the events were related. Both incidents remain under investigation.",
+      "id": "international-politics-3",
+      "micro_summary": "Two suspects were detained near the White House after a vehicle crash and barrier jump triggered a brief lockdown.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.86,
+      "sources": [
+        {
+          "publisher": "Sky News",
+          "url": "https://news.sky.com/story/arrests-after-car-crash-near-white-house-and-person-tries-to-jump-barricade-13610300"
+        },
+        {
+          "publisher": "NDTV",
+          "url": "https://www.ndtv.com/world-news/white-house-on-temporary-lockdown-after-car-crashes-into-signpost-12304959"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/9/two-security-breaches-near-white-house-prompt-brief-lockdown"
+        }
+      ],
+      "summary": "Two people were arrested near the White House after a driver crashed a vehicle into Lafayette Park and a second suspect jumped a barrier, prompting a brief lockdown while President Trump was inside.",
+      "timestamp": "2026-11-09T18:22:30Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "Democrats won control of both chambers of Congress in midterm elections, flipping seven Senate seats to hold 54 to Republicans' 44 with two races undecided in Alaska and Mississippi, and holding 254 House seats to the GOP's 163 with 18 races uncalled. President Trump initially stated he would accept the results but later questioned the election's legitimacy on social media, claiming without evidence that voting machines were rigged and polls were wrong. Trump and Vice President JD Vance attributed Republican losses to the Iran war, while Defense Secretary Pete Hegseth faced impeachment articles from Rep. Thomas Massie. In Mississippi, Democrat Scott Colom led Republican Sen. Cindy Hyde-Smith by about 2,500 votes, and in Colorado's Fourth District, Republican Rep. Lauren Boebert trailed Democrat Eileen Laubacher by about 3,200 votes with 97% counted.",
+      "id": "international-politics-4",
+      "micro_summary": "Democrats won control of both chambers of Congress with 54 Senate seats and 254 House seats in midterm elections.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.846,
+      "sources": [
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o"
+        },
+        {
+          "publisher": "Yahoo",
+          "url": "https://www.yahoo.com/news/politics/live/midterms-2026-latest-updates-trump-questions-election-results-mississippi-and-alaska-senate-races-still-too-close-to-call-massie-introduces-articles-of-impeachment-against-hegseth-193036197.html"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates"
+        }
+      ],
+      "summary": "Democrats secured control of both chambers of Congress in midterm elections, winning 54 Senate seats and 254 House seats, while President Trump questioned the results' legitimacy after initially accepting them, and Republicans faced internal blame over the Iran war.",
+      "timestamp": "2026-11-09T15:37:43Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "science",
+      "extended_summary": "On 11 October, hackers gained control of software regulating refrigeration units in hundreds of French supermarkets, raising temperatures to 50C (120F) in some stores and spoiling fresh and frozen food worth millions of euros. France has accused Iran's Islamic Revolutionary Guard Corps of orchestrating the attack, which hit over 100 Coopérative U stores, 180 Intermarché and Netto locations, and outlets including Carrefour, Monoprix and E.Leclerc. The software was provided by Danish firm Danfoss. French Foreign Minister Jean-Noël Barrot described the incident as unprecedented in scale and aggression, summoned the Iranian ambassador, and promised European-level sanctions. The Paris prosecutor opened an investigation into the head of the Shahid Kaveh cyber unit and two deputies. Similar attacks last week affected dozens of supermarkets in other European countries, with experts presuming a link.",
+      "id": "international-science-1",
+      "micro_summary": "France accuses Iran's IRGC of cyber-attack that raised temperatures in hundreds of supermarket fridges to 50C.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.869,
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/technology/2026/nov/09/cyber-attack-french-supermarket-freezers-iran-europe"
+        }
+      ],
+      "summary": "France has accused Iran's Islamic Revolutionary Guard Corps of a cyber-attack that raised temperatures in hundreds of supermarket fridges and freezers across the country last month, spoiling food worth millions of euros and prompting promises of European sanctions.",
+      "timestamp": "2026-11-09T18:17:43Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "science",
+      "extended_summary": "Finland's Navy Commander Rear Admiral Tuomas Tiilikainen stated that Russia may have reached the limits of its peacetime naval presence in the Baltic Sea, describing the security situation as tense but stable. He noted that NATO's Baltic Sentry mission, launched in January 2025, maintains a ratio of approximately four NATO warships for every Russian vessel, compared to the usual minimum of three-to-one. The admiral said expanded patrols appear to be deterring hostile activities, with no further attacks on Finnish underwater infrastructure recorded since a Finnish court last week convicted a cargo ship's Russian captain and a crew member of sabotage over damage to two telecommunications cables linking Finland and Estonia in December 2025. At least 13 operations intercepting suspected shadow fleet vessels have occurred across Europe this year. Tiilikainen identified poorly trained crews and aging tankers as immediate risks that could cause a major environmental disaster.",
+      "id": "international-science-2",
+      "micro_summary": "Finland's navy chief says Russia may have reached Baltic Sea naval limits as NATO patrols deter hostile activity.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.666,
+      "sources": [
+        {
+          "publisher": "Sky News",
+          "url": "https://news.sky.com/story/finlands-navy-chief-says-russias-presence-in-the-baltic-sea-may-have-peaked-for-now-13609763"
+        },
+        {
+          "publisher": "UA.NEWS",
+          "url": "https://ua.news/en/dovkolo-svitu/vms-finliandiyi-flot-derzhavi-agresora-mig-siagnuti-mezhi-u-baltitsi-anadolu-agency"
+        },
+        {
+          "publisher": "Anadolu Ajansı",
+          "url": "https://aa.com.tr/en/europe/finland-says-russian-naval-presence-in-baltic-sea-may-have-peaked/4116833"
+        }
+      ],
+      "summary": "Finland's navy chief said Russia may have reached the limits of its peacetime naval presence in the Baltic Sea, while NATO's Baltic Sentry mission and 4-to-1 warship ratio appear to be deterring sabotage against undersea infrastructure.",
+      "timestamp": "2026-11-09T02:36:25Z"
+    },
+    {
+      "ai": true,
+      "articles": 10,
+      "category": "sports",
+      "extended_summary": "Manchester United's bosses will not rush a decision over Michael Carrick's future following their 4-4 draw with Aston Villa, which leaves the club in the relegation zone. The hierarchy plans to use the international break to fully evaluate the season and reassess options. Carrick and the players had Monday off after rescuing a late point, with staff returning to Carrington on Tuesday. With most players away on international duty and no first-team training planned, the club has breathing space for re-evaluation. United have one win in 11 games and conceded 30 goals in all competitions, the worst defensive record in the top-five European leagues and a worst-ever Premier League start. While the hierarchy feel Carrick over-achieved last season with a third-placed finish, they believe the current squad has woefully under-achieved, prompting a review of how to reverse the decline.",
+      "id": "international-sports-1",
+      "micro_summary": "Manchester United's 4-4 draw with Aston Villa leaves them in relegation zone as bosses delay Michael Carrick's future decision.",
+      "publishers": 6,
+      "scope": "international",
+      "score": 0.877,
+      "sources": [
+        {
+          "publisher": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/13610315/michael-carrick-future-man-utd-will-not-rush-decision-over-head-coachs-tenure-despite-dropping-into-relegation-zone"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cw4g1g7z2mdgo"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/nov/09/manchester-united-michael-carrick-jason-wilcox-review-sacking"
+        },
+        {
+          "publisher": "Football365",
+          "url": "https://www.football365.com/news/mauricio-pochettino-manchester-united-sir-alex-ferguson-michael-carrick"
+        }
+      ],
+      "summary": "Manchester United drew 4-4 with Aston Villa, leaving them in the relegation zone, as club bosses delay a decision on Michael Carrick's future and use the international break to evaluate the season after one win in 11 games.",
+      "timestamp": "2026-11-09T18:06:36Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "The draw for the second round of the 2026-27 FA Cup was made following the conclusion of the first round fixtures, producing 20 ties to be played across the weekend of Saturday, December 5, 2026. Seventh-tier Wimborne Town, who stunned League Two side Crawley Town 2-0 with goals from Yang Seung-woo and Cameron Munn, will host Bradford City. Guiseley, who beat Sutton United, face Notts County, while the winner of Plymouth Parkway versus Berkhamsted will play Barnet. 2021 winners Leicester City, who beat Oxford, travel to Dover Athletic. Other qualifiers include Luton Town, Leyton Orient, Kidderminster Harriers, and Rochdale, who eliminated Fleetwood Town in extra-time.",
+      "id": "international-sports-2",
+      "micro_summary": "Wimborne Town's 2-0 win over Crawley Town earned them a second round FA Cup tie against Bradford City.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.854,
+      "sources": [
+        {
+          "publisher": "London Evening Standard",
+          "url": "https://www.standard.co.uk/sport/football/fa-cup-draw-live-second-round-fixtures-revealed-b1304172.html"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.com/sport/football/articles/c6wydypkgdjlo"
+        },
+        {
+          "publisher": "TheFA.com",
+          "url": "https://www.thefa.com/news/2026/nov/09/draw-confirmed-for-emirates-fa-cup-second-round-20261109"
+        }
+      ],
+      "summary": "The FA Cup second round draw produced 20 ties to be played on December 5, 2026, including Wimborne Town hosting Bradford City after their 2-0 first round victory over Crawley Town.",
+      "timestamp": "2026-11-09T16:45:28Z"
+    },
+    {
+      "ai": true,
+      "articles": 10,
+      "category": "sports",
+      "extended_summary": "Oscar Piastri has split from his management team led by former Formula 1 driver Mark Webber and Ann Neal, with the announcement coming on the Monday after the Brazilian Grand Prix. The 25-year-old McLaren driver finished sixth in that race, 56 seconds behind team-mate and race-winner Lando Norris, and currently sits seventh in the Drivers' Championship. Webber, 50, began managing Piastri in 2019, before the Australian won the Formula 3 and Formula 2 titles in consecutive seasons and made his Formula 1 debut for McLaren in 2023. Webber played a key role in Piastri's 2022 move from Alpine to McLaren, which involved a dispute and a hearing at the FIA Contract Recognition Board that ruled against Alpine. Webber had already reduced his trackside presence this season. Piastri thanked Webber and Neal for their support and guidance during the early years of his Formula 1 career.",
+      "id": "international-sports-3",
+      "micro_summary": "Oscar Piastri splits from manager Mark Webber after finishing sixth in Brazil.",
+      "publishers": 7,
+      "scope": "international",
+      "score": 0.846,
+      "sources": [
+        {
+          "publisher": "Motorsport.com",
+          "url": "https://www.motorsport.com/f1/news/what-the-split-with-mark-webber-says-about-the-next-phase-of-oscar-piastris-f1-career/10873385/"
+        },
+        {
+          "publisher": "Formula 1",
+          "url": "https://www.formula1.com/en/latest/article/piastri-and-management-team-mutually-terminate-agreement.a59N6pYIBGSiFmwMY1Xkk"
+        },
+        {
+          "publisher": "Sky Sports",
+          "url": "https://www.skysports.com/f1/news/13610108/oscar-piastri-mclaren-driver-splits-from-mark-webber-management-after-sao-paulo-grand-prix-in-brazil"
+        },
+        {
+          "publisher": "Nine.com.au",
+          "url": "https://www.nine.com.au/sport/motorsport/f1-oscar-piastri-splits-mark-webber-management-ann-webber-mutual-agreement-statement-20261109-p61cqd.html"
+        },
+        {
+          "publisher": "SMH.com.au",
+          "url": "https://www.smh.com.au/sport/motorsport/oscar-piastri-parts-ways-with-mark-webber-after-challenging-formula-1-season-20261109-p61cqf.html"
+        }
+      ],
+      "summary": "Oscar Piastri has ended his management relationship with Mark Webber and Ann Neal, announced after the Brazilian Grand Prix where the McLaren driver finished sixth, 56 seconds behind winner Lando Norris. Webber had managed Piastri since 2019.",
+      "timestamp": "2026-11-09T15:51:41Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "The Chicago Bears defeated the Tampa Bay Buccaneers 27-24 on Sunday night at Soldier Field, improving their record to 7-2 and completing their fourth consecutive victory. Quarterback Caleb Williams threw a career-high four interceptions but also passed for 279 yards and two touchdowns, orchestrating a game-winning drive that began at his own 31-yard line. A 38-yard pass to Colston Loveland set up Cairo Santos' 38-yard field goal as time expired. The Bears never trailed despite committing five turnovers, while cornerback Jaylon Johnson returned an interception 67 yards for a touchdown. Tampa Bay tied the game at 24 with 2:51 remaining in the fourth quarter but went 2-for-12 on third-down attempts. The Buccaneers fell to 3-6.",
+      "id": "international-sports-4",
+      "micro_summary": "Caleb Williams and the Chicago Bears defeated the Tampa Bay Buccaneers 27-24 despite four interceptions.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.835,
+      "sources": [
+        {
+          "publisher": "Chicago Tribune",
+          "url": "https://www.chicagotribune.com/2026/11/09/brad-biggs-10-thoughts-chicago-bears-tampa-bay-buccaneers/"
+        },
+        {
+          "publisher": "Andscape",
+          "url": "https://andscape.com/features/caleb-williams-bears-buccaneers-quarterback-interceptions-ben-johnson/"
+        },
+        {
+          "publisher": "Chicago Bears",
+          "url": "https://www.chicagobears.com/news/by-the-numbers-bears-week-9-victory-over-buccaneers"
+        }
+      ],
+      "summary": "The Chicago Bears defeated the Tampa Bay Buccaneers 27-24 on Sunday night, improving to 7-2. Caleb Williams threw four interceptions but led a game-winning drive capped by Cairo Santos' 38-yard field goal as time expired.",
+      "timestamp": "2026-11-09T12:25:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "Saudi Arabia's East-West pipeline, the kingdom's main route for moving crude around the Strait of Hormuz, came under attack in the Medina region on Monday, causing a limited fire that emergency crews extinguished with no casualties and no disruption to operations. The pipeline carries Saudi crude to the Red Sea port of Yanbu. OPEC crude production rose by 1.38 million barrels per day in October to 22.87 million bpd, recovering to 90% of pre-war rates, led by Saudi Arabia which increased output by 970,000 bpd to 9.2 million bpd. Iraq added 140,000 bpd to reach 4.15 million bpd and Kuwait added 130,000 bpd to 2 million bpd, while Iran's output fell 120,000 bpd to 1.9 million bpd.",
+      "id": "international-tragedies-1",
+      "micro_summary": "Saudi Arabia's East-West pipeline was attacked in Medina causing a limited fire with no casualties or operational disruption.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.846,
+      "sources": [
+        {
+          "publisher": "Financial Times",
+          "url": "https://www.ft.com/content/45dce79e-2758-43f2-a06c-3c56db392f39?syn-25a6b1a6=1"
+        },
+        {
+          "publisher": "Crude Oil Prices Today | OilPrice.com",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Pipeline-Attacked-as-OPEC-Output-Climbs-to-90-of-Pre-War-Levels.html"
+        },
+        {
+          "publisher": "Reuters",
+          "url": "https://www.reuters.com/business/energy/saudi-east-west-oil-pipeline-hit-medina-region-state-media-reports-2026-11-09/"
+        }
+      ],
+      "summary": "Saudi Arabia's East-West pipeline came under attack in the Medina region on Monday, causing a limited fire that emergency crews extinguished with no casualties and no disruption to operations.",
+      "timestamp": "2026-11-09T18:19:20Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "Hacking groups Cyber Partisans and Silent Crow leaked data from Russia's state statistics agency Rosstat revealing massive military casualties in Ukraine. The dataset contains over 11 million death certificates, with 412,576 explicitly linked to combat operations since February 2022. Alternative estimates from the leaked data range from 393,881 to 450,100 deaths. Other estimates put Russian soldier deaths at 500,000 with 1.5 million total casualties including wounded, while 286,000 personnel have been identified by name through official records and obituaries. Rosstat confirmed a cyber attack between October 29 and November 1 but denied sensitive information was compromised. The leak provides unprecedented detail on losses Moscow has concealed since early in the invasion, with peace talks scheduled in Abu Dhabi.",
+      "id": "international-tragedies-2",
+      "micro_summary": "Leaked Russian statistics reveal over 400,000 military deaths in Ukraine since the invasion began.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.812,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/09/russians-killed-ukraine-war-leaked-data"
+        },
+        {
+          "publisher": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/world-news/2026/11/08/russian-data-leak-reveals-death-toll-in-ukraine/"
+        },
+        {
+          "publisher": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-08/hacked-records-show-400-000-russians-killed-in-war-on-ukraine"
+        }
+      ],
+      "summary": "Hacking groups leaked data from Russia's state statistics agency showing more than 400,000 Russians killed fighting in Ukraine since February 2022, with one dataset citing 412,576 death certificates explicitly linked to the war.",
+      "timestamp": "2026-11-09T14:58:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "An explosion at the Habas iron and steel factory near the port city of Izmir in western Turkey killed at least 16 workers and injured 13 others. The blast occurred around midday after a crane carrying a replacement boiler collapsed, causing materials to fall into a furnace below and sparking a large fire. Eyewitnesses said the explosion shook the ground, with some initially believing an earthquake had struck. The company stated the accident happened during scheduled maintenance on an electric arc furnace. Authorities said some people were believed to still be under the rubble while search and rescue operations continued. The President confirmed the deaths and said investigations were underway, noting that two of the injured were in serious condition. At least five people were arrested. The plant is located in the Aliaga district, a major port and one of the country's main shipbreaking hubs.",
+      "id": "international-tragedies-3",
+      "micro_summary": "At least 16 workers died in an explosion at a steel factory near Izmir, Turkey.",
+      "publishers": 4,
+      "scope": "international",
+      "score": 0.794,
+      "sources": [
+        {
+          "publisher": "Sky News",
+          "url": "https://news.sky.com/story/explosion-at-steel-plant-in-turkey-kills-at-least-16-officials-say-13610161"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo"
+        }
+      ],
+      "summary": "At least 16 workers died and 13 were injured in an explosion at the Habas steel plant near Izmir, Turkey, after a crane collapsed during maintenance, with five people arrested.",
+      "timestamp": "2026-11-09T17:08:27Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "Ukrainian drones struck the KINEF refinery in Russia's Leningrad region on Monday, causing major fires and damaging three oil processing units at the facility, which processes roughly 18 million tonnes of crude oil annually. Air defences shot down 113 drones targeting the region, but debris from one struck a building in Vsevolozhsk, killing a resident. Meanwhile, 317 Shahed drones were launched at Ukraine since Monday evening, with 276 shot down. A strike on a food warehouse in Odesa killed three people and left one in serious condition. Two people were killed and seven injured in strikes on Dnipropetrovsk region, while nine people including children were injured in attacks on Kharkiv region overnight. Additionally, petrol and diesel sales were capped at filling stations in several Russian regions, limiting customers to 30 litres of petrol in cities and 50 litres on motorways.",
+      "id": "international-tragedies-4",
+      "micro_summary": "Ukrainian drones struck Russia's KINEF refinery while Russian drones killed civilians across Ukraine in overnight attacks.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.766,
+      "sources": [
+        {
+          "publisher": "Financial Times",
+          "url": "https://www.ft.com/content/ae06452b-3447-4fee-bd94-355cd324d1c5?syn-25a6b1a6=1"
+        },
+        {
+          "publisher": "Euronews.com",
+          "url": "https://www.euronews.com/2026/11/09/ukraine-hits-russias-second-largest-refinery-as-fuel-rationing-spreads"
+        },
+        {
+          "publisher": "Reuters",
+          "url": "https://www.reuters.com/business/energy/fuel-shortages-return-russian-regions-after-ukrainian-refinery-attacks-2026-11-09/"
+        }
+      ],
+      "summary": "Ukrainian drones damaged three units at Russia's KINEF refinery in Leningrad region, while Russian drone strikes killed six people and injured many across Odesa, Dnipropetrovsk and Kharkiv regions.",
+      "timestamp": "2026-11-09T15:33:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 4,
+      "category": "entertainment",
+      "extended_summary": "Nitesh Tiwari's Ramayana: Rise of a Legend starring Ranbir Kapoor, Sai Pallavi and Yash collected Rs 56.15 crore nett in India on Diwali Sunday from 21,770 shows, selling an estimated 23.53 lakh tickets. The Hindi version contributed Rs 36.75 crore, followed by Kannada at Rs 7.25 crore, Telugu at Rs 6.25 crore, Tamil at Rs 3.15 crore and Malayalam at Rs 2.75 crore. The Sunday haul marked the biggest Diwali-day collection for a Bollywood film in recent years, surpassing previous records. The film's four-day India net collection reached Rs 238.85 crore, edging past Adipurush's Rs 237 crore, while domestic gross stood at Rs 285.20 crore. Adding overseas earnings of Rs 214 crore, the worldwide total hit Rs 499.20 crore within four days of its November 5 release, approaching the Rs 500-crore global milestone. The opening day gross of Rs 64.85 crore was the fourth-highest for a Bollywood film.",
+      "id": "national-entertainment-2",
+      "micro_summary": "\"Ramayana: Rise of a Legend\" collected Rs 56.15 crore on Diwali Sunday, reaching Rs 499.20 crore worldwide in four days.",
+      "publishers": 4,
+      "scope": "national",
+      "score": 0.719,
+      "sources": [
+        {
+          "publisher": "Livemint",
+          "url": "https://www.livemint.com/entertainment/suriyas-scene-vs-ramayana-how-did-the-tamil-film-hold-its-ground-against-the-pan-india-release-this-diwali-11794245074482.html"
+        },
+        {
+          "publisher": "India Today",
+          "url": "https://www.indiatoday.in/amp/movies/bollywood/story/ramayana-box-office-day-4-film-is-rs-500-crore-strong-after-smashing-diwali-record-3035021-2026-11-09"
+        },
+        {
+          "publisher": "NDTV",
+          "url": "https://www.ndtv.com/entertainment/ramayana-box-office-collection-day-4-ranbir-kapoor-sai-pallavi-film-shoots-past-rs-200-crore-mark-in-india-12301693"
+        },
+        {
+          "publisher": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ramayana-rise-of-a-legend-box-office-collections-day-4-ranbir-kapoor-sai-pallavi-yashs-film-approaches-rs-500-cr-worldwide-crosses-rs-200-cr-india-net/articleshow/135667130.cms"
+        }
+      ],
+      "summary": "Nitesh Tiwari's Ramayana: Rise of a Legend earned Rs 56.15 crore nett in India on Diwali Sunday, bringing its four-day worldwide gross to Rs 499.20 crore, just shy of the Rs 500-crore milestone.",
+      "timestamp": "2026-11-09T18:24:32Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "On Monday, Prime Minister Narendra Modi held a telephone conversation with Ukrainian President Volodymyr Zelenskyy to discuss the ongoing Russia-Ukraine conflict and ways to strengthen India-Ukraine bilateral cooperation. Modi reaffirmed India's human-centric approach and reiterated that the conflict must be resolved through dialogue and diplomacy, conveying India's readiness to contribute to all efforts aimed at peaceful resolution. The leaders reviewed their wide-ranging bilateral cooperation and agreed to further strengthen ties. Zelenskyy shared his perspectives on the conflict, its humanitarian aspects, and efforts to restore peace, noting that India is ready to help establish food corridors through the Black Sea. Shortly after the call, External Affairs Minister S. Jaishankar held a telephonic conversation with Russian counterpart Sergey Lavrov, focusing on the Ukraine conflict and ongoing diplomatic initiatives.",
+      "id": "national-politics-1",
+      "micro_summary": "Prime Minister Modi and President Zelenskyy discussed Ukraine peace efforts and bilateral cooperation in a phone call.",
+      "publishers": 5,
+      "scope": "national",
+      "score": 0.754,
+      "sources": [
+        {
+          "publisher": "PM India",
+          "url": "https://www.pmindia.gov.in/en/news_updates/pm-speaks-with-president-volodymyr-zelenskyy/?comment=disable"
+        },
+        {
+          "publisher": "DD News",
+          "url": "https://ddnews.gov.in/en/pm-modi-speaks-with-ukraine-president-zelenskyy-reiterates-indias-support-for-peaceful-resolution-of-conflict/"
+        },
+        {
+          "publisher": "Rising Kashmir",
+          "url": "https://risingkashmir.com/world/pm-modi-speaks-with-ukraine-president-zelenskyy-conveys-indias-readiness-to-contribute-to-peaceful-resolution-of-conflict-12796555"
+        },
+        {
+          "publisher": "The New Indian Express",
+          "url": "https://www.newindianexpress.com/india/2026/Nov/09/pm-modi-zelenskyy-discuss-ukraine-conflict-india-reiterates-readiness-to-support-peace-efforts"
+        },
+        {
+          "publisher": "ThePrint",
+          "url": "https://theprint.in/diplomacy/india-ready-to-set-up-food-corridor-through-black-sea-says-zelenskyy-after-call-with-modi/3094527/"
+        }
+      ],
+      "summary": "Prime Minister Narendra Modi held a phone conversation with Ukrainian President Volodymyr Zelenskyy on Monday, discussing the conflict, India's readiness to contribute to peaceful resolution, and strengthening bilateral ties. Zelenskyy noted India's willingness to help establish Black Sea food corridors.",
+      "timestamp": "2026-11-09T16:07:07Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "politics",
+      "extended_summary": "India and Saudi Arabia signed the bilateral Haj Agreement for 2027 during Union Minister Kiren Rijiju's visit to Saudi Arabia from November 6 to 9. The agreement, signed on November 9 at the Jeddah Superdome, confirms a quota of 1,75,025 Indian pilgrims. Rijiju met Saudi Minister of Hajj and Umrah Dr. Tawfiq bin Fawzan Al-Rabiah, attended by the Indian Ambassador and Joint Secretary (Haj). They reviewed Haj-2027 preparations, discussed strengthening coordination and logistical support, and reaffirmed commitment to a safe pilgrimage. Rijiju also attended the 6th Hajj Conference and Exhibition inauguration on November 8, participated in the Ministerial Conference, and met Prince Saud bin Mishaal bin Abdulaziz Al Saud, Deputy Governor of the Makkah Region. He chaired a review meeting with consulate and ministry officials to assess preparations.",
+      "id": "national-politics-2",
+      "micro_summary": "India and Saudi Arabia signed the 2027 Haj Agreement confirming a quota of 1,75,025 Indian pilgrims.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.643,
+      "sources": [
+        {
+          "publisher": "www.pib.gov.in",
+          "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2334463"
+        },
+        {
+          "publisher": "DD India",
+          "url": "https://ddindia.co.in/2026/11/kiren-rijiju-visits-saudi-arabia-signs-haj-2027-agreement-indias-pilgrim-quota-fixed-at-175025/"
+        }
+      ],
+      "summary": "India and Saudi Arabia signed the bilateral Haj Agreement for 2027 during Union Minister Kiren Rijiju's visit to Saudi Arabia from November 6 to 9, confirming a quota of 1,75,025 Indian pilgrims and reviewing preparations for the pilgrimage.",
+      "timestamp": "2026-11-09T19:03:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 3,
+      "category": "science",
+      "extended_summary": "Sarvam AI has appointed former Google Cloud India Managing Director Sashikumar Sreedharan as President and Chief Business Officer, and he will join the board of directors. Sreedharan brings over three decades of technology experience, having previously led Microsoft India's enterprise business as Managing Director for more than five years. He will oversee business across enterprises and government institutions, plus work with digital-native companies, developers, and partners, while managing marketing, finance, forward-deployed engineering, service delivery, and commercial operations. The appointment comes as Sarvam expands its customer base, with more than 100 enterprises and government institutions building with its full-stack AI offering. The company became a unicorn after raising $234 million in the first close of its Series B round in June 2026, valuing it at $1.5 billion with investors including HCLTech, Bessemer Venture Partners, Khosla Ventures, and Peak XV Partners.",
+      "id": "national-science-1",
+      "micro_summary": "Sarvam AI appoints former Google Cloud India MD Sashikumar Sreedharan as President and CBO to expand enterprise and government business.",
+      "publishers": 3,
+      "scope": "national",
+      "score": 0.639,
+      "sources": [
+        {
+          "publisher": "YourStory.com",
+          "url": "https://yourstory.com/2026/11/sarvam-google-cloud-india-head-sashikumar-sreedharan-president-cbo"
+        },
+        {
+          "publisher": "Sarvam AI",
+          "url": "https://www.sarvam.ai/blogs/sashikumar-sreedharan-joins-sarvam"
+        },
+        {
+          "publisher": "Analytics India Magazine",
+          "url": "https://analyticsindiamag.com/ai-news/sarvam-ai-appoints-ex-google-cloud-india-md-sashikumar-sreedharan-as-president-and-cbo"
+        }
+      ],
+      "summary": "Sarvam AI appointed former Google Cloud India MD Sashikumar Sreedharan as President and CBO; he will lead enterprise and government business for the startup with over 100 institutions and a $1.5 billion valuation.",
+      "timestamp": "2026-11-09T17:05:36Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "sports",
+      "extended_summary": "India hold the lead over New Zealand in the ODI series heading into the third match at Seddon Park in Hamilton, where rain and hailstorms threaten to wash out the encounter. New Zealand have lost the first two ODIs, threatening their streak of 11 consecutive home ODI series victories, with their previous home series defeat coming against India in 2019. In the second ODI, New Zealand reduced India to 134 before India secured a three-wicket win via DLS, with KL Rahul scoring 26 off 38 balls. The third ODI marks Shubman Gill's final match as captain, with Shreyas Iyer set to take over for the final two ODIs in Tauranga. Several Indian players, including Gill and KL Rahul, will leave after this match to join the Test squad ahead of the series starting November 19 in Wellington. New Zealand face injury concerns with Rachin Ravindra, Mark Chapman, Matt Henry and Blair Tickner sidelined, while India are without Jasprit Bumrah and Prasidh Krishna. The match is scheduled for 3 pm local time.",
+      "id": "national-sports-1",
+      "micro_summary": "India lead New Zealand in ODI series after winning both matches as rain threatens third in Hamilton.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.591,
+      "sources": [
+        {
+          "publisher": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/zealand-vs-india-3rd-odi-173013676.html"
+        },
+        {
+          "publisher": "India Today",
+          "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-3rd-odi-preview-rain-weather-3035323-2026-11-09"
+        }
+      ],
+      "summary": "India lead the ODI series against New Zealand after winning the first two matches, with the third ODI in Hamilton threatened by rain and hailstorms, while Shubman Gill captains for the final time before Shreyas Iyer takes over.",
+      "timestamp": "2026-11-09T17:30:13Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "tragedies",
+      "extended_summary": "Mumbai's civic body imposed a blanket ban on rockets and sky-flying firecrackers across the city from November 9 until 11:59 pm on November 25. The prohibitory order, issued by the Urban Disaster Management Authority, covers all public and private spaces including residential buildings, terraces, balconies, courtyards, parking lots, and slum areas within BMC limits. The ban was enacted after the Mumbai Fire Brigade received 142 fire calls on November 8 alone, with 137 attributed to firecrackers, and several major fires were reported at Dongri and Vidyavihar. The order cites the risk of burning remnants falling on rooftops and inflammable materials, potentially triggering fires in the densely populated city with high-rise buildings and congested slums. The Disaster Management Act, 2005 was invoked to enforce the preventive measure, while other firecrackers remain governed by existing laws. Zonal deputy commissioners, divisional assistant commissioners, and the fire brigade were directed to ensure implementation.",
+      "id": "national-tragedies-1",
+      "micro_summary": "Mumbai banned rockets and sky-flying firecrackers until November 25 after 142 fire calls on November 8.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.514,
+      "sources": [
+        {
+          "publisher": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/city/mumbai/bmc-bans-rockets-aerial-firecrackers-across-mumbai-till-november-25-after-spate-of-fire-incidents/articleshow/135678168.cms"
+        },
+        {
+          "publisher": "NDTV",
+          "url": "https://www.ndtv.com/india-news/mumbai-bans-rockets-aerial-crackers-till-november-25-after-diwali-fires-12303216"
+        }
+      ],
+      "summary": "Mumbai authorities banned rockets and aerial firecrackers across the city from November 9 until November 25 following 142 fire calls on November 8, including 137 firecracker-related incidents and major fires at Dongri and Vidyavihar.",
+      "timestamp": "2026-11-09T10:23:24Z"
+    }
+  ]
+}
