@@ -5,39 +5,147 @@
       "ai": true,
       "articles": 5,
       "category": "politics",
-      "extended_summary": "Thomas Markle, the 82-year-old father of Meghan, Duchess of Sussex, was ordered held in federal custody in Tampa, Florida, after a judge revoked his pretrial release for cutting off his electronic ankle monitor at 1:45 a.m. on Tuesday. Markle was arrested the previous Friday after authorities seized approximately 78 items, including slides, film negatives and books containing suspected child sexual abuse images, from storage units he had rented in the Los Angeles area since 2008. A special agent identified approximately 18 images as child pornography, and witnesses identified Markle in two images appearing to show him in his 30s or 40s. Charged with one count of possessing indecent images of children, Markle had been released on conditions including house detention at a Florida assisted living facility and electronic monitoring. The magistrate judge found his housing situation untenable and ordered a medical evaluation.",
+      "extended_summary": "US envoys Jared Kushner and Steve Witkoff will travel to Moscow on Thursday to meet Russian President Vladimir Putin before heading to Dublin to meet Ukrainian President Volodymyr Zelenskyy and European partners. The visits follow two-day talks in Abu Dhabi between Russia, Ukraine and the US, the first US-brokered negotiations since February. Both sides agreed to the largest prisoner exchange of the nearly five-year war, expected to involve more than 1,000 prisoners from each side, but made little progress toward a broader peace agreement. Ukrainian negotiator David Arakhamia said the Russian delegation arrived with strict directives, though he noted progress on security guarantees for Ukraine and expressed optimism about reaching a solution before the new year. Kushner also struck an upbeat tone, saying he saw a path to an agreement despite unresolved territorial disputes, as Russia continues to demand control of all the Donbas and parts of two southern regions.",
       "id": "international-politics-1",
-      "micro_summary": "Thomas Markle, 82, was jailed after cutting off his ankle monitor following his arrest for possessing child sexual abuse material.",
+      "micro_summary": "US envoys will meet Putin and Zelenskyy after Abu Dhabi talks agreed on largest prisoner exchange.",
       "publishers": 5,
       "scope": "international",
-      "score": 0.857,
+      "score": 0.871,
       "sources": [
         {
           "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro"
-        },
-        {
-          "publisher": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/10/us/thomas-markle-ankle-monitor-jail.html"
+          "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o"
         },
         {
           "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/nov/10/thomas-markle-ankle-monitor"
+          "url": "https://www.theguardian.com/world/2026/nov/11/ukraine-talks-in-abu-dhabi-bring-progress-on-prisoners-but-not-on-peace"
+        },
+        {
+          "publisher": "Financial Times",
+          "url": "https://www.ft.com/content/39254048-0d84-47b8-bb97-4b9d9e1f2b92?syn-25a6b1a6=1"
         }
       ],
-      "summary": "Thomas Markle, 82, father of the Duchess of Sussex, was ordered detained in federal custody after cutting off his ankle monitor. He was arrested for possessing 78 items of suspected child sexual abuse material in Los Angeles storage units.",
-      "timestamp": "2026-11-10T20:02:54Z"
+      "summary": "US envoys Kushner and Witkoff will meet Putin in Moscow and Zelenskyy in Dublin Thursday after Abu Dhabi talks agreed on largest prisoner exchange of over 1,000 from each side but little peace progress.",
+      "timestamp": "2026-11-11T15:05:11Z"
     },
     {
       "ai": true,
       "articles": 5,
       "category": "politics",
-      "extended_summary": "Iran's Islamic Revolutionary Guard Corps announced it has lifted its self-imposed 2,000km limit on ballistic missile range, raising concerns about strikes beyond the Middle East. Brigadier-General Hossein Mohebbi stated the limitation has been removed as Tehran shifts toward an offensive military doctrine. The announcement coincided with the unveiling of a new underground missile base housing ballistic and cruise missiles including the Fattah hypersonic missile and long-range Khorramshahr. Brig Gen Seyyed Majid Mousavi warned Iran was ready to confront any threat in the region and beyond, stating that if necessary, all enemy capacities would be brought under fire. Supreme Leader Mojtaba Khamenei had previously warned that any threat from the United States or Israel would be met with a response unlimited by geography. The moves come amid diplomatic efforts to end the US-Israel war on Iran and as the US maintains a naval blockade on Iranian ports.",
+      "extended_summary": "US Treasury Secretary Scott Bessent has relocated from his Washington home to a military base after an alleged Iranian threat against his life. Security concerns reportedly increased after a photo of his Georgetown residence was published, allowing the location to be geo-located. Bessent has spearheaded US efforts to cripple Iran's economy since the start of the Middle East war, vowing \"economic asphyxiation\" through sanctions and a naval blockade. The campaign, called Operation Economic Outcast, began in August to pressure Tehran to reopen the Strait of Hormuz, largely closed since the US and Israel attacked Iran on 28 February. US intelligence officials have warned that Tehran has \"substantially increased\" efforts to target Americans, including current and former officials. Bessent is among several senior administration figures who now live on military bases. A Treasury spokesperson stated that Bessent will not be deterred by threats and remains committed to the economic pressure campaign.",
       "id": "international-politics-2",
-      "micro_summary": "Iran lifts 2,000km missile range limit and unveils underground missile base threatening US forces beyond Middle East.",
+      "micro_summary": "US Treasury Secretary Scott Bessent relocated to a military base after alleged Iranian threats to his life.",
       "publishers": 5,
       "scope": "international",
-      "score": 0.846,
+      "score": 0.852,
+      "sources": [
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o"
+        },
+        {
+          "publisher": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/10/us/politics/bessent-moved-base-iran-threats.html"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/11/us-treasury-chief-scott-bessent-moves-military-base-iran-threats"
+        }
+      ],
+      "summary": "US Treasury Secretary Scott Bessent moved from his Washington home to a military base following alleged Iranian threats to his life. He leads US sanctions and economic pressure against Iran, including a naval blockade and Operation Economic Outcast.",
+      "timestamp": "2026-11-11T16:24:06Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "Millions across Spain joined the country's first general strike in 14 years, a 24-hour stoppage called by tenants' associations and unions to protest soaring housing prices and living costs. The Confederation of Tenants' Association reported 4 million participants by midday, with unions citing 90% participation in automotive and port sectors and 82% in waste collection, with uneven turnout. Strongest support appeared in coastal regions including Catalonia and Andalucía. Many schools and universities closed or operated at minimal capacity. In Barcelona, workers blocked key roads including the AP-7 motorway with burning tyres, while scuffles broke out between pickets and police in Madrid near main wholesale market. Officials stated over 40 people were arrested. The strike occurred weeks before parliamentary elections on 29 November, called by Prime Minister Pedro Sánchez after parliament rejected housing reform. Rental prices in Madrid averaged €1,170 for a 50-square-meter apartment versus average gross monthly salary of €2,460.",
+      "id": "international-politics-3",
+      "micro_summary": "Millions joined Spain's first general strike in 14 years to protest soaring housing costs ahead of November elections.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.827,
+      "sources": [
+        {
+          "publisher": "DW.com",
+          "url": "https://www.dw.com/en/spain-housing-crisis-prompts-general-strike/a-79915208"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs"
+        }
+      ],
+      "summary": "Millions across Spain joined the country's first general strike in 14 years on Wednesday, protesting soaring housing prices and living costs weeks before parliamentary elections. Unions reported high participation while officials noted over 40 arrests.",
+      "timestamp": "2026-11-11T12:41:49Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "A federal judge in Florida has allowed President Donald Trump's defamation lawsuit against the BBC to proceed while dismissing a second claim under the state's unfair trade practices law. Judge Jeffrey Kuntz ruled that Trump's allegations regarding a Panorama episode that edited together two sections of his speech before the January 6, 2021 Capitol riot were sufficient to continue, though he did not rule on the merits. The lawsuit seeks $10 billion in damages. The BBC had apologized for giving the mistaken impression that Trump made a direct call for violent action. Trump hailed the ruling as a huge victory on social media. The judge also previously ordered Trump to answer questions under oath by December 11 after he cancelled a deposition.",
+      "id": "international-politics-4",
+      "micro_summary": "A federal judge allowed President Trump's $10 billion defamation lawsuit against the BBC to proceed.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.819,
+      "sources": [
+        {
+          "publisher": "Sky News",
+          "url": "https://news.sky.com/story/bbc-bid-to-throw-out-donald-trumps-defamation-case-dismissed-in-court-13610819"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do"
+        },
+        {
+          "publisher": "RTE.ie",
+          "url": "https://www.rte.ie/news/us/2026/1111/1598771-trump-bbc-lawsuit/"
+        }
+      ],
+      "summary": "A federal judge in Florida allowed President Donald Trump's defamation lawsuit against the BBC to proceed while dismissing a separate claim under state consumer protection law, ruling the edited documentary allegations sufficient to continue.",
+      "timestamp": "2026-11-11T08:42:51Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "science",
+      "extended_summary": "Shelves were left bare by the cyber-attacks Iran has described French accusations that it was behind cyber-attacks that raised the temperatures of supermarket fridges and freezers as \"baseless and hostile\". On Monday, the French authorities blamed Iran's Islamic Revolutionary Guard Corps (IRGC) for the string of hacks, which foreign minister Jean-Noël Barrot said were \"unprecedented\" in terms of their scale and \"level of aggression\". He added that those responsible would be hit with sanctions. The French cyber-attacks, which led to the destruction of tons of frozen and chilled food, were followed by a similar hacks against supermarkets across several other European countries. It is not known if the instances are linked. Barrot said the attack on France's supermarkets \"marks the first large-scale cyber-attack aimed at sabotage on our national territory, and it constitutes a major attack on the nation's interests and the security of the French people\". He said the",
+      "id": "international-science-1",
+      "micro_summary": "Home appliances could be next after fridge hacks, warns EU cyber chief.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.656,
+      "sources": [
+        {
+          "publisher": "Euronews.com",
+          "url": "https://www.euronews.com/2026/11/10/ai-is-industrialising-cyberattacks-and-shrinking-the-time-for-exploitation-says-eu-cyberse"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/11/if-hackers-can-take-over-a-supermarket-fridge-what-else-is-at-risk"
+        }
+      ],
+      "summary": "Home appliances could be next after fridge hacks, warns EU cyber chief.",
+      "timestamp": "2026-11-10T14:54:08Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "science",
+      "extended_summary": "Iran's Islamic Revolutionary Guard Corps announced it has lifted its self-imposed 2,000km range limit on ballistic missiles, with spokesman Brigadier-General Hossein Mohebbi stating the limitation has been removed. The announcement coincided with the unveiling of a new underground missile city belonging to the IRGC air force, which houses advanced weapons including the Fattah hypersonic missile and the long-range Khorramshahr. Brig Gen Seyyed Majid Mousavi, the air force commander, warned that Iran is ready to confront threats \"in the region and beyond\" and would bring American forces' capacities under fire if war resumes. Supreme Leader Mojtaba Khamenei had previously warned that any threat from the United States or Israel would be met with a response unlimited by geography. The moves come amid ongoing military hostilities and diplomatic efforts to end the conflict.",
+      "id": "international-science-2",
+      "micro_summary": "Iran lifts 2,000km missile range limit and unveils underground missile base threatening US forces.",
+      "publishers": 4,
+      "scope": "international",
+      "score": 0.648,
       "sources": [
         {
           "publisher": "The Telegraph",
@@ -46,423 +154,419 @@
         {
           "publisher": "Al Jazeera",
           "url": "https://www.aljazeera.com/news/2026/11/10/iran-lifts-2000km-limit-on-its-ballistic-missiles-what-that-means"
-        },
-        {
-          "publisher": "The Jerusalem Post",
-          "url": "https://www.jpost.com/middle-east/iran-news/article-914507"
         }
       ],
-      "summary": "Iran's Revolutionary Guard lifted its self-imposed 2,000km limit on ballistic missile range and unveiled a new underground missile city, warning it could target US forces across the Middle East and beyond if hostilities resume.",
+      "summary": "Iran's Revolutionary Guard lifted its 2,000km ballistic missile range limit and unveiled a new underground missile base, warning it could target US forces across the Middle East and beyond if hostilities resume.",
       "timestamp": "2026-11-10T18:52:00Z"
-    },
-    {
-      "ai": false,
-      "articles": 5,
-      "category": "politics",
-      "extended_summary": "Spain is bracing for a nationwide general strike over soaring rents and the cost of living, as a deepening housing crisis fuels social unrest weeks before a crucial election. The 24-hour walkout due to begin at midnight on Wednesday was called by Spain’s two biggest unions – the Comisiones Obreras (CCOO) and Union General de Trabajadores (UGT) – under their slogan: wages, housing, prices. The last time the pair called a general strike was in 2012 when the country was engulfed in an austerity crisis. The protest will disrupt transport, schools, healthcare and other public services across Spain. Flight cancellations and delays are also expected, while public transport in major cities will operate at reduced capacity. Schools, hospitals, shops and other services could also face closures or reduced staffing, although minimum services will be maintained in essential sectors. The action follows the September eviction of an 87-year-old, who has since",
-      "id": "international-politics-4",
-      "micro_summary": "Spain braces for nationwide strike as anger over housing, costs boils over.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.831,
-      "sources": [
-        {
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/10/spain-braces-for-nationwide-walkout-as-anger-over-housing-costs-boils-over"
-        },
-        {
-          "publisher": "Euronews.com",
-          "url": "https://www.euronews.com/2026/11/10/which-european-country-loses-the-most-money-when-workers-strike"
-        },
-        {
-          "publisher": "Business Travel News Europe",
-          "url": "https://www.businesstravelnewseurope.com/Air-Travel/spains-24-hour-general-strike-set-to-disrupt-travel"
-        }
-      ],
-      "summary": "Spain braces for nationwide strike as anger over housing, costs boils over.",
-      "timestamp": "2026-11-10T18:11:03Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "science",
-      "extended_summary": "At COP31 in Turkey, former US secretary of state John Kerry stated that China has hugely accelerated its transition away from fossil fuels while the rest of the world, including the US, is stumbling along. China's latest five-year plan adopted in March 2026 pledged to actively participate in and lead global climate governance for the first time. In 2025, China's clean-tech exports surpassed $220bn, making it the world's leading supplier of clean energy technology. The country accounts for about 85% of solar and 80% of lithium-ion battery supply chain production capacity, and nearly 75% of electric cars were manufactured there in 2025. During the conference, experts at the China Pavilion roundtable discussed how green tech and policy leadership can drive sustainable development and scale up action for a greener future.",
-      "id": "international-science-1",
-      "micro_summary": "China leads global clean energy transition at COP31 with $220bn in exports while other nations lag behind.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.759,
-      "sources": [
-        {
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/environment/2026/nov/10/china-green-energy-john-kerry-cop31"
-        },
-        {
-          "publisher": "Irish Independent",
-          "url": "https://www.independent.ie/world-news/how-chinas-clean-tech-is-reshaping-the-global-climate-fight/a/164343716.html"
-        },
-        {
-          "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-11-09/Watch-From-Chinese-practice-to-global-action-1RW1CNdUPCg/p.html"
-        }
-      ],
-      "summary": "At COP31 in Turkey, former US secretary of state John Kerry said China is leading the global shift from fossil fuels with over $220bn in clean-tech exports, while other nations including the US stumble along.",
-      "timestamp": "2026-11-10T19:24:00Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "science",
-      "extended_summary": "Ukrainian forces employ both manual drone units and automated defense systems to counter Russian FPV drone attacks on frontline cities. In Slovyansk, members of a drone unit called the Peaky Blinders patrol the devastated city under constant bombardment, using shotguns and intelligence to shoot down incoming Russian drones and missiles. Meanwhile, Ukrainian company Phantom Defense is preparing to mass-produce the Mangal, an automated active protection system that detects incoming FPV drones at ranges up to 60 meters and catches them with nets fired in 0.2 seconds. The system, which evolved from manual net launchers first deployed in March 2026, provides 360-degree coverage when multiple modules are integrated and costs approximately $48 per interceptor round. Both efforts reflect Ukraine's response to relentless aerial attacks on cities like Slovyansk, part of the \"fortress belt\" in Donetsk.",
-      "id": "international-science-2",
-      "micro_summary": "Ukraine uses drone units and automated net systems to counter Russian FPV attacks in Slovyansk and frontline areas.",
-      "publishers": 4,
-      "scope": "international",
-      "score": 0.744,
-      "sources": [
-        {
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cq0memrywvzro"
-        },
-        {
-          "publisher": "UNITED24 Media",
-          "url": "https://united24media.com/defense-tech/ukraines-mangal-net-launcher-catches-fpv-drones-in-02-seconds-heads-for-mass-production-24127"
-        },
-        {
-          "publisher": "Euromaidan Press",
-          "url": "https://euromaidanpress.com/2026/11/06/fishing-for-drones-a-ukrainian-box-that-fires-nets-at-fpvs-heads-for-serial-production/"
-        }
-      ],
-      "summary": "Ukrainian forces use manual drone units like the Peaky Blinders in Slovyansk and automated systems like Phantom Defense's Mangal to intercept Russian FPV drones threatening frontline cities.",
-      "timestamp": "2026-11-10T17:00:11Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "science",
-      "extended_summary": "JD Vance, viewed as the presumptive favorite for the 2028 Republican presidential nomination, issued a statement Wednesday attributing his party's midterm election defeats to foreign wars rather than immigration policies. Vance dismissed claims that ICE crackdowns on immigrant communities contributed to the losses, calling such assertions \"gaslighting,\" and insisted \"the reason we lost is the war.\" The statement signaled his alignment with the nationalist and nativist faction of the coalition, which supports maximalist immigration enforcement and opposes foreign intervention, while deepening his divide with the party's neoliberal wing led by Secretary of State Marco Rubio, who advocates foreign intervention and aid to Israel. The remarks also highlighted Vance's challenges as he begins positioning for the 2028 cycle while attempting to serve as the new standard bearer of the movement.",
-      "id": "international-science-3",
-      "micro_summary": "JD Vance claimed Republican midterm losses stemmed from foreign wars rather than immigration policies as he positions for 2028.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.68,
-      "sources": [
-        {
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/10/jd-vance-iran-war-2028-presidential-candidate"
-        },
-        {
-          "publisher": "National Review",
-          "url": "https://www.nationalreview.com/corner/the-case-for-jd-vance-to-wait-keeps-getting-stronger/"
-        },
-        {
-          "publisher": "WSJ",
-          "url": "https://www.wsj.com/opinion/free-expression/jd-vance-puts-his-finger-to-the-wind-c8448156"
-        }
-      ],
-      "summary": "JD Vance stated that Republican midterm election losses resulted from foreign wars rather than immigration enforcement, reaffirming his nationalist stance while positioning himself for the 2028 presidential nomination amid internal party divisions.",
-      "timestamp": "2026-11-10T18:34:00Z"
-    },
-    {
-      "ai": true,
-      "articles": 10,
-      "category": "sports",
-      "extended_summary": "Apprentice jockey Izzy Neale, 22, died Tuesday from injuries sustained in a Sunday fall at Warren, NSW. Racing NSW confirmed her death via a family statement. Neale was airlifted to Dubbo Hospital after falling from Marnoo, which was euthanised due to a leg injury. Another jockey, Diego Montes de Oca, was hospitalised with a foot injury after being unseated from Shadow Dane. Neale, who worked for Scone trainer Scott Singleton, had ridden 88 winners since February 2024, beginning with a victory on Scruff's Magic at Condobolin. Her death marks the first racing fatality in NSW since April 2017. Her family said she would donate her organs.",
-      "id": "international-sports-1",
-      "micro_summary": "Apprentice jockey Izzy Neale, 22, died after a fall at Warren, the first NSW racing death since 2017.",
-      "publishers": 9,
-      "scope": "international",
-      "score": 0.939,
-      "sources": [
-        {
-          "publisher": "Thoroughbred Daily News",
-          "url": "https://www.thoroughbreddailynews.com/apprentice-jockey-izzy-neale-dies-at-22-following-warren-fall/"
-        },
-        {
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/sport/horse-racing/articles/c933x3yjk530o"
-        },
-        {
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/sport/2026/nov/11/izzy-neale-dies-race-fall-apprentice-jockey-death-track-racecourse"
-        },
-        {
-          "publisher": "SMH.com.au",
-          "url": "https://www.smh.com.au/sport/racing/racing-mourns-loss-of-22-year-old-jockey-20261111-p61d6m.html"
-        },
-        {
-          "publisher": "Nine.com.au",
-          "url": "https://www.nine.com.au/sport/horse-racing/news-izzy-neale-jockey-fall-hospitalised-critical-condition-health-update-20261109-p61ch2.html"
-        }
-      ],
-      "summary": "Apprentice jockey Izzy Neale, 22, died Tuesday from injuries sustained in a Sunday fall at Warren, NSW. She had ridden 88 winners since February 2024 and was airlifted to Dubbo Hospital after falling from Marnoo.",
-      "timestamp": "2026-11-10T22:23:00Z"
     },
     {
       "ai": true,
       "articles": 11,
       "category": "sports",
-      "extended_summary": "Manchester United's senior leadership will determine head coach Michael Carrick's future during a meeting in Monaco on Wednesday. Chief executive Omar Berrada and director of football Jason Wilcox are travelling to discuss strategy, with Carrick's fate the main agenda item and a recommendation expected for his departure. Minority owner Sir Jim Ratcliffe, who bought a 28.94% stake for just over £1 billion in December 2023, will decide. United sit 18th in the Premier League relegation zone, winning one of ten games and none since August, their lowest position at this stage since 1986-87. Previous manager Ruben Amorim was sacked in January after a 1-1 draw at Leeds. If Carrick stays, Aaron Danks may join his staff, while Julian Nagelsmann, Eddie Howe, Antonio Conte and Mauricio Pochettino are linked with the job.",
-      "id": "international-sports-2",
-      "micro_summary": "Manchester United decide Michael Carrick's future in Monaco on Wednesday as club sits 18th in Premier League.",
-      "publishers": 7,
+      "extended_summary": "Manchester United have reached a verbal agreement in principle with Mauricio Pochettino to take over as head coach, replacing Michael Carrick. Carrick, who took training on Wednesday, officially remains boss but is likely to be relieved before the end of the week after chief executive Omar Berrada and director of football Jason Wilcox met co-owner Sir Jim Ratcliffe in Monaco. Pochettino, currently in charge of the USA national team, has a £7m release clause. United have endured their worst start to a season in 40 years, sitting in the Premier League relegation zone after an eight-match winless run. Carrick survived a 3-0 home defeat by Bournemouth and a 2-0 loss at Chelsea, but rescued a 4-4 draw against Aston Villa with two stoppage-time goals. Pochettino would become United's eighth permanent boss since Sir Alex Ferguson retired 13 years ago. US Soccer cancelled media access on Wednesday for Veterans Day.",
+      "id": "international-sports-1",
+      "micro_summary": "Manchester United reach verbal agreement with Mauricio Pochettino to replace Michael Carrick as head coach.",
+      "publishers": 8,
       "scope": "international",
-      "score": 0.903,
+      "score": 0.933,
       "sources": [
-        {
-          "publisher": "The Times",
-          "url": "https://www.thetimes.com/sport/football/article/mauricio-pochettino-manchester-united-michael-carrick-sacked-jim-ratcliffe-mb7cczp33"
-        },
-        {
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c8wy9yzyzxnko"
-        },
-        {
-          "publisher": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/13610742/omar-berrada-and-jason-wilcox-set-to-remain-at-man-utd-with-michael-carricks-future-in-doubt-paper-talk"
-        },
-        {
-          "publisher": "ESPN",
-          "url": "https://www.espn.com.au/football/story/_/id/50442407/mauricio-pochettino-man-united-michael-carrick-crisis"
-        },
-        {
-          "publisher": "Bavarian Football Works",
-          "url": "https://www.bavarianfootballworks.com/transfer-rumors/278960/bayern-munich-manchester-united-hoenes-karl-messi-neuer-inter-miami"
-        },
-        {
-          "publisher": "SuperSport",
-          "url": "https://supersport.com/football/news/45c03ff7-e60a-4139-9ff2-777ba51e1f39/carrick-set-to-be-sacked-by-man-utd"
-        }
-      ],
-      "summary": "Manchester United will decide Michael Carrick's future in Monaco on Wednesday as the 18th-placed club sits in the relegation zone with one win from ten games.",
-      "timestamp": "2026-11-10T20:30:00Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "sports",
-      "extended_summary": "The Minnesota Vikings acquired quarterback Kirk Cousins from the Las Vegas Raiders in exchange for a 2027 third-round pick, with the trade announced Tuesday ahead of the league's trade deadline and pending a physical. Cousins, 38, spent six seasons with Minnesota from 2018-23 before joining Atlanta in 2024 and Las Vegas in April. This season he has started all nine games, completing 202-of-315 passes (64.1%) for 2,340 yards with 20 touchdowns and eight interceptions for a 97.1 passer rating. He played under Vikings head coach Kevin O'Connell in 2022 and 2023, starting all 25 games with 6,878 yards and 47 touchdowns. The Vikings (6-2) will visit Green Bay (6-3) Sunday in Week 10. Cousins joins a quarterback room that includes Kyler Murray, who has started six games with five touchdowns and three interceptions, and Carson Wentz.",
-      "id": "international-sports-3",
-      "micro_summary": "Minnesota Vikings acquire quarterback Kirk Cousins from Las Vegas Raiders for a 2027 third-round pick.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.872,
-      "sources": [
-        {
-          "publisher": "ESPN",
-          "url": "https://www.espn.com/nfl/story/_/id/50443388/2026-nfl-trade-deadline-winners-losers-best-worst-deals"
-        },
         {
           "publisher": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/nfl-fans-react-vikings-trading-195523764.html"
+          "url": "https://sports.yahoo.com/soccer/breaking-news/article/manchester-united-reportedly-closing-in-on-deal-with-mauricio-pochettino-once-team-moves-on-from-michael-carrick-132906570.html"
         },
         {
-          "publisher": "Minnesota Vikings",
-          "url": "https://www.vikings.com/news/signing-quarterback-kirk-cousins-trade-raiders"
-        }
-      ],
-      "summary": "The Minnesota Vikings acquired quarterback Kirk Cousins from the Las Vegas Raiders for a 2027 third-round pick ahead of the trade deadline. Cousins, 38, has started all nine games this season with 2,340 passing yards and 20 touchdowns.",
-      "timestamp": "2026-11-10T21:35:00Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "sports",
-      "extended_summary": "Mitchell Starc has denied that Australian bowlers knew about the 2018 ball-tampering incident in Cape Town, contradicting claims by Usman Khawaja that the entire team was aware of plans to use sandpaper. Starc cited a 2021 statement by the bowlers saying they were unaware the ball was being tampered with on the field, seeing it only on the big screen. Khawaja made his claims in his book, and David Warner backed them, labelling the initial investigation as rushed and botched. Cricket Australia has ruled out reopening the investigation, with CEO Todd Greenberg warning a consensus will likely never be reached. Adam Gilchrist urged the team to move on from the saga ahead of a four-Test series against New Zealand beginning December 9 in Perth and an ODI against England. The other three bowlers are reported to share Starc's position, while Pat Cummins is being encouraged to address the allegations.",
-      "id": "international-sports-4",
-      "micro_summary": "Mitchell Starc denies bowlers knew of 2018 sandpaper plot as Usman Khawaja claims whole team was aware.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.86,
-      "sources": [
-        {
-          "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
-          "url": "https://www.abc.net.au/news/2026-11-11/cricket-gilchrist-urges-australia-move-on-sandpaper-recollection/107371446"
+          "publisher": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50451384/michael-carrick-mauricio-pochettino-man-united"
         },
         {
-          "publisher": "AFR",
-          "url": "https://www.afr.com/companies/sport/move-on-gilchrists-sandpaper-plea-for-sake-of-cricket-20261111-p61d6r"
-        },
-        {
-          "publisher": "The Age",
-          "url": "https://www.theage.com.au/sport/cricket/my-recollection-hasn-t-changed-starc-rejects-khawaja-tampering-claim-20261110-p61cy5.html"
-        }
-      ],
-      "summary": "Mitchell Starc stated bowlers had no knowledge of the 2018 sandpaper incident, contradicting Usman Khawaja's claim that the whole team knew, as Australia prepares for series against New Zealand and England amid renewed controversy.",
-      "timestamp": "2026-11-10T21:21:50Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "tragedies",
-      "extended_summary": "A 24-year-old gunman carried out a mass shooting in Kraków's busy Main Market Square on Saturday, killing six people and injuring 15 others, including two police officers. The victims included four Polish citizens, a British national, and an Austrian woman. The attacker, Michał Oksiński, died on Monday from injuries sustained during a shootout with police that ended the rampage. Poland's justice minister, Waldemar Żurek, stated that investigators found \"very strong traces of right-wing extremism\" in the perpetrator's activities, including visits to websites related to Norwegian terrorist Anders Breivik. A Gadsden flag was discovered at Oksiński's home. Among the injured was 19-year-old British man Harry Marchant from York, who remains in stable condition receiving hospital treatment. Two British twin sisters, Sienna and Rimini Chapman, both 20, witnessed the attack while celebrating a friend's birthday and described running for their lives when gunfire erupted shortly before 15:00 local time.",
-      "id": "international-tragedies-1",
-      "micro_summary": "A gunman killed six people in Kraków before dying from injuries sustained in a police shootout.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.798,
-      "sources": [
-        {
-          "publisher": "Notes From Poland",
-          "url": "https://notesfrompoland.com/2026/11/10/strong-traces-of-right-wing-extremism-in-activity-of-krakow-terrorist-says-justice-minister/"
-        },
-        {
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cmly0ydz8vgqo"
-        },
-        {
-          "publisher": "North Yorkshire Police",
-          "url": "https://www.northyorkshire.police.uk/news/north-yorkshire/news/news/2026/11-november/york-man-caught-up-in-polish-shooting-incident/"
-        }
-      ],
-      "summary": "A 24-year-old man shot dead six people and injured 15 others in Kraków's Main Market Square on Saturday before dying from wounds in a police shootout; investigators found strong traces of right-wing extremism in his activities.",
-      "timestamp": "2026-11-10T11:17:52Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "tragedies",
-      "extended_summary": "Severe flooding struck Gaza, killing at least four people including three children when a sand embankment collapsed onto tents. Around 1.5 million Gazans, 65% of the population, are displaced in tents or makeshift shelters after heavy rain flooded tens of thousands of tents. Hamas has been accused of confiscating tents from relief workers and blocking efforts to make camps safer, with gunmen forcing civil servants to sign pledges not to enter camps. Israel has been criticized for restricting materials for safe temporary homes, though officials said tens of thousands of tents had entered. The US-backed Board of Peace called on Israel to allow all necessary humanitarian supplies, saying the response remained insufficient. The UN reported over 150,000 tents ready outside Gaza but entry constrained by restrictions, with stocks inside exhausted.",
-      "id": "international-tragedies-3",
-      "micro_summary": "At least four died in Gaza floods as Hamas seized tents and Israel blocked aid to 1.5 million displaced.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.764,
-      "sources": [
-        {
-          "publisher": "The Telegraph",
-          "url": "https://www.telegraph.co.uk/world-news/2026/11/10/hamas-seizes-tents-from-homeless-gazans-during-deadly-storm/"
-        },
-        {
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o"
+          "publisher": "The New York Times",
+          "url": "https://www.nytimes.com/athletic/7772967/2026/11/11/manchester-united-treatment-michael-carrick/"
         },
         {
           "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/09/witnesses-struggle-save-people-buried-gaza-landslide"
+          "url": "https://www.theguardian.com/football/2026/nov/11/manchester-united-close-mauricio-pochettino-deal-michael-carrick"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.com/sport/football/articles/c65y1p9jjwj5o"
+        },
+        {
+          "publisher": "Football365",
+          "url": "https://www.football365.com/news/michael-carrick-manchester-united-sack-reaction-mauricio-pochettino-appointment"
         }
       ],
-      "summary": "Severe flooding killed at least four people including three children in Gaza, where Hamas allegedly confiscated tents and blocked camp safety efforts while Israel restricted aid supplies to around 1.5 million displaced civilians living in makeshift shelters.",
-      "timestamp": "2026-11-10T11:02:00Z"
+      "summary": "Manchester United have reached a verbal agreement in principle with Mauricio Pochettino to become head coach, replacing Michael Carrick, who is expected to be relieved of his duties before the end of the week.",
+      "timestamp": "2026-11-11T15:21:13Z"
+    },
+    {
+      "ai": true,
+      "articles": 11,
+      "category": "sports",
+      "extended_summary": "Usman Khawaja's autobiography \"Sabr\" claims the entire Australian cricket team knew about the 2018 sandpapergate ball-tampering scheme during the South Africa tour, not just Cameron Bancroft, Steve Smith and David Warner, who were banned. Khawaja, who played in the Cape Town Test, writes that he was not quizzed by Cricket Australia despite sitting next to Bancroft in the dressing room. He says he urged the team to come clean and take collective responsibility but was talked out of it by Smith. Khawaja pinpoints a win-at-all-costs environment as the root cause, quoting an unnamed coach who told the team before the tour to get the ball moving in the air by any means. Former England captain Nasser Hussain described the affair and its fallout as a \"complete mess,\" criticizing the use of sandpaper and the subsequent cover-up.",
+      "id": "international-sports-2",
+      "micro_summary": "Usman Khawaja's autobiography claims the entire Australia team knew about the 2018 sandpapergate ball-tampering scheme.",
+      "publishers": 6,
+      "scope": "international",
+      "score": 0.882,
+      "sources": [
+        {
+          "publisher": "Sky Sports",
+          "url": "https://www.skysports.com/cricket/news/13610871/sandpapergate-nasser-hussain-calls-australia-ball-tampering-scandal-a-complete-mess-after-usman-khawaja-claims"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/sport/cricket/articles/c8dx16vzvr3ko"
+        },
+        {
+          "publisher": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/cricket/2026/11/10/sandpapergate-dissected-key-chapters-usman-khawaja-book/"
+        },
+        {
+          "publisher": "Cricinfo",
+          "url": "https://www.cricinfo.com/live-blog/latest-news-sandpapergate-back-in-the-headlines-with-usman-khawaja-s-book-1562164"
+        },
+        {
+          "publisher": "News24",
+          "url": "https://www.news24.com/sport/cricket/khawaja-declines-to-confirm-if-australias-bowlers-were-aware-of-sandpaper-plot-20261111-0325"
+        }
+      ],
+      "summary": "Usman Khawaja's new autobiography claims the entire Australian cricket team knew about the 2018 sandpapergate ball-tampering scheme in South Africa, not just the three banned players, and that he was never questioned by Cricket Australia.",
+      "timestamp": "2026-11-11T12:33:47Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "The College Football Playoff rankings released in November 2026 showed unprecedented divergence from the AP poll compared to the previous two seasons. In the second week of rankings, the top 15 teams varied by 23 spots between the two polls, a dramatic increase from the eight-spot variation seen in 2025. Alabama experienced a four-spot jump from No. 7 in the AP poll to No. 3 in the CFP ranking, while Indiana dropped three spots from No. 6 to No. 9. The 13-member CFP committee included three new members this year: former Auburn coach Gus Malzahn, Louisiana athletic director Bryan Maggard, and former Cal coach Jeff Tedford, who replaced three outgoing members. Although the CFP committee protocol does not include consideration of other polls, the previous two years had shown much closer alignment between the CFP and AP rankings than the 2026 season has demonstrated.",
+      "id": "international-sports-3",
+      "micro_summary": "The 2026 CFP top 15 varied by 23 spots from the AP poll, up from eight spots in 2025.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.868,
+      "sources": [
+        {
+          "publisher": "247Sports",
+          "url": "https://247sports.com/article/college-football-playoff-tiers-week-11-292402369/"
+        },
+        {
+          "publisher": "ESPN",
+          "url": "https://www.espn.com/college-football/story/_/id/50422353/cfp-playoff-2026-bubble-watch-week-10"
+        },
+        {
+          "publisher": "AL.com",
+          "url": "https://www.al.com/alabamafootball/2026/11/the-2026-cfp-rankings-broke-major-trend-might-explain-fan-outrage.html"
+        }
+      ],
+      "summary": "2026 College Football Playoff Week 2 rankings showed a 23-spot top-15 variation from the AP poll, up from eight in 2025. Alabama rose from No. 7 to No. 3; Indiana dropped from No. 6 to No. 9.",
+      "timestamp": "2026-11-11T16:00:12Z"
+    },
+    {
+      "ai": true,
+      "articles": 10,
+      "category": "sports",
+      "extended_summary": "The Minnesota Vikings acquired quarterback Kirk Cousins from the Las Vegas Raiders for a 2027 third-round pick, using an extra third-round selection from Philadelphia obtained in an April swap for Jonathan Greenard. The move follows Carson Wentz's 8-for-25, 81-yard performance with two interceptions and a lost fumble in a 23-6 loss, the worst by a Viking since 2006, prompting Max Brosmer to enter in the fourth quarter. Cousins played for Minnesota from 2018 to 2023 before joining Atlanta in 2024, winning 13 games in 2022 and tearing his Achilles at Green Bay in Week 8 of 2023. Eight quarterbacks have started for the Vikings since he left; the team started 6-2 but is on a losing run. Las Vegas will now start 2026 first pick Fernando Mendoza.",
+      "id": "international-sports-4",
+      "micro_summary": "Minnesota Vikings trade for quarterback Kirk Cousins from Las Vegas Raiders for a 2027 third-round pick.",
+      "publishers": 6,
+      "scope": "international",
+      "score": 0.861,
+      "sources": [
+        {
+          "publisher": "NBC Sports",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kirk-cousins-isnt-officially-back-in-no-8-yet"
+        },
+        {
+          "publisher": "ESPN",
+          "url": "https://www.espn.com/nfl/story/_/id/50447756/raiders-name-fernando-mendoza-starting-qb-trading-kirk-cousins"
+        },
+        {
+          "publisher": "Green Bay Packers – packers.com",
+          "url": "https://www.packers.com/news/inbox-he-would-ve-been-a-much-bigger-story-nov-11-2026"
+        },
+        {
+          "publisher": "Sky Sports",
+          "url": "https://www.skysports.com/nfl/news/13610762/kirk-cousins-minnesota-vikings-reportedly-re-sign-quarterback-from-las-vegas-raiders"
+        }
+      ],
+      "summary": "The Minnesota Vikings acquired quarterback Kirk Cousins from the Las Vegas Raiders for a 2027 third-round pick following Carson Wentz's 8-for-25, two-interception game in a 23-6 loss.",
+      "timestamp": "2026-11-11T14:47:42Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "James Thomas Campbell, a 32-year-old DJ from Prestwick, South Ayrshire, was one of six people killed when a lone gunman opened fire in Kraków's Main Market Square on 7 November. The attacker, 24-year-old Michał Oksiński, drove into the central square shortly before 15:00 local time and fired a semi-automatic rifle at random, killing four Polish citizens, an Austrian woman and Campbell, while injuring 15 others including British man Harry Marchant, 19, from York, and two police officers. Armed officers shot Oksiński within three minutes of the attack beginning; he died in hospital on Monday. Police also found the bodies of Oksiński's parents and sister at his family home in another town, bringing the total death toll to nine. Police Scotland is supporting Campbell's family, while North Yorkshire Police confirmed Marchant remains in Poland receiving treatment in stable condition.",
+      "id": "international-tragedies-1",
+      "micro_summary": "James Campbell, 32, was among six killed when a gunman opened fire in Kraków's market square on 7 November.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.858,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/11/british-man-died-krakow-shooting-named-james-campbell"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmx28e95g2rzo"
+        },
+        {
+          "publisher": "Sky News",
+          "url": "https://news.sky.com/story/british-dj-named-as-one-of-six-people-killed-in-krakow-shooting-13611042"
+        }
+      ],
+      "summary": "A 24-year-old gunman killed six people, including British DJ James Campbell, 32, in Kraków's Main Market Square on 7 November, and later died in hospital after police shot him; he had also murdered three family members.",
+      "timestamp": "2026-11-11T14:13:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "Ukrainian drone attacks on Russian territory killed two people in the Smolensk region and wounded three workers in the Leningrad region. In Yartsevo, drone debris crashed into an apartment building, sparking a fire that killed two residents. In the Leningrad region, three workers were wounded when drones targeted the port of Ust-Luga, a key export hub for Russian oil and grain, causing a fire. Russian air defenses may have accidentally shot down a Ka-52 Alligator attack helicopter while attempting to repel the drone attack on the Leningrad region, reportedly killing both crew members, though Russian authorities have not confirmed the loss. Russia's Defense Ministry said it intercepted 627 Ukrainian drones across Russia and annexed Crimea overnight. Flights at Murmansk's main airport were temporarily suspended amid an air raid alert.",
+      "id": "international-tragedies-2",
+      "micro_summary": "Ukrainian drone strikes killed two people in Russia and possibly downed a Russian attack helicopter.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.747,
+      "sources": [
+        {
+          "publisher": "UNITED24 Media",
+          "url": "https://united24media.com/war-in-ukraine/russia-may-have-shot-down-its-own-ka-52-killing-both-pilots-during-ukrainian-drone-attack-24270"
+        },
+        {
+          "publisher": "Sky News",
+          "url": "https://news.sky.com/story/one-dead-in-russia-after-ukraine-drone-attack-as-emergency-workers-struck-by-moscow-13609678"
+        },
+        {
+          "publisher": "The Moscow Times",
+          "url": "https://www.themoscowtimes.com/2026/11/11/ukrainian-drones-kill-2-in-western-smolensk-region-as-baltics-and-finland-issue-air-alerts-a94226"
+        }
+      ],
+      "summary": "Ukrainian drone attacks killed two in Smolensk region and wounded three at Ust-Luga port in Leningrad; Russian defenses may have shot down a Ka-52 helicopter killing both crew as Russia intercepted 627 drones.",
+      "timestamp": "2026-11-11T10:32:21Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "A 61-year-old driver crashed a minivan into a metro station in North Hollywood, Los Angeles, during rush hour on Tuesday just before 6 p.m., killing three people and critically injuring two others. Police arrested the driver, Ihor Demianenko of Valley Village, on murder charges Wednesday. Officials have not determined whether the crash was intentional or accidental and plan to review video footage frame by frame. The minivan remained on the sidewalk Tuesday night with its driver's side door open and airbag deployed. Witness Luis Luna-Guzman described finding injured victims with bloody injuries near bike racks and stairs. One entrance to the metro station remained closed Tuesday night, but bus and subway services continued operating normally.",
+      "id": "international-tragedies-3",
+      "micro_summary": "A 61-year-old driver killed three people and injured two after crashing a minivan into a Los Angeles metro station.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.738,
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "url": "https://www.reuters.com/world/us/three-dead-after-vehicle-hits-pedestrians-los-angeles-fire-department-says-2026-11-11/"
+        },
+        {
+          "publisher": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/10/us/la-car-crash-north-hollywood.html"
+        },
+        {
+          "publisher": "The Independent",
+          "url": "https://www.independent.co.uk/news/world/americas/crime/metro-station-crash-ihor-demianenko-murder-charges-los-angeles-b3083263.html"
+        }
+      ],
+      "summary": "A 61-year-old minivan driver crashed into a North Hollywood metro station in Los Angeles during rush hour Tuesday, killing three people and critically injuring two others before being arrested on murder charges Wednesday.",
+      "timestamp": "2026-11-11T02:49:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "Jennifer Balcarras, 48, and her daughter Selah Reed, 20, died after a grizzly bear attack in Bella Coola, British Columbia. The women were reported missing on 1 November after failing to return from an afternoon walk, and their remains were found during searches by conservation officers and police. DNA analysis conclusively linked a sow and her three cubs to the attack, which involved rare predatory behavior. All four bears were destroyed to protect public safety. More than a dozen conservation officers participated in the investigation. DNA testing confirmed the bears were not involved in a separate November 2025 attack on a school group in the same area that injured 11 people. The victims' family described the mother and daughter as close companions who shared many hobbies.",
+      "id": "international-tragedies-4",
+      "micro_summary": "Four grizzly bears were destroyed after killing a mother and daughter in British Columbia.",
+      "publishers": 4,
+      "scope": "international",
+      "score": 0.722,
+      "sources": [
+        {
+          "publisher": "Sky News",
+          "url": "https://news.sky.com/story/four-grizzly-bears-killed-mother-and-daughter-in-canada-officials-say-13610812"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo"
+        }
+      ],
+      "summary": "Jennifer Balcarras, 48, and her daughter Selah Reed, 20, died after a grizzly bear attack in Bella Coola, British Columbia. DNA confirmed a sow and three cubs were responsible, and all four bears were destroyed to protect public safety.",
+      "timestamp": "2026-11-11T04:14:50Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "business",
+      "extended_summary": "Moody's retained its growth forecast for the Indian economy at 7 per cent for the financial year 2026-27, citing resilience to the energy supply shock, robust consumption and signs of a revival in private investment. The agency noted that India's strong macroeconomic fundamentals position it to sustain growth near 7 per cent over the medium term, with calendar-year projections showing 7 per cent growth in 2026, 2027 and 2028 following an estimated 7.3 per cent expansion in 2025. India adjusted to the energy price shock better than previously assumed through diversified crude and gas supplies, state-backed oil marketing companies and tax cuts. The agency flagged signs of a new private capital expenditure cycle, supported by robust capital goods production, accelerating industrial credit growth and rising capacity utilisation, while warning of inflationary pressures and monsoon-related risks.",
+      "id": "national-business-1",
+      "micro_summary": "Moody's retains India's 7% growth forecast for fiscal 2026-27 citing resilience to energy shocks and strong consumption.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.527,
+      "sources": [
+        {
+          "publisher": "Business Standard",
+          "url": "https://www.business-standard.com/economy/news/moody-s-retains-india-s-fy27-growth-forecast-at-7-on-resilient-demand-126111101341_1.html"
+        },
+        {
+          "publisher": "India Today",
+          "url": "https://www.indiatoday.in/business/story/indias-economy-holds-firm-against-energy-shock-moodys-lifts-growth-forecast-to-7-3036774-2026-11-11"
+        }
+      ],
+      "summary": "Moody's retained India's economic growth forecast at 7% for fiscal year 2026-27, citing resilience to the energy supply shock, robust consumption, and signs of private investment revival, while flagging inflation and monsoon risks.",
+      "timestamp": "2026-11-11T13:41:16Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "entertainment",
+      "extended_summary": "Ramayana: Part One has become the first Bollywood film to net ₹100 crore jointly from dubbed versions in Kannada, Telugu, Tamil and Malayalam. The movie earned ₹109.54 crore from South Indian dubbed versions, representing 23.07 per cent of its total ₹474.81 crore net domestic collection. Kannada contributed ₹43.32 crore, followed by Telugu with ₹34.16 crore, Tamil with ₹18.5 crore and Malayalam with ₹14.01 crore. This surpasses lifetime earnings of South Indian dubbed versions of major Bollywood releases including Dhurandhar 2, War 2, Jawan and Animal. The film also holds records for the second Bollywood movie to net ₹100 crore in India in a single day, the top worldwide IMAX opening at $6 million, the top India IMAX opening at $2 million, and the highest first-Monday sales on BookMyShow with 16.6 lakh tickets. It is also the top pre-Diwali opener with ₹64.85 crore net domestic and ₹128.75 crore worldwide.",
+      "id": "national-entertainment-1",
+      "micro_summary": "Ramayana: Part One becomes first Bollywood film to earn ₹100 crore from South Indian dubbed versions.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.637,
+      "sources": [
+        {
+          "publisher": "IMDb",
+          "url": "https://www.imdb.com/de/news/ni66105663/?ref_=ttnw_art_perm"
+        },
+        {
+          "publisher": "The Week",
+          "url": "https://www.theweek.in/news/entertainment/2026/11/11/ramayana-part-one-box-office-record-south-indian-dubbed-versions.html"
+        }
+      ],
+      "summary": "Ramayana: Part One has become the first Bollywood movie to net ₹100 crore jointly from dubbed versions in Kannada, Telugu, Tamil and Malayalam, earning ₹109.54 crore from South Indian languages out of ₹474.81 crore total domestic collection.",
+      "timestamp": "2026-11-11T11:35:30Z"
     },
     {
       "ai": true,
       "articles": 2,
       "category": "science",
-      "extended_summary": "India's Foreign Secretary Vikram Misri and the Secretary General of the French Ministry for Europe and Foreign Affairs, Martin Briens, co-chaired the 3rd India-France Strategic Space Dialogue and convened the inaugural meeting of the India-France Economic Security and Critical Technologies Dialogue in Paris. The space dialogue reviewed progress in bilateral cooperation between ISRO and CNES, discussed avenues for strategic space cooperation, pathways for commercial space collaboration between the two industrial ecosystems, and exchanged views on multilateral space matters. In parallel, the new Economic Security and Critical Technologies Dialogue was established as an institutional mechanism to strengthen supply chain resilience and accelerate joint development in emerging domains. Both officials also held comprehensive diplomatic consultations reviewing the entire spectrum of India-France bilateral relations and exchanged views on pressing regional and global issues of mutual interest.",
-      "id": "national-science-2",
-      "micro_summary": "India and France held the 3rd Strategic Space Dialogue and first Economic Security Dialogue in Paris.",
+      "extended_summary": "India and France held high-level dialogues in Paris from November 9 to 10, 2026, co-chaired by Foreign Secretary Vikram Misri and Martin Briens, Secretary-General of the French Ministry for Europe and Foreign Affairs. The two sides convened the third India-France Strategic Space Dialogue, reviewing progress since the previous edition and discussing expansion of cooperation in government-to-government and commercial space segments. They also co-chaired the inaugural meeting of the India-France Economic Security and Critical Technologies Dialogue, established during Prime Minister Narendra Modi's June 2026 visit to France. Discussions covered supply chain vulnerabilities, critical technologies, cybersecurity and measures to safeguard strategic supplies. Both sides noted the dialogue complements the India-France Innovation Roadmap 2030 and supports the objective of doubling bilateral trade within five years. Misri and Briens also reviewed the Special Global Strategic Partnership and Horizon 2047 Roadmap, covering India-EU relations, regional and global developments, and cooperation in multilateral forums.",
+      "id": "national-science-1",
+      "micro_summary": "India and France agreed to deepen cooperation in space, critical technologies and economic security during talks in Paris.",
       "publishers": 2,
       "scope": "national",
-      "score": 0.599,
+      "score": 0.62,
       "sources": [
         {
-          "publisher": "BusinessLine",
-          "url": "https://www.thehindubusinessline.com/news/india-and-france-deepen-space-cooperation-launch-critical-technologies-dialogue/article71687531.ece"
+          "publisher": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/india-france-hold-dialogues-on-economic-security-space-technology/article71690750.ece"
+        },
+        {
+          "publisher": "DD India",
+          "url": "https://ddindia.co.in/2026/11/india-and-france-strengthen-cooperation-in-space-critical-technologies-and-economic-security/"
+        }
+      ],
+      "summary": "India and France held the third Strategic Space Dialogue and inaugural Economic Security and Critical Technologies Dialogue in Paris from November 9 to 10, agreeing to deepen cooperation in space, cybersecurity and supply chain security.",
+      "timestamp": "2026-11-11T16:45:12Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "science",
+      "extended_summary": "Vespa's fashion and lifestyle exhibition, The Empty Space, will make its India debut from November 13 to 15, 2026, at Jio World Garden in Mumbai's Bandra Kurla Complex during AJIO LUXE WKEND. The three-day showcase features clothing, accessories and collectible items from collections including Al Vento, Pilot Dogs, Miscela Nostalgia, In Sella and the 2026 Vespa Lover collection. Highlights include a Patches Cargo Field Jacket in Pontedera Green, of which only one example will be displayed in India, and handmade ceramic dog figures produced in Tuscany representing different Vespa models: a greyhound for the Sprint, an Afghan Hound for the 946, and a Shiba wearing a teal helmet for the Elettrica. Garments feature bean-shaped pockets inspired by scooter bodywork. First introduced in 2024 and opened as a concept store in Milan in September 2025, the exhibition marks part of Vespa's 80-year history since 1946.",
+      "id": "national-science-2",
+      "micro_summary": "Vespa's The Empty Space exhibition debuts in Mumbai from November 13-15, 2026, at Jio World Garden.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.566,
+      "sources": [
+        {
+          "publisher": "BikeWale",
+          "url": "https://www.bikewale.com/news/vespa-the-empty-space-comes-to-india/"
+        },
+        {
+          "publisher": "Motoroids",
+          "url": "https://www.motoroids.com/news/vespa-brings-the-empty-space-fashion-showcase-to-india-for-the-first-time/"
+        }
+      ],
+      "summary": "Vespa's fashion exhibition The Empty Space debuts in India November 13-15, 2026, at Jio World Garden in Mumbai during AJIO LUXE WKEND, showcasing clothing, accessories and collectibles including a unique Patches Cargo Field Jacket and ceramic dog figures.",
+      "timestamp": "2026-11-11T15:00:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "science",
+      "extended_summary": "Union Minister of State for Science and Technology Jitendra Singh departed on a three-day official visit to Italy to strengthen India's scientific engagement with Europe. The visit centers on the Second India-Italy Science and Innovation Dialogue 2026 scheduled for November 12 in Rome, which will convene scientific institutions, researchers, and innovation stakeholders to focus on research excellence and strategic technologies. Dr. Singh will hold bilateral meetings with Italy's Minister for University and Research Anna Maria Bernini and Minister for Space and Aerospace Policy Adolfo Urso to advance cooperation in science and technology. On November 13, the minister will visit the Elettra Synchrotron Facility, the Abdus Salam International Centre for Theoretical Physics, and the International Centre for Genetic Engineering and Biotechnology in Trieste to explore research infrastructure partnerships and researcher mobility. The itinerary also includes an interaction with the Indian community in Rome and participation in a World Diabetes Day programme at the Embassy of India on November 14.",
+      "id": "national-science-3",
+      "micro_summary": "Union Minister Jitendra Singh started a three-day Italy visit for the Second India-Italy Science and Innovation Dialogue 2026 in Rome.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.566,
+      "sources": [
+        {
+          "publisher": "DD News",
+          "url": "https://ddnews.gov.in/en/dr-jitendra-singh-leaves-for-italy-to-strengthen-india-europe-scientific-cooperation/"
+        },
+        {
+          "publisher": "The Statesman",
+          "url": "https://www.thestatesman.com/india/jitendra-singh-leaves-for-italy-to-bolster-india-europe-ties-in-science-and-technology-1503661277.html"
+        }
+      ],
+      "summary": "Union Minister Jitendra Singh began a three-day visit to Italy to strengthen scientific ties, hosting the Second India-Italy Science and Innovation Dialogue 2026 in Rome on November 12 and meeting Italian ministers.",
+      "timestamp": "2026-11-11T12:55:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "India will face Maldives in the final Group B match of the SAFF Championship 2026 at the National Stadium in Dhaka on Wednesday, November 11, at 3 PM IST. A draw would be sufficient for India to qualify for the semifinals, as they hold a goal difference of +1 compared to Maldives' -3, meaning even a 0-1 defeat could secure advancement. India opened their campaign with a 3-2 victory over Pakistan, thanks to a first-half brace from Suhail Ahmad Bhat. The team is fielding a second-string squad coached by Under-23 coach Naushad Moosa, with several players released to join the senior team for upcoming friendlies against New Zealand. Maldives, ranked 173rd in the world, lost their opening fixture 3-0 to Pakistan. The match will not be televised in India but will be available via live stream on the Veto app.",
+      "id": "national-sports-1",
+      "micro_summary": "India faces Maldives in SAFF Championship Group B match needing only a draw to reach semifinals.",
+      "publishers": 4,
+      "scope": "national",
+      "score": 0.736,
+      "sources": [
+        {
+          "publisher": "Olympics",
+          "url": "https://www.olympics.com/en/news/saff-championship-2026-football-india-vs-maldives-match-report"
+        },
+        {
+          "publisher": "Sportstar",
+          "url": "https://sportstar.thehindu.com/football/indian-football/india-vs-new-zealand-football-live-streaming-info-where-to-watch-2026-telecast-tv-channel-details/article71688500.ece"
         },
         {
           "publisher": "News On AIR",
-          "url": "https://newsonair.gov.in/india-france-hold-third-strategic-space-dialogue-in-paris/"
+          "url": "https://newsonair.gov.in/india-take-on-maldives-in-final-group-match-of-saff-championship-in-dhaka/"
+        },
+        {
+          "publisher": "NDTV Sports",
+          "url": "https://sports.ndtv.com/football/india-vs-maldives-live-streaming-saff-championship-2026-live-telecast-when-and-where-to-watch-12311551"
         }
       ],
-      "summary": "India's Foreign Secretary Vikram Misri and French official Martin Briens co-chaired the 3rd India-France Strategic Space Dialogue and the inaugural Economic Security and Critical Technologies Dialogue in Paris, reviewing bilateral space cooperation and supply chain resilience.",
-      "timestamp": "2026-11-10T23:04:35Z"
+      "summary": "India plays Maldives in the SAFF Championship 2026 Group B decider in Dhaka on Wednesday, needing only a draw to qualify for the semifinals after beating Pakistan 3-2 in the opener.",
+      "timestamp": "2026-11-11T12:58:00Z"
     },
     {
-      "ai": false,
+      "ai": true,
       "articles": 3,
-      "category": "sports",
-      "extended_summary": "Being dropped from the team you once led is never easy. Finding the motivation to pick yourself up and fight your way back can be even harder. For Suryakumar Yadav, the blow was particularly painful. He had captained India to a successful T20 World Cup title defence, only to find himself out of the national setup a few months later.A prolonged lean patch with the bat eventually cost him his place in the side. The BCCI decided to move on from the former skipper ahead of the England tour, with Shreyas Iyer taking over the leadership responsibilities.The fall from being at the helm of a World Cup-winning side to watching from the sidelines took its toll. But Suryakumar is now beginning to find his feet again, rediscovering the love and passion that first drew him towards the game.Speaking to the media at a T20 Mumbai League Celebrating the Champions event,",
-      "id": "national-sports-1",
-      "micro_summary": "India snub hit hard, but Suryakumar Yadav is rediscovering love, passion for cricket.",
+      "category": "tragedies",
+      "extended_summary": "Unidentified motorcycle-borne assailants opened fire on Central Reserve Police Force (CRPF) personnel deployed at a naka in Jammu and Kashmir's Kulgam district on Wednesday afternoon. The incident took place at around 2:15 pm when the attackers fired upon the security personnel stationed at the checkpoint before fleeing the spot. Two or three CRPF personnel sustained injuries during the firing incident. The injured jawans were promptly shifted to a hospital in neighbouring Anantnag district in south Kashmir for medical treatment. The assailants, who arrived on a motorcycle, escaped immediately after opening fire. The attack occurred in Kulgam district while the CRPF personnel were on duty at the security post.",
+      "id": "national-tragedies-1",
+      "micro_summary": "Two or three CRPF personnel were injured when motorcycle-borne assailants opened fire in Kulgam district.",
       "publishers": 3,
       "scope": "national",
-      "score": 0.697,
+      "score": 0.643,
       "sources": [
         {
-          "publisher": "India Today",
-          "url": "https://www.indiatoday.in/sports/cricket/story/suryakumar-yadav-india-team-exit-cricket-passion-mumbai-smat-2026-3036438-2026-11-11"
+          "publisher": "NDTV",
+          "url": "https://www.ndtv.com/india-news/jammu-and-kashmir-firing-terrorists-fire-at-security-personnel-in-jammu-and-kashmis-kulgam-crpfs-full-statement-12312211"
         },
-        {
-          "publisher": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/cricket/surya-rediscovers-joy-of-cricket-after-the-pain-of-india-axing-101794328251298.html"
-        },
-        {
-          "publisher": "Rediff",
-          "url": "https://www.rediff.com/cricket/report/suryakumar-yadavs-journey-from-t20-world-cup-drop-to-rediscovering-cricket-passion/20261110.htm"
-        }
-      ],
-      "summary": "India snub hit hard, but Suryakumar Yadav is rediscovering love, passion for cricket. For Suryakumar Yadav, the blow was particularly painful.",
-      "timestamp": "2026-11-10T21:30:21Z"
-    },
-    {
-      "ai": true,
-      "articles": 2,
-      "category": "sports",
-      "extended_summary": "India have named squads for the December all-format tour of South Africa. Smriti Mandhana will captain the one-Test, three-ODI and three-T20I series, with Deepti Sharma as vice-captain for the Test and ODIs and Shafali Verma in the T20Is. The tour starts with the Test in Gqeberha on December 9, followed by ODIs in Paarl, Cape Town and Bloemfontein from December 16 to 22, and T20Is beginning in Benoni on December 26 with the rest in Potchefstroom. Jemimah Rodrigues returns from a hamstring injury, while Amanjot Kaur also recovers for the T20I squad. Jintimani Kalita is in the Test and ODI squads, Nandani Sharma in all three, and Renuka Singh only in the T20Is. Richa Ghosh is the first-choice wicket-keeper. This is India's second visit to South Africa this year after losing the April T20I series 1-4.",
-      "id": "national-sports-4",
-      "micro_summary": "India named Smriti Mandhana-led squads for South Africa tour featuring one Test, three ODIs and three T20Is.",
-      "publishers": 2,
-      "scope": "national",
-      "score": 0.502,
-      "sources": [
-        {
-          "publisher": "ICC",
-          "url": "https://www.icc-cricket.com/news/india-name-squads-for-multi-format-tour-of-south-africa"
-        },
-        {
-          "publisher": "The Indian Awaaz",
-          "url": "https://theindianawaaz.com/women-cricket-smriti-mandhana-to-lead-squad-for-upcoming-all-format-tour-of-south-africa/"
-        }
-      ],
-      "summary": "India named squads for the December tour of South Africa, with Smriti Mandhana captaining the one-Test, three-ODI and three-T20I series. Deepti Sharma and Shafali Verma serve as vice-captains, while Jemimah Rodrigues and Amanjot Kaur return from injury.",
-      "timestamp": "2026-11-10T14:45:00Z"
-    },
-    {
-      "ai": true,
-      "articles": 2,
-      "category": "tragedies",
-      "extended_summary": "Three contract workers died after inhaling gas during an inspection at a Tata Electronics factory in India that produces iPhone components. Apple's team is visiting the plant to assist in the ongoing investigation, though the company did not respond when reached for comment. Tata and Tamil Nadu authorities are also investigating the fatal accident. Production was not affected as the facility was closed for the Hindu festival of Deepavali this week. The facility is part of Apple's supply chain in India, which has become a major production hub with roughly a quarter of the world's iPhones now manufactured in the country as Apple diversifies manufacturing away from China.",
-      "id": "national-tragedies-1",
-      "micro_summary": "Three contract workers died after inhaling gas at a Tata Electronics factory in India producing iPhone components.",
-      "publishers": 2,
-      "scope": "national",
-      "score": 0.607,
-      "sources": [
-        {
-          "publisher": "Reuters",
-          "url": "https://www.reuters.com/world/india/three-workers-die-tata-electronics-iphone-parts-plant-new-indian-express-reports-2026-11-10/"
-        },
-        {
-          "publisher": "9to5Mac",
-          "url": "https://9to5mac.com/2026/11/10/apple-to-investigate-accident-that-killed-three-workers-at-iphone-parts-factory-in-india/"
-        }
-      ],
-      "summary": "Three contract workers died after inhaling gas during an inspection at a Tata Electronics factory in India that produces iPhone components. Apple's team is visiting the plant to assist the investigation, while production remained unaffected due to a festival closure.",
-      "timestamp": "2026-11-10T21:34:00Z"
-    },
-    {
-      "ai": true,
-      "articles": 2,
-      "category": "tragedies",
-      "extended_summary": "Researchers at IIT-Madras and Gauhati University have developed a climate-network method that uses 84 years of rainfall data to identify when the monsoon becomes established at specific locations, distinguishing sustained rainfall from brief, localised showers. The approach treats geographical locations as nodes in a network, with links representing spatial connections between areas experiencing rainfall onset, and tracks the growth of clusters to determine when local rainfall becomes part of the largest planetary-scale monsoon system. The study found that large-scale onset occurs climatologically around May 15 over the northeast and June 9 over the Indian peninsula, marked by an abrupt increase in the size of the largest cluster followed by northward progression. Intended to complement existing operational definitions, the method could provide farmers with more reliable sowing information and assist policymakers with food security, water-resource management and flood preparedness.",
-      "id": "national-tragedies-2",
-      "micro_summary": "IIT-Madras and Gauhati University researchers developed a climate-network method using 84 years of data to identify sustained monsoon onset.",
-      "publishers": 2,
-      "scope": "national",
-      "score": 0.604,
-      "sources": [
         {
           "publisher": "The Times of India",
-          "url": "https://timesofindia.indiatimes.com/city/guwahati/study-tracks-monsoon-arrival-to-improve-farming-flood-planning/articleshow/135718289.cms"
+          "url": "https://timesofindia.indiatimes.com/india/terrorists-attack-crpf-personnel-in-jks-kulgam-search-operation-launched/articleshow/135732041.cms"
         },
         {
-          "publisher": "Urban Acres",
-          "url": "https://urbanacres.in/monsoon-onset-study-could-sharpen-indias-flood-planning/"
+          "publisher": "India Today",
+          "url": "https://www.indiatoday.in/amp/newsmo/short-videos/cctv-captures-terrorists-opening-fire-at-crpf-post-in-kulgam-3036903-2026-11-11"
         }
       ],
-      "summary": "IIT-Madras and Gauhati University researchers developed a climate-network method using 84 years of data to distinguish sustained monsoon onset from isolated showers, identifying onset around May 15 in the northeast and June 9 over the peninsula for planning.",
-      "timestamp": "2026-11-10T19:40:38Z"
+      "summary": "Unidentified motorcycle-borne assailants opened fire on CRPF personnel at a checkpoint in Jammu and Kashmir's Kulgam district on Wednesday around 2:15 pm, injuring two or three jawans before fleeing; the injured were shifted to a hospital in Anantnag district.",
+      "timestamp": "2026-11-11T14:34:54Z"
     }
   ]
 }
