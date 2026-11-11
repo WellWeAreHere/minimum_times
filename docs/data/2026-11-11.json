@@ -1,0 +1,468 @@
+{
+  "date": "2026-11-11",
+  "events": [
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "Thomas Markle, the 82-year-old father of Meghan, Duchess of Sussex, was ordered held in federal custody in Tampa, Florida, after a judge revoked his pretrial release for cutting off his electronic ankle monitor at 1:45 a.m. on Tuesday. Markle was arrested the previous Friday after authorities seized approximately 78 items, including slides, film negatives and books containing suspected child sexual abuse images, from storage units he had rented in the Los Angeles area since 2008. A special agent identified approximately 18 images as child pornography, and witnesses identified Markle in two images appearing to show him in his 30s or 40s. Charged with one count of possessing indecent images of children, Markle had been released on conditions including house detention at a Florida assisted living facility and electronic monitoring. The magistrate judge found his housing situation untenable and ordered a medical evaluation.",
+      "id": "international-politics-1",
+      "micro_summary": "Thomas Markle, 82, was jailed after cutting off his ankle monitor following his arrest for possessing child sexual abuse material.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.857,
+      "sources": [
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro"
+        },
+        {
+          "publisher": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/10/us/thomas-markle-ankle-monitor-jail.html"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/10/thomas-markle-ankle-monitor"
+        }
+      ],
+      "summary": "Thomas Markle, 82, father of the Duchess of Sussex, was ordered detained in federal custody after cutting off his ankle monitor. He was arrested for possessing 78 items of suspected child sexual abuse material in Los Angeles storage units.",
+      "timestamp": "2026-11-10T20:02:54Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "Iran's Islamic Revolutionary Guard Corps announced it has lifted its self-imposed 2,000km limit on ballistic missile range, raising concerns about strikes beyond the Middle East. Brigadier-General Hossein Mohebbi stated the limitation has been removed as Tehran shifts toward an offensive military doctrine. The announcement coincided with the unveiling of a new underground missile base housing ballistic and cruise missiles including the Fattah hypersonic missile and long-range Khorramshahr. Brig Gen Seyyed Majid Mousavi warned Iran was ready to confront any threat in the region and beyond, stating that if necessary, all enemy capacities would be brought under fire. Supreme Leader Mojtaba Khamenei had previously warned that any threat from the United States or Israel would be met with a response unlimited by geography. The moves come amid diplomatic efforts to end the US-Israel war on Iran and as the US maintains a naval blockade on Iranian ports.",
+      "id": "international-politics-2",
+      "micro_summary": "Iran lifts 2,000km missile range limit and unveils underground missile base threatening US forces beyond Middle East.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.846,
+      "sources": [
+        {
+          "publisher": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/world-news/2026/11/10/iran-unveils-new-missile-city/"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/10/iran-lifts-2000km-limit-on-its-ballistic-missiles-what-that-means"
+        },
+        {
+          "publisher": "The Jerusalem Post",
+          "url": "https://www.jpost.com/middle-east/iran-news/article-914507"
+        }
+      ],
+      "summary": "Iran's Revolutionary Guard lifted its self-imposed 2,000km limit on ballistic missile range and unveiled a new underground missile city, warning it could target US forces across the Middle East and beyond if hostilities resume.",
+      "timestamp": "2026-11-10T18:52:00Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "Spain is bracing for a nationwide general strike over soaring rents and the cost of living, as a deepening housing crisis fuels social unrest weeks before a crucial election. The 24-hour walkout due to begin at midnight on Wednesday was called by Spain’s two biggest unions – the Comisiones Obreras (CCOO) and Union General de Trabajadores (UGT) – under their slogan: wages, housing, prices. The last time the pair called a general strike was in 2012 when the country was engulfed in an austerity crisis. The protest will disrupt transport, schools, healthcare and other public services across Spain. Flight cancellations and delays are also expected, while public transport in major cities will operate at reduced capacity. Schools, hospitals, shops and other services could also face closures or reduced staffing, although minimum services will be maintained in essential sectors. The action follows the September eviction of an 87-year-old, who has since",
+      "id": "international-politics-4",
+      "micro_summary": "Spain braces for nationwide strike as anger over housing, costs boils over.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.831,
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/10/spain-braces-for-nationwide-walkout-as-anger-over-housing-costs-boils-over"
+        },
+        {
+          "publisher": "Euronews.com",
+          "url": "https://www.euronews.com/2026/11/10/which-european-country-loses-the-most-money-when-workers-strike"
+        },
+        {
+          "publisher": "Business Travel News Europe",
+          "url": "https://www.businesstravelnewseurope.com/Air-Travel/spains-24-hour-general-strike-set-to-disrupt-travel"
+        }
+      ],
+      "summary": "Spain braces for nationwide strike as anger over housing, costs boils over.",
+      "timestamp": "2026-11-10T18:11:03Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "science",
+      "extended_summary": "At COP31 in Turkey, former US secretary of state John Kerry stated that China has hugely accelerated its transition away from fossil fuels while the rest of the world, including the US, is stumbling along. China's latest five-year plan adopted in March 2026 pledged to actively participate in and lead global climate governance for the first time. In 2025, China's clean-tech exports surpassed $220bn, making it the world's leading supplier of clean energy technology. The country accounts for about 85% of solar and 80% of lithium-ion battery supply chain production capacity, and nearly 75% of electric cars were manufactured there in 2025. During the conference, experts at the China Pavilion roundtable discussed how green tech and policy leadership can drive sustainable development and scale up action for a greener future.",
+      "id": "international-science-1",
+      "micro_summary": "China leads global clean energy transition at COP31 with $220bn in exports while other nations lag behind.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.759,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/environment/2026/nov/10/china-green-energy-john-kerry-cop31"
+        },
+        {
+          "publisher": "Irish Independent",
+          "url": "https://www.independent.ie/world-news/how-chinas-clean-tech-is-reshaping-the-global-climate-fight/a/164343716.html"
+        },
+        {
+          "publisher": "CGTN",
+          "url": "https://news.cgtn.com/news/2026-11-09/Watch-From-Chinese-practice-to-global-action-1RW1CNdUPCg/p.html"
+        }
+      ],
+      "summary": "At COP31 in Turkey, former US secretary of state John Kerry said China is leading the global shift from fossil fuels with over $220bn in clean-tech exports, while other nations including the US stumble along.",
+      "timestamp": "2026-11-10T19:24:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "science",
+      "extended_summary": "Ukrainian forces employ both manual drone units and automated defense systems to counter Russian FPV drone attacks on frontline cities. In Slovyansk, members of a drone unit called the Peaky Blinders patrol the devastated city under constant bombardment, using shotguns and intelligence to shoot down incoming Russian drones and missiles. Meanwhile, Ukrainian company Phantom Defense is preparing to mass-produce the Mangal, an automated active protection system that detects incoming FPV drones at ranges up to 60 meters and catches them with nets fired in 0.2 seconds. The system, which evolved from manual net launchers first deployed in March 2026, provides 360-degree coverage when multiple modules are integrated and costs approximately $48 per interceptor round. Both efforts reflect Ukraine's response to relentless aerial attacks on cities like Slovyansk, part of the \"fortress belt\" in Donetsk.",
+      "id": "international-science-2",
+      "micro_summary": "Ukraine uses drone units and automated net systems to counter Russian FPV attacks in Slovyansk and frontline areas.",
+      "publishers": 4,
+      "scope": "international",
+      "score": 0.744,
+      "sources": [
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq0memrywvzro"
+        },
+        {
+          "publisher": "UNITED24 Media",
+          "url": "https://united24media.com/defense-tech/ukraines-mangal-net-launcher-catches-fpv-drones-in-02-seconds-heads-for-mass-production-24127"
+        },
+        {
+          "publisher": "Euromaidan Press",
+          "url": "https://euromaidanpress.com/2026/11/06/fishing-for-drones-a-ukrainian-box-that-fires-nets-at-fpvs-heads-for-serial-production/"
+        }
+      ],
+      "summary": "Ukrainian forces use manual drone units like the Peaky Blinders in Slovyansk and automated systems like Phantom Defense's Mangal to intercept Russian FPV drones threatening frontline cities.",
+      "timestamp": "2026-11-10T17:00:11Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "science",
+      "extended_summary": "JD Vance, viewed as the presumptive favorite for the 2028 Republican presidential nomination, issued a statement Wednesday attributing his party's midterm election defeats to foreign wars rather than immigration policies. Vance dismissed claims that ICE crackdowns on immigrant communities contributed to the losses, calling such assertions \"gaslighting,\" and insisted \"the reason we lost is the war.\" The statement signaled his alignment with the nationalist and nativist faction of the coalition, which supports maximalist immigration enforcement and opposes foreign intervention, while deepening his divide with the party's neoliberal wing led by Secretary of State Marco Rubio, who advocates foreign intervention and aid to Israel. The remarks also highlighted Vance's challenges as he begins positioning for the 2028 cycle while attempting to serve as the new standard bearer of the movement.",
+      "id": "international-science-3",
+      "micro_summary": "JD Vance claimed Republican midterm losses stemmed from foreign wars rather than immigration policies as he positions for 2028.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.68,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/10/jd-vance-iran-war-2028-presidential-candidate"
+        },
+        {
+          "publisher": "National Review",
+          "url": "https://www.nationalreview.com/corner/the-case-for-jd-vance-to-wait-keeps-getting-stronger/"
+        },
+        {
+          "publisher": "WSJ",
+          "url": "https://www.wsj.com/opinion/free-expression/jd-vance-puts-his-finger-to-the-wind-c8448156"
+        }
+      ],
+      "summary": "JD Vance stated that Republican midterm election losses resulted from foreign wars rather than immigration enforcement, reaffirming his nationalist stance while positioning himself for the 2028 presidential nomination amid internal party divisions.",
+      "timestamp": "2026-11-10T18:34:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 10,
+      "category": "sports",
+      "extended_summary": "Apprentice jockey Izzy Neale, 22, died Tuesday from injuries sustained in a Sunday fall at Warren, NSW. Racing NSW confirmed her death via a family statement. Neale was airlifted to Dubbo Hospital after falling from Marnoo, which was euthanised due to a leg injury. Another jockey, Diego Montes de Oca, was hospitalised with a foot injury after being unseated from Shadow Dane. Neale, who worked for Scone trainer Scott Singleton, had ridden 88 winners since February 2024, beginning with a victory on Scruff's Magic at Condobolin. Her death marks the first racing fatality in NSW since April 2017. Her family said she would donate her organs.",
+      "id": "international-sports-1",
+      "micro_summary": "Apprentice jockey Izzy Neale, 22, died after a fall at Warren, the first NSW racing death since 2017.",
+      "publishers": 9,
+      "scope": "international",
+      "score": 0.939,
+      "sources": [
+        {
+          "publisher": "Thoroughbred Daily News",
+          "url": "https://www.thoroughbreddailynews.com/apprentice-jockey-izzy-neale-dies-at-22-following-warren-fall/"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/sport/horse-racing/articles/c933x3yjk530o"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/sport/2026/nov/11/izzy-neale-dies-race-fall-apprentice-jockey-death-track-racecourse"
+        },
+        {
+          "publisher": "SMH.com.au",
+          "url": "https://www.smh.com.au/sport/racing/racing-mourns-loss-of-22-year-old-jockey-20261111-p61d6m.html"
+        },
+        {
+          "publisher": "Nine.com.au",
+          "url": "https://www.nine.com.au/sport/horse-racing/news-izzy-neale-jockey-fall-hospitalised-critical-condition-health-update-20261109-p61ch2.html"
+        }
+      ],
+      "summary": "Apprentice jockey Izzy Neale, 22, died Tuesday from injuries sustained in a Sunday fall at Warren, NSW. She had ridden 88 winners since February 2024 and was airlifted to Dubbo Hospital after falling from Marnoo.",
+      "timestamp": "2026-11-10T22:23:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 11,
+      "category": "sports",
+      "extended_summary": "Manchester United's senior leadership will determine head coach Michael Carrick's future during a meeting in Monaco on Wednesday. Chief executive Omar Berrada and director of football Jason Wilcox are travelling to discuss strategy, with Carrick's fate the main agenda item and a recommendation expected for his departure. Minority owner Sir Jim Ratcliffe, who bought a 28.94% stake for just over £1 billion in December 2023, will decide. United sit 18th in the Premier League relegation zone, winning one of ten games and none since August, their lowest position at this stage since 1986-87. Previous manager Ruben Amorim was sacked in January after a 1-1 draw at Leeds. If Carrick stays, Aaron Danks may join his staff, while Julian Nagelsmann, Eddie Howe, Antonio Conte and Mauricio Pochettino are linked with the job.",
+      "id": "international-sports-2",
+      "micro_summary": "Manchester United decide Michael Carrick's future in Monaco on Wednesday as club sits 18th in Premier League.",
+      "publishers": 7,
+      "scope": "international",
+      "score": 0.903,
+      "sources": [
+        {
+          "publisher": "The Times",
+          "url": "https://www.thetimes.com/sport/football/article/mauricio-pochettino-manchester-united-michael-carrick-sacked-jim-ratcliffe-mb7cczp33"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c8wy9yzyzxnko"
+        },
+        {
+          "publisher": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/13610742/omar-berrada-and-jason-wilcox-set-to-remain-at-man-utd-with-michael-carricks-future-in-doubt-paper-talk"
+        },
+        {
+          "publisher": "ESPN",
+          "url": "https://www.espn.com.au/football/story/_/id/50442407/mauricio-pochettino-man-united-michael-carrick-crisis"
+        },
+        {
+          "publisher": "Bavarian Football Works",
+          "url": "https://www.bavarianfootballworks.com/transfer-rumors/278960/bayern-munich-manchester-united-hoenes-karl-messi-neuer-inter-miami"
+        },
+        {
+          "publisher": "SuperSport",
+          "url": "https://supersport.com/football/news/45c03ff7-e60a-4139-9ff2-777ba51e1f39/carrick-set-to-be-sacked-by-man-utd"
+        }
+      ],
+      "summary": "Manchester United will decide Michael Carrick's future in Monaco on Wednesday as the 18th-placed club sits in the relegation zone with one win from ten games.",
+      "timestamp": "2026-11-10T20:30:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "The Minnesota Vikings acquired quarterback Kirk Cousins from the Las Vegas Raiders in exchange for a 2027 third-round pick, with the trade announced Tuesday ahead of the league's trade deadline and pending a physical. Cousins, 38, spent six seasons with Minnesota from 2018-23 before joining Atlanta in 2024 and Las Vegas in April. This season he has started all nine games, completing 202-of-315 passes (64.1%) for 2,340 yards with 20 touchdowns and eight interceptions for a 97.1 passer rating. He played under Vikings head coach Kevin O'Connell in 2022 and 2023, starting all 25 games with 6,878 yards and 47 touchdowns. The Vikings (6-2) will visit Green Bay (6-3) Sunday in Week 10. Cousins joins a quarterback room that includes Kyler Murray, who has started six games with five touchdowns and three interceptions, and Carson Wentz.",
+      "id": "international-sports-3",
+      "micro_summary": "Minnesota Vikings acquire quarterback Kirk Cousins from Las Vegas Raiders for a 2027 third-round pick.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.872,
+      "sources": [
+        {
+          "publisher": "ESPN",
+          "url": "https://www.espn.com/nfl/story/_/id/50443388/2026-nfl-trade-deadline-winners-losers-best-worst-deals"
+        },
+        {
+          "publisher": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/nfl-fans-react-vikings-trading-195523764.html"
+        },
+        {
+          "publisher": "Minnesota Vikings",
+          "url": "https://www.vikings.com/news/signing-quarterback-kirk-cousins-trade-raiders"
+        }
+      ],
+      "summary": "The Minnesota Vikings acquired quarterback Kirk Cousins from the Las Vegas Raiders for a 2027 third-round pick ahead of the trade deadline. Cousins, 38, has started all nine games this season with 2,340 passing yards and 20 touchdowns.",
+      "timestamp": "2026-11-10T21:35:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "Mitchell Starc has denied that Australian bowlers knew about the 2018 ball-tampering incident in Cape Town, contradicting claims by Usman Khawaja that the entire team was aware of plans to use sandpaper. Starc cited a 2021 statement by the bowlers saying they were unaware the ball was being tampered with on the field, seeing it only on the big screen. Khawaja made his claims in his book, and David Warner backed them, labelling the initial investigation as rushed and botched. Cricket Australia has ruled out reopening the investigation, with CEO Todd Greenberg warning a consensus will likely never be reached. Adam Gilchrist urged the team to move on from the saga ahead of a four-Test series against New Zealand beginning December 9 in Perth and an ODI against England. The other three bowlers are reported to share Starc's position, while Pat Cummins is being encouraged to address the allegations.",
+      "id": "international-sports-4",
+      "micro_summary": "Mitchell Starc denies bowlers knew of 2018 sandpaper plot as Usman Khawaja claims whole team was aware.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.86,
+      "sources": [
+        {
+          "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "url": "https://www.abc.net.au/news/2026-11-11/cricket-gilchrist-urges-australia-move-on-sandpaper-recollection/107371446"
+        },
+        {
+          "publisher": "AFR",
+          "url": "https://www.afr.com/companies/sport/move-on-gilchrists-sandpaper-plea-for-sake-of-cricket-20261111-p61d6r"
+        },
+        {
+          "publisher": "The Age",
+          "url": "https://www.theage.com.au/sport/cricket/my-recollection-hasn-t-changed-starc-rejects-khawaja-tampering-claim-20261110-p61cy5.html"
+        }
+      ],
+      "summary": "Mitchell Starc stated bowlers had no knowledge of the 2018 sandpaper incident, contradicting Usman Khawaja's claim that the whole team knew, as Australia prepares for series against New Zealand and England amid renewed controversy.",
+      "timestamp": "2026-11-10T21:21:50Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "A 24-year-old gunman carried out a mass shooting in Kraków's busy Main Market Square on Saturday, killing six people and injuring 15 others, including two police officers. The victims included four Polish citizens, a British national, and an Austrian woman. The attacker, Michał Oksiński, died on Monday from injuries sustained during a shootout with police that ended the rampage. Poland's justice minister, Waldemar Żurek, stated that investigators found \"very strong traces of right-wing extremism\" in the perpetrator's activities, including visits to websites related to Norwegian terrorist Anders Breivik. A Gadsden flag was discovered at Oksiński's home. Among the injured was 19-year-old British man Harry Marchant from York, who remains in stable condition receiving hospital treatment. Two British twin sisters, Sienna and Rimini Chapman, both 20, witnessed the attack while celebrating a friend's birthday and described running for their lives when gunfire erupted shortly before 15:00 local time.",
+      "id": "international-tragedies-1",
+      "micro_summary": "A gunman killed six people in Kraków before dying from injuries sustained in a police shootout.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.798,
+      "sources": [
+        {
+          "publisher": "Notes From Poland",
+          "url": "https://notesfrompoland.com/2026/11/10/strong-traces-of-right-wing-extremism-in-activity-of-krakow-terrorist-says-justice-minister/"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmly0ydz8vgqo"
+        },
+        {
+          "publisher": "North Yorkshire Police",
+          "url": "https://www.northyorkshire.police.uk/news/north-yorkshire/news/news/2026/11-november/york-man-caught-up-in-polish-shooting-incident/"
+        }
+      ],
+      "summary": "A 24-year-old man shot dead six people and injured 15 others in Kraków's Main Market Square on Saturday before dying from wounds in a police shootout; investigators found strong traces of right-wing extremism in his activities.",
+      "timestamp": "2026-11-10T11:17:52Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "Severe flooding struck Gaza, killing at least four people including three children when a sand embankment collapsed onto tents. Around 1.5 million Gazans, 65% of the population, are displaced in tents or makeshift shelters after heavy rain flooded tens of thousands of tents. Hamas has been accused of confiscating tents from relief workers and blocking efforts to make camps safer, with gunmen forcing civil servants to sign pledges not to enter camps. Israel has been criticized for restricting materials for safe temporary homes, though officials said tens of thousands of tents had entered. The US-backed Board of Peace called on Israel to allow all necessary humanitarian supplies, saying the response remained insufficient. The UN reported over 150,000 tents ready outside Gaza but entry constrained by restrictions, with stocks inside exhausted.",
+      "id": "international-tragedies-3",
+      "micro_summary": "At least four died in Gaza floods as Hamas seized tents and Israel blocked aid to 1.5 million displaced.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.764,
+      "sources": [
+        {
+          "publisher": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/world-news/2026/11/10/hamas-seizes-tents-from-homeless-gazans-during-deadly-storm/"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/09/witnesses-struggle-save-people-buried-gaza-landslide"
+        }
+      ],
+      "summary": "Severe flooding killed at least four people including three children in Gaza, where Hamas allegedly confiscated tents and blocked camp safety efforts while Israel restricted aid supplies to around 1.5 million displaced civilians living in makeshift shelters.",
+      "timestamp": "2026-11-10T11:02:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "science",
+      "extended_summary": "India's Foreign Secretary Vikram Misri and the Secretary General of the French Ministry for Europe and Foreign Affairs, Martin Briens, co-chaired the 3rd India-France Strategic Space Dialogue and convened the inaugural meeting of the India-France Economic Security and Critical Technologies Dialogue in Paris. The space dialogue reviewed progress in bilateral cooperation between ISRO and CNES, discussed avenues for strategic space cooperation, pathways for commercial space collaboration between the two industrial ecosystems, and exchanged views on multilateral space matters. In parallel, the new Economic Security and Critical Technologies Dialogue was established as an institutional mechanism to strengthen supply chain resilience and accelerate joint development in emerging domains. Both officials also held comprehensive diplomatic consultations reviewing the entire spectrum of India-France bilateral relations and exchanged views on pressing regional and global issues of mutual interest.",
+      "id": "national-science-2",
+      "micro_summary": "India and France held the 3rd Strategic Space Dialogue and first Economic Security Dialogue in Paris.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.599,
+      "sources": [
+        {
+          "publisher": "BusinessLine",
+          "url": "https://www.thehindubusinessline.com/news/india-and-france-deepen-space-cooperation-launch-critical-technologies-dialogue/article71687531.ece"
+        },
+        {
+          "publisher": "News On AIR",
+          "url": "https://newsonair.gov.in/india-france-hold-third-strategic-space-dialogue-in-paris/"
+        }
+      ],
+      "summary": "India's Foreign Secretary Vikram Misri and French official Martin Briens co-chaired the 3rd India-France Strategic Space Dialogue and the inaugural Economic Security and Critical Technologies Dialogue in Paris, reviewing bilateral space cooperation and supply chain resilience.",
+      "timestamp": "2026-11-10T23:04:35Z"
+    },
+    {
+      "ai": false,
+      "articles": 3,
+      "category": "sports",
+      "extended_summary": "Being dropped from the team you once led is never easy. Finding the motivation to pick yourself up and fight your way back can be even harder. For Suryakumar Yadav, the blow was particularly painful. He had captained India to a successful T20 World Cup title defence, only to find himself out of the national setup a few months later.A prolonged lean patch with the bat eventually cost him his place in the side. The BCCI decided to move on from the former skipper ahead of the England tour, with Shreyas Iyer taking over the leadership responsibilities.The fall from being at the helm of a World Cup-winning side to watching from the sidelines took its toll. But Suryakumar is now beginning to find his feet again, rediscovering the love and passion that first drew him towards the game.Speaking to the media at a T20 Mumbai League Celebrating the Champions event,",
+      "id": "national-sports-1",
+      "micro_summary": "India snub hit hard, but Suryakumar Yadav is rediscovering love, passion for cricket.",
+      "publishers": 3,
+      "scope": "national",
+      "score": 0.697,
+      "sources": [
+        {
+          "publisher": "India Today",
+          "url": "https://www.indiatoday.in/sports/cricket/story/suryakumar-yadav-india-team-exit-cricket-passion-mumbai-smat-2026-3036438-2026-11-11"
+        },
+        {
+          "publisher": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/cricket/surya-rediscovers-joy-of-cricket-after-the-pain-of-india-axing-101794328251298.html"
+        },
+        {
+          "publisher": "Rediff",
+          "url": "https://www.rediff.com/cricket/report/suryakumar-yadavs-journey-from-t20-world-cup-drop-to-rediscovering-cricket-passion/20261110.htm"
+        }
+      ],
+      "summary": "India snub hit hard, but Suryakumar Yadav is rediscovering love, passion for cricket. For Suryakumar Yadav, the blow was particularly painful.",
+      "timestamp": "2026-11-10T21:30:21Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "sports",
+      "extended_summary": "India have named squads for the December all-format tour of South Africa. Smriti Mandhana will captain the one-Test, three-ODI and three-T20I series, with Deepti Sharma as vice-captain for the Test and ODIs and Shafali Verma in the T20Is. The tour starts with the Test in Gqeberha on December 9, followed by ODIs in Paarl, Cape Town and Bloemfontein from December 16 to 22, and T20Is beginning in Benoni on December 26 with the rest in Potchefstroom. Jemimah Rodrigues returns from a hamstring injury, while Amanjot Kaur also recovers for the T20I squad. Jintimani Kalita is in the Test and ODI squads, Nandani Sharma in all three, and Renuka Singh only in the T20Is. Richa Ghosh is the first-choice wicket-keeper. This is India's second visit to South Africa this year after losing the April T20I series 1-4.",
+      "id": "national-sports-4",
+      "micro_summary": "India named Smriti Mandhana-led squads for South Africa tour featuring one Test, three ODIs and three T20Is.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.502,
+      "sources": [
+        {
+          "publisher": "ICC",
+          "url": "https://www.icc-cricket.com/news/india-name-squads-for-multi-format-tour-of-south-africa"
+        },
+        {
+          "publisher": "The Indian Awaaz",
+          "url": "https://theindianawaaz.com/women-cricket-smriti-mandhana-to-lead-squad-for-upcoming-all-format-tour-of-south-africa/"
+        }
+      ],
+      "summary": "India named squads for the December tour of South Africa, with Smriti Mandhana captaining the one-Test, three-ODI and three-T20I series. Deepti Sharma and Shafali Verma serve as vice-captains, while Jemimah Rodrigues and Amanjot Kaur return from injury.",
+      "timestamp": "2026-11-10T14:45:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "tragedies",
+      "extended_summary": "Three contract workers died after inhaling gas during an inspection at a Tata Electronics factory in India that produces iPhone components. Apple's team is visiting the plant to assist in the ongoing investigation, though the company did not respond when reached for comment. Tata and Tamil Nadu authorities are also investigating the fatal accident. Production was not affected as the facility was closed for the Hindu festival of Deepavali this week. The facility is part of Apple's supply chain in India, which has become a major production hub with roughly a quarter of the world's iPhones now manufactured in the country as Apple diversifies manufacturing away from China.",
+      "id": "national-tragedies-1",
+      "micro_summary": "Three contract workers died after inhaling gas at a Tata Electronics factory in India producing iPhone components.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.607,
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "url": "https://www.reuters.com/world/india/three-workers-die-tata-electronics-iphone-parts-plant-new-indian-express-reports-2026-11-10/"
+        },
+        {
+          "publisher": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/10/apple-to-investigate-accident-that-killed-three-workers-at-iphone-parts-factory-in-india/"
+        }
+      ],
+      "summary": "Three contract workers died after inhaling gas during an inspection at a Tata Electronics factory in India that produces iPhone components. Apple's team is visiting the plant to assist the investigation, while production remained unaffected due to a festival closure.",
+      "timestamp": "2026-11-10T21:34:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "tragedies",
+      "extended_summary": "Researchers at IIT-Madras and Gauhati University have developed a climate-network method that uses 84 years of rainfall data to identify when the monsoon becomes established at specific locations, distinguishing sustained rainfall from brief, localised showers. The approach treats geographical locations as nodes in a network, with links representing spatial connections between areas experiencing rainfall onset, and tracks the growth of clusters to determine when local rainfall becomes part of the largest planetary-scale monsoon system. The study found that large-scale onset occurs climatologically around May 15 over the northeast and June 9 over the Indian peninsula, marked by an abrupt increase in the size of the largest cluster followed by northward progression. Intended to complement existing operational definitions, the method could provide farmers with more reliable sowing information and assist policymakers with food security, water-resource management and flood preparedness.",
+      "id": "national-tragedies-2",
+      "micro_summary": "IIT-Madras and Gauhati University researchers developed a climate-network method using 84 years of data to identify sustained monsoon onset.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.604,
+      "sources": [
+        {
+          "publisher": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/city/guwahati/study-tracks-monsoon-arrival-to-improve-farming-flood-planning/articleshow/135718289.cms"
+        },
+        {
+          "publisher": "Urban Acres",
+          "url": "https://urbanacres.in/monsoon-onset-study-could-sharpen-indias-flood-planning/"
+        }
+      ],
+      "summary": "IIT-Madras and Gauhati University researchers developed a climate-network method using 84 years of data to distinguish sustained monsoon onset from isolated showers, identifying onset around May 15 in the northeast and June 9 over the peninsula for planning.",
+      "timestamp": "2026-11-10T19:40:38Z"
+    }
+  ]
+}
