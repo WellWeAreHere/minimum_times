@@ -1,0 +1,325 @@
+{
+  "date": "2026-11-12",
+  "events": [
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "business",
+      "extended_summary": "At the Cop31 climate summit in Turkey, UN Secretary General António Guterres called for a windfall tax on oil and gas companies' bumper profits from the Iran war, blaming the fossil fuel industry for distorting science and delaying climate action. He stated that fossil fuels must go \"the way of the dinosaurs\" and urged an \"extraordinary acceleration\" in climate efforts. Marshall Islands President Hilda Heine warned that failure to provide an overwhelming response to the climate crisis means \"the world we know is over,\" describing how overshooting the 1.5C Paris temperature target would bring waves eating shores and floods destroying towns, schools and hospitals. She noted seeing coral bleach from bright and lush to white within months. Barbados Prime Minister Mia Mottley stated that current policies would lead to 2.8 degrees of warming, calling overshoot \"a debt of heat borrowed against our children's future\" that must be repaid.",
+      "id": "international-business-1",
+      "micro_summary": "Marshall Islands president warns of worsening floods as UN chief calls for windfall tax on oil and gas firms.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.804,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/environment/2026/nov/11/the-world-we-know-is-over-marshall-islands-president-cop31"
+        },
+        {
+          "publisher": "Financial Times",
+          "url": "https://www.ft.com/content/decd853e-0cce-46c1-a047-d8dbb7c2b229?syn-25a6b1a6=1"
+        },
+        {
+          "publisher": "New Scientist",
+          "url": "https://www.newscientist.com/article/2598177-what-is-the-electrification-target-at-cop31-and-can-countries-meet-it/"
+        }
+      ],
+      "summary": "At the Cop31 summit in Turkey, UN chief António Guterres called for a windfall tax on oil and gas profits from the Iran war while Marshall Islands President Hilda Heine warned that overshooting 1.5C would destroy her nation.",
+      "timestamp": "2026-11-11T18:52:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "Democrat Scott Colom won the US Senate race in Mississippi, defeating Republican incumbent Cindy Hyde-Smith with 49.2% of the vote to her 48.7%, while an independent candidate received 2.1%. The victory makes Colom the first Black person from Mississippi elected to the US Senate in more than 140 years and ends a Republican winning streak in the state dating back to 1982. Only a few thousand votes separated the candidates. Hyde-Smith congratulated Colom in a video, respecting the voters' decision. The result gives Democrats 55 seats in the 100-member Senate, with a race in Alaska still undecided. The win was part of broader Democratic midterm victories that included taking control of the House and Senate, driven by voter frustration with the economy and the Iran war under President Donald Trump.",
+      "id": "international-politics-1",
+      "micro_summary": "Scott Colom won the Mississippi Senate race with 49.2%, becoming the first Black senator from the state in 140 years.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.857,
+      "sources": [
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates?page=with%3Ablock-6af4a1898f08bed8cbc537ea"
+        },
+        {
+          "publisher": "CNN",
+          "url": "https://www.cnn.com/2026/11/11/politics/scott-colom-mississippi-campaign-democrats"
+        }
+      ],
+      "summary": "Democrat Scott Colom won the US Senate race in Mississippi with 49.2% of the vote, defeating Republican incumbent Cindy Hyde-Smith by a few thousand votes and ending a Republican winning streak dating to 1982.",
+      "timestamp": "2026-11-11T23:05:25Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "House Republicans voted 211-204 to refer articles of impeachment against Defense Secretary Pete Hegseth to the judiciary committee, effectively killing the effort accusing him of waging war on Iran without authorization after 11 Democrats missed the procedural vote, with some blaming a Washington DC traffic jam. House Minority Leader Hakeem Jeffries faced criticism for failing to ensure attendance, stating he had not discussed the absences with his floor team but that the resolution would be revived. Senator-elect Abdul El-Sayed urged absent lawmakers to 'show up and do your job.' Meanwhile, at Arlington National Cemetery, an Army guard reprimanded Hegseth and his entourage for laughing near the Tomb of the Unknown Soldier, yelling that visitors must maintain silence and respect. President Donald Trump praised Hegseth at the ceremony, calling his work 'fantastic,' while White House lawyer Will Scharf threatened Democratic lawmakers with criminal investigations for oversight inquiries deemed harassing.",
+      "id": "international-politics-3",
+      "micro_summary": "Republicans blocked Pete Hegseth's impeachment 211-204 as he was reprimanded at Arlington National Cemetery.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.836,
+      "sources": [
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates"
+        },
+        {
+          "publisher": "Reuters",
+          "url": "https://www.reuters.com/world/us/guard-appears-rebuke-hegseths-delegation-tomb-unknown-soldier-2026-11-11/"
+        }
+      ],
+      "summary": "House Republicans voted 211-204 to refer impeachment articles against Defense Secretary Pete Hegseth to committee, killing the effort, while an Army guard reprimanded Hegseth at Arlington National Cemetery for violating decorum rules at the Tomb of the Unknown Soldier.",
+      "timestamp": "2026-11-11T22:55:55Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "science",
+      "extended_summary": "Ed Miliband, the UK foreign secretary, addressed the COP31 UN climate summit in Antalya, Turkey, warning that the climate crisis poses a severe threat to national security worldwide. He stated that scenarios once considered science fiction, including widespread destruction, food shortages, economic disruption, migration and conflict, are now regular occurrences. Miliband argued that security and defence objectives represent the new frontier of climate action. He also highlighted green industrialisation as a solution to both economic and climate crises, noting that nearly 10 million green jobs are forecast globally by 2030. In the UK, the green economy is growing three times faster than the overall economy and supports over one million workers. Several world leaders, including China's Xi Jinping and India's Narendra Modi, did not attend the summit.",
+      "id": "international-science-1",
+      "micro_summary": "Ed Miliband warns COP31 that climate crisis threatens national security as sci-fi destruction scenarios become reality.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.773,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/environment/2026/nov/11/ed-miliband-national-security-climate-crisis-cop31"
+        },
+        {
+          "publisher": "GOV.UK",
+          "url": "https://www.gov.uk/government/speeches/foreign-secretary-ed-milibands-speech-at-the-seizing-the-green-industrial-opportunity-event-at-cop31"
+        },
+        {
+          "publisher": "The Independent",
+          "url": "https://www.independent.co.uk/bulletin/news/cop31-antalya-turkey-ed-miliband-b3083361.html"
+        }
+      ],
+      "summary": "Ed Miliband tells COP31 in Turkey that climate breakdown threatens national security as \"science fiction\" destruction scenarios become daily occurrences, while green industrialisation offers nearly 10 million jobs globally by 2030.",
+      "timestamp": "2026-11-11T19:50:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "In March 2018, Australian cricketers Steve Smith, David Warner and Cameron Bancroft were suspended for ball tampering during a tour of South Africa. Retired batter Usman Khawaja has now claimed the incident was not limited to three players but involved the entire team, alleging sandpaper was used in the preceding Test and that altering the ball was a team-wide policy driven from coaches down. David Warner stated the revelations were \"100% accurate,\" while other players have denied knowledge. Cricket Australia's chief executive Todd Greenberg ruled out reopening the 2018 inquiry, which lasted only several days and concluded prior knowledge was confined to the three suspended players. Current captain Pat Cummins has faced questions about the scandal but stated the team has moved on.",
+      "id": "international-sports-1",
+      "micro_summary": "Usman Khawaja claims 2018 ball tampering was team-wide while Cricket Australia refuses to reopen inquiry.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.86,
+      "sources": [
+        {
+          "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "url": "https://www.abc.net.au/news/2026-11-12/australia-batting-coach-on-usman-khawaja-sandpaper-story/107376024"
+        },
+        {
+          "publisher": "The Australian",
+          "url": "https://www.theaustralian.com.au/sport/cricket/pat-cummins-to-front-media-over-usman-khawajas-long-full-list-of-balltampering-claims/news-story/240ffb1911b2532a4a4fb37c903ed22e"
+        },
+        {
+          "publisher": "The Conversation",
+          "url": "https://theconversation.com/nothing-to-see-here-cricket-australias-next-integrity-test-is-its-own-investigation-296395"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/sport/blog/2026/nov/12/pat-cummins-can-end-sandpapergate-with-full-disclosure"
+        }
+      ],
+      "summary": "Usman Khawaja revealed the 2018 Australian ball tampering scandal involved the whole team, not just three players, prompting David Warner to confirm the claims while Cricket Australia ruled out reopening its investigation.",
+      "timestamp": "2026-11-11T21:19:37Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "Former NFL head coach Rex Ryan surrendered to authorities in Nashville, Tennessee, on Wednesday on misdemeanor counts in connection with an alleged hit-and-run that injured two pedestrians, police said. Ryan, 63, was wanted on six outstanding misdemeanor warrants \"charging him with striking two pedestrians\" with his pickup truck last week, the Metropolitan Nashville Police Department said in a press release. The incident occurred just before midnight on Nov. 5 in downtown Nashville, as the pedestrians were crossing Broadway from Fourth Avenue with a walk sign, police said. A pickup truck turned right from Fourth Avenue, \"running over both victims' feet and making contact with one of the individuals' legs,\" police said. The pedestrians suffered minor injuries, police said. The pickup truck allegedly kept going, and the pedestrians waved the driver down when it stopped at a red light a block away, according to police. \"They said he stepped out of",
+      "id": "international-sports-4",
+      "micro_summary": "Former NFL coach Rex Ryan turns himself in after allegedly hitting Nashville pedestrians.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.849,
+      "sources": [
+        {
+          "publisher": "AP News",
+          "url": "https://apnews.com/article/rex-ryan-arrest-hit-run-nfl-espn-1aca238187d338e2b1d9fce1aee7779e"
+        },
+        {
+          "publisher": "The New York Times",
+          "url": "https://www.nytimes.com/athletic/7773731/2026/11/11/rex-ryan-arrested-news-accident-feet-nashville/"
+        },
+        {
+          "publisher": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://abcnews.com/US/former-nfl-coach-rex-ryan-surrenders-alleged-hit/story?id=138050103"
+        }
+      ],
+      "summary": "Former NFL coach Rex Ryan turns himself in after allegedly hitting Nashville pedestrians.",
+      "timestamp": "2026-11-11T22:30:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "A three-story mixed-use building collapsed Wednesday around 4 p.m. in the Flatbush neighborhood of central Brooklyn, killing at least one person including a child and injuring 12 others, six of them critically. Rescue operations have continued for over four hours as crews dig through rubble using hands, large vacuums, and saws to cut metal, with lights established after sunset to continue the search. About 250 firefighters and emergency responders are working at the site, located in a largely residential area with a predominantly Black and Afro-Caribbean community south of Prospect Park. City officials are reviewing rental records to determine how many people remain unaccounted for, while Mayor Zohran Mamdani prepares to hold a news conference about the collapse.",
+      "id": "international-tragedies-1",
+      "micro_summary": "A three-story building collapsed in Brooklyn's Flatbush neighborhood, killing at least one person and injuring 12.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.879,
+      "sources": [
+        {
+          "publisher": "Sky News",
+          "url": "https://news.sky.com/story/people-feared-trapped-after-building-collapses-in-new-york-13611256"
+        },
+        {
+          "publisher": "CNN",
+          "url": "https://www.cnn.com/2026/11/11/us/live-news/brooklyn-building-collapse-nyc"
+        },
+        {
+          "publisher": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/11/nyregion/brooklyn-building-collapse.html"
+        }
+      ],
+      "summary": "A three-story building collapsed Wednesday afternoon in Brooklyn's Flatbush neighborhood, killing at least one person including a child and injuring 12 others, six critically, as rescue crews dig through rubble searching for survivors.",
+      "timestamp": "2026-11-11T23:51:29Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "An 11-month-old baby was rescued alive in Lexington County, South Carolina, after being buried in a dog crate by his father for approximately 24 hours. Koah Sharpe was found on Tuesday in the woods near his father's house after a search party of about 100 police and fire personnel discovered freshly disturbed dirt and heard the infant crying. The child was wrapped in a towel inside a roughly two-foot by two-foot crate buried just under the surface. His father, Michael Comer, 25, was arrested on Monday on a burglary charge after taking the baby from his mother's home. Comer had previously pleaded guilty to domestic violence charges. The baby is now hospitalized and expected to make a full recovery. Police are deciding what additional charges to bring against the father.",
+      "id": "international-tragedies-2",
+      "micro_summary": "Eleven-month-old Koah Sharpe was found alive after being buried in a dog crate by his father for 24 hours.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.836,
+      "sources": [
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o"
+        },
+        {
+          "publisher": "Sky News",
+          "url": "https://news.sky.com/story/father-of-infant-buried-alive-in-us-charged-with-attempted-murder-13611235"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/11/baby-found-alive-buried-dog-crate-south-carolina"
+        }
+      ],
+      "summary": "An 11-month-old baby was found alive in South Carolina after being buried for about 24 hours in a dog crate by his father, who was arrested on a burglary charge. The child is hospitalized and expected to recover.",
+      "timestamp": "2026-11-11T18:10:57Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "Russian Ambassador to the United States Alexander Darchiev died suddenly in Moscow at age 66, the Russian Foreign Ministry announced Wednesday. The ministry described him as an exceptional professional who passed away while receiving treatment for a chronic illness after returning from Washington, where he had served as ambassador since March 2025. Darchiev, a veteran diplomat born into a diplomat family, entered Russian diplomatic service in 1992 and previously served as Russia's ambassador to Canada from 2014 to 2021. He also headed the Foreign Ministry's North Atlantic Department in Washington. His tenure in the US coincided with renewed bilateral talks between Moscow and Washington. The US State Department offered condolences to his family. Darchiev had left the embassy in Washington before returning to Moscow for treatment of his long-term illness.",
+      "id": "international-tragedies-3",
+      "micro_summary": "Russian Ambassador to the US Alexander Darchiev died suddenly in Moscow aged 66.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.817,
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/11/russias-ambassador-to-the-us-alexander-darchiev-dies-at-66"
+        },
+        {
+          "publisher": "CNN",
+          "url": "https://www.cnn.com/2026/11/11/europe/russian-ambassador-to-us-dies-intl"
+        },
+        {
+          "publisher": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/11/world/europe/russian-ambassador-darchiev-dead.html"
+        }
+      ],
+      "summary": "Russian Ambassador to the United States Alexander Darchiev died suddenly in Moscow at age 66, the Russian Foreign Ministry said Wednesday. He had been receiving treatment for a chronic illness after leaving Washington and served as ambassador since March 2025.",
+      "timestamp": "2026-11-11T18:20:09Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "Iranian officials have threatened to strike American military bases in Europe and distant regions if used to attack Iran. Maj Gen Mohsen Rezaei, secretary of Iran's supreme national security council, said that if American aircraft take off from any US base, including those in European countries, to bomb Iran, those bases will be struck. He added that Iran may even target islands assumed to be beyond missile reach. Maj Gen Ali Abdollahi, armed forces chief of staff, warned that previous attacks were only the beginning and any new miscalculation would bring far deadlier blows. The threats come amid a war that began February 28 with US-Israeli strikes that killed Iran's supreme leader, Ayatollah Ali Khamenei. Iran has set conditions for ending the conflict, including a deal covering West Asia especially Lebanon, lifting the naval blockade of the Strait of Hormuz, releasing frozen assets, and guarantees against renewed attacks, while insisting it will not surrender its nuclear stockpile.",
+      "id": "international-tragedies-4",
+      "micro_summary": "Iran threatens to strike US military bases in Europe and distant regions if used to attack Tehran.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.809,
+      "sources": [
+        {
+          "publisher": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/world-news/2026/11/11/iran-threatens-bomb-european-bases-middle-east/"
+        },
+        {
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/france/20261111-tehran-will-strike-us-bases-in-europe-if-used-to-attack-iran-security-chief-says"
+        },
+        {
+          "publisher": "تسنیم",
+          "url": "https://www.tasnimnews.ir/en/news/2026/11/11/3745934/top-general-warns-us-israel-of-iran-s-far-deadlier-response-to-aggression"
+        }
+      ],
+      "summary": "Iran has threatened to attack US military bases in Europe and other distant regions if American aircraft use them to bomb Iran, warning that no base is beyond its missile reach and setting conditions for ending the conflict.",
+      "timestamp": "2026-11-11T18:42:00Z"
+    },
+    {
+      "ai": false,
+      "articles": 2,
+      "category": "politics",
+      "extended_summary": "The book goes through the Italian-born matriarch's journey with one of India's most politically influential families. It has already garnered political controversy, with the ruling BJP accusing her of \"whitewashing.\" A memoir bysenior Congress leader and former party president Sonia Gandhi went on sale on Tuesday, with its pages offering a rare insight by the private politician into how she came from humble Italian origins and went on to become the matriarch of India's most powerful political dynasty — the Nehru-Gandhi family. The book called \"Belonging: A Journey of Love\" has been published by HarperCollins India. \"Much has been written about my family, but rarely with real insight into who they were, their motivations, their struggles, their very human flaws. I wanted to portray them honestly, as people I knew and loved,\" 79-year-old Gandhi wrote in The Hindu daily newspaper earlier this week. Born Sonia Maino in 1946 in a",
+      "id": "national-politics-1",
+      "micro_summary": "‘The pull of duty’: Sonia Gandhi on family, power and India.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.564,
+      "sources": [
+        {
+          "publisher": "The World from PRX",
+          "url": "https://theworld.org/stories/2026/11/11/the-pull-of-duty-sonia-gandhi-on-family-power-and-india"
+        },
+        {
+          "publisher": "DW.com",
+          "url": "https://www.dw.com/en/india-sonia-gandhis-memoir-belonging-a-journey-of-love-released/a-79908336"
+        }
+      ],
+      "summary": "‘The pull of duty’: Sonia Gandhi on family, power and India. The book called \"Belonging: A Journey of Love\" has been published by HarperCollins India.",
+      "timestamp": "2026-11-11T14:32:49Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "science",
+      "extended_summary": "Panjagutta police station in Hyderabad is being developed as the country's first AI-powered police station under a pilot project directed by Telangana DGP C.V. Anand, scheduled for launch in the first week of December. Hyderabad Police Commissioner V.C. Sajjanar conducted a surprise inspection to review technological integration progress. The initiative will deploy artificial intelligence across all policing stages, from FIR registration and case diary maintenance to investigation reports and charge-sheet preparation. An AI-enabled Setu kiosk allows complainants to submit grievances in approximately 10 languages, with automatic translation into the local language and instant forwarding to authorities. The system will analyze data on traffic congestion, hostels, commercial establishments and crime patterns to optimize Blue Colts deployment and improve patrolling efficiency. Police personnel are receiving special training to use the technology effectively. Based on the pilot's performance, the model may be expanded across Telangana.",
+      "id": "national-science-1",
+      "micro_summary": "Panjagutta police station launches as country's first AI-powered station in December with 10-language complaint kiosks.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.539,
+      "sources": [
+        {
+          "publisher": "Telangana Today",
+          "url": "https://telanganatoday.com/punjagutta-police-station-gets-ai-upgrade-31aa68e2"
+        },
+        {
+          "publisher": "Deccan Chronicle",
+          "url": "https://www.deccanchronicle.com/southern-states/telangana/panjagutta-to-get-indias-first-ai-police-station-2003626"
+        }
+      ],
+      "summary": "Panjagutta police station in Hyderabad becomes the country's first AI-powered station, launching in the first week of December with AI from FIR registration to charge-sheet preparation and a 10-language kiosk.",
+      "timestamp": "2026-11-11T17:59:21Z"
+    }
+  ]
+}
