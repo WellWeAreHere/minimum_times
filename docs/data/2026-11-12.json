@@ -4,322 +4,599 @@
     {
       "ai": true,
       "articles": 5,
-      "category": "business",
-      "extended_summary": "At the Cop31 climate summit in Turkey, UN Secretary General António Guterres called for a windfall tax on oil and gas companies' bumper profits from the Iran war, blaming the fossil fuel industry for distorting science and delaying climate action. He stated that fossil fuels must go \"the way of the dinosaurs\" and urged an \"extraordinary acceleration\" in climate efforts. Marshall Islands President Hilda Heine warned that failure to provide an overwhelming response to the climate crisis means \"the world we know is over,\" describing how overshooting the 1.5C Paris temperature target would bring waves eating shores and floods destroying towns, schools and hospitals. She noted seeing coral bleach from bright and lush to white within months. Barbados Prime Minister Mia Mottley stated that current policies would lead to 2.8 degrees of warming, calling overshoot \"a debt of heat borrowed against our children's future\" that must be repaid.",
-      "id": "international-business-1",
-      "micro_summary": "Marshall Islands president warns of worsening floods as UN chief calls for windfall tax on oil and gas firms.",
+      "category": "politics",
+      "extended_summary": "Former Danish prime minister Anders Fogh Rasmussen, who served as NATO secretary-general from 2009 to 2014, accused Britain and France of presiding over a \"coalition of the waiting\" while Russia dragged out peace talks. The 73-year-old called for the immediate deployment of troops to Ukraine, arguing Europe should transform the \"coalition of the willing\" into a \"coalition of the doing\" without waiting for a peace deal. His remarks came during US-led negotiations in Abu Dhabi between Ukraine and Russia focused on security guarantees, from which European officials were excluded after Moscow objected. Rasmussen proposed a five-point strategy including extending NATO air and missile defence systems over western Ukraine, urging Germany, Spain and Greece to supply Patriot interceptors, and confiscating more than €200 billion in frozen Russian assets to fund Kyiv's defence.",
+      "id": "international-politics-1",
+      "micro_summary": "Former Danish PM Anders Fogh Rasmussen urges Britain and France to deploy troops to Ukraine immediately.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.865,
+      "sources": [
+        {
+          "publisher": "Financial Times",
+          "url": "https://www.ft.com/content/8d28a5be-af56-421f-a33d-779a0fcc7ad4?syn-25a6b1a6=1"
+        },
+        {
+          "publisher": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/world-news/2026/11/11/britain-must-deploy-troops-ukraine-now-says-ex-nato-boss/"
+        },
+        {
+          "publisher": "Axios",
+          "url": "https://www.axios.com/2026/11/11/russia-ukraine-europe-war-security-agreement"
+        }
+      ],
+      "summary": "Former Danish prime minister and NATO chief Anders Fogh Rasmussen accused Britain and France of presiding over a \"coalition of the waiting\" and urged immediate troop deployment to Ukraine to push for peace during ongoing negotiations.",
+      "timestamp": "2026-11-12T15:30:49Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "Russian President Vladimir Putin said he wanted a “lasting, permanent peace” in Ukraine while reiterating Moscow’s opposition to foreign troops on Ukrainian territory, during a Kremlin meeting with US envoys Steve Witkoff and Jared Kushner on Thursday, Nov. 12. Trump’s envoys arrived in Moscow on Thursday to brief Putin on the outcome of the recent trilateral negotiations in Abu Dhabi. As of 3:21 p.m. Kyiv time, the meeting between Putin, Witkoff, and Kushner had been underway for an hour. According to Russia’s state news agency TASS, Putin proposed organizing another humanitarian mission in Ukraine, this time from Kostyantynivka, following what he described as a successful humanitarian operation in Oleshky, in the occupied Kherson region. Putin claimed Russia controlled Kostyantynivka and was prepared to guarantee the safety of a humanitarian mission there. He said Moscow would need five days to clear mines around the city, adding that if Kyiv considered the",
+      "id": "international-politics-2",
+      "micro_summary": "Putin Calls for ‘Permanent Peace’ as He Claims Kostyantynivka Is Russian and Offers 5-Day Mission.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.855,
+      "sources": [
+        {
+          "publisher": "Kyiv Post",
+          "url": "https://www.kyivpost.com/post/89918"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink"
+        },
+        {
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/europe/20261112-live-us-envoys-to-meet-putin-and-zelensky-after-abu-dhabi-talks"
+        }
+      ],
+      "summary": "Putin Calls for ‘Permanent Peace’ as He Claims Kostyantynivka Is Russian and Offers 5-Day Mission.",
+      "timestamp": "2026-11-12T16:21:26Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "Ukrainian President Volodymyr Zelensky has accused the Starshield military satellite system of being systematically restricted to 100 miles per hour (161 kilometres per hour) along the entire front line and in temporarily occupied territories of Ukraine. Zelensky stated that Ukrainian military investigations confirmed these are not random errors but systematic speed restrictions that have been ongoing for several days. The slowdown hampers Kyiv's ability to intercept Russian jet-powered drones and has already allowed some strikes to hit Ukraine, which Zelensky said is helping Russians kill more Ukrainians and carry out more accurate strikes. The accusation came as US negotiators Steve Witkoff and Jared Kushner met Russian President Vladimir Putin in Moscow for peace talks. Starshield, developed by SpaceX for military use, plays a vital role in front-line communications. A similar connectivity issue affected the front line in late October and lasted about a week before being resolved.",
+      "id": "international-politics-3",
+      "micro_summary": "Ukrainian President Zelensky says Starshield satellite speeds are limited to 100mph along the front line, hampering drone interception.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.82,
+      "sources": [
+        {
+          "publisher": "Euronews.com",
+          "url": "https://www.euronews.com/2026/11/12/zelenskyy-starlink-again-facing-restrictions-in-ukraine-hampering-russian-drone-intercepti"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo"
+        },
+        {
+          "publisher": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/world-news/2026/11/12/zelensky-claims-starlink-under-systematic-restrictions/"
+        }
+      ],
+      "summary": "Ukrainian President Volodymyr Zelensky claims the Starshield satellite system has been systematically slowed to 100mph along the entire front line and occupied territories, hampering Ukraine's ability to intercept Russian drones and allowing strikes to hit targets.",
+      "timestamp": "2026-11-12T09:49:15Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "Democrat Scott Colom won Mississippi's US Senate race, defeating incumbent Republican Cindy Hyde-Smith with 49.2% of the vote to her 48.7%. Fewer than five thousand votes out of nearly a million counted separated the candidates. Colom, 43, became the first Black senator from Mississippi since Blanche Bruce served from 1875 to 1881, and the first Democratic senator elected in the state since 1982. The victory gives Democrats 55 seats in the 100-member Senate. Colom campaigned on a 'Mississippi Matters' platform, engaging voters at hair salons, colleges, and Trump rallies. He delivered a victory speech at Tougaloo College, while Hyde-Smith congratulated him in a video, respecting the voters' decision. The contest was not considered competitive until final weeks despite President Trump winning the state by more than 22 points in 2024.",
+      "id": "international-politics-4",
+      "micro_summary": "Scott Colom won Mississippi's Senate seat with 49.2% of the vote, becoming the state's first Black senator since Reconstruction.",
+      "publishers": 4,
+      "scope": "international",
+      "score": 0.802,
+      "sources": [
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmde1y19g19do"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/11/scott-colom-mississippi-democrat-senate-midterms"
+        }
+      ],
+      "summary": "Democrat Scott Colom defeated incumbent Republican Cindy Hyde-Smith in Mississippi's US Senate race with 49.2% to 48.7%, becoming the state's first Black senator since Reconstruction and the first Democrat elected there since 1982.",
+      "timestamp": "2026-11-12T14:12:55Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "science",
+      "extended_summary": "The key is to draw a line between AI architecture and AI applications. A technician works inside an Amazon Web Services data center in New Carlisle, Ind., October 2, 2025. Arecent article in Politico magazine highlights growing tension in the Republican coalition over artificial intelligence. A White House executive order issued in late 2025 would lay the groundwork for significant federal preemption of state and local regulations of AI, but other Republicans are pushing for local control of AI policy. While some (especially on the “tech right”) prefer a hands-off approach to AI regulation, many populists insist on the need to regulate AI, especially on the grounds of protecting families and jobs. This policy divide risks creating a political fissure in the GOP, and navigating this divide will be critical in the years ahead. The White House and its allies should view the tech-skepticism of state and local Republican leaders",
+      "id": "international-science-1",
+      "micro_summary": "Maga architects blame Big Tech and AI data centres for midterms rout.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.707,
+      "sources": [
+        {
+          "publisher": "Financial Times",
+          "url": "https://www.ft.com/content/43da75e5-e8fd-4aea-8afb-e3d75c9f176f?syn-25a6b1a6=1"
+        },
+        {
+          "publisher": "National Review",
+          "url": "https://www.nationalreview.com/articles/navigating-the-gop-divide-over-artificial-intelligence"
+        },
+        {
+          "publisher": "FourWeekMBA",
+          "url": "https://fourweekmba.com/ai-heritage-roy-tie-gop-midterm-loss-to-ai-musk-gave-288m/"
+        }
+      ],
+      "summary": "Maga architects blame Big Tech and AI data centres for midterms rout. Arecent article in Politico magazine highlights growing tension in the Republican coalition over artificial intelligence.",
+      "timestamp": "2026-11-12T11:00:04Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "science",
+      "extended_summary": "Failure to cut emissions will ‘consign humanity to disasters they are unable to adapt to’, report says The world is heading for an “irrecoverable overshoot” of global temperature thresholds that will plunge billions of people into disastrous climate impacts because governments have stalled for so long to cut planet-heating emissions, analysis has found. Under current policies, the planet will heat up by 2.7C on average by the end of the century compared with preindustrial times, the report by Climate Action Tracker (CAT) found. This is up slightly from a prediction of 2.6C in the group’s analysis conducted last year. This level of warming smashes the 1.5C threshold that was agreed by countries a decade ago but is set to be breached in just a few years. Scientists have warned that beyond this point already harmful storms, droughts, heatwaves, flooding and other impacts will become intolerable for parts of the world",
+      "id": "international-science-2",
+      "micro_summary": "World heading for ‘irrevocable overshoot’ of global temperature thresholds, analysis warns.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.705,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/environment/2026/nov/12/world-heading-for-irrevocable-overshoot-of-global-temperature-thresholds-analysis-warns"
+        },
+        {
+          "publisher": "Nature",
+          "url": "https://www.nature.com/articles/s41558-026-02790-y"
+        },
+        {
+          "publisher": "RTE.ie",
+          "url": "https://www.rte.ie/news/environment/2026/1112/1598889-climate-change-report/"
+        }
+      ],
+      "summary": "World heading for ‘irrevocable overshoot’ of global temperature thresholds, analysis warns. The world is heading for an \"irrecoverable overshoot\" on dangerous warming unless governments reject fossil fuels and start rapidly cutting emissions, a report has warned.",
+      "timestamp": "2026-11-12T03:02:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "science",
+      "extended_summary": "The SS United States, once the fastest ship in the world and longer than the Titanic, was intentionally sunk off the coast of Destin, Florida, on Wednesday, becoming the world's largest artificial ocean reef. The vessel spent nearly 30 years docked in Philadelphia before being moved to Alabama last year for cleaning, then making its final journey to Florida on Monday. Purchased by a Florida county, the ship will serve as a home for sealife and an underwater attraction, with a land-based museum planned to detail its history. The liner operated from 1952 to 1969, crossing the Atlantic hundreds of times and carrying royalty and celebrities including former presidents Harry Truman, Dwight Eisenhower and John Kennedy, and a young Bill Clinton. Activists unsuccessfully fought to preserve the ship as a museum, and previous proposals for a floating hotel failed. The sinking was conducted as a precision operation without explosives.",
+      "id": "international-science-3",
+      "micro_summary": "The SS United States, once the world's fastest ship, was intentionally sunk off Florida as the world's largest artificial reef.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.699,
+      "sources": [
+        {
+          "publisher": "Forbes",
+          "url": "https://www.forbes.com/sites/maryroeloffs/2026/11/11/supership-ss-united-states-once-favored-among-presidents-is-sinking-off-floridas-coast-watch-live/"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o"
+        },
+        {
+          "publisher": "Phys.org",
+          "url": "https://phys.org/news/2026-11-ocean-liner-largest-artificial-reef.html"
+        }
+      ],
+      "summary": "The SS United States, a historic liner longer than the Titanic, was intentionally sunk off the coast of Destin, Florida, on Wednesday to become the world's largest artificial ocean reef after nearly 30 years docked in Philadelphia.",
+      "timestamp": "2026-11-11T20:42:43Z"
+    },
+    {
+      "ai": false,
+      "articles": 10,
+      "category": "sports",
+      "extended_summary": "Pochettino was appointed USA manager in September 2024 Michael Carrick must have known what was coming. Not just because reports of his imminent dismissal were widespread - followed by information about who would be replacing him as Manchester United boss. But because, effectively, he and his representatives were given heavy enough indications of what was to follow. On Monday, according to well-placed sources, Carrick's agent was contacted by chief executive Omar Berrada to be told he and director of football Jason Wilcox would be heading to Monaco for a planned meeting with co-owner Sir Jim Ratcliffe that would include a discussion about the head coach's future. A day later, it is believed Wilcox had a similar conversation with Carrick. It is understood that on both occasions it was communicated that a recommendation regarding Carrick's future at the club would be made. What is not clear is whether Carrick and his",
+      "id": "international-sports-1",
+      "micro_summary": "Man Utd's Mauricio Pochettino pursuit and Michael Carrick decisions.",
+      "publishers": 6,
+      "scope": "international",
+      "score": 0.915,
+      "sources": [
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.com/sport/football/articles/cqdr1jlr1707o"
+        },
+        {
+          "publisher": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50462862/man-united-mauricio-pochettino-paul-scholes"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/nov/12/michael-carrick-sacked-manchester-united-mauricio-pochettino"
+        }
+      ],
+      "summary": "Man Utd's Mauricio Pochettino pursuit and Michael Carrick decisions. Pochettino was appointed USA manager in September 2024 Michael Carrick must have known what was coming.",
+      "timestamp": "2026-11-12T16:34:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "Legendary sportscaster Dan Hicks died Wednesday at age 64 following an acute illness, his wife Hannah Storm announced in a statement. Hicks had been with NBC Sports since 1992, serving as the network's lead golf play-by-play announcer since 2000 and calling Notre Dame football, the Olympics, and the PGA Tour. Among his most famous broadcast moments were calling Tiger Woods' dramatic putt to force a playoff at the 2008 U.S. Open and the U.S. swim team's comeback at the 2008 Beijing Olympics. He was married to Storm since January 1994 and was father to three daughters: Hannah, Ellery, and Riley. Colleagues described him as an exceptional storyteller who elevated major moments in sports history.",
+      "id": "international-sports-2",
+      "micro_summary": "Legendary sportscaster Dan Hicks died at 64 following an acute illness, his wife Hannah Storm announced.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.842,
+      "sources": [
+        {
+          "publisher": "ESPN",
+          "url": "https://www.espn.com/espn/story/_/id/50462145/long-sports-broadcaster-dan-hicks-dies-age-64"
+        },
+        {
+          "publisher": "Golf Channel",
+          "url": "https://www.golfchannel.com/news/news/dan-hicks-legendary-nbc-sports-and-golf-announcer-dies-at-age-64"
+        },
+        {
+          "publisher": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://abcnews.com/GMA/Culture/dan-hicks-sportscaster-husband-espns-hannah-storm-dies/story?id=138081471"
+        }
+      ],
+      "summary": "Legendary NBC Sports broadcaster Dan Hicks died Wednesday at age 64 following an acute illness, his wife Hannah Storm announced. Hicks spent 34 years at NBC calling Olympics, golf, and Notre Dame football.",
+      "timestamp": "2026-11-12T15:30:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 10,
+      "category": "sports",
+      "extended_summary": "Racing Bulls have confirmed that Liam Lawson and Arvid Lindblad will continue as drivers for the 2027 Formula 1 season. The decision was reached by team principal Alan Permane and Red Bull counterpart Laurent Mekies after deliberations over whether to retain Lawson or promote junior driver Nikola Tsolov. Lawson, 24, has scored points in 15 of the 20 grands prix this season and deputised at Red Bull for three races after Isack Hadjar fractured a wrist. He sits ninth in the drivers' standings, 47 points clear of Alpine's Pierre Gasly, and has helped Racing Bulls secure fifth in the constructors' standings, 45 points ahead of Alpine. The team's shareholders and Red Bull GmbH approved the decision despite Lawson receiving a one-place grid penalty for an altercation with Max Verstappen during Mexico City Grand Prix practice.",
+      "id": "international-sports-3",
+      "micro_summary": "Racing Bulls confirm Liam Lawson and Arvid Lindblad for the 2027 Formula 1 season.",
+      "publishers": 7,
+      "scope": "international",
+      "score": 0.835,
+      "sources": [
+        {
+          "publisher": "Formula 1",
+          "url": "https://www.formula1.com/en/latest/article/lawson-and-lindblad-to-remain-at-racing-bulls-for-2027-as-team-confirm-unchanged-line-up.1vwKafZKAx8zw2Tb4B8fPx"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.com/sport/formula1/articles/cw24epe29566o"
+        },
+        {
+          "publisher": "Sky Sports",
+          "url": "https://www.skysports.com/f1/news/13610200/liam-lawson-did-racing-bulls-driver-save-his-2027-f1-seat-with-superb-weekend-at-sao-paulo-gp-in-brazil"
+        },
+        {
+          "publisher": "RacingNews365",
+          "url": "https://racingnews365.com/liam-lawson-finally-learns-racing-bulls-fate-as-2027-f1-line-up-confirmed"
+        },
+        {
+          "publisher": "The Canberra Times",
+          "url": "https://www.canberratimes.com.au/story/9390864/kiwi-driver-retains-formula-one-seat-at-racing-bulls/"
+        }
+      ],
+      "summary": "Racing Bulls have confirmed Liam Lawson and Arvid Lindblad will remain with the team for the 2027 Formula 1 season. Lawson, 24, has scored points in 15 of 20 races this season and sits ninth in the drivers' standings.",
+      "timestamp": "2026-11-12T14:02:22Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "The NFL trade deadline passed with the Minnesota Vikings acquiring quarterback Kirk Cousins for his second stint, while the Chiefs added Josh Downs. The Titans traded Jeffery Simmons for two first-round picks and Amani Hooker to the Bills for a second-rounder, while the Colts traded four players for one top-100 pick, keeping Daniel Jones and Jonathan Taylor. At midseason, AFC playoff teams are the Bills, Broncos, Jaguars, Steelers, Chiefs, Bengals, and Patriots; NFC teams are the 49ers, Bears, Giants, Panthers, Lions, Vikings, and Packers. Projections show all four NFC North teams reaching the playoffs for the first time in history. The Vikings are projected to finish 11-3 but third in their division, while the Patriots (5-4) hold the AFC's seventh seed over the Texans (3-5), both projected at 9-8.",
+      "id": "international-sports-4",
+      "micro_summary": "Vikings acquire Kirk Cousins at NFL trade deadline as all four NFC North teams projected to reach playoffs.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.832,
+      "sources": [
+        {
+          "publisher": "CBS Sports",
+          "url": "https://www.cbssports.com/nfl/news/predicting-full-14-team-nfl-playoff-bracket-after-trade-deadline/"
+        },
+        {
+          "publisher": "NFL.com",
+          "url": "https://www.nfl.com/news/2026-nfl-playoff-predictions-picking-every-division-winner-and-wild-card-team-at-midseason"
+        },
+        {
+          "publisher": "Sports Illustrated",
+          "url": "https://www.si.com/nfl/what-history-says-about-playoff-positioning-midway-point-of-season"
+        }
+      ],
+      "summary": "The NFL trade deadline passed with Vikings acquiring Kirk Cousins and Chiefs adding Josh Downs. Projections show all four NFC North teams in the playoffs for the first time, while the Patriots hold the AFC seventh seed at 5-4.",
+      "timestamp": "2026-11-12T12:40:48Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "A three-storey mixed-use building in New York City collapsed Wednesday afternoon at the edge of a construction site where workers were excavating an empty lot, killing at least eight people and injuring at least 17 others, including three firefighters. The building, which had apartments above ground-floor commercial space, fell while construction was underway next door, sending rubble into the construction pit. About 250 firefighters worked overnight using pickaxes, power saws, and search dogs to dig through the wreckage, pulling several survivors from the debris including a woman hoisted out on a stretcher Wednesday night. Among the dead was a 23-year-old construction worker whose body was recovered from the pit; his wife was described as hysterical at the scene. The cause remains under investigation, and heavy rain was forecast for Thursday afternoon, potentially affecting search efforts. Another adjacent building remained standing but had its wall sheared off, exposing interior rooms.",
+      "id": "international-tragedies-1",
+      "micro_summary": "At least eight people died when a three-storey New York City building collapsed near a construction site.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.883,
+      "sources": [
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/live/cm20qr0znxg0t"
+        },
+        {
+          "publisher": "The Irish Times",
+          "url": "https://www.irishtimes.com/world/us/2026/11/12/death-toll-rises-to-eight-after-building-collapses-in-new-york-city/"
+        },
+        {
+          "publisher": "The Times",
+          "url": "https://www.thetimes.com/us/news-today/article/eight-killed-brooklyn-flatbush-new-york-building-collapse-8ppmwbrnp"
+        }
+      ],
+      "summary": "A three-storey building in New York City collapsed Wednesday afternoon at a construction site, killing at least eight people and injuring 17, including three firefighters, as rescuers dug through rubble for survivors.",
+      "timestamp": "2026-11-12T17:22:58Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "A gunman opened fire at the Vida Fitness Gym in Washington DC's Logan Circle neighbourhood, shooting at least five people and killing one. The victim was the building manager. Another person was left in critical condition. The suspect, a physician in his 50s who had been in conflict with his homeowners' association, fled to a seventh-floor apartment believed to be his own and barricaded himself inside. Police forced the door open after hearing a gunshot and found the gunman dead from a self-inflicted wound. A fire had been set in the apartment building but was extinguished. The suspect had fired shots toward police through a door, forcing SWAT team members to temporarily retreat. Authorities evacuated buildings and urged people to stay away from the area before lifting the shelter-in-place order.",
+      "id": "international-tragedies-2",
+      "micro_summary": "A gunman killed one person at a Washington DC gym before shooting himself dead.",
+      "publishers": 4,
+      "scope": "international",
+      "score": 0.816,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/live/cq8jzj29k9r0t"
+        },
+        {
+          "publisher": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/us/news/2026/11/12/gunman-shooting-washington-dc-gym/"
+        }
+      ],
+      "summary": "A gunman opened fire at a Washington DC gym, killing one person and wounding at least four others, before barricading himself in a nearby apartment and shooting himself dead, police said.",
+      "timestamp": "2026-11-12T14:45:00Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "Moment teen rescued after six days in Australian bush A teenager missing for six days in dense Australian bushland has been found alive. William, whose surname has not been released, disappeared last Friday while on a camping trip with a friend in bushland about 180km (112 miles) east of Melbourne, Victoria. Extremely cold overnight temperatures had left authorities concerned for the 17-year-old's welfare. Police dogs, divers and helicopters had been involved in the search. He was located on Thursday morning and reunited with his relieved family, who said he was uninjured but \"grounded for life\". Rescuers winched William to safety, and fed him a doughnut and a bottle of water, before he was taken to hospital for a check up. The boy's mother, Elizabeth Barkley, told reporters the teenager had \"only a few scratches\" and seemed fit and healthy. \"He's doing fine, everything seems to be fine, he's in perfect",
+      "id": "international-tragedies-3",
+      "micro_summary": "Teenager survives on crisps after six days missing in Australian bush.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.813,
+      "sources": [
+        {
+          "publisher": "The Times",
+          "url": "https://www.thetimes.com/world/australasia/article/teenager-six-days-missing-australian-bush-k6vkh6v9n"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo"
+        },
+        {
+          "publisher": "CBS News",
+          "url": "https://www.cbsnews.com/news/teen-found-alive-6-days-lost-australia-wilderness/"
+        }
+      ],
+      "summary": "Teenager survives on crisps after six days missing in Australian bush. Moment teen rescued after six days in Australian bush A teenager missing for six days in dense Australian bushland has been found alive.",
+      "timestamp": "2026-11-12T09:41:05Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "The woman disappeared while on the Marella Voyager (file photo) A British woman has gone missing from a cruise ship while it was crossing the Atlantic, travel operator Tui has said. The 72-year-old was last seen aboard Tui's Marella Voyager on Monday while the vessel was en route to the Caribbean. The ship could have travelled hundreds of miles in the time between when she was last seen to when she was reported missing. Staff realised the passenger was missing on Tuesday, when they noticed her bed had not been slept in. The alarm was raised and a search carried out, Tui said in a statement. It is understood the missing guest was then reported to the US Coast Guard, which asked the ship to continue to its crossing rather than reverse course and search for the woman. Holidaymakers were told to abandon dinners, drinks and entertainment as the crew",
+      "id": "international-tragedies-4",
+      "micro_summary": "British woman missing from cruise ship in Atlantic.",
       "publishers": 5,
       "scope": "international",
       "score": 0.804,
       "sources": [
         {
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/environment/2026/nov/11/the-world-we-know-is-over-marshall-islands-president-cop31"
-        },
-        {
-          "publisher": "Financial Times",
-          "url": "https://www.ft.com/content/decd853e-0cce-46c1-a047-d8dbb7c2b229?syn-25a6b1a6=1"
-        },
-        {
-          "publisher": "New Scientist",
-          "url": "https://www.newscientist.com/article/2598177-what-is-the-electrification-target-at-cop31-and-can-countries-meet-it/"
-        }
-      ],
-      "summary": "At the Cop31 summit in Turkey, UN chief António Guterres called for a windfall tax on oil and gas profits from the Iran war while Marshall Islands President Hilda Heine warned that overshooting 1.5C would destroy her nation.",
-      "timestamp": "2026-11-11T18:52:00Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "politics",
-      "extended_summary": "Democrat Scott Colom won the US Senate race in Mississippi, defeating Republican incumbent Cindy Hyde-Smith with 49.2% of the vote to her 48.7%, while an independent candidate received 2.1%. The victory makes Colom the first Black person from Mississippi elected to the US Senate in more than 140 years and ends a Republican winning streak in the state dating back to 1982. Only a few thousand votes separated the candidates. Hyde-Smith congratulated Colom in a video, respecting the voters' decision. The result gives Democrats 55 seats in the 100-member Senate, with a race in Alaska still undecided. The win was part of broader Democratic midterm victories that included taking control of the House and Senate, driven by voter frustration with the economy and the Iran war under President Donald Trump.",
-      "id": "international-politics-1",
-      "micro_summary": "Scott Colom won the Mississippi Senate race with 49.2%, becoming the first Black senator from the state in 140 years.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.857,
-      "sources": [
-        {
           "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo"
+          "url": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo"
         },
         {
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates?page=with%3Ablock-6af4a1898f08bed8cbc537ea"
-        },
-        {
-          "publisher": "CNN",
-          "url": "https://www.cnn.com/2026/11/11/politics/scott-colom-mississippi-campaign-democrats"
-        }
-      ],
-      "summary": "Democrat Scott Colom won the US Senate race in Mississippi with 49.2% of the vote, defeating Republican incumbent Cindy Hyde-Smith by a few thousand votes and ending a Republican winning streak dating to 1982.",
-      "timestamp": "2026-11-11T23:05:25Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "politics",
-      "extended_summary": "House Republicans voted 211-204 to refer articles of impeachment against Defense Secretary Pete Hegseth to the judiciary committee, effectively killing the effort accusing him of waging war on Iran without authorization after 11 Democrats missed the procedural vote, with some blaming a Washington DC traffic jam. House Minority Leader Hakeem Jeffries faced criticism for failing to ensure attendance, stating he had not discussed the absences with his floor team but that the resolution would be revived. Senator-elect Abdul El-Sayed urged absent lawmakers to 'show up and do your job.' Meanwhile, at Arlington National Cemetery, an Army guard reprimanded Hegseth and his entourage for laughing near the Tomb of the Unknown Soldier, yelling that visitors must maintain silence and respect. President Donald Trump praised Hegseth at the ceremony, calling his work 'fantastic,' while White House lawyer Will Scharf threatened Democratic lawmakers with criminal investigations for oversight inquiries deemed harassing.",
-      "id": "international-politics-3",
-      "micro_summary": "Republicans blocked Pete Hegseth's impeachment 211-204 as he was reprimanded at Arlington National Cemetery.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.836,
-      "sources": [
-        {
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno"
-        },
-        {
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates"
-        },
-        {
-          "publisher": "Reuters",
-          "url": "https://www.reuters.com/world/us/guard-appears-rebuke-hegseths-delegation-tomb-unknown-soldier-2026-11-11/"
-        }
-      ],
-      "summary": "House Republicans voted 211-204 to refer impeachment articles against Defense Secretary Pete Hegseth to committee, killing the effort, while an Army guard reprimanded Hegseth at Arlington National Cemetery for violating decorum rules at the Tomb of the Unknown Soldier.",
-      "timestamp": "2026-11-11T22:55:55Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "science",
-      "extended_summary": "Ed Miliband, the UK foreign secretary, addressed the COP31 UN climate summit in Antalya, Turkey, warning that the climate crisis poses a severe threat to national security worldwide. He stated that scenarios once considered science fiction, including widespread destruction, food shortages, economic disruption, migration and conflict, are now regular occurrences. Miliband argued that security and defence objectives represent the new frontier of climate action. He also highlighted green industrialisation as a solution to both economic and climate crises, noting that nearly 10 million green jobs are forecast globally by 2030. In the UK, the green economy is growing three times faster than the overall economy and supports over one million workers. Several world leaders, including China's Xi Jinping and India's Narendra Modi, did not attend the summit.",
-      "id": "international-science-1",
-      "micro_summary": "Ed Miliband warns COP31 that climate crisis threatens national security as sci-fi destruction scenarios become reality.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.773,
-      "sources": [
-        {
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/environment/2026/nov/11/ed-miliband-national-security-climate-crisis-cop31"
-        },
-        {
-          "publisher": "GOV.UK",
-          "url": "https://www.gov.uk/government/speeches/foreign-secretary-ed-milibands-speech-at-the-seizing-the-green-industrial-opportunity-event-at-cop31"
+          "publisher": "Daily Star",
+          "url": "https://www.dailystar.co.uk/news/latest-news/tui-deeply-saddened-search-missing-37868432"
         },
         {
           "publisher": "The Independent",
-          "url": "https://www.independent.co.uk/bulletin/news/cop31-antalya-turkey-ed-miliband-b3083361.html"
+          "url": "https://www.independent.co.uk/bulletin/news/cruise-ship-woman-missing-marella-voyager-b3083820.html"
         }
       ],
-      "summary": "Ed Miliband tells COP31 in Turkey that climate breakdown threatens national security as \"science fiction\" destruction scenarios become daily occurrences, while green industrialisation offers nearly 10 million jobs globally by 2030.",
-      "timestamp": "2026-11-11T19:50:00Z"
+      "summary": "British woman missing from cruise ship in Atlantic. The woman disappeared while on the Marella Voyager (file photo) A British woman has gone missing from a cruise ship while it was crossing the Atlantic, travel operator Tui has said.",
+      "timestamp": "2026-11-12T09:54:46Z"
     },
     {
       "ai": true,
-      "articles": 5,
-      "category": "sports",
-      "extended_summary": "In March 2018, Australian cricketers Steve Smith, David Warner and Cameron Bancroft were suspended for ball tampering during a tour of South Africa. Retired batter Usman Khawaja has now claimed the incident was not limited to three players but involved the entire team, alleging sandpaper was used in the preceding Test and that altering the ball was a team-wide policy driven from coaches down. David Warner stated the revelations were \"100% accurate,\" while other players have denied knowledge. Cricket Australia's chief executive Todd Greenberg ruled out reopening the 2018 inquiry, which lasted only several days and concluded prior knowledge was confined to the three suspended players. Current captain Pat Cummins has faced questions about the scandal but stated the team has moved on.",
-      "id": "international-sports-1",
-      "micro_summary": "Usman Khawaja claims 2018 ball tampering was team-wide while Cricket Australia refuses to reopen inquiry.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.86,
+      "articles": 2,
+      "category": "business",
+      "extended_summary": "India's consumer price index-based retail inflation rose to 6.09 percent year-on-year in October 2026, marking the highest level recorded during the year and breaching the Reserve Bank of India's upper tolerance limit of 6 percent. The headline inflation rate was higher in rural areas at 6.63 percent compared with 5.41 percent in urban areas. Food inflation surged to 8.94 percent year-on-year, with rural food inflation at 9.09 percent and urban at 8.68 percent. On a month-on-month basis, the all-India CPI increased 0.51 percent between September and October. The RBI targets inflation at 4 percent with a tolerance band of 2 to 6 percent. Market participants are pricing a 69 percent probability of a 25 basis point rate hike and 31 percent chance of a 50 basis point increase at the next monetary policy meeting, partly due to higher crude oil prices linked to the US-Iran war.",
+      "id": "national-business-1",
+      "micro_summary": "India's retail inflation hit 6.09% in October 2026, breaching the central bank's 6% tolerance limit.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.567,
       "sources": [
         {
-          "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
-          "url": "https://www.abc.net.au/news/2026-11-12/australia-batting-coach-on-usman-khawaja-sandpaper-story/107376024"
+          "publisher": "ThePrint",
+          "url": "https://theprint.in/economy/indias-october-retail-inflation-breaches-rbis-6-ceiling-odds-of-december-repo-rate-hike-rise/3097181/"
         },
         {
-          "publisher": "The Australian",
-          "url": "https://www.theaustralian.com.au/sport/cricket/pat-cummins-to-front-media-over-usman-khawajas-long-full-list-of-balltampering-claims/news-story/240ffb1911b2532a4a4fb37c903ed22e"
-        },
-        {
-          "publisher": "The Conversation",
-          "url": "https://theconversation.com/nothing-to-see-here-cricket-australias-next-integrity-test-is-its-own-investigation-296395"
-        },
-        {
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/sport/blog/2026/nov/12/pat-cummins-can-end-sandpapergate-with-full-disclosure"
+          "publisher": "investingLive",
+          "url": "https://investinglive.com/news/india-october-cpi-inflation-rises-to-6-09-food-inflation-accelerates-to-8-94/"
         }
       ],
-      "summary": "Usman Khawaja revealed the 2018 Australian ball tampering scandal involved the whole team, not just three players, prompting David Warner to confirm the claims while Cricket Australia ruled out reopening its investigation.",
-      "timestamp": "2026-11-11T21:19:37Z"
-    },
-    {
-      "ai": false,
-      "articles": 5,
-      "category": "sports",
-      "extended_summary": "Former NFL head coach Rex Ryan surrendered to authorities in Nashville, Tennessee, on Wednesday on misdemeanor counts in connection with an alleged hit-and-run that injured two pedestrians, police said. Ryan, 63, was wanted on six outstanding misdemeanor warrants \"charging him with striking two pedestrians\" with his pickup truck last week, the Metropolitan Nashville Police Department said in a press release. The incident occurred just before midnight on Nov. 5 in downtown Nashville, as the pedestrians were crossing Broadway from Fourth Avenue with a walk sign, police said. A pickup truck turned right from Fourth Avenue, \"running over both victims' feet and making contact with one of the individuals' legs,\" police said. The pedestrians suffered minor injuries, police said. The pickup truck allegedly kept going, and the pedestrians waved the driver down when it stopped at a red light a block away, according to police. \"They said he stepped out of",
-      "id": "international-sports-4",
-      "micro_summary": "Former NFL coach Rex Ryan turns himself in after allegedly hitting Nashville pedestrians.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.849,
-      "sources": [
-        {
-          "publisher": "AP News",
-          "url": "https://apnews.com/article/rex-ryan-arrest-hit-run-nfl-espn-1aca238187d338e2b1d9fce1aee7779e"
-        },
-        {
-          "publisher": "The New York Times",
-          "url": "https://www.nytimes.com/athletic/7773731/2026/11/11/rex-ryan-arrested-news-accident-feet-nashville/"
-        },
-        {
-          "publisher": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://abcnews.com/US/former-nfl-coach-rex-ryan-surrenders-alleged-hit/story?id=138050103"
-        }
-      ],
-      "summary": "Former NFL coach Rex Ryan turns himself in after allegedly hitting Nashville pedestrians.",
-      "timestamp": "2026-11-11T22:30:00Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "tragedies",
-      "extended_summary": "A three-story mixed-use building collapsed Wednesday around 4 p.m. in the Flatbush neighborhood of central Brooklyn, killing at least one person including a child and injuring 12 others, six of them critically. Rescue operations have continued for over four hours as crews dig through rubble using hands, large vacuums, and saws to cut metal, with lights established after sunset to continue the search. About 250 firefighters and emergency responders are working at the site, located in a largely residential area with a predominantly Black and Afro-Caribbean community south of Prospect Park. City officials are reviewing rental records to determine how many people remain unaccounted for, while Mayor Zohran Mamdani prepares to hold a news conference about the collapse.",
-      "id": "international-tragedies-1",
-      "micro_summary": "A three-story building collapsed in Brooklyn's Flatbush neighborhood, killing at least one person and injuring 12.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.879,
-      "sources": [
-        {
-          "publisher": "Sky News",
-          "url": "https://news.sky.com/story/people-feared-trapped-after-building-collapses-in-new-york-13611256"
-        },
-        {
-          "publisher": "CNN",
-          "url": "https://www.cnn.com/2026/11/11/us/live-news/brooklyn-building-collapse-nyc"
-        },
-        {
-          "publisher": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/11/nyregion/brooklyn-building-collapse.html"
-        }
-      ],
-      "summary": "A three-story building collapsed Wednesday afternoon in Brooklyn's Flatbush neighborhood, killing at least one person including a child and injuring 12 others, six critically, as rescue crews dig through rubble searching for survivors.",
-      "timestamp": "2026-11-11T23:51:29Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "tragedies",
-      "extended_summary": "An 11-month-old baby was rescued alive in Lexington County, South Carolina, after being buried in a dog crate by his father for approximately 24 hours. Koah Sharpe was found on Tuesday in the woods near his father's house after a search party of about 100 police and fire personnel discovered freshly disturbed dirt and heard the infant crying. The child was wrapped in a towel inside a roughly two-foot by two-foot crate buried just under the surface. His father, Michael Comer, 25, was arrested on Monday on a burglary charge after taking the baby from his mother's home. Comer had previously pleaded guilty to domestic violence charges. The baby is now hospitalized and expected to make a full recovery. Police are deciding what additional charges to bring against the father.",
-      "id": "international-tragedies-2",
-      "micro_summary": "Eleven-month-old Koah Sharpe was found alive after being buried in a dog crate by his father for 24 hours.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.836,
-      "sources": [
-        {
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o"
-        },
-        {
-          "publisher": "Sky News",
-          "url": "https://news.sky.com/story/father-of-infant-buried-alive-in-us-charged-with-attempted-murder-13611235"
-        },
-        {
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/nov/11/baby-found-alive-buried-dog-crate-south-carolina"
-        }
-      ],
-      "summary": "An 11-month-old baby was found alive in South Carolina after being buried for about 24 hours in a dog crate by his father, who was arrested on a burglary charge. The child is hospitalized and expected to recover.",
-      "timestamp": "2026-11-11T18:10:57Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "tragedies",
-      "extended_summary": "Russian Ambassador to the United States Alexander Darchiev died suddenly in Moscow at age 66, the Russian Foreign Ministry announced Wednesday. The ministry described him as an exceptional professional who passed away while receiving treatment for a chronic illness after returning from Washington, where he had served as ambassador since March 2025. Darchiev, a veteran diplomat born into a diplomat family, entered Russian diplomatic service in 1992 and previously served as Russia's ambassador to Canada from 2014 to 2021. He also headed the Foreign Ministry's North Atlantic Department in Washington. His tenure in the US coincided with renewed bilateral talks between Moscow and Washington. The US State Department offered condolences to his family. Darchiev had left the embassy in Washington before returning to Moscow for treatment of his long-term illness.",
-      "id": "international-tragedies-3",
-      "micro_summary": "Russian Ambassador to the US Alexander Darchiev died suddenly in Moscow aged 66.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.817,
-      "sources": [
-        {
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/11/russias-ambassador-to-the-us-alexander-darchiev-dies-at-66"
-        },
-        {
-          "publisher": "CNN",
-          "url": "https://www.cnn.com/2026/11/11/europe/russian-ambassador-to-us-dies-intl"
-        },
-        {
-          "publisher": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/11/world/europe/russian-ambassador-darchiev-dead.html"
-        }
-      ],
-      "summary": "Russian Ambassador to the United States Alexander Darchiev died suddenly in Moscow at age 66, the Russian Foreign Ministry said Wednesday. He had been receiving treatment for a chronic illness after leaving Washington and served as ambassador since March 2025.",
-      "timestamp": "2026-11-11T18:20:09Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "tragedies",
-      "extended_summary": "Iranian officials have threatened to strike American military bases in Europe and distant regions if used to attack Iran. Maj Gen Mohsen Rezaei, secretary of Iran's supreme national security council, said that if American aircraft take off from any US base, including those in European countries, to bomb Iran, those bases will be struck. He added that Iran may even target islands assumed to be beyond missile reach. Maj Gen Ali Abdollahi, armed forces chief of staff, warned that previous attacks were only the beginning and any new miscalculation would bring far deadlier blows. The threats come amid a war that began February 28 with US-Israeli strikes that killed Iran's supreme leader, Ayatollah Ali Khamenei. Iran has set conditions for ending the conflict, including a deal covering West Asia especially Lebanon, lifting the naval blockade of the Strait of Hormuz, releasing frozen assets, and guarantees against renewed attacks, while insisting it will not surrender its nuclear stockpile.",
-      "id": "international-tragedies-4",
-      "micro_summary": "Iran threatens to strike US military bases in Europe and distant regions if used to attack Tehran.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.809,
-      "sources": [
-        {
-          "publisher": "The Telegraph",
-          "url": "https://www.telegraph.co.uk/world-news/2026/11/11/iran-threatens-bomb-european-bases-middle-east/"
-        },
-        {
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/france/20261111-tehran-will-strike-us-bases-in-europe-if-used-to-attack-iran-security-chief-says"
-        },
-        {
-          "publisher": "تسنیم",
-          "url": "https://www.tasnimnews.ir/en/news/2026/11/11/3745934/top-general-warns-us-israel-of-iran-s-far-deadlier-response-to-aggression"
-        }
-      ],
-      "summary": "Iran has threatened to attack US military bases in Europe and other distant regions if American aircraft use them to bomb Iran, warning that no base is beyond its missile reach and setting conditions for ending the conflict.",
-      "timestamp": "2026-11-11T18:42:00Z"
+      "summary": "India's year-on-year retail inflation reached 6.09% in October 2026, the highest in 2026 and above the Reserve Bank of India's 6% upper tolerance limit, driven by food inflation of 8.94%.",
+      "timestamp": "2026-11-12T14:03:42Z"
     },
     {
       "ai": false,
       "articles": 2,
+      "category": "entertainment",
+      "extended_summary": "Ramayana: Rise of a Legend has made history at the UK and Ireland box office, becoming the first Indian film to claim the top spot in the territory. The film collected &#xC2;&#xA3;2.14 million during its opening weekend, from November 6 to 8, according to figures released by the British Film Institute (BFI).Distributed by Sony Pictures, the film secured the number one position across 361 cinemas, with an average collection of &#xC2;&#xA3;5,951 per cinema. Its total includes &#xC2;&#xA3;435,875 earned through previews at 337 locations.Until now, the highest position achieved by an Indian film at the UK and Ireland box office was second place. SS Rajamouli&#039;s RRR, Shah Rukh Khan&#039;s Pathaan and Jawan, and Dhurandhar: The Revenge had all reached that position.Ramayana: Rise of a Legend pushed Disney&#039;s Wild Horse Nine to second place. The film collected &#xC2;&#xA3;1.47 million in its opening weekend across 656 cinemas. Japanese film Godzilla Minus Zero followed",
+      "id": "national-entertainment-1",
+      "micro_summary": "Ramayana creates box office history in UK, Ireland, beats Godzilla Minus Zero.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.615,
+      "sources": [
+        {
+          "publisher": "India Today",
+          "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-uk-ireland-box-office-history-godzilla-minus-zero-3037160-2026-11-12"
+        },
+        {
+          "publisher": "IMDb",
+          "url": "https://www.imdb.com/news/ni66103763/?ref_=nmnw_art_perm"
+        }
+      ],
+      "summary": "Ramayana creates box office history in UK, Ireland, beats Godzilla Minus Zero. Ramayana: Rise of a Legend has made history at the UK and Ireland box office, becoming the first Indian film to claim the top spot in the territory.",
+      "timestamp": "2026-11-12T17:07:08Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "entertainment",
+      "extended_summary": "Ramayana: Rise Of A Legend has crossed the Rs 500 crore mark at the domestic box office within its first week of release. The film, which arrived in theatres on November 5, collected Rs 511.10 crore nett domestically by Day 7. It opened with Rs 64.85 crore on Thursday, dipped to Rs 48.05 crore on Friday, then surged to Rs 69.80 crore on Saturday and Rs 56.15 crore on Sunday. Monday marked its biggest day with Rs 107.50 crore, a 91.5 per cent jump, followed by Rs 94.10 crore on Tuesday and Rs 70.65 crore on Wednesday. Its worldwide gross stands at Rs 934.55 crore. Mounted on a budget of Rs 4,000 crore, the film is directed by Nitesh Tiwari and stars Ranbir Kapoor, Sai Pallavi, Yash, Sunny Deol, Ravi Dubey and Lara Dutta.",
+      "id": "national-entertainment-2",
+      "micro_summary": "Ramayana: Rise Of A Legend crossed Rs 500 crore domestic box office within its first week.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.466,
+      "sources": [
+        {
+          "publisher": "IMDb",
+          "url": "https://www.imdb.com/news/ni66107290/?ref_=tt_nwr_1"
+        },
+        {
+          "publisher": "NDTV",
+          "url": "https://www.ndtv.com/entertainment/ramayana-box-office-collection-day-7-ranbir-kapoor-film-crosses-rs-500-crore-mark-in-india-rs-650-crore-worldwide-12315335"
+        }
+      ],
+      "summary": "Ramayana: Rise Of A Legend crossed Rs 511.10 crore domestic nett in seven days, reaching Rs 934.55 crore worldwide gross.",
+      "timestamp": "2026-11-12T06:32:37Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
       "category": "politics",
-      "extended_summary": "The book goes through the Italian-born matriarch's journey with one of India's most politically influential families. It has already garnered political controversy, with the ruling BJP accusing her of \"whitewashing.\" A memoir bysenior Congress leader and former party president Sonia Gandhi went on sale on Tuesday, with its pages offering a rare insight by the private politician into how she came from humble Italian origins and went on to become the matriarch of India's most powerful political dynasty — the Nehru-Gandhi family. The book called \"Belonging: A Journey of Love\" has been published by HarperCollins India. \"Much has been written about my family, but rarely with real insight into who they were, their motivations, their struggles, their very human flaws. I wanted to portray them honestly, as people I knew and loved,\" 79-year-old Gandhi wrote in The Hindu daily newspaper earlier this week. Born Sonia Maino in 1946 in a",
+      "extended_summary": "Union Minister for Commerce and Industry Piyush Goyal addressed the inaugural session of the 31st CII Partnership Summit 2026 in Visakhapatnam on Thursday, urging global businesses to invest in India and make it their address for factories, design centres and global capability centres. He pitched India as a safe and trusted destination for foreign direct investment amid global economic uncertainties and ongoing conflicts, citing Moody's upgraded FY27 growth estimate of 7% driven by robust consumption and strong macroeconomic fundamentals. Goyal assured investors that India would fully respect and protect intellectual property rights and never steal technology, emphasizing that trust is the scarcest commodity in the 21st century. He highlighted India's skilled youth contributing significantly to GDP growth and invited entrepreneurs to invest in manufacturing, tourism and other sectors, noting Visakhapatnam's transformation from a Steel City to a Silicon City.",
       "id": "national-politics-1",
-      "micro_summary": "‘The pull of duty’: Sonia Gandhi on family, power and India.",
+      "micro_summary": "Union Commerce Minister Piyush Goyal pitched India as a safe investment destination with 7% growth forecast at Visakhapatnam summit.",
       "publishers": 2,
       "scope": "national",
-      "score": 0.564,
+      "score": 0.593,
       "sources": [
         {
-          "publisher": "The World from PRX",
-          "url": "https://theworld.org/stories/2026/11/11/the-pull-of-duty-sonia-gandhi-on-family-power-and-india"
+          "publisher": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/india-will-remain-a-trusted-partner-for-global-investors-assures-union-minister-piyush-goyal/article71693507.ece"
         },
         {
-          "publisher": "DW.com",
-          "url": "https://www.dw.com/en/india-sonia-gandhis-memoir-belonging-a-journey-of-love-released/a-79908336"
+          "publisher": "DD News",
+          "url": "https://ddnews.gov.in/en/piyush-goyal-pitches-india-as-safe-investment-destination-amid-global-uncertainties/"
         }
       ],
-      "summary": "‘The pull of duty’: Sonia Gandhi on family, power and India. The book called \"Belonging: A Journey of Love\" has been published by HarperCollins India.",
-      "timestamp": "2026-11-11T14:32:49Z"
+      "summary": "Union Commerce Minister Piyush Goyal addressed the 31st CII Partnership Summit 2026 in Visakhapatnam, urging global businesses to invest in India as a safe destination amid global uncertainties, citing Moody's 7% FY27 growth estimate and promising intellectual property protection.",
+      "timestamp": "2026-11-12T17:26:38Z"
+    },
+    {
+      "ai": true,
+      "articles": 4,
+      "category": "science",
+      "extended_summary": "OpenAI has introduced API inference residency in India, enabling eligible businesses to process supported GPT-6 Luna workloads entirely within the country. The service supports the model through the Responses and Chat Completions APIs, with both processing and customer data storage taking place in India. This move addresses data localisation requirements that have hindered AI adoption among regulated businesses such as banks, financial institutions, and government agencies. To use the offering, customers must create a new API project, select India as the location for both data storage and processing, and use the corresponding India regional endpoint. India joins Australia and Japan as markets where OpenAI has introduced API inference residency. The development extends OpenAI's existing data residency options in India, initially introduced in May 2025, and aims to help organisations move from experimenting with AI to deploying it in daily operations.",
+      "id": "national-science-1",
+      "micro_summary": "OpenAI launched API inference residency in India for GPT-6 Luna workloads to meet data localisation requirements.",
+      "publishers": 3,
+      "scope": "national",
+      "score": 0.639,
+      "sources": [
+        {
+          "publisher": "The Hindu",
+          "url": "https://www.thehindu.com/business/openai-now-allows-enterprises-to-process-ai-requests-within-india/article71692799.ece"
+        },
+        {
+          "publisher": "Inc42",
+          "url": "https://inc42.com/buzz/openai-brings-api-inference-residency-to-india-to-deepen-enterprise-ai-adoption/"
+        },
+        {
+          "publisher": "Business Standard",
+          "url": "https://www.business-standard.com/technology/artificial-intelligence/openai-to-process-ai-requests-in-india-to-meet-data-localisation-needs-126111200782_1.html"
+        }
+      ],
+      "summary": "OpenAI introduced API inference residency in India, allowing eligible businesses to process GPT-6 Luna workloads and store data within the country to address data localisation requirements for regulated industries.",
+      "timestamp": "2026-11-12T13:05:01Z"
     },
     {
       "ai": true,
       "articles": 2,
-      "category": "science",
-      "extended_summary": "Panjagutta police station in Hyderabad is being developed as the country's first AI-powered police station under a pilot project directed by Telangana DGP C.V. Anand, scheduled for launch in the first week of December. Hyderabad Police Commissioner V.C. Sajjanar conducted a surprise inspection to review technological integration progress. The initiative will deploy artificial intelligence across all policing stages, from FIR registration and case diary maintenance to investigation reports and charge-sheet preparation. An AI-enabled Setu kiosk allows complainants to submit grievances in approximately 10 languages, with automatic translation into the local language and instant forwarding to authorities. The system will analyze data on traffic congestion, hostels, commercial establishments and crime patterns to optimize Blue Colts deployment and improve patrolling efficiency. Police personnel are receiving special training to use the technology effectively. Based on the pilot's performance, the model may be expanded across Telangana.",
-      "id": "national-science-1",
-      "micro_summary": "Panjagutta police station launches as country's first AI-powered station in December with 10-language complaint kiosks.",
+      "category": "sports",
+      "extended_summary": "Durga Rao Tompaki will lead a 17-member visually challenged Indian cricket team to the Asia Cup in Dhaka, scheduled from November 15 to 20. The BCCI is sponsoring round-trip air tickets from New Delhi to Dhaka for the squad, which includes players from Gujarat, Delhi, Odisha, Andhra Pradesh, Haryana and Karnataka. India will open their campaign against Sri Lanka on November 15, face Pakistan on November 17, and take on hosts Bangladesh on November 19, with the final scheduled for November 20. India, who won the title a decade ago, will be looking to reclaim the trophy. The team was given a send-off in New Delhi organized by the Cricket Association for the Blind in India in association with Samarthanam Trust and CBRE, whose CSR initiative Ek Pehal supported preparations including coaching, nutrition, fitness, physiotherapy, travel and equipment.",
+      "id": "national-sports-1",
+      "micro_summary": "Durga Rao Tompaki leads 17-member visually challenged Indian cricket team to Asia Cup in Dhaka November 15-20.",
       "publishers": 2,
       "scope": "national",
-      "score": 0.539,
+      "score": 0.559,
       "sources": [
         {
-          "publisher": "Telangana Today",
-          "url": "https://telanganatoday.com/punjagutta-police-station-gets-ai-upgrade-31aa68e2"
+          "publisher": "NDTV Sports",
+          "url": "https://sports.ndtv.com/cricket/bcci-sponsors-air-fare-for-indias-visually-challenged-cricket-squad-12317564"
         },
         {
-          "publisher": "Deccan Chronicle",
-          "url": "https://www.deccanchronicle.com/southern-states/telangana/panjagutta-to-get-indias-first-ai-police-station-2003626"
+          "publisher": "ThePrint",
+          "url": "https://theprint.in/sport/bcci-sponsors-air-fare-for-indias-visually-challenged-cricket-squad/3097143/"
         }
       ],
-      "summary": "Panjagutta police station in Hyderabad becomes the country's first AI-powered station, launching in the first week of December with AI from FIR registration to charge-sheet preparation and a 10-language kiosk.",
-      "timestamp": "2026-11-11T17:59:21Z"
+      "summary": "Durga Rao Tompaki will captain a 17-member visually challenged Indian team at the Asia Cup in Dhaka November 15-20, with BCCI sponsoring air travel. India opens against Sri Lanka November 15, then faces Pakistan and Bangladesh before November 20 final.",
+      "timestamp": "2026-11-12T13:41:42Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "sports",
+      "extended_summary": "India's men's national football team suffered a 0-5 defeat to New Zealand in their first international friendly of the November FIFA window at Go Media Stadium in Auckland on Thursday. New Zealand opened the scoring in the fifth minute through an own goal by Bijoy Varghese, before Jesse Randall struck twice to make it 3-0 at half-time. Chris Wood headed in the fourth goal in the 57th minute and Lachlan Bayliss scored from a volley in the 74th minute to complete the rout. India goalkeeper Vishal Kaith was a standout performer, making several crucial saves including a penalty from Bill Tuiloma in the 78th minute to prevent a bigger defeat. The loss extends India's poor run, having conceded 15 goals in their last three fixtures. Both teams will meet again in Christchurch on Sunday.",
+      "id": "national-sports-2",
+      "micro_summary": "India suffered 0-5 defeat to New Zealand in Auckland friendly.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.531,
+      "sources": [
+        {
+          "publisher": "The Indian EYE",
+          "url": "https://theindianeye.com/2026/11/12/new-zealand-beat-indian-football-team-by-5-0/"
+        },
+        {
+          "publisher": "Onmanorama",
+          "url": "https://www.onmanorama.com/sports/football/2026/11/12/vishal-kaith-remains-sole-solace-in-india-s-5-0-loss-against-new-zealand.html"
+        }
+      ],
+      "summary": "India lost 0-5 to New Zealand in Auckland friendly, with goals from an own goal, Jesse Randall's brace, Chris Wood and Lachlan Bayliss; goalkeeper Vishal Kaith saved a penalty.",
+      "timestamp": "2026-11-12T16:34:50Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "tragedies",
+      "extended_summary": "At least 14 people were killed and six others injured on Thursday when a microbus plunged down a hilly road in Nepal's Bagmati province. The accident occurred around 5:45 am in the Makawanpur district when the vehicle, carrying around 17 people, plunged approximately 300 metres down a hilly section of the Bhimfedi-Kulekhani-Kathmandu road in Bhimfedi Rural Municipality. The vehicle was travelling from Kathmandu to Sarlahi. The driver was among those killed, and six injured passengers were admitted to a local hospital in Hetauda Municipality for treatment. The passengers were residents of Sarlahi district returning from Kathmandu to celebrate the Hindu festival Chhath, which falls on Sunday. A seven-member rescue team was deployed to the accident site.",
+      "id": "national-tragedies-1",
+      "micro_summary": "At least 14 people died when a microbus plunged down a hilly road in Nepal's Bagmati province.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.562,
+      "sources": [
+        {
+          "publisher": "India Today",
+          "url": "https://www.indiatoday.in/world/story/nepal-microbus-accident-kills-11-chhath-travellers-bagmati-3037448-2026-11-12"
+        },
+        {
+          "publisher": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/world/south-asia/10-killed-as-passenger-vehicle-plunges-500-metres-down-slope-in-nepal/articleshow/135758559.cms"
+        }
+      ],
+      "summary": "A microbus carrying around 17 people plunged 300 metres down a hilly road in Nepal's Makawanpur district at 5:45 am Thursday, killing at least 14 and injuring six while travelling from Kathmandu to Sarlahi.",
+      "timestamp": "2026-11-12T11:04:52Z"
     }
   ]
 }
