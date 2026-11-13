@@ -1,0 +1,348 @@
+{
+  "date": "2026-11-13",
+  "events": [
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "business",
+      "extended_summary": "Ukraine's Special Operations Forces struck Russia's Omsk oil refinery on November 11 for the third time during the full-scale invasion. Located 2,500 kilometers from Ukraine's border, the facility required deep strike drones to travel 3,000 kilometers, making it the furthest Russian oil refinery struck by Ukrainian drones. The Omsk Oil Refinery is Russia's largest, owned by Gazprom, processing over 21 million tons of oil annually and producing gasoline, diesel, aviation fuel, and petrochemical products. The facility accounts for one out of every six liters of Russian gasoline and diesel fuel. The city of Omsk came under sustained drone fire for over eight hours, with air raid sirens sounding and residents urged to remain indoors. A fire was reported near the refinery, and blackouts occurred in some districts. Ukrainian forces previously struck the refinery in July and October.",
+      "id": "international-business-1",
+      "micro_summary": "Ukrainian forces struck Russia's Omsk oil refinery for the third time on November 11 with drones traveling 3,000 kilometers.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.586,
+      "sources": [
+        {
+          "publisher": "The Kyiv Independent",
+          "url": "https://kyivindependent.com/russias-largest-oil-refinery-slammed-by-drones-in-8-hr-attack-2-500-km-from-ukraine/"
+        },
+        {
+          "publisher": "Reuters",
+          "url": "https://www.reuters.com/business/energy/recent-ukrainian-attacks-have-reduced-russias-oil-processing-capacity-by-30-2026-11-10/"
+        },
+        {
+          "publisher": "Українська правда",
+          "url": "https://www.pravda.com.ua/eng/news/2026/11/12/8062494/"
+        }
+      ],
+      "summary": "Ukraine's Special Operations Forces struck Russia's Omsk oil refinery on November 11 for the third time, with drones traveling 3,000 kilometers to hit Russia's largest refinery, which processes over 21 million tons of oil annually.",
+      "timestamp": "2026-11-11T22:41:46Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "President Trump announced that the United States is no longer seeking a deal to end the war with Iran and ordered Vice President JD Vance to redirect his attention from restarting negotiations to addressing domestic issues. In a social media post, Trump directed Vance to focus on what he termed massive corruption and crime in Democrat-run cities and states. The war began in February when the US and Israel launched joint strikes on Iran, prompting Iran to close the Strait of Hormuz and causing global fuel costs to rise. Trump stated that the US has secured hundreds of billions of dollars and control of the strait, declaring that the need for a deal has passed. The US maintains a blockade on Iranian ports while the strait remains mostly open to traffic. Trump described the war as effectively over, noting that Israel and Gulf allies are protected and that regional leaders had lobbied against resuming hostilities during a meeting with Qatar's prime minister.",
+      "id": "international-politics-1",
+      "micro_summary": "President Trump ordered Vice President Vance to abandon Iran negotiations and focus on domestic crime.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.849,
+      "sources": [
+        {
+          "publisher": "Financial Times",
+          "url": "https://www.ft.com/content/3c1727bb-2966-4e5c-808b-873d14854fa2?syn-25a6b1a6=1"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/12/trump-jd-vance-iran-war"
+        },
+        {
+          "publisher": "Le Monde.fr",
+          "url": "https://www.lemonde.fr/en/international/article/2026/11/12/trump-urges-jd-vance-to-shift-focus-from-iran-to-targeting-corruption-and-crime-at-home_6779203_4.html"
+        }
+      ],
+      "summary": "President Trump announced the US is no longer seeking a deal to end the war with Iran and ordered Vice President JD Vance to focus on domestic corruption in Democrat-run cities instead of restarting negotiations.",
+      "timestamp": "2026-11-12T20:02:34Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "An Israeli airstrike struck Nasser hospital in Khan Younis, southern Gaza, early Thursday, killing six and wounding 28 to 30. The dead included Dr Rizq Abu Shaira, a 52-year-old surgeon featured in the documentary American Doctor, a disabled man, patients and medical staff. Two missiles hit the al-Yasin surgery building containing surgical wards and intensive care units, though only one exploded, causing extensive damage to operating theatres, wards and a sleeping area for medics. Services were suspended in radiology, laboratories, surgical operations and inpatient wards. The Israeli military stated it targeted a Hamas commander and fighters who used the hospital as a headquarters, while Hamas denied these claims as false narratives covering up a war crime. Nasser Medical Complex is the largest hospital in southern Gaza, serving almost one million people and one of the last functioning facilities in the strip, attacked seven times since the war began.",
+      "id": "international-politics-4",
+      "micro_summary": "Israeli airstrike on Nasser hospital in Gaza kills six and wounds 28.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.765,
+      "sources": [
+        {
+          "publisher": "Financial Times",
+          "url": "https://www.ft.com/content/2a3d0391-c4d9-4195-af36-b5ee66415cd9?syn-25a6b1a6=1"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon"
+        }
+      ],
+      "summary": "An Israeli airstrike on Nasser hospital in Gaza killed six people including surgeon Dr Rizq Abu Shaira and wounded 28, damaging surgical wards and suspending services in four departments as Israel claimed it targeted Hamas fighters.",
+      "timestamp": "2026-11-12T12:03:33Z"
+    },
+    {
+      "ai": true,
+      "articles": 4,
+      "category": "science",
+      "extended_summary": "Quantum Systems, a German drone manufacturer based in Gilching near Munich, detected a cybersecurity incident at the end of October 2026. The company identified an active cyberattack by hostile actors and stated that its IT teams and security specialists, working with authorities, contained the threat. Quantum Systems reported no risk to end users and operators of its systems and notified competent authorities, with the incident remaining under investigation. The Bundeswehr allegedly took Quantum Systems drones out of service as a precaution following the incident, though the Federal Ministry of Defence did not comment. The company manufactures dual-use drones for military and civilian applications, including reconnaissance and surveillance systems used by the Armed Forces of Ukraine. Its products include the Reliant reconnaissance system, capable of monitoring large areas for over ten hours, and Mosaic software for controlling unmanned systems.",
+      "id": "international-science-1",
+      "micro_summary": "Quantum Systems detected and contained a cyberattack in late October 2026, stating no risk to drone operators.",
+      "publishers": 4,
+      "scope": "international",
+      "score": 0.719,
+      "sources": [
+        {
+          "publisher": "Financial Times",
+          "url": "https://www.ft.com/content/783504cd-aa28-453a-a223-7a34eee86ce8?syn-25a6b1a6=1"
+        },
+        {
+          "publisher": "UA.NEWS",
+          "url": "https://ua.news/en/dovkolo-svitu/quantum-systems-povidomila-pro-kiberataku-v-nimechchini-tagesschau"
+        },
+        {
+          "publisher": "Traders Union",
+          "url": "https://tradersunion.com/news/companies/show/4221356-quantum-drones-germany-cyber-attack/"
+        }
+      ],
+      "summary": "German drone maker Quantum Systems reported a cyberattack detected in late October 2026, contained by IT teams with authorities; the company stated no risk to end users, while the Bundeswehr allegedly took its drones out of service.",
+      "timestamp": "2026-11-12T17:32:13Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "science",
+      "extended_summary": "A University of Exeter study analyzing data from 4,219 children aged four to 11 found that those taken to parks at least once a week scored an average of 16.5 percent better on mental health assessments compared to those visiting less frequently. The research, funded by the UK Medical Research Council and NIHR, used data from the Children of the 90s study and controlled for socioeconomic status and family adversity. Researchers focused on social-emotional development, finding that more frequent park visits correlated with better skills in managing feelings, building relationships, and coping with challenges. Lead researcher Mark Ferguson stated that encouraging weekly park visits could support emotional wellbeing and mental health, provided communities have good-quality parks that are safe, accessible, and welcoming to all families. The study highlighted physical activity, social interaction, and play opportunities as key factors supporting children's healthy development.",
+      "id": "international-science-4",
+      "micro_summary": "Children visiting parks at least weekly score 16.5% better on mental health assessments.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.623,
+      "sources": [
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c34g1g1lkz9jo"
+        },
+        {
+          "publisher": "University of Exeter News",
+          "url": "https://news.exeter.ac.uk/faculty-of-health-and-life-sciences/going-to-the-park-at-least-once-a-week-can-improve-childrens-mental-health/"
+        },
+        {
+          "publisher": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/news/2026/11/11/children-who-go-to-the-park-grow-up-with-better-social-skil/"
+        }
+      ],
+      "summary": "A University of Exeter study of 4,219 children aged four to 11 found weekly park visitors scored 16.5% better on mental health assessments than less frequent visitors, highlighting accessible green spaces' importance for development.",
+      "timestamp": "2026-11-12T12:21:40Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "",
+      "id": "international-sports-2",
+      "micro_summary": "",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.881,
+      "sources": [
+        {
+          "publisher": "The New York Times",
+          "url": "https://www.nytimes.com/athletic/7776293/2026/11/12/mauricio-pochettino-manchester-united-contract-length/"
+        },
+        {
+          "publisher": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50437253/manchester-united-fire-michael-carrick-analysis"
+        },
+        {
+          "publisher": "CNN",
+          "url": "https://www.cnn.com/2026/11/12/sport/michael-carrick-fired-manchester-united"
+        }
+      ],
+      "summary": "",
+      "timestamp": "2026-11-12T22:57:43Z"
+    },
+    {
+      "ai": true,
+      "articles": 10,
+      "category": "sports",
+      "extended_summary": "Harry Kane is now England's most-capped men's player as well as the country's record goalscorer, achievements that have prompted discussion about where he ranks among the Three Lions' greatest ever players. The debate considers not only individual ability but also impact upon the nation's psyche and longevity in a Three Lions shirt. Other players mentioned in the discussion include Ballon d'Or winners Stanley Matthews, Kevin Keegan and Michael Owen, technicians Glenn Hoddle, Chris Waddle and John Barnes, and midfielders Paul Scholes, Steven Gerrard and Frank Lampard. David Beckham, who earned 115 caps and scored 17 goals for England including five free-kicks, is cited as one of the most iconic players, having scored a 93rd-minute free-kick against Greece to qualify for the 2002 World Cup. Geoff Hurst, Jimmy Greaves, Eddie Hapgood, Tom Finney, Nat Lofthouse and Dixie Dean are also referenced as players whose contributions are difficult to rank.",
+      "id": "international-sports-3",
+      "micro_summary": "Harry Kane becomes England's most-capped men's player and record goalscorer.",
+      "publishers": 7,
+      "scope": "international",
+      "score": 0.874,
+      "sources": [
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.com/sport/football/articles/c64gnd7vd912o"
+        },
+        {
+          "publisher": "Sky News",
+          "url": "https://news.sky.com/story/harry-kane-becomes-englands-most-capped-mens-footballer-13611667"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/nov/12/england-v-croatia-nations-league-live"
+        },
+        {
+          "publisher": "The Canberra Times",
+          "url": "https://www.canberratimes.com.au/story/9390974/harry-kane-marks-milestone-night-with-winning-goal/"
+        }
+      ],
+      "summary": "Harry Kane is now England's most-capped men's player and the country's record goalscorer, sparking debate about his place among the Three Lions' greatest ever players alongside icons like David Beckham.",
+      "timestamp": "2026-11-12T22:09:59Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "Eight people died and 18 others were injured when a three-storey building at 1321 Flatbush Avenue collapsed into an adjacent construction pit in Brooklyn's Flatbush neighborhood on Wednesday at approximately 16:00 local time. The 1930s structure, which contained apartments and a store, fell while workers were excavating a neighboring site where plans had been approved for a new building with 64 residential units and a ground-floor grocery store. Firefighters arrived within minutes and, despite heavy rain and falling temperatures, remain in a recovery phase searching for all victims. Mayor Zohran Mamdani described workers digging victims from the rubble, while Fire Commissioner Lillian Bonsignore called their actions incredibly heroic. The developer has been identified as Robert Fischman, and investigators are examining whether criminal conduct contributed to the collapse, with the Brooklyn District Attorney working alongside the Department of Buildings. The cause remains under investigation.",
+      "id": "international-tragedies-1",
+      "micro_summary": "A three-storey Brooklyn building collapse killed eight and injured 18 on Wednesday.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.818,
+      "sources": [
+        {
+          "publisher": "Sky News",
+          "url": "https://news.sky.com/story/people-feared-trapped-after-building-collapses-in-new-york-13611256"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm20v66jq611o"
+        },
+        {
+          "publisher": "NBC News",
+          "url": "https://www.nbcnews.com/news/us-news/-cant-true-families-devastated-deadly-new-york-city-building-collapse-rcna609025"
+        }
+      ],
+      "summary": "Eight people died and 18 were injured when a three-storey building collapsed into an adjacent construction pit in Brooklyn's Flatbush neighborhood on Wednesday. Firefighters responded within minutes and remain in recovery phase as investigators examine possible criminal charges.",
+      "timestamp": "2026-11-12T14:38:37Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "The Naro-Fominsk is believed to have headed back to port in St Petersburg after the attack Finnish officials have confirmed that a Russian warship was attacked in the Gulf of Finland on Wednesday, although little is known about the strike. Ukraine's SBU security service said it targeted the ship Naro-Fominsk as part of a broader drone operation against Russia's Ust-Luga oil export depot on the Baltic coast. The attack, thought to be the first time Ukrainian drones have attacked a Russian ship in an area of the Baltic Sea open to civilian maritime traffic, has raised questions about whether Ukraine could expand its strikes. Helsinki has been one of Kyiv's closest European allies, and Finnish officials have described the incident as a direct result of Russia's continued full-scale war. Finland's military has given few details of the incident, but it appears to have taken place in a narrow stretch some",
+      "id": "international-tragedies-2",
+      "micro_summary": "Russian warship hit by Ukrainian drone in Gulf of Finland.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.797,
+      "sources": [
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo"
+        },
+        {
+          "publisher": "Sky News",
+          "url": "https://news.sky.com/story/finlands-navy-chief-says-russias-presence-in-the-baltic-sea-may-have-peaked-for-now-13609763"
+        },
+        {
+          "publisher": "Janes Defence Intelligence",
+          "url": "https://www.janes.com/defence-intelligence-insights/defence-news/sea/finland-detects-strike-on-russian-warship-ukraine-claims-attack"
+        }
+      ],
+      "summary": "Russian warship hit by Ukrainian drone in Gulf of Finland. There is no immediate military threat to Finland, and the security situation in the Baltic Sea remains stable, the FDF spokesperson said.",
+      "timestamp": "2026-11-12T20:09:16Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "An 11-month-old boy was rescued in South Carolina after his father allegedly buried him alive in a dog crate. Koah Sharp was found crying and covered in dirt after about 24 hours underground in woods near his father's home. A search involving 100 police and fire officials located freshly disturbed soil and heard cries from below ground. The boy survived due to cool temperatures and an air pocket from a towel wrapped around the crate. He was released from a hospital Tuesday night and is expected to make a full recovery. His father, Michael Comer, 25, was arrested while hiding in Batesburg-Leesville and charged with attempted murder. Comer had previously pleaded guilty to domestic violence and received probation in October. Authorities have not revealed a motive. A court hearing was planned for Thursday.",
+      "id": "international-tragedies-4",
+      "micro_summary": "An 11-month-old South Carolina boy was rescued after being buried alive in a dog crate for about 24 hours.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.765,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/12/father-charged-bury-child-alive-south-carolina"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o"
+        },
+        {
+          "publisher": "Sky News",
+          "url": "https://news.sky.com/story/father-of-infant-buried-alive-in-us-charged-with-attempted-murder-13611235"
+        }
+      ],
+      "summary": "An 11-month-old South Carolina boy was rescued after being buried alive in a dog crate by his father for 24 hours. Rescuers heard crying from disturbed soil. The infant is expected to recover fully; his father faces attempted murder charges.",
+      "timestamp": "2026-11-12T13:24:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "entertainment",
+      "extended_summary": "Ramayana: Rise of a Legend crossed the ₹1,000-crore mark in worldwide gross on Thursday, reaching ₹1,033.55 crore on day eight of its theatrical run. This makes it the third-fastest Indian film to achieve the milestone, behind Pushpa: The Rise - Part 2 and Dhurandhar 2: The Revenge, which both crossed the mark within their first week. The film, starring Ranbir Kapoor and Yash, is now the 11th Indian film to enter the ₹1,000-crore club worldwide. On Thursday, it collected ₹53.50 crore in India net across 23,996 shows, bringing its total India net to ₹564.60 crore and India gross to ₹675.05 crore. Its overseas collection reached ₹358.50 crore after earning ₹25 crore on Thursday. The film also surpassed the lifetime India net haul of Animal and the lifetime overseas collections of Animal, Dhurandhar, and Pushpa 2.",
+      "id": "national-entertainment-2",
+      "micro_summary": "Ramayana: Rise of a Legend crossed the ₹1,000-crore worldwide gross mark on day eight of its run.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.58,
+      "sources": [
+        {
+          "publisher": "The Week",
+          "url": "https://www.theweek.in/news/entertainment/2026/11/12/ramayana-day-eight-box-office-collection-1000-crore.html"
+        },
+        {
+          "publisher": "IMDb",
+          "url": "https://www.imdb.com/news/ni66107976/?ref_=int_nwr_1"
+        }
+      ],
+      "summary": "Ramayana: Rise of a Legend crossed ₹1,033.55 crore in worldwide gross on Thursday, becoming the third-fastest Indian film to reach ₹1,000 crore and the 11th to enter the club, with ₹675.05 crore from India and ₹358.50 crore overseas.",
+      "timestamp": "2026-11-12T17:53:06Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "sports",
+      "extended_summary": "India secured a 4-run victory over New Zealand in the second ODI via the DLS method after rain halted play with India at 113 for 7, taking a 2-0 series lead. New Zealand, batting first, were bowled out for 134, with Daryl Mitchell scoring 55 and Mitchell Santner 31. For India, Gurnoor Brar claimed 4 wickets for 30 runs, while KL Rahul scored 26 runs off 38 balls to guide the chase after early losses of Shubman Gill and Virat Kohli. The third match of the series was cancelled due to rain, ending New Zealand's streak of 11 consecutive home bilateral ODI series wins. India now lead 2-0 with two matches remaining. Virat Kohli tops India's run-scoring with 81 runs, and Gurnoor Brar leads wicket-takers with 7. For New Zealand, Daryl Mitchell has 83 runs and Jacob Duffy has 6 wickets.",
+      "id": "national-sports-1",
+      "micro_summary": "India defeated New Zealand by 4 runs in the second ODI to lead the series 2-0.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.543,
+      "sources": [
+        {
+          "publisher": "Cricket World",
+          "url": "https://www.cricketworld.com/match-predictions-india-tour-of-new-zealand-2026-4th-odi-match-new-zealand-vs-india-november-13th/114310.htm"
+        },
+        {
+          "publisher": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/zealand-vs-india-4th-odi-023001245.html"
+        }
+      ],
+      "summary": "India won the second ODI against New Zealand by 4 runs via the DLS method after rain halted play with India at 113 for 7, taking a 2-0 series lead as the third match was cancelled due to rain.",
+      "timestamp": "2026-11-12T11:15:27Z"
+    },
+    {
+      "ai": true,
+      "articles": 3,
+      "category": "tragedies",
+      "extended_summary": "A truck lost control shortly before midnight Thursday on Sheikh Khalifa bin Zayed Road near the entrance to Fujairah, colliding with another vehicle before overturning and striking several vehicles stopped in slow-moving traffic. The crash involved 23 vehicles, including five trucks, and triggered a fire that spread to multiple vehicles. Fourteen people were killed, including nationals from the UAE, Oman, India, Brazil, Pakistan, Jordan and Egypt, while thirty others were injured. Fifteen injured people have been discharged from hospital, with fifteen remaining under treatment. Authorities are using DNA testing to identify victims. Emergency services including police, paramedics and civil defence responded to extinguish flames and rescue the injured. The Indian Consulate confirmed Indian nationals were among the dead and is assisting families.",
+      "id": "national-tragedies-1",
+      "micro_summary": "A truck crash near Fujairah killed 14 people and injured 30 in a multi-vehicle fire.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.583,
+      "sources": [
+        {
+          "publisher": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/world/middle-east/indian-nationals-among-14-killed-in-deadly-multi-vehicle-crash-in-uaes-fujairah/articleshow/135780631.cms"
+        },
+        {
+          "publisher": "India Today",
+          "url": "https://www.indiatoday.in/world/indians-abroad/story/many-people-including-indians-killed-after-truck-loses-control-hits-multiple-vehicles-in-uae-3037863-2026-11-12"
+        }
+      ],
+      "summary": "A truck lost control near Fujairah, UAE, crashing into 23 vehicles and killing 14 people while injuring 30 others in a chain-reaction accident that sparked fires shortly before midnight Thursday.",
+      "timestamp": "2026-11-12T18:30:00Z"
+    }
+  ]
+}
