@@ -1,0 +1,429 @@
+{
+  "date": "2026-11-14",
+  "events": [
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "business",
+      "extended_summary": "Following the Supreme Court's February ruling that tariffs imposed under the International Emergency Economic Powers Act exceeded presidential powers, class counsel filed a motion in the U.S. Court of International Trade to enter a relief order automatically returning $166 billion in collected tariffs to more than 330,000 importers of record, including those who did not file individual lawsuits. The Trump administration is fighting to limit refunds only to importers who sued. While more than $115 billion has been disbursed to companies as of August through Customs and Border Protection's CAPE system, thousands of small businesses and individuals have yet to receive refunds due to technical errors, lack of legal resources, missing paperwork, or third-party importer arrangements. Separately, the Liberty Justice Center launched Operation Refund Rescue under Project TERRA, filing individual lawsuits for up to 100 qualifying small businesses that cannot afford legal representation to recover their tariff payments.",
+      "id": "international-business-1",
+      "micro_summary": "Class action seeks automatic distribution of $166 billion in tariff refunds to 330,000 importers after Supreme Court ruling.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.631,
+      "sources": [
+        {
+          "publisher": "Fortune",
+          "url": "https://fortune.com/2026/11/12/tariff-refund-class-action-lawsuit-universal-tariff-refunds-trump-administration/"
+        },
+        {
+          "publisher": "Law.com",
+          "url": "https://www.law.com/corpcounsel/2026/11/13/tariff-refunds-are-coming-now-companies-face-a-new-fight-over-who-gets-the-money/"
+        },
+        {
+          "publisher": "Liberty Justice Center",
+          "url": "https://libertyjusticecenter.org/cases/operation-refund-rescue-cases/"
+        }
+      ],
+      "summary": "A class action motion seeks to automatically return $166 billion in IEEPA tariff refunds to over 330,000 importers following the Supreme Court ruling, while the administration argues only plaintiffs should receive payments and $115 billion has already been disbursed.",
+      "timestamp": "2026-11-12T08:01:00Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "business",
+      "extended_summary": "Since the US war on Iran began in February, there have been hundreds of oil spills, posing a ‘generational’ threat to wildlife The vast, dark slicks in the strait of Hormuz are visible from space. Throughout October, oil tankers were struck by missiles or sea mines in the waterway and spilled crude into the sea. The pollution has spread across the Gulf, contaminating coastlines and threatening to cause lasting damage to marine ecosystems that are home to dolphins, sea turtles and countless species of fish. Eight months into the war between the US and Iran, one of the world’s busiest oil shipping routes has become a battlefield and the centre of a growing environmental disaster. The naval blockade of the strait has made documenting the pollution from on the ground almost impossible. But analysis of satellite images, combined with the testimony of environmental experts and marine biologists, can help build",
+      "id": "international-business-2",
+      "micro_summary": "Iran says tanker carrying LNG hit mine, suffered explosion in Hormuz.",
+      "publishers": 4,
+      "scope": "international",
+      "score": 0.605,
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "url": "https://www.reuters.com/world/iran-says-tanker-carrying-lng-hit-mine-suffered-explosion-hormuz-2026-11-13/"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/12/oil-slicks-seen-from-space-the-devastating-impact-of-boat-strikes-on-fragile-gulf-ecosystems"
+        }
+      ],
+      "summary": "Iran says tanker carrying LNG hit mine, suffered explosion in Hormuz. Throughout October, oil tankers were struck by missiles or sea mines in the waterway and spilled crude into the sea.",
+      "timestamp": "2026-11-13T07:00:00Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "business",
+      "extended_summary": "‘The party’s over’ after exit levy sends super-rich scrambling for answers Hans van Leeuwen is the Telegraph's International Economics Editor. He joined the Telegraph in 2025 after almost three decades working as a journalist and political adviser in London, Sydney, Canberra and Hanoi. He can be reached at hans.vanleeuwen@telegraph.co.uk Luigi Belluzzo arrived at the Milan office of his advisory firm, Belluzzo International Partners, on Monday expecting it to be like any other day. But his phone began ringing and it didn’t stop. “How many clients called me that day? More than 50. Not only me, also all our partners,” he says. His clients were seized with alarm. The Italian government, which had lured thousands of super-rich financiers and investors to the country with a generous flat-tax system, had just dropped a surprise bombshell: an exit tax. The latest finance bill from Giorgia Meloni, the prime minister, seemed to suggest that",
+      "id": "international-business-3",
+      "micro_summary": "Italy’s proposed exit tax causes ructions.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.561,
+      "sources": [
+        {
+          "publisher": "The Economist",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/12/italys-proposed-exit-tax-causes-ructions"
+        },
+        {
+          "publisher": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/business/2026/11/07/italy-lured-wealthy-low-taxes-now-meloni-crosshairs/"
+        },
+        {
+          "publisher": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/opinion/articles/2026-11-11/italy-s-new-wealth-tax-is-sending-a-loud-signal-to-investors"
+        }
+      ],
+      "summary": "Italy’s proposed exit tax causes ructions. ‘The party’s over’ after exit levy sends super-rich scrambling for answers Hans van Leeuwen is the Telegraph's International Economics Editor.",
+      "timestamp": "2026-11-12T10:35:00Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "Europe will send a team of diplomats from the European Union and five individual countries to the next round of Ukraine talks, a top EU official said after a summit focused on how to avoid being shut out of negotiations on ending the nearly five-year war. European Council President Antonio Costa said on Friday that the continent will be represented by officials from the 27-nation EU bloc and five members of the “Coalition of the Willing” that backs Ukraine: the United Kingdom, France, Germany, Italy and Poland. “Europe must speak with one clear voice and united voice in all discussions that shape the future of Ukraine and the security of our continent. And this is ultimately a team effort,” Costa told a news conference at the end of an EU leaders’ meeting in Dublin, Ireland. Europe has been concerned that US-backed trilateral negotiations could leave them sidelined and Kyiv vulnerable",
+      "id": "international-politics-2",
+      "micro_summary": "EU agrees on five countries to represent Europe in Ukraine peace talks.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.843,
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice"
+        },
+        {
+          "publisher": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html"
+        },
+        {
+          "publisher": "Sky News",
+          "url": "https://news.sky.com/story/eu-leaders-choose-team-for-ukraine-peace-talks-after-months-of-wavering-13612008"
+        }
+      ],
+      "summary": "EU agrees on five countries to represent Europe in Ukraine peace talks. Kyiv is eager for support from European allies, but Moscow does not want European countries involved in direct negotiations, arguing they are financing and supplying Ukraine’s military effort.",
+      "timestamp": "2026-11-13T19:36:44Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "The amount of public funding pledged to help developing countries tackle climate change has dropped by more than 70% in 2026, according to Carbon Brief analysis. Developed countries are required under UN climate treaties to provide “climate finance” and have traditionally announced multi-year pledges to feed into their global commitments. Most of these pledges expired in 2025 and, since then, the US has withdrawn from international climate efforts and many European aid budgets have been cut. A civil-society tracker shows that only five nations have announced new multi-year pledges, including just one major donor – the UK. Germany, France and Japan are among the key contributors that have so far failed to set out plans for new climate finance, while none is expected from the US. As a result, the total amount of public climate finance pledged over the next few years amounts to just $11.7bn a year in spending,",
+      "id": "international-politics-3",
+      "micro_summary": "‘You cannot build peace on a burning planet,’ UN chief tells Cop31 in farewell speech.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.83,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/environment/2026/nov/13/cop31-antonio-guterres-united-nations-climate-action"
+        },
+        {
+          "publisher": "Carbon Brief",
+          "url": "https://www.carbonbrief.org/analysis-climate-finance-pledges-fall-70-as-countries-meet-at-cop31"
+        },
+        {
+          "publisher": "Reuters",
+          "url": "https://www.reuters.com/sustainability/cop/cop31-talks-face-early-friction-over-future-fossil-fuels-2026-11-13/"
+        }
+      ],
+      "summary": "‘You cannot build peace on a burning planet,’ UN chief tells Cop31 in farewell speech. Developed countries are required under UN climate treaties to provide “climate finance” and have traditionally announced multi-year pledges to feed into their global commitments.",
+      "timestamp": "2026-11-13T18:45:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "Pope Leo XIV celebrated Mass on Friday in Pimentel, a park about 10 kilometers from Chiclayo in northern Peru, where he served as bishop from 2015 to 2023. The Vatican estimated more than 1.5 million people gathered for the ceremony, with some attendees arriving 12 hours early to wait in vigil. The 71-year-old pontiff, who holds Peruvian citizenship and was born in Chicago, referenced his recent lung cancer surgery during his address. He spent nearly a decade as bishop in Chiclayo before leaving in 2023 and has lived in Peru for long periods between 1985 and 2023. The visit marks the final leg of an 11-day South American tour that also included Uruguay and Argentina. After Chiclayo, he will travel to Santa Cruz, Zaña, Cusco, and Pucallpa before returning to Lima.",
+      "id": "international-politics-4",
+      "micro_summary": "Pope Leo XIV celebrated Mass before 1.5 million people in Peru during his South American tour.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.823,
+      "sources": [
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/12/pope-leo-peru-visit"
+        },
+        {
+          "publisher": "Vatican News",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-young-people-prayer-vigil-12-november-2026.html"
+        }
+      ],
+      "summary": "Pope Leo XIV celebrated Mass in Pimentel near Chiclayo, Peru, where he served as bishop from 2015 to 2023, drawing an estimated 1.5 million people during his 11-day South American tour that includes Argentina and Uruguay.",
+      "timestamp": "2026-11-13T18:34:45Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "science",
+      "extended_summary": "US commerce secretary faces sack as questions emerge over senior Trump officials’ knowledge of alleged Chinese spy’s ties to Jensen Huang The US commerce secretary, Howard Lutnick, is facing growing pressure over his apparent lack of action over the Nvidia spying scandal as other Trump administration officials publicly raise questions over his decisions. Scott Bessent, the US treasury secretary, blamed Lutnick’s commerce department for the fact the US had not imposed export restrictions on certain Nvidia chips to China. Jensen Huang resigned from Nvidia on Thursday, and was replaced on an interim basis by the company’s chief financial officer, Colette Kress, after reports emerged of his multiple affairs, most importantly with Alice Huang (no relation), who is suspected of being a Chinese spy. White House officials are discussing whether Lutnick should be fired, the Associated Press reported, after it emerged that a US intelligence report about Huang’s relationship with the",
+      "id": "international-science-1",
+      "micro_summary": "Bessent blames Lutnick's department for Nvidia chip sales to Megaspeed.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.824,
+      "sources": [
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro"
+        },
+        {
+          "publisher": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-13/bessent-hits-lutnick-on-nvidia-affair-evening-briefing-americas"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china"
+        }
+      ],
+      "summary": "Bessent blames Lutnick's department for Nvidia chip sales to Megaspeed. Scott Bessent, the US treasury secretary, blamed Lutnick’s commerce department for the fact the US had not imposed export restrictions on certain Nvidia chips to China.",
+      "timestamp": "2026-11-13T15:04:42Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "science",
+      "extended_summary": "Kurt Gödel left 1,009 pages of densely written text – much of it in an obsolete shorthand – which is now said to contain hundreds of proved theorems The Austrian logician Kurt Gödel was one of the most original thinkers of the 20th century. His two incompleteness theorems, published in 1931, transformed mathematics and paved the way for the digital age. After his seminal results of the 1930s, Gödel published only a few papers. His unpublished work, however, runs to tens of thousands of pages, and is of great interest to historians of science. Since 2017, the Finnish logician Jan von Plato has led a project at Helsinki University to understand the contents of 16 notebooks that Gödel wrote in the early 1940s. This material – the “workbooks” – is 1,009 pages of densely written text about maths and logic. Much of it is written in a German shorthand, Gabelsberger,",
+      "id": "international-science-2",
+      "micro_summary": "‘Ahead of his time’: AI helps unlock discoveries hidden in notebooks of man who transformed maths.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.73,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
+        },
+        {
+          "publisher": "MLQ.ai",
+          "url": "https://mlq.ai/news/claude-helped-decode-kurt-godels-shorthand-notebooks-turning-up-663-theorems-and-a-near-proof-he-claimed-in-1966/"
+        },
+        {
+          "publisher": "ИФЗ РАН",
+          "url": "https://geosirius.ifz.ru/artificial-intelligence-finally-decoding-kurt-godels-secret-notebooks"
+        }
+      ],
+      "summary": "‘Ahead of his time’: AI helps unlock discoveries hidden in notebooks of man who transformed maths.",
+      "timestamp": "2026-11-13T18:38:00Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "science",
+      "extended_summary": "Products such as Microsoft Teams and Outlook have been out of service for much of Friday Microsoft has said it is \"deeply sorry\" for the service outage to its products, including Outlook and Teams, which has caused disruption around the world. Services were broadly recovering by Friday afternoon, nearly 24 hours after issues began. Microsoft said it was making \"encouraging progress\", but added it does not know when services will fully recover. The outage hit more than 70 countries, disrupting everything from business operations to government services and personal users. More than 430 million people use the affected products worldwide. Microsoft said it was a technical issue introduced during a \"network capacity upgrade\" and not related to cyber or artificial intelligence agents. Experts said the event was a \"stark reminder\" of how heavily businesses and vital services rely on a small group of big tech providers. Users began reporting they",
+      "id": "international-science-3",
+      "micro_summary": "Microsoft outage live: Microsoft’s global outage will cost Australia billions, expert says; US tech giants and Indian airlines also affected.",
+      "publishers": 4,
+      "scope": "international",
+      "score": 0.714,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news?page=with:block-6af688438f08a4488fcd819c"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o"
+        },
+        {
+          "publisher": "NBC News",
+          "url": "https://www.nbcnews.com/tech/tech-news/microsoft-took-long-recover-massive-outage-outlook-down-rcna609264"
+        }
+      ],
+      "summary": "Microsoft outage live: Microsoft’s global outage will cost Australia billions, expert says; US tech giants and Indian airlines also affected.",
+      "timestamp": "2026-11-13T06:47:07Z"
+    },
+    {
+      "ai": false,
+      "articles": 10,
+      "category": "sports",
+      "extended_summary": "Sources close to incoming manager say he has ‘always loved’ the forward and will take him under his wing along with likes of Kobbie Mainoo Matt has been Football News Correspondent for the Telegraph for more than 10 years, primarily covering Chelsea, Tottenham Hotspur and England. He has covered four World Cups and five European Championships, including the two finals England reached under Gareth Southgate. Matt can be contacted at matt.law@telegraph.co.uk and on X @Matt_Law_DT. Marcus Rashford will have the chance to become the big winner of Mauricio Pochettino’s appointment as Manchester United manager, according to some of those who have worked with him. Telegraph Sport has been told that Pochettino has “always loved” Rashford and will relish the chance to work with the forward at Old Trafford. Pochettino is poised to replace Michael Carrick, who was sacked on Thursday, as United manager and Rashford is not the only player",
+      "id": "international-sports-1",
+      "micro_summary": "Mauricio Pochettino: What can Manchester United fans expect from new boss?",
+      "publishers": 8,
+      "scope": "international",
+      "score": 0.881,
+      "sources": [
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.com/sport/football/articles/c85y13pv69xwo"
+        },
+        {
+          "publisher": "Sports Illustrated",
+          "url": "https://www.si.com/soccer/usmnt-winners-losers-mauricio-pochettino-shock-move-man-utd"
+        },
+        {
+          "publisher": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/why-man-united-star-marcus-200000432.html"
+        },
+        {
+          "publisher": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/football/2026/11/12/marcus-rashford-poised-winner-pochettino-appointment/"
+        },
+        {
+          "publisher": "FourFourTwo",
+          "url": "https://www.fourfourtwo.com/person/coaches-managers/the-only-person-that-ive-ever-seen-complete-it-was-dele-alli-he-was-an-animal-kyle-walker-reveals-mauricio-pochettinos-brutal-running-test-that-awaits-manchester-united-players"
+        }
+      ],
+      "summary": "Mauricio Pochettino: What can Manchester United fans expect from new boss? Marcus Rashford will have the chance to become the big winner of Mauricio Pochettino’s appointment as Manchester United manager, according to some of those who have worked with him.",
+      "timestamp": "2026-11-13T22:53:17Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "Riley McGree (right) scored a gift of an opener. (Getty Images: Mohamed Farag) The Socceroos blew away the defending Asian Cup champions Qatar with three first half goals. Riley McGree, Tete Yengi and Nestory Irankunda all scored at the Abdullah bin Nasser bin Khalifa Stadium in Doha. The Socceroos will now face Jordan next Tuesday (Wednesday AEDT), with the match shifted from Amman to Doha due to security concerns The Socceroos have enjoyed one of their most emphatic outings under Tony Popovic, outclassing woeful Asian Cup holders Qatar 3-0 with a statement win in front of the champions' home fans in Doha. Goals from Riley McGree, Tete Yengi and Nestory Irankunda in a dominant first-half display put the one-sided friendly to bed by the break on Friday (Saturday AEDT) with the help of dreadful defending from the back-to-back continental champions. The fare did get totally disjointed after the break amid",
+      "id": "international-sports-4",
+      "micro_summary": "McGree helps Socceroos put drama behind them and leave Qatar reeling.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.828,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/nov/13/mcgree-helps-socceroos-put-drama-behind-them-and-leave-qatar-reeling"
+        },
+        {
+          "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "url": "https://www.abc.net.au/news/2026-11-14/socceroos-crush-qatar/107385558"
+        },
+        {
+          "publisher": "CommBank Socceroos",
+          "url": "https://socceroos.com.au/news/four-debuts-commbank-socceroos-defeat-qatar-3-0"
+        }
+      ],
+      "summary": "McGree helps Socceroos put drama behind them and leave Qatar reeling. Riley McGree (right) scored a gift of an opener. (Getty Images: Mohamed Farag) The Socceroos blew away the defending Asian Cup champions Qatar with three first half goals.",
+      "timestamp": "2026-11-13T18:23:00Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans Some 130 people on a cruise ship docked in New Orleans have been rescued after it was struck by a tanker. The cruise ship, American Heritage, was left lying on its side in the Mississippi River after it was hit by the cargo vessel, Atlantic Asphalt. The collision left 32 people from the stricken riverboat in hospital with non-critical injuries, but no-one unaccounted for. Officials hailed it as a \"miracle on the Mississippi\". The exact cause of the crash remains under investigation, but US Coast Guard Captain Melanie Burnham said: \"There seems to be some type of a loss of steering.\" New Orleans Mayor Helena Moreno told a news conference that all credit in the rescue effort went to first responders who \"literally jumped right in to help\". \"We have zero people unaccounted for which truly is",
+      "id": "international-tragedies-1",
+      "micro_summary": "'Miracle on the Mississippi' - All passengers accounted for after tanker crashes into cruise ship in New Orleans.",
+      "publishers": 4,
+      "scope": "international",
+      "score": 0.831,
+      "sources": [
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.com/news/live/cqgm0w9yrkjvt"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/13/new-orleans-cruise-liner-tanker-crash-live-updates"
+        }
+      ],
+      "summary": "'Miracle on the Mississippi' - All passengers accounted for after tanker crashes into cruise ship in New Orleans.",
+      "timestamp": "2026-11-13T23:42:46Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "Iran said it targeted a US military installation in Bahrain early Friday in retaliation for what it described as an American attack on Iranian territory, marking its first attempt to strike a military facility in a Gulf state in more than two months. US Central Command (CENTCOM) said later Friday that American forces shot down two Iranian drones launched toward Bahrain, reporting no injuries or damage. “A few hours ago, the IRGC’s aerospace forces, in response to the enemy’s aerial aggression against a communication tower in Sirik, targeted and destroyed the early warning radar of the aggressor US military in Bahrain,” Iran’s Islamic Revolutionary Guard Corps said, according to the semi-official Tasnim news agency, adding that “this is a serious warning” to Washington. CENTCOM said the claim that Iran attacked a radar system was false. Trump tells Vance to turn his focus away from Iran: ‘We don’t need a deal’",
+      "id": "international-tragedies-3",
+      "micro_summary": "US denies Iran’s claim it hit two radar sites in Bahrain.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.769,
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz"
+        },
+        {
+          "publisher": "CNN",
+          "url": "https://www.cnn.com/2026/11/13/middleeast/iran-targets-us-military-site-in-gulf-first-time-in-two-months-intl"
+        }
+      ],
+      "summary": "US denies Iran’s claim it hit two radar sites in Bahrain. CENTCOM said the claim that Iran attacked a radar system was false.",
+      "timestamp": "2026-11-13T16:21:45Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "Dr. Matt Wade Lambert, 55, fatally shot building manager James Stuart, 46, inside a gym in a Washington DC apartment building in the Logan Circle neighborhood on Thursday morning, then injured four others before barricading himself in his seventh-floor apartment. Police said Lambert fired through the door at officers at least twice before dying from a self-inflicted gunshot wound. The shooting stemmed from an ongoing dispute over mould, damp, and maintenance issues in Lambert's penthouse, for which he had filed a civil case against the homeowners association. One of the four injured victims remains in critical condition. Authorities recovered three firearms from Lambert's apartment, none registered to him in Washington DC, along with containers of flammable liquid. Lambert had documented his feud on social media, comparing his situation to other high-profile attacks and posting an engineering report about suspected microbial growth minutes before the shooting.",
+      "id": "international-tragedies-4",
+      "micro_summary": "Doctor Matt Lambert killed building manager and injured four before dying by suicide in Washington DC shooting.",
+      "publishers": 4,
+      "scope": "international",
+      "score": 0.758,
+      "sources": [
+        {
+          "publisher": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/world-news/2026/11/13/washington-gunman-was-furious-about-damp-11m-penthouse/"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/crgqx2qqnwpjo"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/13/washington-dc-gym-shooter-confession"
+        }
+      ],
+      "summary": "Dr. Matt Lambert, 55, fatally shot building manager James Stuart, 46, in a Washington DC apartment gym and injured four others before barricading himself and dying from a self-inflicted gunshot wound amid a dispute over mould.",
+      "timestamp": "2026-11-13T13:14:00Z"
+    },
+    {
+      "ai": false,
+      "articles": 2,
+      "category": "entertainment",
+      "extended_summary": "The Telugu and Tamil dubbed version of Bollywood movies usually lead among South Indian languages in domestic collections. But for Ramayana: Part One, the Kannada dubbed version has consistently stayed on top for the past nine days. Now the Kannada version of the Nitesh Tiwari directorial has crossed ₹50 crore in net domestic box office collection, becoming the first Bollywood film to achieve this milestone. This comes two days after the Ranbir Kapoor starrer became the first Bollywood movie to net ₹100 crore jointly from dubbed versions in Kannada, Telugu, Tamil and Malayalam. During its extended eight-day opening week, the Namit Malhotra masterpiece netted ₹48.95 crore from its Kannada version. On Day 9, another ₹1.17 crore was added to the total net collection from 541 shows, helping the Kannada version cross ₹50 crore. The popularity of Yash, who plays Ravana in the two-part epic movie franchise, in Karnataka is one",
+      "id": "national-entertainment-2",
+      "micro_summary": "'Ramayana' Day 9 Box Office Collection: Yash starrer first Bollywood film to cross ₹50 crore net in Kannada.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.51,
+      "sources": [
+        {
+          "publisher": "The Week",
+          "url": "https://www.theweek.in/news/entertainment/2026/11/13/ramayana-part-one-kannada-box-office-record.amp.html"
+        },
+        {
+          "publisher": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ramayana-box-office-collection-day-8-live-ranbir-kapoor-yash-sai-pallavi-starrer-may-see-a-drop-in-numbers-on-thursday-after-seeing-surge-on-diwali-bhai-dooj-inches-towards-rs-550-crore-in-india/articleshow/135761236.cms"
+        }
+      ],
+      "summary": "'Ramayana' Day 9 Box Office Collection: Yash starrer first Bollywood film to cross ₹50 crore net in Kannada.",
+      "timestamp": "2026-11-13T11:41:14Z"
+    },
+    {
+      "ai": false,
+      "articles": 2,
+      "category": "entertainment",
+      "extended_summary": "New Delhi. Security has been tightened in India's film industry, Bollywood, following an increase in shooting and extortion threats targeting actors. Recent incidents have brought back memories of the 1990s when criminal gangs influenced Mumbai's film industry. Demand for private bodyguards has increased for the safety of actors, their families, and children. Police are investigating the recent incidents, linking them to the gang of Indian gangster Lawrence Bishnoi, who is currently in jail. Last October, actor Tiger Shroff's car was targeted in a shooting, and actor Tusshar Kapoor was extorted for 600,000 US dollars. Thirteen people have been arrested under organized crime control laws in connection with the shooting incident. According to actor and security service company owner Ronit Roy, actors and their families are increasingly hiring bodyguards for security. Writer S. Hussain Zaidi stated that some opportunistic criminals are spreading fear by using the names of famous gangs. Meanwhile,",
+      "id": "national-entertainment-3",
+      "micro_summary": "Bollywood bolsters security as underworld fears return.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.465,
+      "sources": [
+        {
+          "publisher": "Prothom Alo English",
+          "url": "https://en.prothomalo.com/entertainment/movies/kwz7m7xgx7"
+        },
+        {
+          "publisher": "Ratopati",
+          "url": "https://english.ratopati.com/story/86468/underworld-fears-in-bollywood-security-tightened"
+        }
+      ],
+      "summary": "Bollywood bolsters security as underworld fears return. Security has been tightened in India's film industry, Bollywood, following an increase in shooting and extortion threats targeting actors.",
+      "timestamp": "2026-11-13T13:35:26Z"
+    }
+  ]
+}
