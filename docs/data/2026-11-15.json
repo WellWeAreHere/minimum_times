@@ -4,427 +4,604 @@
     {
       "ai": true,
       "articles": 5,
+      "category": "business",
+      "extended_summary": "A fireball erupted at the Maredsous Christmas market in Denée, a village in Belgium's Anhée municipality, injuring five people. Emergency services responded swiftly, with an air ambulance transporting three victims with serious burns to specialized medical facilities, including hospitals in Liège and Neder-Over-Heembeek. Two individuals are in critical condition, while three others sustained less severe injuries. Firefighters contained the blaze quickly, but two chalets were completely destroyed and two neighboring chalets damaged. The cause remains unconfirmed, though firefighters believe it was accidental, potentially sparked by an exploding gas cylinder. The Namur public prosecutor's office has launched an investigation. The market, which had opened Friday at Maredsous Abbey in Namur province, was evacuated and closed, remaining shut on Sunday out of respect for the victims.",
+      "id": "international-business-1",
+      "micro_summary": "Five people were injured, two critically, after a fireball erupted at Belgium's Maredsous Christmas market.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.78,
+      "sources": [
+        {
+          "publisher": "The Mirror",
+          "url": "https://www.mirror.co.uk/news/uk-news/maredsous-christmas-market-explosion-wallonia-37879090"
+        },
+        {
+          "publisher": "Daily Star",
+          "url": "https://www.dailystar.co.uk/news/latest-news/christmas-market-explosion-injures-five-37879201"
+        },
+        {
+          "publisher": "AOL.co.uk",
+          "url": "https://www.aol.co.uk/articles/horror-huge-explosion-rocks-belgium-122900000.html"
+        }
+      ],
+      "summary": "A fireball at the Maredsous Christmas market in Denée, Belgium, injured five people, including two in critical condition airlifted to hospitals. Two chalets were destroyed and the market closed, with the cause believed to be an accidental gas cylinder explosion.",
+      "timestamp": "2026-11-15T13:15:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "business",
+      "extended_summary": "On Saturday, SpaceX's Starship upper stage descended into the mechanical 'chopstick' arms of its launch tower at Starbase, Texas, after orbiting Earth 14 times over 22.5 hours. The 171-foot upper stage of the 124-metre rocket was caught midair by the 'Mechazilla' tower while its engines were still firing, marking the first-ever capture of a megarocket's upper stage and a step toward full reusability. The booster stage, however, exploded in the Gulf of Mexico after failing to return to the tower due to guidance issues and low fuel. The 15th test flight represents a milestone for NASA's planned 2028 lunar landing and future Mars missions.",
+      "id": "international-business-2",
+      "micro_summary": "SpaceX caught its Starship upper stage with mechanical arms in Texas after 14 orbits.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.706,
+      "sources": [
+        {
+          "publisher": "Sky News",
+          "url": "https://news.sky.com/story/spacex-mission-live-launch-imminent-as-elon-musks-company-targets-historic-double-catch-13611041"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/15/almost-magic-as-spacex-craft-caught-mid-air-why-it-matters"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/science/2026/nov/14/spacex-starship-double-catch"
+        }
+      ],
+      "summary": "SpaceX's Starship upper stage descended into mechanical arms at its Texas launch tower Saturday after orbiting Earth 14 times, marking the first capture of a megarocket's upper stage, though the booster exploded separately.",
+      "timestamp": "2026-11-13T18:45:01Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
       "category": "entertainment",
-      "extended_summary": "Nineteen-year-old Carmelle Collado won the inaugural Eurovision Song Contest Asia in Bangkok, taking the Philippines to victory with the pop and rap song Sobra-Sobra. Eleven countries competed at the One Bangkok Forum, and Carmelle finished with 211 points, 41 clear of host Thailand, with Vietnam third. She received the most votes from both national juries and the public ballot. Sobra-Sobra is sung in Tagalog and English and supported by traditional Philippine instruments including the kubing and kulintang. Carmelle grew up in the Bicol region of south-eastern Luzon and has competed in televised talent contests since age 12. She stated the song celebrates female empowerment as a tribute to Filipino women. Discussions regarding the future of the contest will commence shortly, with 16 to 17 countries showing interest in competing in a second edition in 2027.",
+      "extended_summary": "Authorities discovered a bomb at the BioUrja Renewables ethanol production facility in Peoria, Illinois, on Friday, triggering a mandatory evacuation of all residents and businesses within a one-mile radius encompassing parts of Peoria and East Peoria. Explosives technicians rendered the device safe, and officials lifted the evacuation order at approximately 1:25 p.m. local time on Saturday after confirming no other explosives were present. The FBI is investigating the incident, with agents pledging to pursue those responsible, though no arrests have been announced and no injuries were reported. The city established a temporary shelter at Manual Academy for displaced residents. Peoria Mayor Rita Ali emphasized the severity of the threat given the plant's ethanol and combustible chemicals. The facility, located along the Illinois River in the city of about 110,000 people, was acquired by the company in 2021.",
       "id": "international-entertainment-1",
-      "micro_summary": "Carmelle wins first Eurovision Song Contest Asia in Bangkok with 211 points for the Philippines.",
+      "micro_summary": "A bomb found at a Peoria ethanol plant was defused after triggering a one-mile evacuation zone.",
       "publishers": 5,
       "scope": "international",
-      "score": 0.847,
-      "sources": [
-        {
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia"
-        },
-        {
-          "publisher": "Eurovision.tv",
-          "url": "https://www.eurovision.com/stories/your-eurovision-asia-scorecard-is-here/"
-        },
-        {
-          "publisher": "Eurovoix",
-          "url": "https://eurovoix.com/2026/11/14/eurovision-asia-2027-discussions-to-commence-in-late-november/"
-        }
-      ],
-      "summary": "Nineteen-year-old Carmelle won the inaugural Eurovision Song Contest Asia in Bangkok, securing 211 points for the Philippines with Sobra-Sobra, finishing 41 points ahead of host Thailand.",
-      "timestamp": "2026-11-14T19:04:36Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "entertainment",
-      "extended_summary": "Mohammad Javad Vafaei Sani, a 31-year-old Iranian boxing champion and political prisoner, received the Magnitsky Award for Outstanding Human Rights Activist at a ceremony in London and a UK Parliament session. Sentenced to death three times, with the supreme court upholding his sentence on 4 October 2025, he is one of seven athletes at risk of execution in Iran. Arrested in 2020 for participating in 2019 protests, he was convicted of \"corruption on Earth.\" In a message from Vakilabad prison, he stated he would \"never surrender\" and accepted the award for those imprisoned for aspiring to a free Iran. During the parliamentary session, lawmakers condemned Iran's political executions and called on the British government to prevent his execution, with the government representative describing the executions as a cause of \"deep abhorrence.\"",
-      "id": "international-entertainment-2",
-      "micro_summary": "Iranian boxing champion Mohammad Javad Vafaei Sani received the Magnitsky Award while facing execution in Iran.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.546,
-      "sources": [
-        {
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/global-development/2026/nov/13/mohammad-javad-vafaei-sani-iran-boxer-death-row-magnitsky-award"
-        },
-        {
-          "publisher": "Iran Focus",
-          "url": "https://iranfocus.com/human-rights/59241-the-uk-house-of-commons-presents-human-rights-award-to-political-prisoner-mohammad-javad-vafaei-sani/"
-        },
-        {
-          "publisher": "Iran Freedom",
-          "url": "https://iranfreedom.org/en/human-rights/2026/11/mohammad-javad-vafaei-sani-dedicates-2026-magnitsky-award-to-irans-resistance-units/92892/"
-        }
-      ],
-      "summary": "Iranian boxing champion and political prisoner Mohammad Javad Vafaei Sani, sentenced to death three times, received the Magnitsky Award for Outstanding Human Rights Activist at a UK Parliament ceremony, where lawmakers condemned Iran's executions and called for his release.",
-      "timestamp": "2026-11-13T06:01:00Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "politics",
-      "extended_summary": "Republican Representative Lauren Boebert of Colorado lost her seat in Congress to Democratic challenger Eileen Laubacher after serving three terms. The race in Colorado's 4th District was called Friday for Laubacher, a retired U.S. Navy rear admiral and former National Security Council member. The district is heavily Republican, having been won by Donald Trump by 18 points in 2024. Boebert, 39, had switched to the more conservative 4th District in 2024 after narrowly surviving re-election in the 3rd District two years prior. First elected in 2020, she rose to national prominence as a vocal supporter of Donald Trump and the MAGA movement, advocating for gun rights and conservative causes. Following her defeat, Boebert posted a farewell video on social media declaring \"God's got this,\" which drew criticism and mockery from users referencing her past controversies, including her 2023 removal from a Denver theater performance.",
-      "id": "international-politics-2",
-      "micro_summary": "Republican Lauren Boebert lost her Colorado congressional seat to Democrat Eileen Laubacher after three terms.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.836,
+      "score": 0.622,
       "sources": [
         {
           "publisher": "The Independent",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/lauren-boebert-midterms-concession-video-b3084998.html"
+          "url": "https://www.independent.co.uk/news/world/americas/crime/peoria-bomb-threat-illinois-biourja-renewables-b3084992.html"
         },
-        {
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c6j9mlldgpgjo"
-        },
-        {
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/nov/13/trump-maga-lauren-boebert-colorado"
-        }
-      ],
-      "summary": "Republican Representative Lauren Boebert lost her Colorado congressional seat to Democrat Eileen Laubacher after three terms. The race in the heavily Republican district was called Friday for Laubacher, a retired Navy rear admiral.",
-      "timestamp": "2026-11-14T17:00:00Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "politics",
-      "extended_summary": "Thousands of people demonstrated in Antalya, Turkey, during the COP31 UN climate summit as part of the \"people's COP\" march. LGBTQ+ activists defied a crackdown on their rights by unfurling rainbow flags while surrounded by a protective cordon of international civil society campaigners. Turkish police conducted a massive security operation, frisking attendees twice, searching bags, and cordoning off a 1.5km route with steel barriers to Aydin Kanza Park. Activists described the danger of displaying flags in Turkey, where LGBTQ+ groups have faced increased persecution since September, with one noting a detained trans friend. Other participants from environmental, political, and workers organizations protested slow climate action and destructive infrastructure projects including airport expansion, a third bridge over the Bosphorus, and mining operations.",
-      "id": "international-politics-4",
-      "micro_summary": "LGBTQ+ activists unfurled rainbow flags at Antalya's COP31 climate march protected by civil society cordon.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.815,
-      "sources": [
-        {
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/14/lgbtq-protesters-defy-crackdown-in-turkey-to-march-with-cop31-activists"
-        },
-        {
-          "publisher": "350.org",
-          "url": "https://350.org/press-release/peoples-climate-march-to-bring-global-call-for-climate-justice-to-the-streets-of-antalya/"
-        },
-        {
-          "publisher": "The Irish Times",
-          "url": "https://www.irishtimes.com/environment/climate-crisis/2026/11/14/thousands-protest-at-alternative-peoples-cop-march-in-turkey/"
-        }
-      ],
-      "summary": "Thousands demonstrated in Antalya during the COP31 climate summit, with LGBTQ+ activists unfurling rainbow flags protected by a cordon of international civil society campaigners amid heavy police security and searches.",
-      "timestamp": "2026-11-14T16:13:00Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "science",
-      "extended_summary": "Drone attacks on merchant vessels in the Black Sea have intensified, making the waterway the deadliest in the world with at least 38 sailors killed since June. On October 13, the Malta-flagged Chelsea 3 was struck by a drone 40 kilometres from the Bulgarian port of Varna, blowing a hole in its side and causing it to sink in stormy conditions. Commander Ivan Ivanov's border patrol crew rescued all aboard by having them jump to the vessel, but a second ship, the HS Dignity, also hit by multiple drones, left five rescued and eleven missing. On November 14, the Larissa cargo vessel was struck approximately 6.8 nautical miles northeast of Sfântu Gheorghe in Romanian territorial waters, prompting Romania to scramble two F-16 fighter jets from the 86th Feteti Air Base after another aerial attack near Snake Island, triggering emergency alerts for Tulcea County residents.",
-      "id": "international-science-1",
-      "micro_summary": "Drone attacks on cargo ships in the Black Sea have killed at least 38 sailors and prompted NATO jet scrambles.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.681,
-      "sources": [
-        {
-          "publisher": "AOL.co.uk",
-          "url": "https://www.aol.co.uk/articles/fighter-jets-scrambled-horror-attack-133000000.html"
-        },
-        {
-          "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
-          "url": "https://www.abc.net.au/news/2026-11-15/inside-crew-rescuing-sailors-from-black-sea-drone-attacks/107380692"
-        },
-        {
-          "publisher": "TradeWinds News",
-          "url": "https://www.tradewindsnews.com/tankers/remains-of-six-seafarers-found-on-tanker-bombed-in-the-black-sea/2-1-2071734"
-        }
-      ],
-      "summary": "Drone strikes on cargo ships in the Black Sea have killed at least 38 sailors since June, prompting rescue missions and NATO fighter jet scrambles near Romania and Bulgaria as vessels sink in stormy seas.",
-      "timestamp": "2026-11-14T17:12:12Z"
-    },
-    {
-      "ai": true,
-      "articles": 10,
-      "category": "sports",
-      "extended_summary": "Wales secured a historic 35-28 victory over New Zealand in the Nations Championship at the Principality Stadium in Cardiff, ending a 34-match losing streak against the All Blacks dating back to 1953. The home side built a commanding lead through tries from Tomos Williams, Dewi Lake, Archie Griffin, Eddie James and Louis Rees-Zammit, with Costelow converting five times. New Zealand responded with tries from Cortez Ratima, Wallace Sititi, Fehi Fineanganofo and Peter Lakai, and four conversions from Mo'unga, leveling the score 21-21 at halftime. Wales regained control early in the second half to lead 35-21 before New Zealand narrowed the gap to 35-28. In the final quarter, Wales defended resolutely inside their own 22, holding the All Blacks up three times over the line to preserve the win. The match drew 55,152 spectators, the lowest attendance for a Wales-New Zealand fixture at the stadium.",
-      "id": "international-sports-1",
-      "micro_summary": "Wales defeated New Zealand 35-28 in the Nations Championship, ending a 73-year winless streak against the All Blacks.",
-      "publishers": 7,
-      "scope": "international",
-      "score": 0.947,
-      "sources": [
-        {
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/sport/2026/nov/14/wales-new-zealand-nations-championship-match-report"
-        },
-        {
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmkg57rz2re9o"
-        },
-        {
-          "publisher": "Sky Sports",
-          "url": "https://www.skysports.com/rugby-union/news/13612202/nations-championship-wales-35-28-new-zealand-hosts-display-immense-defence-to-pull-off-first-win-vs-all-blacks-since-1953"
-        },
-        {
-          "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
-          "url": "https://www.abc.net.au/news/2026-11-15/all-blacks-beaten-by-wales-for-first-time-in-73-years/107387094"
-        },
-        {
-          "publisher": "News.com.au",
-          "url": "https://www.news.com.au/sport/rugby/world-record-broken-as-73-years-of-pain-ends-bad-times-drive-wales-to-longawaited-all-blacks-win/news-story/bcbbc02011f8eb2f255a4219a4f11772"
-        }
-      ],
-      "summary": "Wales beat New Zealand 35-28 in a Nations Championship thriller at the Principality Stadium, securing their first victory over the All Blacks since 1953 after holding off late pressure with a formidable defensive display.",
-      "timestamp": "2026-11-14T20:48:00Z"
-    },
-    {
-      "ai": true,
-      "articles": 10,
-      "category": "sports",
-      "extended_summary": "Usman Khawaja has claimed that the entire Australian cricket team knew sandpaper was being used to alter the ball before their 2018 Test against South Africa in Cape Town. Test captain Pat Cummins dismissed the retired opener's accusation as \"100 per cent wrong\" and \"utter nonsense\" during a 68-minute press conference, stating that friends are not casual with each other's lives and reputations. David Warner backed Khawaja's claim, asserting that Cricket Australia's investigation into the scandal \"stinks of a cover-up\" because it allegedly failed to interview bowlers Josh Hazlewood, Mitchell Starc, and Nathan Lyon. The controversy reignites the 2018 \"sandpapergate\" scandal involving Cameron Bancroft shoving sandpaper down his trousers.",
-      "id": "international-sports-2",
-      "micro_summary": "Pat Cummins dismisses Usman Khawaja's claim that entire team knew of 2018 ball tampering as utter nonsense.",
-      "publishers": 8,
-      "scope": "international",
-      "score": 0.9,
-      "sources": [
-        {
-          "publisher": "Sky Sports",
-          "url": "https://www.skysports.com/cricket/news/13612120/sandpapergate-david-warner-claims-cricket-australias-investigation-into-2018-scandal-stinks-of-a-cover-up"
-        },
-        {
-          "publisher": "BBC",
-          "url": "https://www.bbc.com/sport/cricket/articles/c59vwpv4rxjeo"
-        },
-        {
-          "publisher": "The Telegraph",
-          "url": "https://www.telegraph.co.uk/cricket/2026/11/13/fickle-australians-lap-up-cummins-implausible-version-event/"
-        },
-        {
-          "publisher": "News24",
-          "url": "https://www.news24.com/sport/cricket/an-australian-cricket-generation-at-war-as-sandpapergate-stench-lingers-20261114-0391"
-        }
-      ],
-      "summary": "Usman Khawaja claimed the entire Australian team knew of 2018 ball tampering, prompting Pat Cummins to call it \"utter nonsense\" in a 68-minute press conference, while David Warner called the investigation a cover-up.",
-      "timestamp": "2026-11-14T15:55:14Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "sports",
-      "extended_summary": "The SEC moved the Oklahoma versus Ole Miss football game from Saturday to Sunday at 1 p.m. ET after the Federal Aviation Administration issued a nationwide ground stop Friday that disrupted travel. Oklahoma athletic director Roger Denny strongly objected to the decision, calling it inexplicable and unfair to the Sooners, and noted the school was open to playing Saturday night. Ole Miss stated that after the ground stop was lifted, its charter broker informed the school that JetBlue could not fly the team to Oklahoma Friday night due to flight crew duty time restrictions, leaving no viable travel options before Saturday. The game was originally scheduled for 4:15 p.m. Saturday. SEC Commissioner Greg Sankey informed Oklahoma that failing to play at the directed Sunday time would result in a forfeit. Oklahoma is offering discounted concessions including $2 hot dogs and beer, plus complimentary tickets to other athletic events.",
-      "id": "international-sports-3",
-      "micro_summary": "Oklahoma-Ole Miss football game postponed to Sunday 1 p.m. ET after FAA ground stop.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.87,
-      "sources": [
-        {
-          "publisher": "ESPN",
-          "url": "https://www.espn.com/college-football/story/_/id/50482206/oklahoma-ad-infuriated-sec-ole-miss-sunday-game"
-        },
-        {
-          "publisher": "CBS Sports",
-          "url": "https://www.cbssports.com/college-football/news/ole-miss-oklahoma-airport-plane/"
-        },
-        {
-          "publisher": "Soonersports.com",
-          "url": "https://soonersports.com/news/2026/11/14/athletics-ou-announces-football-fan-appreciation-promotions-alterations-to-other-sunday-events"
-        }
-      ],
-      "summary": "The SEC postponed the Oklahoma-Ole Miss football game from Saturday to Sunday at 1 p.m. ET following an FAA nationwide ground stop that disrupted travel, despite Oklahoma's objections that the decision unfairly burdens the Sooners.",
-      "timestamp": "2026-11-14T20:20:00Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "sports",
-      "extended_summary": "Will Joseph scored five tries on his first England appearance since 2022 as England defeated Japan 78-15 in Saturday's Nations Championship at Twickenham. The hosts scored 13 tries in total, with Joseph recording a hat-trick in the opening 20 minutes of his second Test. Japan received a 20-minute red card to lock Harry Hockings after just one minute of play, and scored tries through Warner Dearns and replacement prop Opeti Helu. England's points total would have been 16 greater had eight conversions not been missed, with George Ford missing six and Henry Slade two. Former England head coach Eddie Jones watched from the stands as his Japan side fell well short of professional standards. The match was attended by 81,552 spectators.",
-      "id": "international-sports-4",
-      "micro_summary": "Will Joseph scored five tries as England defeated Japan 78-15 in the Nations Championship.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.856,
-      "sources": [
-        {
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cq0l3pn5z20xo"
-        },
-        {
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/sport/2026/nov/14/england-japan-nations-championship-match-report"
-        },
-        {
-          "publisher": "The Times",
-          "url": "https://www.thetimes.com/sport/rugby-union/article/england-japan-rugby-live-score-updates-analysis-latest-news-5hdhgk3jv"
-        },
-        {
-          "publisher": "Sky Sports",
-          "url": "https://www.skysports.com/rugby-union/news/13612209/nations-championship-england-78-15-japan-will-joseph-scores-five-tries-in-first-cap-since-2022-as-hosts-score-13"
-        }
-      ],
-      "summary": "Will Joseph scored five tries on his first England appearance since 2022 as England defeated Japan 78-15 in the Nations Championship, with the hosts scoring 13 tries despite Japan receiving a 20-minute red card in the first minute.",
-      "timestamp": "2026-11-14T21:06:00Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "tragedies",
-      "extended_summary": "The asphalt tanker Atlantic Asphalt crashed into the docked cruise ship American Heritage on the Mississippi River in New Orleans at about 12:30pm on Friday while passengers were disembarking at the Thalia Street terminal. The collision flipped the riverboat onto its side, partially submerging it and forcing around 100 of the 191 people aboard into the water. More than 30 people were injured, including 30 passengers and crew and two emergency services workers, with eight remaining hospitalized on Saturday, two in serious condition. No deaths occurred. The Port of New Orleans filed a federal lawsuit seeking more than $1 million in damages from the tanker's owner Nave Shipping SA and management company Thome Ship Management, and obtained a court order to seize the 500-foot vessel. The tanker reportedly experienced a loss of steering before the allision. The terminal sustained extensive damage with repair costs estimated to exceed $1 million.",
-      "id": "international-tragedies-1",
-      "micro_summary": "Asphalt tanker Atlantic Asphalt crashed into cruise ship American Heritage in New Orleans, injuring more than 30 people.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.861,
-      "sources": [
-        {
-          "publisher": "The Telegraph",
-          "url": "https://www.telegraph.co.uk/world-news/2026/11/14/tanker-owner-sued-after-miracle-of-mississippi-boat-crash/"
-        },
-        {
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o"
-        },
-        {
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/nov/14/new-orleans-mississippi-river-tanker-crash-lawsuit"
-        }
-      ],
-      "summary": "An asphalt tanker crashed into a docked cruise ship in New Orleans Friday, flipping it on its side and injuring over 30. Port officials sued for over $1m and seized the tanker.",
-      "timestamp": "2026-11-14T20:00:00Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "tragedies",
-      "extended_summary": "Israeli military strikes killed eight Palestinians in Gaza this week, including six at Nasser Hospital in the south on Thursday and two in Jabaliya on Saturday, marking the first attack on a healthcare facility since the October ceasefire. The strikes occurred as heavy rains caused devastating floods across the enclave, directly affecting at least 106,000 people and submerging thousands of tents for displaced families. More than 700km of Gaza's sewage network has been destroyed, while 940,000 people remain in makeshift shelters at risk of flooding. At least four children and a woman died from exposure last weekend as over four-fifths of Gaza's buildings stand destroyed. The European Union urged Israel to reopen all border crossings and grant immediate unimpeded access for humanitarian aid, noting that Israel is blocking 150,000 ready tents and other essential supplies including sanitation equipment.",
-      "id": "international-tragedies-2",
-      "micro_summary": "Israeli strikes on Gaza hospitals kill eight amid severe flooding crisis",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.781,
-      "sources": [
-        {
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza"
-        },
-        {
-          "publisher": "Council, European Union",
-          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/14/statement/"
-        },
-        {
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/12/the-guardian-view-on-gazas-misery-dont-let-palestinian-deaths-mount-in-this-bleak-winter"
-        }
-      ],
-      "summary": "Israeli strikes on Nasser Hospital and Jabaliya killed eight Palestinians this week as heavy rains flooded Gaza, affecting 106,000 people and destroying 700km of sewage networks, while the EU urged Israel to allow unimpeded humanitarian aid access.",
-      "timestamp": "2026-11-14T16:07:45Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "tragedies",
-      "extended_summary": "Authorities discovered a bomb at BioUrja Renewables, an ethanol and alcohol production plant in Peoria, Illinois, on Friday, triggering a mandatory evacuation of a one-mile zone encompassing parts of Peoria and East Peoria. The evacuation order, issued around 7:05 p.m. Friday out of caution while investigating what was initially called a suspicious package, forced residents and businesses to leave immediately. The city offered Manual Academy school as a temporary shelter. Peoria Mayor Rita Ali confirmed the threat was real, stating, \"It is real – this is a real thing.\" Police Chief Brad Dixon announced early Saturday that explosives technicians had rendered the bomb safe, though investigators continued searching the expansive facility for other devices. The evacuation zone was lifted at approximately 1:25 p.m. Saturday after officials confirmed no other explosives were present. The FBI, led by Ryan Presley of the Springfield field office, is investigating and vowed to pursue those responsible tirelessly. No arrests had been announced as the investigation continued.",
-      "id": "international-tragedies-3",
-      "micro_summary": "Authorities defused a bomb at an Illinois ethanol plant after evacuating a one-mile zone around the facility.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.733,
-      "sources": [
         {
           "publisher": "The Guardian",
           "url": "https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb"
-        },
-        {
-          "publisher": "CIProud.com",
-          "url": "https://www.centralillinoisproud.com/news/local-news/breaking-evacation-order-issued-in-downtown-peoria-and-east-peoria/"
         },
         {
           "publisher": "The Washington Post",
           "url": "https://www.washingtonpost.com/nation/2026/11/14/bomb-found-illinois-ethanol-plant-thousands-evacuated-fbi-investigates/"
         }
       ],
-      "summary": "A bomb discovered at BioUrja Renewables in Peoria, Illinois, prompted a mandatory one-mile evacuation that was lifted Saturday afternoon after explosives technicians rendered the device safe; the FBI is investigating with no arrests announced.",
-      "timestamp": "2026-11-14T14:13:00Z"
+      "summary": "A bomb discovered at the BioUrja Renewables ethanol plant in Peoria, Illinois, prompted a mandatory one-mile evacuation that was lifted Saturday after the device was rendered safe; the FBI is investigating and no arrests have been made.",
+      "timestamp": "2026-11-14T15:07:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "Iran launched drone attacks against Bahrain on Sunday, November 15, 2026, and Friday, November 13, 2026. The Islamic Revolutionary Guard Corps claimed responsibility, stating it targeted a US air defense radar facility at al-Riffa air base using six drones on Sunday, following two drones fired on Friday. Bahrain's military reported that its air defense systems intercepted and destroyed the Iranian drones before they could achieve their objectives. The attacks occurred amid a standoff between Iran and the US over control of the Strait of Hormuz. Bahrain's foreign ministry strongly condemned the continued Iranian aggression, holding Iran fully responsible for the attacks and their consequences. The ministry stated the attacks violated international law, the UN Charter, and Security Council Resolution 2817, and affirmed Bahrain's right to self-defense under Article 51 of the Charter. Sirens sounded across Bahrain on Sunday, prompting the interior ministry to call on citizens to seek safe locations.",
+      "id": "international-politics-1",
+      "micro_summary": "Iran launched six drones at Bahrain on November 15, but all were intercepted and destroyed.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.886,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status"
+        }
+      ],
+      "summary": "Iran launched drone attacks on Bahrain on November 15 and 13, 2026, targeting a US radar facility, but air defenses intercepted all drones. The Iranian Revolutionary Guard claimed responsibility.",
+      "timestamp": "2026-11-15T16:08:33Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "US District Judge Ana Reyes issued a 30-page decision temporarily blocking the federal government from closing East Potomac Park in Washington DC, halting Trump's plan to renovate the golf course into a championship facility over 15 months. Reyes ruled that the administration's reasons for the closure were pretextual and that the government violated at least two federal laws to meet an arbitrary deadline. While the park must remain open to the public, the government is not required to maintain golf operations but cannot exclude the public. The order remains in effect until 28 November. The DC Preservation League brought the lawsuit. Trump had called the course 'Trash Island' and said the renovation would create one of the best golf courses in the world. The ruling marks another judiciary pushback against Trump's capital redesign efforts.",
+      "id": "international-politics-3",
+      "micro_summary": "Federal judge Ana Reyes blocked Trump's plan to close East Potomac Park for 15 months of renovations.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.811,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/15/us-judge-blocks-trumps-plan-to-renovate-historic-dc-golf-course"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o"
+        },
+        {
+          "publisher": "Politico",
+          "url": "https://www.politico.com/news/2026/11/14/judge-rejects-trumps-bid-to-immediately-close-east-potomac-golf-course-01166639"
+        }
+      ],
+      "summary": "US District Judge Ana Reyes temporarily blocked the federal government from closing East Potomac Park in Washington DC, ruling the Trump administration's reasons for the 15-month closure were pretextual and violated federal laws.",
+      "timestamp": "2026-11-15T14:39:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "An estimated 350,000 people rallied in Prague's Letná Park on Sunday to protest the Czech government's plan to overhaul funding for public broadcasters. Organized by Mikuláš Minář of the Million Moments for Democracy group, the demonstration occurred two days before the anniversary of the 1989 Velvet Revolution protests at the same location. Protesters demanded the withdrawal of a plan by Prime Minister Andrej Babiš's coalition to replace licence fees with state budget financing, which would reduce broadcaster funding by approximately 15% and potentially lead to layoffs and program cancellations. Critics argue the overhaul would allow the government to control media, citing similar moves in Slovakia and Hungary. The bill was rushed through the lower house of Parliament on October 24 at 4:36 a.m., prompting street protests and a November 3 strike by public media employees. Babiš dismissed the concerns as unfounded claims.",
+      "id": "international-politics-4",
+      "micro_summary": "An estimated 350,000 people rallied in Prague against the Czech government's plan to overhaul public broadcaster funding.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.796,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom"
+        },
+        {
+          "publisher": "The Independent",
+          "url": "https://www.independent.co.uk/news/uk/politics/andrej-babis-prague-robert-fico-viktor-orban-european-parliament-b3085234.html"
+        },
+        {
+          "publisher": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-15/czechs-protest-against-new-funding-plan-for-public-broadcasters"
+        }
+      ],
+      "summary": "Hundreds of thousands gathered in Prague's Letná Park to protest Prime Minister Andrej Babiš's plan to replace public broadcaster licence fees with state budget funding, which critics say would cut budgets by 15% and threaten media independence.",
+      "timestamp": "2026-11-15T13:59:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "science",
+      "extended_summary": "On October 11, hackers attributed to Iran's Islamic Revolutionary Guard Corps (IRGC) cyber unit Shahid Kaveh gained control of refrigeration software in more than 700 French supermarkets, raising temperatures to as high as 80C, destroying millions of pounds worth of food and sparking at least 15 fires. Days later, multiple blood banks were targeted with temperatures soaring from -30C to 110C before staff thwarted the breach. France formally blamed the IRGC, calling the incident unprecedented sabotage, summoned the Iranian ambassador and opened a formal investigation into the head of Shahid Kaveh and two deputies, while a $10 million US bounty remains on key IRGC cyber chiefs. Similar attacks hit supermarkets in other European countries. Iran denied the accusations as baseless, while experts warned Britain could also become a target.",
+      "id": "international-science-1",
+      "micro_summary": "Iranian cyber unit hacked 700 French supermarkets, spoiling food and causing fires.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.748,
+      "sources": [
+        {
+          "publisher": "The Sun",
+          "url": "https://www.thesun.co.uk/news/40986502/iran-terrorists-weaponise-ai-cripple-europe/"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo"
+        },
+        {
+          "publisher": "WSJ",
+          "url": "https://www.wsj.com/world/middle-east/irans-new-cyber-playbook-create-real-world-havoc-8ea2dffc"
+        }
+      ],
+      "summary": "Iran's IRGC cyber unit hacked over 700 French supermarkets on October 11, raising fridge temperatures to 50C, destroying food and causing fires, prompting France to summon the Iranian ambassador and launch a probe.",
+      "timestamp": "2026-11-15T11:25:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 10,
+      "category": "sports",
+      "extended_summary": "Tyrrell Hatton claimed a commanding five-shot victory at the DP World Tour Championship at Jumeirah Golf Estates in Dubai, carding a closing six-under-par 66 to finish 15 under par. Rory McIlroy, who started the final day four shots back, posted a bogey-free 67 to finish 10 under par and secure the Race to Dubai title for the fifth successive season. The win gave McIlroy his eighth Order of Merit, matching Colin Montgomerie's record. Eugenio Chacarra finished third at eight under par after a three-under 69. McIlroy dedicated the victory to his father Gerry, who has been recovering in hospital for two months following a double lung transplant in September.",
+      "id": "international-sports-1",
+      "micro_summary": "Rory McIlroy won his eighth Race to Dubai title, matching Colin Montgomerie's record, finishing 10 under par.",
+      "publishers": 8,
+      "scope": "international",
+      "score": 0.943,
+      "sources": [
+        {
+          "publisher": "Golf Channel",
+          "url": "https://www.golfchannel.com/dp-world-tour/news/rory-mcilroy-gets-emotional-while-dedicating-race-to-dubai-win-to-ailing-father"
+        },
+        {
+          "publisher": "ESPN",
+          "url": "https://www.espn.com/golf/story/_/id/50489716/rory-mcilroy-wins-season-long-race-dubai-title"
+        },
+        {
+          "publisher": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/luke-donald-sends-message-rory-161500055.html"
+        },
+        {
+          "publisher": "Golf Digest",
+          "url": "https://www.golfdigest.com/story/heres-prize-money-payout-for-dp-world-tour-2026-race-to-dubai-bonus-pool"
+        },
+        {
+          "publisher": "Sky Sports",
+          "url": "https://www.skysports.com/golf/news/13612447/dp-world-tour-championship-rory-mcilroy-snatches-race-to-dubai-title-as-tyrrell-hatton-claims-big-win-in-season-finale"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/sport/golf/articles/c6kg7rwmz1g8o"
+        }
+      ],
+      "summary": "Tyrrell Hatton won the DP World Tour Championship by five shots at 15 under par, while Rory McIlroy secured the Race to Dubai title for the eighth time, matching Colin Montgomerie's record with a runner-up finish at 10 under par.",
+      "timestamp": "2026-11-15T13:45:46Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "Arch Manning threw a 4-yard touchdown pass to Raleek Brown with three seconds remaining to lift sixth-ranked Texas to a 22-21 victory over No. 21 LSU at Tiger Stadium. Trailing 21-10 midway through the third quarter, the Longhorns scored 12 unanswered points, with Manning overcoming three interceptions to convert critical third downs on a game-winning drive that began at Texas' 42-yard line with 2:19 left. The win pushes Texas closer to a potential first-round home game or top-four seed in the College Football Playoff while ending LSU's path to the postseason; the Tigers, now 6-4, lack a ranked win. The victory marks a potential third College Football Playoff appearance in four seasons for Texas under head coach Steve Sarkisian in his sixth year.",
+      "id": "international-sports-2",
+      "micro_summary": "Arch Manning's 4-yard touchdown pass with three seconds left gave sixth-ranked Texas a 22-21 win over No. 21 LSU.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.873,
+      "sources": [
+        {
+          "publisher": "CBS Sports",
+          "url": "https://www.cbssports.com/college-football/news/arch-manning-texas-eliminates-lsu-college-football-playoff/"
+        },
+        {
+          "publisher": "ESPN",
+          "url": "https://www.espn.com/college-football/story/_/id/50488081/kiffin-understands-frustration-lsu-playoff-hopes-dashed"
+        },
+        {
+          "publisher": "247Sports",
+          "url": "https://247sports.com/college/lsu/article/steve-sarkisians-game-winning-play-call-puts-texas-previous-goal-line-failures-to-rest-the-first-word-292793124/"
+        }
+      ],
+      "summary": "Arch Manning threw a 4-yard touchdown pass to Raleek Brown with three seconds left to lift sixth-ranked Texas to a 22-21 win over No. 21 LSU at Tiger Stadium, ending the Tigers' College Football Playoff hopes.",
+      "timestamp": "2026-11-15T14:32:06Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "Detroit Lions defensive end Aidan Hutchinson is questionable to return after suffering a knee injury early in the first quarter of Sunday's game against the New England Patriots in Munich. Hutchinson recorded a third-down sack of Patriots quarterback Drake Maye, then jumped in the air, pumped his right fist, and landed awkwardly, immediately grabbing his right knee. He remained on the ground before walking off under his own power into the blue tent and then to the locker room for evaluation. Maye also was ruled out with an ankle injury suffered on the same drive, walking off under his own power before being downgraded in the second quarter. The third-year quarterback was 3-of-4 passing for 48 yards with an 11-yard scramble at the time of his exit. Tommy DeVito entered at quarterback for the Patriots. Hutchinson entered the game with five sacks in eight games for the Lions.",
+      "id": "international-sports-3",
+      "micro_summary": "Lions defensive end Aidan Hutchinson and Patriots quarterback Drake Maye were both injured in the first quarter in Munich.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.871,
+      "sources": [
+        {
+          "publisher": "ESPN",
+          "url": "https://www.espn.com/nfl/story/_/id/50490533/patriots-drake-maye-lions-aidan-hutchinson-injured"
+        },
+        {
+          "publisher": "NFL.com",
+          "url": "https://www.nfl.com/news/patriots-drake-maye-ankle-injury-lions"
+        },
+        {
+          "publisher": "The New York Times",
+          "url": "https://www.nytimes.com/athletic/7783733/2026/11/15/lions-aidan-hutchinson-knee-injury-patriots/"
+        }
+      ],
+      "summary": "Detroit Lions defensive end Aidan Hutchinson is questionable with a knee injury and Patriots quarterback Drake Maye was ruled out with an ankle injury after both were hurt during a first-quarter sack in Munich; Tommy DeVito replaced Maye.",
+      "timestamp": "2026-11-15T15:28:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 6,
+      "category": "sports",
+      "extended_summary": "The Wallabies face Scotland at Murrayfield in Edinburgh with the threat of a fourth-straight international defeat hanging over them. Australia have reshuffled their side following last weekend's heavy defeat by England, with Carter Gordon returning at fly-half after recovering from a broken leg as one of three changes. Gordon replaces Ben Donaldson and forms a half-back partnership with Ryan Lonergan, while Joseph-Aukuso Suaalii shifts into midfield alongside Len Ikitau and Harry Potter comes onto the wing. Up front, Rob Valetini returns at blindside flanker, Jeremy Williams moves into the second row alongside Josh Canham, and captain Harry Wilson continues at No 8 with Fraser McReight completing the back row. Scotland will be without Sione Tuipulotu, who withdrew late with a knee injury. The Wallabies have struggled for consistency throughout the Nations Championship and will look to arrest their slide against a side that has enjoyed the better of this fixture in recent years.",
+      "id": "international-sports-4",
+      "micro_summary": "Wallabies face fourth-straight defeat against Scotland with Carter Gordon returning from injury.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.857,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/sport/live/2026/nov/15/scotland-v-australia-nations-championship-rugby-union-live"
+        },
+        {
+          "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "url": "https://www.abc.net.au/news/2026-11-16/wallabies-live-updates-scotland-vs-australia-murrayfield/107385882"
+        },
+        {
+          "publisher": "The Australian",
+          "url": "https://www.theaustralian.com.au/sport/rugby-union/power-of-scotland-to-challenge-wounded-wallabies-in-pivotal-clash/news-story/f9ffa5a7c4ae81f916f298e86d61efb3"
+        }
+      ],
+      "summary": "Australia face Scotland at Murrayfield in Edinburgh seeking to avoid a fourth consecutive international defeat, with Carter Gordon returning at fly-half after recovering from a broken leg as one of three changes to the Wallabies side.",
+      "timestamp": "2026-11-15T16:04:21Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "A Copa Airlines Boeing 737 and a UPS Boeing 767 collided on a taxiway at Miami International Airport Saturday night at approximately 9 p.m. The Copa flight, arriving from Panama City, Panama with 166 passengers and six crew members, was taxiing to the gate when its left wingtip struck the nose of the UPS cargo plane, which was taxiing for departure to Bogotá, Colombia as Flight 358. Two passengers were evaluated by airport paramedics for minor injuries but did not require hospital transport. The Federal Aviation Administration launched an investigation into the incident, which occurred a day after a nationwide ground stop due to air traffic control communication issues. Airport officials directed flights to other taxiways, stating operations were not affected.",
+      "id": "international-tragedies-1",
+      "micro_summary": "A Copa Airlines passenger jet and a UPS cargo plane collided on a Miami taxiway, injuring two people.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.859,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/15/miami-airport-planes-collide"
+        },
+        {
+          "publisher": "NBC News",
+          "url": "https://www.nbcnews.com/news/us-news/two-injured-taxiing-planes-collide-miami-airport-rcna608962"
+        },
+        {
+          "publisher": "CBS News",
+          "url": "https://www.cbsnews.com/miami/news/ups-plane-copa-airlines-jet-collide-miami-international-airport/"
+        }
+      ],
+      "summary": "A Copa Airlines Boeing 737 and a UPS Boeing 767 collided on a taxiway at Miami International Airport Saturday night around 9 p.m., injuring two people with minor injuries while both aircraft were taxiing.",
+      "timestamp": "2026-11-15T15:40:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "An Israeli airstrike killed Samir Abu Younis, commander of Hamas's Rafah Brigade, in Al-Mawasi in southern Gaza on Saturday. The 53-year-old, appointed September 15 after his predecessor was killed, helped plan the October 7, 2023 attack on Israel that killed about 1,200 people and took 251 hostage. Four missiles struck a tent in the Al-Waha camp, causing a fire, while Nasser Hospital in Khan Younis received three injured people and one dead body. Israeli forces confirmed they eliminated Younis, calling him a central figure who directed attacks against civilians and troops. Hamas's Al-Qassam Brigades described the killing as a cowardly assassination and said his funeral would be held Sunday in Khan Younis. The strike occurred amid a fragile October ceasefire, with more than 74,650 killed in Gaza since the war began.",
+      "id": "international-tragedies-2",
+      "micro_summary": "Israeli airstrike kills senior Hamas commander Samir Abu Younis, 53, in southern Gaza.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.837,
+      "sources": [
+        {
+          "publisher": "POLITICO.eu",
+          "url": "https://www.politico.eu/article/israel-kills-hamas-commander-in-gaza-strike/"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo"
+        },
+        {
+          "publisher": "Sky News",
+          "url": "https://news.sky.com/story/hamas-says-senior-commander-killed-in-israeli-airstrike-13612384"
+        }
+      ],
+      "summary": "An Israeli airstrike killed Samir Abu Younis, commander of Hamas's Rafah Brigade, in Al-Mawasi, southern Gaza. The 53-year-old, who helped plan the October 7, 2023 attack, died when four missiles struck a tent in a camp, injuring three.",
+      "timestamp": "2026-11-15T09:43:00Z"
     },
     {
       "ai": false,
       "articles": 5,
       "category": "tragedies",
-      "extended_summary": "James Campbell, a resident DJ at Glasgow club AXM, was one of six people killed in the November 7 shooting A Glasgow nightclub has paid tribute to its resident DJ, who was killed in a mass shooting in Krakow. James Campbell, from Prestwick, was one of six people killed in the November 7 shooting in the city’s Main Square. He was in the Polish town on holiday with a friend, and was due to return home on Monday. Police Scotland confirmed they are supporting the 32-year-old’s family following his “tragic death”. The DJ played a residency at nightclub AXM, at Glassford Street in the city centre. A tribute from the club on social media read: “It is with heavy hearts that we announce that one of our resident DJ’s has been tragically killed in the recent event in Krakow. “Jamie, you brought so much to our team. You were popular,",
-      "id": "international-tragedies-4",
-      "micro_summary": "Glasgow nightclub pay tribute to resident DJ killed in Krakow shooting.",
+      "extended_summary": "Scene of the collapsed building at 1321 Flatbush Avenue, Brooklyn, New York. Credit: NY Times. A Nigerian-born landlord in the United States, Olufemi Falade, reportedly owes more than $450,000 in fines, unpaid taxes and water bills, and has appeared on New York City’s Worst Landlord Watchlist six different times in the last decade. According to a statement issued by New York City Public Advocate Jumaane Williams on Saturday, Falade is the registered head officer of 1321 Flatbush Avenue, the Brooklyn apartment building that collapsed on Wednesday, killing eight people. Falade was also sentenced to 12 days in jail in 2006 and fined $50,000 for civil contempt after failing to address more than 1,800 violations, including vermin infestations, exposed wires and leaking pipes, at 12 Brooklyn buildings he owned at the time. PUNCH Online had earlier reported that the three-storey apartment building located in the Flatbush area of Brooklyn collapsed at",
+      "id": "international-tragedies-3",
+      "micro_summary": "Nigerian owner of collapsed NYC building named on worst landlords list.",
       "publishers": 5,
       "scope": "international",
-      "score": 0.696,
+      "score": 0.826,
       "sources": [
         {
-          "publisher": "STV News",
-          "url": "https://news.stv.tv/west-central/glasgow-nightclub-pay-tribute-to-resident-dj-killed-in-krakow-shooting"
+          "publisher": "Punch Newspapers",
+          "url": "https://punchng.com/nigerian-owner-of-collapsed-nyc-building-named-on-worst-landlords-list/"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm4gn5qddqqxo"
         },
         {
           "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/uk-news/2026/nov/11/british-man-died-krakow-shooting-named-james-campbell"
-        },
-        {
-          "publisher": "Reuters",
-          "url": "https://www.reuters.com/world/europe/polish-gunman-visited-websites-about-norwegian-mass-killer-breivik-minister-says-2026-11-10/"
+          "url": "https://www.theguardian.com/us-news/2026/nov/13/brooklyn-building-collapse-victims"
         }
       ],
-      "summary": "Glasgow nightclub pay tribute to resident DJ killed in Krakow shooting. James Campbell, from Prestwick, was one of six people killed in the November 7 shooting in the city’s Main Square.",
-      "timestamp": "2026-11-13T17:59:26Z"
-    },
-    {
-      "ai": false,
-      "articles": 2,
-      "category": "business",
-      "extended_summary": "India and the US have sorted out the bulk of the issues relating to the proposed trade deal, including tariff lines, and the deal could be sealed \"soon\" as talks continue to resolve the last stretch of concerns, External Affairs Minister S Jaishankar said on Saturday. His remarks come a month before Prime Minister Narendra Modi's likely visit to the US for the G20 Summit, on the sidelines of which he and President Donald Trump may meet to review the broader trajectory of bilateral ties and progress on the trade pact. In an interactive session at the HT Leadership Summit, the external affairs minister said the negotiations are approaching the \"finishing line\", adding that many of the remaining issues are \"not so much at our end\" and that more changes have occurred on the American side. \"Well, it's certainly our hope, and in many ways anticipation that we are at",
-      "id": "national-business-1",
-      "micro_summary": "US trade deal talks near finishing line: EAM.",
-      "publishers": 2,
-      "scope": "national",
-      "score": 0.629,
-      "sources": [
-        {
-          "publisher": "The Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/us-trade-deal-talks-near-finishing-line-eam/articleshow/135842477.cms"
-        },
-        {
-          "publisher": "Awaz The Voice",
-          "url": "https://www.awazthevoice.in/business-news/india-us-trade-pact-nearing-finish-line-jaishankar-70848.html"
-        }
-      ],
-      "summary": "US trade deal talks near finishing line: EAM. PM Modi and Trump are due to meet in the US next month.Jaishankar said the US is India's biggest market and having the trade deal with it would benefit the country.",
-      "timestamp": "2026-11-14T22:06:00Z"
+      "summary": "Nigerian owner of collapsed NYC building named on worst landlords list. Scene of the collapsed building at 1321 Flatbush Avenue, Brooklyn, New York.",
+      "timestamp": "2026-11-15T12:05:33Z"
     },
     {
       "ai": false,
       "articles": 5,
-      "category": "entertainment",
-      "extended_summary": "The Delhi Police Special Cell has arrested two suspected shooters and says it foiled separate plots to open fire on a Bollywood actor in Mumbai and a businessman in Delhi.One of the men, Deepak Singh alias Deep, was wanted in Punjab in connection with the murder of Instagram influencer Mad Sandhu in Amritsar.Police first arrested Vikas Thakur alias Vicky, a resident of Jalandhar, after he travelled from Mumbai to Delhi. Investigators said he had come to the capital to target the businessman as part of an extortion plot. The Special Cell then arrested Deepak in Mumbai.MAD SANDHU MURDER AND BOLLYWOOD PLOTSandhu was killed in Amritsar on October 3. Police alleged that Deepak and his associate Palwinder alias Kaka carried out the attack on the orders of a fugitive gangster based abroad. Punjab Police arrested Palwinder, while Deepak went into hiding in Mumbai, investigators said.According to the Special Cell, the same",
-      "id": "national-entertainment-1",
-      "micro_summary": "Shooter Who Killed Mad Sandhu Arrested, Wanted To Attack Bollywood Actor.",
+      "category": "tragedies",
+      "extended_summary": "Port also succeeds in seizing tanker, Atlantic Asphalt, to recoup damages after it crashes into cruise ship New Orleans port officials have filed a lawsuit seeking more than $1m in damages from the owner and operator of an asphalt tanker that crashed into a docked cruise ship on the Mississippi River in the city on Friday. In some of the first legal consequences of Friday’s crash, the port has also obtained a federal court order authorizing the seizure of the Atlantic Asphalt tanker. The Atlantic Asphalt slammed into the American Heritage cruise ship, causing the river boat to flip onto its side, injuring more than 30 people and setting off a frantic but successful effort to pull people out of the water. The board of commissioners of the port of New Orleans filed the lawsuit in federal court late Friday, naming the Atlantic Asphalt tanker; its owner, Nave Shipping SA;",
+      "id": "international-tragedies-4",
+      "micro_summary": "New Orleans lawsuit aims for control of tanker that crashed into cruise ship.",
       "publishers": 5,
-      "scope": "national",
-      "score": 0.836,
+      "scope": "international",
+      "score": 0.805,
       "sources": [
         {
-          "publisher": "NDTV",
-          "url": "https://www.ndtv.com/india-news/shooter-who-killed-mad-sandhu-arrested-wanted-to-attack-bollywood-actor-12327585"
+          "publisher": "ITVX",
+          "url": "https://www.itv.com/news/2026-11-14/new-orleans-lawsuit-aims-for-control-of-tanker-that-crashed-into-cruise-ship"
         },
         {
-          "publisher": "The Times of India",
-          "url": "https://timesofindia.indiatimes.com/city/delhi/delhi-police-special-cell-arrests-shooters-foils-attack-on-bollywood-actor/articleshow/135840360.cms"
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/14/new-orleans-mississippi-river-tanker-crash-lawsuit"
+        },
+        {
+          "publisher": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/us/news/2026/11/13/tanker-collides-with-cruise-ship-new-orleans/"
+        }
+      ],
+      "summary": "New Orleans lawsuit aims for control of tanker that crashed into cruise ship.",
+      "timestamp": "2026-11-15T07:10:02Z"
+    },
+    {
+      "ai": true,
+      "articles": 3,
+      "category": "business",
+      "extended_summary": "India has secured assurance that Indian goods will enjoy preferential access to the US market with lower duties than competing countries under the proposed bilateral trade agreement, Commerce Minister Piyush Goyal said. The understanding was reached when Prime Minister Narendra Modi and US President Donald Trump agreed on a broad framework for strengthening trade ties. India and the US finalized the framework for the first phase in February, though signing has been delayed as negotiations continue amid changes in the US tariff regime following the Supreme Court striking down reciprocal tariffs. Both sides are working to conclude the first tranche by the end of the current financial year. The final extent of tariff concessions will depend on the framework eventually agreed upon. Goyal made the remarks during his two-day visit to Egypt.",
+      "id": "national-business-1",
+      "micro_summary": "India secured preferential US market access with lower duties than competitors, Commerce Minister Piyush Goyal said.",
+      "publishers": 3,
+      "scope": "national",
+      "score": 0.651,
+      "sources": [
+        {
+          "publisher": "BusinessLine",
+          "url": "https://www.thehindubusinessline.com/economy/india-us-agree-on-preferential-market-access-for-indian-goods-in-america-goyal/article71704400.ece"
+        },
+        {
+          "publisher": "The New Indian Express",
+          "url": "https://www.newindianexpress.com/business/2026/Nov/15/india-us-agree-on-preferential-market-access-lower-duties-for-indian-goods-piyush-goyal"
+        },
+        {
+          "publisher": "Telangana Today",
+          "url": "https://telanganatoday.com/goyal-says-india-has-secured-preferential-access-to-american-market"
+        }
+      ],
+      "summary": "India has secured assurance of preferential access to the US market with lower duties than competing countries under a bilateral trade agreement, Commerce Minister Piyush Goyal said, as both nations negotiate the first phase amid changes in US tariff policies.",
+      "timestamp": "2026-11-15T13:22:50Z"
+    },
+    {
+      "ai": true,
+      "articles": 4,
+      "category": "entertainment",
+      "extended_summary": "Delhi Police's Special Cell arrested two alleged shooters, Vikas Thakur alias Vicky and Deepak Singh alias Deep, foiling a planned firing attack on Bollywood actor Amitabh Bachchan outside his Mumbai residence. The accused were linked to a foreign-based gangster who allegedly instructed Singh to remain in Mumbai to execute the attack over Bachchan's purported remarks on the 1984 anti-Sikh riots, which the actor has denied. Singh, a resident of Tarn Taran, was also wanted in the October 3 murder of Instagram influencer Mad Sandhu in Amritsar, allegedly carried out with associate Palwinder alias Kaka. Thakur, from Jalandhar, had traveled to Delhi to carry out an extortion-driven shooting targeting a businessman but was intercepted. Police also noted email threats referencing blasts at Mumbai locations including the Mayor's office, airport, and Bachchan's bungalow on specific dates.",
+      "id": "national-entertainment-2",
+      "micro_summary": "Delhi Police arrested two shooters and foiled a plot to attack Bollywood actor Amitabh Bachchan in Mumbai.",
+      "publishers": 4,
+      "scope": "national",
+      "score": 0.636,
+      "sources": [
+        {
+          "publisher": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/shooter-wanted-in-murder-of-influencer-mad-sandhu-among-2-arrested-were-planning-attack-on-amitabh-bachchan/article71704007.ece"
         },
         {
           "publisher": "India Today",
           "url": "https://www.indiatoday.in/india/story/delhi-police-arrest-two-foil-bollywood-actor-businessman-attack-plots-3039106-2026-11-14"
         },
         {
-          "publisher": "ANI News",
-          "url": "https://www.aninews.in/news/entertainment/bollywood/two-shooters-arrested-over-plots-to-target-businessman-bollywood-a-list-actor-one-wanted-in-mad-sandhu-murder20261115004515"
+          "publisher": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/city/delhi/delhi-police-special-cell-arrests-shooters-foils-attack-on-bollywood-actor/articleshow/135840360.cms"
         },
         {
-          "publisher": "Inshorts",
-          "url": "https://inshorts.com/en/amp_news/2-shooters-arrested-for-conspiracy-to-attack-a-bollywood-actor-in-mumbai-1794662518306"
+          "publisher": "ANI News",
+          "url": "https://www.aninews.in/news/entertainment/bollywood/two-shooters-arrested-over-plots-to-target-businessman-bollywood-a-list-actor-one-wanted-in-mad-sandhu-murder20261115004515"
         }
       ],
-      "summary": "Shooter Who Killed Mad Sandhu Arrested, Wanted To Attack Bollywood Actor. New Delhi: Delhi Police’s special cell has arrested two alleged shooters linked to a foreign-based gangster and foiled a planned shooting attack on a prominent Bollywood actor in Mumbai.",
-      "timestamp": "2026-11-14T19:15:00Z"
+      "summary": "Delhi Police arrested Vikas Thakur and Deepak Singh, foiling a planned shooting of Bollywood actor Amitabh Bachchan in Mumbai and an extortion attack on a Delhi businessman; Singh was wanted in the Oct 3 murder of Instagram influencer Mad Sandhu.",
+      "timestamp": "2026-11-15T02:36:08Z"
+    },
+    {
+      "ai": true,
+      "articles": 4,
+      "category": "sports",
+      "extended_summary": "The International Cricket Council Board approved windows for major men's events through 2035, confirming India will host the 2029 Champions Trophy from October 9-28 and co-host the 2031 ODI World Cup with Bangladesh from October 9-November 23. India will host the Champions Trophy for the first time since 2006, while the 2031 World Cup marks India's fifth time hosting the tournament. The schedule includes the 2028 T20 World Cup in Australia and New Zealand from October 12-November 12, the 2029 World Test Championship final in England from June 8-12, the 2030 T20 World Cup across England, Ireland and Scotland from July 4-August 4, and the 2031 WTC final in England from June 12-16. Hosts for 2032-2035 events remain unannounced. The Board also approved qualification formats for upcoming tournaments and confirmed Olympic qualifiers for the 2028 Los Angeles Games.",
+      "id": "national-sports-1",
+      "micro_summary": "India will host the 2029 Champions Trophy and co-host the 2031 World Cup under the ICC schedule approved through 2035.",
+      "publishers": 4,
+      "scope": "national",
+      "score": 0.703,
+      "sources": [
+        {
+          "publisher": "Rediff",
+          "url": "https://www.rediff.com/cricket/report/icc-cricket-schedule-2028-2035-indias-hosting-role-confirmed/20261115.htm"
+        },
+        {
+          "publisher": "The New Indian Express",
+          "url": "https://www.newindianexpress.com/sport/cricket/2026/Nov/15/india-to-host-2029-champions-trophy-as-icc-unveils-global-events-till-2035"
+        },
+        {
+          "publisher": "The Week",
+          "url": "https://www.theweek.in/news/sports/2026/11/15/india-host-2029-icc-champions-trophy-icc-cricket-calendar.html"
+        },
+        {
+          "publisher": "Sportstar",
+          "url": "https://sportstar.thehindu.com/cricket/india-host-champions-trophy-2029-odi-world-cup-2031-dates-confirmed/article71705212.ece"
+        }
+      ],
+      "summary": "The International Cricket Council approved the schedule for major men's events through 2035, confirming India will host the 2029 Champions Trophy from October 9-28 and co-host the 2031 ODI World Cup with Bangladesh from October 9-November 23.",
+      "timestamp": "2026-11-15T15:07:25Z"
+    },
+    {
+      "ai": true,
+      "articles": 4,
+      "category": "sports",
+      "extended_summary": "India defeated New Zealand by 22 runs in the fifth and final ODI at Bay Oval in Mount Maunganui to secure a 3-1 series victory. Chasing 210, New Zealand were bowled out for 187 in 48.1 overs, while India had been dismissed for 209 in 42.1 overs after Ishan Kishan and Axar Patel each scored 46 runs. Arshdeep Singh took three wickets for 30 runs, while Mohammed Siraj and Axar Patel claimed two wickets apiece to seal the win. Dean Foxcroft top-scored for the hosts with 31. The victory completed a successful white-ball tour that also included a 3-2 T20I series triumph earlier. The teams will now begin the Test series on 19 November in Wellington.",
+      "id": "national-sports-2",
+      "micro_summary": "India defeated New Zealand by 22 runs to seal the ODI series 3-1.",
+      "publishers": 3,
+      "scope": "national",
+      "score": 0.667,
+      "sources": [
+        {
+          "publisher": "ICC",
+          "url": "https://www.icc-cricket.com/news/bowlers-guide-india-to-odi-series-win-over-new-zealand"
+        },
+        {
+          "publisher": "ANI News",
+          "url": "https://www.aninews.in/news/sports/cricket/proud-of-our-boys-head-coach-gambhir-hails-indias-bowling-effort-after-odi-series-win-over-new-zealand20261115213316"
+        },
+        {
+          "publisher": "RFI",
+          "url": "https://www.rfi.fr/en/sports/20261115-india-win-fifth-new-zealand-odi-to-seal-tight-series"
+        }
+      ],
+      "summary": "India defeated New Zealand by 22 runs in the fifth ODI at Bay Oval, winning the series 3-1 after being bowled out for 209 and dismissing the hosts for 187.",
+      "timestamp": "2026-11-15T16:03:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "sports",
+      "extended_summary": "India secured a 22-run victory over New Zealand in the fifth and final ODI at Bay Oval, defending a total of 209 to clinch the five-match series 3-1. Captain Shreyas Iyer described the series as one dominated by bowlers, praising his team's ability to adapt to challenging conditions. New Zealand were bowled out for 187 in 49 overs, with Arshdeep Singh leading the attack with three wickets for 30 runs. The win came after India was bowled out for 89 in the fourth ODI while chasing 334. Iyer noted that the team stuck to its bowling plan of using seamers in partnerships to build pressure and take wickets. He described leading India in ODIs as challenging and exhausting but exciting, noting that batting had been difficult for both sides throughout the contest.",
+      "id": "national-sports-3",
+      "micro_summary": "India defeated New Zealand by 22 runs in the fifth ODI to win the series 3-1.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.536,
+      "sources": [
+        {
+          "publisher": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/sports/cricket/news/it-was-a-series-for-bowlers-not-batters-shreyas-iyer-after-indias-3-1-odi-series-win-over-new-zealand/articleshow/135853311.cms"
+        },
+        {
+          "publisher": "The Hindu",
+          "url": "https://www.thehindu.com/sport/cricket/batters-need-to-fire-as-india-targets-series-win/article71702919.ece"
+        }
+      ],
+      "summary": "India defeated New Zealand by 22 runs in the fifth ODI at Bay Oval, defending 209 to secure a 3-1 series victory. Arshdeep Singh took three wickets for 30 runs as New Zealand were restricted to 187 in 49 overs.",
+      "timestamp": "2026-11-15T12:43:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "tragedies",
+      "extended_summary": "Fourteen people, including 10 Emiratis and four Indian nationals, were killed in two consecutive collisions on Sheikh Khalifa bin Zayed Road in Fujairah, UAE, during early Thursday. Another 30 people were injured in the incident involving 23 vehicles. The first crash occurred when a vehicle struck a stationary truck where the right-hand lane was closed for maintenance. In the second collision, a truck carrying two shipping containers struck several vehicles before overturning. Among the Indian victims were 21-year-old twins Mohamed Asmil Siddique and Misna Jubin Siddique, their three-year-old grandson Muhammed Faiz, and 13-year-old Aatif Mohmmed Imran Mansur from Gujarat. Aatif was traveling with his family toward Fujairah International Airport for their return to India when the accident occurred; his parents and elder sister were injured. The Crown Prince of Fujairah and Sheikh Theyab bin Mohamed bin Zayed Al Nahyan visited the bereaved family to offer condolences.",
+      "id": "national-tragedies-1",
+      "micro_summary": "Fourteen people, including four Indians, died in consecutive vehicle collisions on a Fujairah road in the UAE.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.666,
+      "sources": [
+        {
+          "publisher": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/world/middle-east/four-indians-among-14-killed-in-uae-road-crash-gujarat-teenager-identified-as-fourth-victim/articleshow/135852116.cms"
+        },
+        {
+          "publisher": "Rediff",
+          "url": "https://www.rediff.com/news/commentary/2026/nov/15/13yearold-boy-identified-as-fourth-indian-killed-in-uae-road-accident/46a604d38ae4cfa22f139459a75597ed"
+        }
+      ],
+      "summary": "Fourteen people, including four Indian nationals, were killed and 30 injured in two consecutive multi-vehicle collisions on Sheikh Khalifa bin Zayed Road in Fujairah, UAE, during early Thursday hours.",
+      "timestamp": "2026-11-15T15:24:37Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "tragedies",
+      "extended_summary": "Twenty-six people were killed and around 20 others injured when a Force Traveller passenger vehicle collided head-on with a container truck on November 13 at Rongajan near Hathikuli Tea Estate in the Kohora range of Kaziranga along National Highway 715. The vehicle owner, Anjir Ali, was arrested by Bokakhat Police from Nagaon on Saturday evening. Investigators are probing alleged violations including the removal of the mandatory speed limiter to allow more trips and higher fares. The vehicle had been booked multiple times for overspeeding, including a Rs 4,000 fine in Jorhat on March 3 for travelling at 102 kmph, and had accumulated 12 paid challans totaling Rs 38,500 with Rs 4,000 outstanding. Police are also examining the decision to employ a driver over 60 years old. A dashcam video shows the vehicle allegedly entering from the wrong side at high speed before the crash.",
+      "id": "national-tragedies-2",
+      "micro_summary": "Twenty-six people died in a Kaziranga crash and the Force Traveller owner was arrested.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.535,
+      "sources": [
+        {
+          "publisher": "India Today NE",
+          "url": "https://www.indiatodayne.in/amp/assam/story/kaziranga-crash-mini-bus-owner-arrested-traffic-violations-1475581-2026-11-15"
+        },
+        {
+          "publisher": "NDTV",
+          "url": "https://www.ndtv.com/india-news/assams-kaziranga-crash-vehicle-owner-arrested-overspeeding-record-under-scanner-12329184"
+        }
+      ],
+      "summary": "Twenty-six people were killed and around 20 injured when a Force Traveller collided head-on with a container truck near Kaziranga on November 13. Owner Anjir Ali was arrested from Nagaon amid probes into overspeeding and removal of the speed limiter.",
+      "timestamp": "2026-11-15T07:55:32Z"
     }
   ]
 }
