@@ -1,0 +1,356 @@
+{
+  "date": "2026-11-16",
+  "events": [
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "Pope Leo XIV prayed the Angelus with the faithful outside Cusco's Cathedral Basilica in the ancient Incan capital high in the Andes. He recalled the late Archbishop Richard Daniel Alarcón Urrutia, who died October 30, and greeted new Archbishop Lizardo Estrada. Reflecting on illness, he said suffering offered with love becomes spiritual strength. He recalled the Lord of the Earthquakes, venerated since 1650, and bestowed a Shroud upon the image. Later, he donned a headset and chatted with pilots while flying over Chiclayo in a Peruvian army helicopter, where he served as bishop for eight years. The visit was part of his 12-day, 30,000km tour of Argentina, Uruguay and Peru, undertaken despite having part of his lung removed a month prior.",
+      "id": "international-politics-1",
+      "micro_summary": "Pope Leo XIV prayed the Angelus in Cusco and bestowed a Shroud on the Lord of Earthquakes.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.844,
+      "sources": [
+        {
+          "publisher": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/news/2026/11/15/pope-helicopter-travel-andes/"
+        },
+        {
+          "publisher": "Vatican News",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-angelus-cusco-peru-illness-lord-earthquakes.html"
+        },
+        {
+          "publisher": "Reuters",
+          "url": "https://www.reuters.com/world/americas/pope-leo-cross-peru-visits-inca-city-amazon-gateway-2026-11-15/"
+        }
+      ],
+      "summary": "Pope Leo XIV prayed the Angelus in Cusco, recalling late Archbishop Richard Alarcón and addressing illness, before bestowing a Shroud on the Lord of Earthquakes and flying over Chiclayo in a helicopter.",
+      "timestamp": "2026-11-15T17:35:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "A four-hour nationwide flight ground stop on Friday, the longest in 25 years, was triggered when a computer router installed in El Dorado, Arkansas, sent faulty signals after an upgrade from copper wire to fiber, flooding the network. More than 3,500 airplanes were in the air when the FAA announced the grounding at 15:54 EST, causing 8,500 flights to be delayed and 8,000 cancelled. Disruptions continued through the weekend, with over 5,900 flights cancelled and 7,000 delayed on Saturday, and more than 5,000 delayed and 2,000 cancelled on Sunday. Transportation Secretary Sean Duffy blamed prior administrations and insufficient congressional funding, stating the $12.5 billion allocated was limited in scope and inadequate for new telecom architecture, software, or towers. Democratic Senator Chris Van Hollen countered that the administration had not properly invested existing funds. President Trump also blamed the previous administration. Duffy said normal operations might not resume until Monday and called for a complete overhaul of the neglected air traffic control system.",
+      "id": "international-politics-2",
+      "micro_summary": "A four-hour nationwide US flight stoppage Friday delayed 8,500 flights and sparked disputes over infrastructure funding.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.843,
+      "sources": [
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/15/transportation-secretary-sean-duffy-faa-flight-stoppag"
+        },
+        {
+          "publisher": "Financial Times",
+          "url": "https://www.ft.com/content/9df17e1c-c77a-4f67-b5b4-1adb64bcd063?syn-25a6b1a6=1"
+        }
+      ],
+      "summary": "Friday's four-hour nationwide flight ground stop, caused by a faulty computer router in Arkansas, delayed over 8,500 flights and cancelled 8,000, with disruptions continuing through Sunday as officials debated modernization funding.",
+      "timestamp": "2026-11-15T19:20:53Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "The US faces EU resistance over expanding the Pax Silica AI initiative into a broader economic security framework to protect American technological leadership. Washington wants coalition members, designed to secure supply chains for AI, semiconductors and critical minerals, to endorse a declaration in San Francisco on Sunday. The draft states that economic security is fundamental to national security and calls for protecting sensitive technologies and critical infrastructure by diversifying supply chains and coordinating responses to economic coercion. The EU joined in June despite French reservations, but the proposals have revived divisions. Concerns stem partly from 2025 US export controls under the AI Diffusion Framework that would have limited advanced AI chip access for several EU countries. A sticking point is the broad definition of sensitive technologies, with some EU states demanding objective criteria fearing Washington would gain considerable discretion.",
+      "id": "international-politics-3",
+      "micro_summary": "The US faces EU resistance over expanding the Pax Silica AI initiative into an economic security framework on Sunday.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.835,
+      "sources": [
+        {
+          "publisher": "Financial Times",
+          "url": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1"
+        },
+        {
+          "publisher": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-15/us-allies-agree-to-guard-ai-supply-chains-from-china-ft-says"
+        },
+        {
+          "publisher": "Euronews.com",
+          "url": "https://www.euronews.com/2026/11/12/trumps-upgrade-of-us-led-ai-alliance-runs-into-european-resistance"
+        }
+      ],
+      "summary": "The US faces EU resistance over plans to expand the Pax Silica AI initiative into an economic security framework, with members set to endorse a declaration in San Francisco on Sunday amid concerns over broad definitions of sensitive technologies.",
+      "timestamp": "2026-11-15T17:47:43Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "Joe Rogan, the world's most listened-to podcaster, attributed Republicans' midterm election defeat to the Iran war and hard-line immigration raids. Rogan stated that the party lost not only the \"podcast bros\" but \"most of the country,\" citing the administration's launch of \"a war that no one wants to be in\" and the deployment of \"militarised police in the streets wearing masks\" during ICE operations. Vice President JD Vance also blamed the Iran war for the party's losses. The shift was particularly pronounced among young male voters, with men under 30 shifting nearly 40 points toward Democrats after a 23-point shift toward Republicans in the 2024 election. Young Latino men also moved sharply toward Democrats amid contentious immigration policies. Rogan, who endorsed Donald Trump in 2024, noted that support had waned since the US and Israel launched attacks on Iran in March.",
+      "id": "international-politics-4",
+      "micro_summary": "Joe Rogan blamed the Iran war and immigration raids for Republicans' midterm defeat.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.831,
+      "sources": [
+        {
+          "publisher": "The Independent",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-joe-rogan-podcast-endorsment-b3085232.html"
+        },
+        {
+          "publisher": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/world-news/2026/11/15/trump-has-lost-the-podcast-bros-says-joe-rogan/"
+        },
+        {
+          "publisher": "USA Today",
+          "url": "https://www.usatoday.com/story/news/politics/2026/11/15/joe-rogan-trump-iran-war-midterms/92798695007/"
+        }
+      ],
+      "summary": "Joe Rogan blamed the Iran war and militarised immigration raids for Republicans' midterm losses, saying they lost the 'podcast bros' and most of the country, with men under 30 shifting nearly 40 points toward Democrats.",
+      "timestamp": "2026-11-15T16:36:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "science",
+      "extended_summary": "Animal behaviorists at the University of São Paulo conducted a study examining communication in 38 pet cats. Researchers placed a treat inside a plastic container with holes, allowing cats to smell but not reach the food, creating a problem only humans could solve with opposable thumbs. Over one minute, the team observed cats under two conditions: with an attentive human present and with no human present. The cats were significantly more vocal when humans were nearby, with researchers finding they were four times more shouty when owners were present and 16 times more likely to meow when a person was in the room compared to being alone. Cats also stared at humans and flicked their eyes toward the container. The researchers concluded that meowing plays a communicative role in cat-human interactions, with cats deliberately targeting humans to solve problems and meet demands.",
+      "id": "international-science-1",
+      "micro_summary": "A study of 38 cats found they meowed significantly more when humans were present to solve problems.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.679,
+      "sources": [
+        {
+          "publisher": "The Times",
+          "url": "https://www.thetimes.com/uk/science/article/cats-meow-owners-order-study-q9z8lww65"
+        },
+        {
+          "publisher": "ScienceAlert",
+          "url": "https://www.sciencealert.com/science-has-finally-shown-that-your-cat-meows-to-demand-that-you-fix-their-world"
+        },
+        {
+          "publisher": "HuffPost UK",
+          "url": "https://www.huffingtonpost.co.uk/entry/why-cats-meow-at-humans-not-other-cats_uk_6af4460fe4b0a8468d8c28e4"
+        }
+      ],
+      "summary": "University of São Paulo researchers found 38 pet cats meowed significantly more when facing an unsolvable treat puzzle with humans present than when alone, suggesting cats use vocalizations to direct human attention.",
+      "timestamp": "2026-11-15T17:18:45Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "science",
+      "extended_summary": "Ukraine's Third Army Corps conducted the first platoon-sized unsupported robotic assault of the war near Lyman in eastern Ukraine, deploying 28 unmanned ground vehicles against Russian positions. Eighteen robots were fitted with Swedish AT4 anti-tank weapons, two with American Mk 19 automatic grenade launchers, and eight kamikaze robots carried approximately 20kg of explosives each. Russia claimed to have destroyed the force, calling it the largest unsupported robotic assault of the conflict. Beyond this operation, Ukrainian units are increasingly employing ground robots in the kill zone for logistics, casualty evacuation, and counter-drone missions, with some systems equipped with weaponry and jamming equipment to down hostile aerial drones. Officials from the Da Vinci Wolves Battalion and Frontline Robotics noted that robots are becoming primary targets for Russian forces and require self-defense capabilities to protect troops and change combat operations along the front lines.",
+      "id": "international-science-2",
+      "micro_summary": "Ukraine deployed 28 ground robots in an unsupported assault near Lyman while developing counter-drone capabilities.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.622,
+      "sources": [
+        {
+          "publisher": "Business Insider",
+          "url": "https://www.businessinsider.com/ukraine-war-robots-starting-down-drones-could-alter-kill-zone-2026-11"
+        },
+        {
+          "publisher": "Forces News",
+          "url": "https://www.forcesnews.com/ukraine/twenty-eight-robots-no-soldiers-does-attack-show-future-warfare"
+        },
+        {
+          "publisher": "Zona Militar",
+          "url": "https://www.zona-militar.com/en/2026/11/12/ukrainian-forces-record-more-than-31000-ground-drone-missions-in-october/"
+        }
+      ],
+      "summary": "Ukraine's Third Army Corps used 28 unmanned ground vehicles in an unsupported assault near Lyman, the first platoon-sized robotic attack without infantry, while units develop robots to counter drones in the kill zone.",
+      "timestamp": "2026-11-15T12:12:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 15,
+      "category": "sports",
+      "extended_summary": "England secured a 3-2 victory over world champions Spain in Madrid to finish top of their UEFA Nations League group and end Spain's 43-game unbeaten run. Thomas Tuchel's side took a 3-0 lead through goals from Harry Kane, Ezri Konsa and Ben White before Elliot Anderson was sent off for a last-man foul on Lamine Yamal. Mikel Oyarzabal scored from the resulting penalty and Nico Williams added a second for Spain, but goalkeeper James Trafford made a series of crucial saves to preserve the win. The result ensures England will be seeded in the Nations League quarter-final draw and marks their first victory over Spain in regulation play since March 2024.",
+      "id": "international-sports-1",
+      "micro_summary": "England defeated Spain 3-2 in Madrid to top their Nations League group and end Spain's 43-game unbeaten run.",
+      "publishers": 7,
+      "scope": "international",
+      "score": 0.947,
+      "sources": [
+        {
+          "publisher": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50493712/england-spain-43-game-unbeaten-run"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.com/sport/football/articles/cjg46lrpllrpo"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/11/15/live-spain-vs-england-uefa-nations-league"
+        },
+        {
+          "publisher": "Sky Sports",
+          "url": "https://www.skysports.com/football/spain-vs-england/live/554117"
+        }
+      ],
+      "summary": "England beat world champions Spain 3-2 in Madrid in the Nations League after Harry Kane, Ezri Konsa and Ben White scored, with James Trafford making key saves to secure top spot in the group and end Spain's 43-game unbeaten run.",
+      "timestamp": "2026-11-15T22:39:25Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "Usman Khawaja has claimed in his autobiography that the entire 2018 Australian cricket team knew about the ball-tampering plot during the South Africa tour, sparking renewed controversy around Sandpapergate. Khawaja stated he made a promise to childhood friend David Warner six years ago to reveal the truth once he had a \"safe space,\" which he found in writing his book. His allegations have been supported by Warner and former teammate Chadd Sayers, while Cameron Bancroft and Steve Smith have not commented. Conversely, captain Pat Cummins and Mitchell Starc have denied any knowledge of sandpaper use, with Cummins calling some claims \"utter nonsense\" during a 69-minute press conference. Matt Renshaw, who scored 63 in Australia's 135-run loss to England in the second ODI, has checked on Khawaja's wellbeing. Cricket Australia remains unwilling to re-open its investigation.",
+      "id": "international-sports-2",
+      "micro_summary": "Usman Khawaja claims entire 2018 Australian team knew of ball-tampering plot in his book.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.873,
+      "sources": [
+        {
+          "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "url": "https://www.abc.net.au/news/2026-11-16/cricket-matt-renshaw-usman-khawaja-check-in-sandpaper/107388688"
+        },
+        {
+          "publisher": "Nine.com.au",
+          "url": "https://www.nine.com.au/sport/cricket/usman-khawaja-podcast-interview-sandpaper-ball-tampering-claims-david-warner-promise-punishments-20261116-p61edh.html"
+        },
+        {
+          "publisher": "Fox Sports",
+          "url": "https://www.foxsports.com.au/en-AU/news/cricket/david-warner-releases-statement-sandpapergate-usman-khawaja-book-release-news-videos/f907parmppae19z7nzfb4hywi"
+        }
+      ],
+      "summary": "Usman Khawaja claims in his autobiography that the entire 2018 Australian team knew about the ball-tampering plot in South Africa, backed by David Warner and Chadd Sayers but denied by Pat Cummins and Mitchell Starc.",
+      "timestamp": "2026-11-15T22:30:28Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "Kirk Cousins led the Minnesota Vikings to a 30-10 victory over the Green Bay Packers, ending a two-game losing streak and improving the team's record to 7-2. Cousins, acquired from the Las Vegas Raiders at the trade deadline, made his first start for Minnesota since 2023, when he tore his Achilles at Green Bay. He completed 21 of 31 passes for 207 yards with two touchdowns and one interception, including a 38-yard score to Myles Price on third-and-23 and a 20-yard touchdown to Gavin Bartholomew. The Vikings converted eight of 16 third downs. Justin Jefferson caught nine passes for 74 yards. Minnesota's defense held Green Bay to 220 yards, forced three turnovers and recorded eight sacks. Jordan Love was 17-of-27 for 220 yards with one touchdown and one interception for the Packers, who fell to 6-4.",
+      "id": "international-sports-3",
+      "micro_summary": "Kirk Cousins led Minnesota Vikings to 30-10 victory over Green Bay Packers in his first start since 2023.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.873,
+      "sources": [
+        {
+          "publisher": "NBC Sports",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-pummel-packers-30-10-in-kirk-cousins-return"
+        },
+        {
+          "publisher": "ESPN",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873060"
+        },
+        {
+          "publisher": "NBC News",
+          "url": "https://www.nbcnews.com/sports/nfl/vikings-vs-packers-kirk-cousins-trade-paid-immediate-dividends-rcna609470"
+        }
+      ],
+      "summary": "Kirk Cousins led the Vikings to a 30-10 win over the Packers, completing 21 of 31 passes for 207 yards and two touchdowns to improve Minnesota to 7-2.",
+      "timestamp": "2026-11-15T21:09:05Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "Australia defeated New Zealand 32-12 in the Rugby League World Cup final at Lang Park in Brisbane. The Kangaroos established dominance early when Liam Martin scored the fastest try in World Cup final history after just 88 seconds, following Jamayne Isaako's kick-off going out on the full. Casey McLean levelled for New Zealand early, but Australia led 24-6 at half-time. Cameron Munster, Harry Grant, Reece Walsh and Tom Dearden controlled the match, with Munster marshalling the back line and Grant using misdirection around the ruck. New Zealand completed just one set between the 15th and 35th minutes amid numerous errors including lost balls, fumbles and dropped catches. Australia secured their 10th title in the past 11 editions of the tournament.",
+      "id": "international-sports-4",
+      "micro_summary": "Australia defeated New Zealand 32-12 in the Rugby League World Cup final at Lang Park.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.873,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/sport/2026/nov/15/australia-kangaroos-new-zealand-kiwis-mens-rugby-league-world-cup-final-match-report"
+        },
+        {
+          "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "url": "https://www.abc.net.au/news/2026-11-15/rugby-league-world-cup-final-australia-new-zealand/107388030"
+        },
+        {
+          "publisher": "ESPN",
+          "url": "https://www.espn.com.au/nrl/story/_/id/50493359/rugby-league-world-cup-learned-australia-winning-formula-bostock-big-moment-new-zealand-missed-opportunity"
+        }
+      ],
+      "summary": "Australia defeated New Zealand 32-12 in the Rugby League World Cup final at Lang Park in Brisbane, with Liam Martin scoring the fastest try in final history after 88 seconds as the Kangaroos dominated.",
+      "timestamp": "2026-11-15T21:08:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "Estonia will close all border crossings with Russia from 1 December after foiling a suspected sabotage attack on Threod Systems, a drone manufacturer in Viimsi near Tallinn. Eight individuals were detained on Saturday during an attempted arson attack aimed at causing an explosion; no damage occurred after security responded. Authorities and Prime Minister Kristen Michal said Russia's GRU military intelligence ordered the attack as part of a hybrid war to weaken support for Ukraine. Foreign Minister Margus Tsahkna confirmed the closure of Narva, Koidula and Luhamaa crossings would reduce hostile activities and sanctions circumvention. This follows an August arson attempt at Milrem Robotics, the second such attack attributed to Russia. Estonia informed Finland, Latvia and Lithuania of the decision.",
+      "id": "international-tragedies-1",
+      "micro_summary": "Estonia will close all Russian border crossings from 1 December after eight detained in GRU ordered drone attack.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.853,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker"
+        },
+        {
+          "publisher": "Sky News",
+          "url": "https://news.sky.com/story/ukraine-war-latest-russia-estonia-border-sabotage-12541713"
+        },
+        {
+          "publisher": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/world-news/2026/11/15/estonia-shuts-russian-border-foiling-attack-drone-factory/"
+        }
+      ],
+      "summary": "Estonia will close all three border crossings with Russia from 1 December following a foiled arson attack on drone manufacturer Threod Systems, which authorities say was ordered by Russia's GRU; eight people were detained and no damage occurred.",
+      "timestamp": "2026-11-15T18:23:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "Two men were executed by lethal injection on Thursday in Texas and Oklahoma, bringing the year's total to 37 executions. John Allen Rubio, 46, was pronounced dead at 6:47 p.m. at the state prison in Huntsville, Texas, for beheading three young children in 2003 in Brownsville. James Pavatt, 73, was executed at the Oklahoma state penitentiary in McAlester for the 2001 fatal shooting of his girlfriend's estranged husband. These were the 36th and 37th executions this year, with the U.S. on track to surpass 40 for a second consecutive year, a pace largely driven by Florida. The executions have drawn renewed attention to the death penalty, particularly after California Governor Gavin Newsom announced he would commute hundreds of death sentences before leaving office, which experts say would be the largest mass clemency in American history.",
+      "id": "international-tragedies-4",
+      "micro_summary": "Two men were executed in Texas and Oklahoma, bringing the year's total to 37.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.777,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/15/texas-execution-john-allen-rubio-oklahoma-james-pavatt"
+        },
+        {
+          "publisher": "The Independent",
+          "url": "https://www.independent.co.uk/news/world/americas/crime/executions-texas-oklahoma-rubio-pavatt-b3083677.html"
+        },
+        {
+          "publisher": "MyRGV.com",
+          "url": "https://myrgv.com/local-news/2026/11/11/john-allen-rubio-scheduled-for-thursday-execution/"
+        }
+      ],
+      "summary": "John Allen Rubio, 46, and James Pavatt, 73, were executed Thursday in Texas and Oklahoma, bringing the year's total to 37.",
+      "timestamp": "2026-11-15T19:27:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "science",
+      "extended_summary": "India will host the third National Conference on Cyber Security, Digital Forensics & Intelligence (NCCDFI 2026) on November 16 and 17 at the Dr Ambedkar International Centre in New Delhi. Organised by the National Institute of Electronics and Information Technology under the Ministry of Electronics and Information Technology, the event brings together government agencies, law enforcement, defence institutions, researchers and technology companies. Knowledge partners include the Indian Cyber Crime Coordination Centre, CERT-In, Delhi Police, Maharashtra Cyber, the Telangana Cyber Security Bureau, the Military College of Telecommunication Engineering, CyberPeace and the Ministry of Skill Development. The conference addresses financial fraud, AI-enabled cyberattacks and digital criminal networks. Discussions cover digital evidence, AI security, critical infrastructure protection, threat intelligence, cryptocurrency investigations, cloud security and drone examination to strengthen investigative capabilities and cross-border cooperation.",
+      "id": "national-science-1",
+      "micro_summary": "India hosts the third National Conference on Cyber Security, Digital Forensics & Intelligence in New Delhi on November 16-17.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.576,
+      "sources": [
+        {
+          "publisher": "The 420.in",
+          "url": "https://the420.in/nielit-to-host-national-cybersecurity-conference-in-delhi-from-november-16/"
+        },
+        {
+          "publisher": "www.pib.gov.in",
+          "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2336431"
+        }
+      ],
+      "summary": "India hosts the third National Conference on Cyber Security, Digital Forensics & Intelligence (NCCDFI 2026) at Dr Ambedkar International Centre in New Delhi on November 16-17, bringing together agencies to address cyber threats and strengthen investigative capabilities.",
+      "timestamp": "2026-11-15T17:59:16Z"
+    }
+  ]
+}
