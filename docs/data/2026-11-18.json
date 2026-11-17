@@ -1,0 +1,731 @@
+{
+  "date": "2026-11-18",
+  "events": [
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "business",
+      "extended_summary": "Fedil, the federation representing more than 750 companies in Luxembourg's manufacturing, services and construction sectors, issued a position paper on 17 November warning that the overall cost of a trade war with China could far outweigh the benefits of measures taken in isolation. The federation condemned Chinese public subsidies, dumping practices, industrial overcapacity and restrictions on market access that pressure European companies. It also highlighted insufficient monitoring of imported products' compliance with European requirements and Chinese export restrictions on raw materials and technologies that disrupt supply chains. While calling for a firmer EU response using existing anti-dumping and anti-subsidy instruments, Fedil urged that consequences for businesses using Chinese raw materials be carefully assessed, noting that protecting one manufacturer may increase costs for another. The federation ruled out an economic break with Beijing, advocating instead for a more balanced relationship that enables European industry to remain competitive, invest and grow.",
+      "id": "international-business-1",
+      "micro_summary": "Fedil warns that a trade war with China could cost more than the benefits of isolated measures.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.772,
+      "sources": [
+        {
+          "publisher": "Financial Times",
+          "url": "https://www.ft.com/content/4ffc5524-b4bc-49d7-9808-844e54579d12?syn-25a6b1a6=1"
+        },
+        {
+          "publisher": "DGAP – German Council on Foreign Relations",
+          "url": "https://dgap.org/en/research/publications/putting-price-economic-coercion"
+        },
+        {
+          "publisher": "Paperjam.lu",
+          "url": "https://en.paperjam.lu/article/fedil-wants-to-stand-up-to-china-without-burning-its-bridges"
+        }
+      ],
+      "summary": "Fedil, representing over 750 Luxembourg companies, warned on 17 November that a trade war with China could outweigh benefits of isolated measures, calling for targeted EU anti-dumping actions while protecting supply chains and investment.",
+      "timestamp": "2026-11-17T05:00:46Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "business",
+      "extended_summary": "The process of granting Ukraine a license to manufacture missiles for the US-made Patriot air defense system remains stalled at the Pentagon, despite reported approval by senior US officials, Radio Svoboda reported on 14 November, citing two sources in Washington. The delay has consequences for Ukraine's ability to defend its cities and critical infrastructure against Russian ballistic missile attacks. With Patriot systems among the few capable of intercepting these weapons, access to a reliable supply of interceptors can mean the difference between stopping an incoming missile and allowing it to hit its target, potentially killing civilians and destroying essential infrastructure. According to Radio Svoboda correspondent Alex Raufoglu, US Secretary of State Marco Rubio and Defense Secretary Pete Hegseth reportedly agreed to the licensing arrangement in October. However, the paperwork required to issue the license has still not been completed. The process is reportedly stalled at the level of Michael Duffey,",
+      "id": "international-business-2",
+      "micro_summary": "Zelenskyy urges allies to send air defence deliveries without delay as Russia intensifies attacks.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.741,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates"
+        },
+        {
+          "publisher": "Euromaidan Press",
+          "url": "https://euromaidanpress.com/2026/11/15/pentagon-stalls-ukraines-license-to-produce-patriot-air-defense-missiles/"
+        },
+        {
+          "publisher": "Українські Національні Новини (УНН)",
+          "url": "https://unn.ua/en/news/ukraine-proposes-that-partners-exchange-interceptor-stocks-for-future-deliveries"
+        }
+      ],
+      "summary": "Zelenskyy urges allies to send air defence deliveries without delay as Russia intensifies attacks.",
+      "timestamp": "2026-11-17T08:37:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "Police in the Philippines have filed three charges against Thomas Markle Sr, the 82-year-old estranged father of the Duchess of Sussex: two counts of offering, distributing, selling or exporting child sexual abuse material and one count of possessing such material. Prosecutors in Cebu are evaluating the charges before issuing a summons. Markle is currently in US custody in Florida awaiting a federal hearing after FBI arrest on November 6, when agents seized approximately 78 items from two Los Angeles storage lockers. The Philippine National Police are investigating thousands of photographs and electronic devices provided by Markle's son, with officials stating 7,500 photographs and one video were recovered. Additional charges could follow. Markle has denied the child abuse allegations as 'sick lies,' though he admitted paying for sex in the Philippines.",
+      "id": "international-politics-1",
+      "micro_summary": "Thomas Markle Sr faces three child abuse material charges in the Philippines while held in US custody.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.862,
+      "sources": [
+        {
+          "publisher": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/news/2026/11/17/thomas-markle-charged-phillipines/"
+        },
+        {
+          "publisher": "ITVX",
+          "url": "https://www.itv.com/news/2026-11-17/thomas-markle-charged-with-child-abuse-offences-in-the-philippines"
+        },
+        {
+          "publisher": "Sky News",
+          "url": "https://news.sky.com/story/police-in-philippines-pursue-three-charges-against-thomas-markle-sr-over-child-sex-abuse-images-13613346"
+        }
+      ],
+      "summary": "Police in the Philippines have filed three child sexual abuse material charges against Thomas Markle Sr, the estranged father of the Duchess of Sussex, who remains in US custody facing similar federal charges.",
+      "timestamp": "2026-11-17T16:03:00Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "Iran and the US are vying for control of the Strait of Hormuz Iran launched a drone attack against a US military base in Bahrain on Sunday, its second attempt to target the country in three days. The country's Islamic Revolutionary Guard Corps (IRGC) said it targeted the US air defence radar facility at al-Riffa air base in Bahrain using six drones. Bahrain's military said its air defence systems intercepted and destroyed the Iranian air attacks \"before they could achieve their objectives\". It comes after Iran fired drones at Bahrain on Friday, its first attack against Gulf countries since September. The US and Iran are locked in a stand-off over the Strait of Hormuz. About a fifth of the world's gas and oil supply usually flows through it but shipping has been restricted since the outbreak of war in February. Iran insists that it should control the strait and has",
+      "id": "international-politics-2",
+      "micro_summary": "Bahrain thwarts drone attack; Iran claims targeting US radar.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.848,
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar"
+        },
+        {
+          "publisher": "Financial Times",
+          "url": "https://www.ft.com/content/e79991c9-3f45-461a-9e3a-9c9f15ec029a?syn-25a6b1a6=1"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo"
+        }
+      ],
+      "summary": "Bahrain thwarts drone attack; Iran claims targeting US radar. It comes after Iran fired drones at Bahrain on Friday, its first attack against Gulf countries since September.",
+      "timestamp": "2026-11-17T13:41:32Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "Moldova closed its entire airspace at 4:27 p.m. on November 17 for security reasons after an unauthorized Russian Geran-2 attack drone entered the country twice from Ukraine. The first incursion occurred at 15:49 from the Grebenichi area of Odesa region toward Tiraspol, exiting toward Slavianoserbka, while the second entry at 16:02 came from Velikoploske toward Mălăiești in Grigoriopol district. The army was placed on high alert, and several commercial flights were rerouted to Romania. Residents in at least three neighborhoods witnessed the drone, and one resident claimed a drone fell near Pohorniceni village without exploding. This incident follows a pattern of Russian aerial incursions, including four drones entering on October 16, a drone falling near homes on October 23, and five drones and missiles exploding on Moldovan territory on October 3.",
+      "id": "international-politics-3",
+      "micro_summary": "Moldova closed its airspace after a Russian Geran-2 drone entered twice on November 17.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.841,
+      "sources": [
+        {
+          "publisher": "Metro.co.uk",
+          "url": "https://metro.co.uk/2026/11/17/moldova-shuts-entire-airspace-attack-drone-flies-across-capital-29798978/"
+        },
+        {
+          "publisher": "The Kyiv Independent",
+          "url": "https://kyivindependent.com/moldovan-police-find-drone-fragments-in-vineyard-near-ukrainian-border/"
+        },
+        {
+          "publisher": "Radio Moldova",
+          "url": "https://radiomoldova.md/p/89862/three-small-aircraft-land-safely-in-chisinau-after-gps-issues"
+        }
+      ],
+      "summary": "Moldova restricted its entire airspace at 4:27 p.m. on November 17 after a Russian Geran-2 drone entered twice without authorization from Ukraine, prompting flight reroutes and military alert.",
+      "timestamp": "2026-11-17T15:32:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "Donald Trump arrived in Manila to begin his Asia trip, receiving a formal welcome before meeting with leaders of the Quad alliance comprising the United States, Australia, Japan and India. The group issued a joint statement describing itself as a force for good committed to regional stability. Trump announced a trade deal with Thailand, though it remains unfinalized. He is scheduled to travel to Shenzhen, China, for the APEC summit where he expects to meet Chinese President Xi Jinping and potentially Russian President Vladimir Putin. Concurrently, China has threatened to retaliate against new US Commerce Department rules limiting remote access to advanced AI chips by companies in Singapore, Thailand, Malaysia, Indonesia and Brazil, measures Beijing characterized as economic coercion that interfere with normal trade and technological cooperation.",
+      "id": "international-politics-4",
+      "micro_summary": "Trump arrives in Manila for Asia trip as China threatens retaliation over US AI chip restrictions.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.836,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/live/2026/nov/17/asean-apec-summit-2026-live-updates-trump-xi-putin-meeting-schedule-latest-news?page=with:block-6afc17778f08d5d6e898f673"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/live/cw99e0n0lpnnt"
+        },
+        {
+          "publisher": "Financial Times",
+          "url": "https://www.ft.com/content/6a0efb61-a756-4794-90db-3d591f42f17f?syn-25a6b1a6=1"
+        }
+      ],
+      "summary": "Donald Trump arrived in Manila for his Asia trip, meeting Quad leaders before heading to China for the APEC summit, while Beijing threatened retaliation against new US restrictions on remote access to AI chips.",
+      "timestamp": "2026-11-17T13:55:00Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "science",
+      "extended_summary": "The highly classified network that the National Security Agency uses for its internal communications is down, according to six people familiar with the matter. The network, called NSANet, allows employees to communicate classified information internally. At this point there is no evidence of a cyberattack, sources said. As the agency works to understand the scope of the problem, it has enacted staggered arrivals for personnel, the sources said. CNN has asked the National Security Agency for comment. “We see no evidence that this was a cyberattack,” White House spokesperson Lauren Bis said Tuesday on Newsmax. “There is no crisis, or anything like that, for Americans to be worried about.” A current and a former US official said an outage at NSANet would not impact the agency’s ability to communicate urgent intelligence to President Donald Trump while he is traveling in Asia on Air Force One. Both sources described multiple redundancies",
+      "id": "international-science-1",
+      "micro_summary": "It's getting tough to believe all these internet outages are a coincidence.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.857,
+      "sources": [
+        {
+          "publisher": "investingLive",
+          "url": "https://investinglive.com/news/it-s-getting-tough-to-believe-all-these-internet-outages-are-a-coincidence/"
+        },
+        {
+          "publisher": "CNN",
+          "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down"
+        },
+        {
+          "publisher": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/us/news/2026/11/17/national-security-agency-comms-down-amid-global-cyberattack/"
+        }
+      ],
+      "summary": "It's getting tough to believe all these internet outages are a coincidence. CNN reports that the American National Security Agency's classified internal comms network—NSANet -- is down.",
+      "timestamp": "2026-11-17T15:49:38Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "science",
+      "extended_summary": "Even strict authentication mode has a hole, we're told, while basic exploit defenses are missing from the firmware A Dutch cybersecurity researcher claims he found six zero-days in Danfoss refrigeration controller firmware in under an hour, then delivered a withering assessment of the vendor's defenses against memory corruption. The Centre for Cybersecurity Belgium (CCB) warns that the flaws could let attackers take control without credentials, potentially retain access after resets, or disable controllers altogether. Carlo Meijer of cyber consultancy Midnight Blue examined the latest AK-SM800A firmware, version 5.3.2, manually – no AI required. He said that he went looking in random places where strcpy() is invoked, given the vendor's \"extremely liberal use\" of the function (which doesn't check whether the destination buffer is large enough), and swiftly found five cases in which he said he could trigger a segfault with a one-line cURL command. \"Of course, remotely triggering a crash",
+      "id": "international-science-2",
+      "micro_summary": "'Not rocket surgery' claims researcher who found six Danfoss fridge controller zero-days in under an hour.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.73,
+      "sources": [
+        {
+          "publisher": "The Register",
+          "url": "https://www.theregister.com/security/2026/11/17/not-rocket-surgery-claims-researcher-who-found-six-danfoss-fridge-controller-zero-days-in-under-an-hour/5310197"
+        },
+        {
+          "publisher": "Le Monde.fr",
+          "url": "https://www.lemonde.fr/en/international/article/2026/11/16/inside-france-s-denunciation-of-iran-over-supermarket-freezer-hacks_6782272_4.html"
+        },
+        {
+          "publisher": "The Times of Israel",
+          "url": "https://www.timesofisrael.com/france-says-it-expects-eu-to-issue-sanctions-on-iran-in-december-over-fridge-hack/"
+        }
+      ],
+      "summary": "'Not rocket surgery' claims researcher who found six Danfoss fridge controller zero-days in under an hour.",
+      "timestamp": "2026-11-17T13:32:00Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "science",
+      "extended_summary": "A boy called Ismail Idris begins his day before school. In Gwoza, Borno State, the fourteen-year-old works on farms, earning a little money to help support his grandmother and younger sisters. He is partially blind, a lasting consequence of measles, and had been out of school after his father died. When he sought a place in a catch-up literacy class at Guduf B Primary School, registration had closed. His teacher, Muhammed Ngwave, offered him a test: attend every class for one week and he would be enrolled. Ismail did. Today, he is learning again. UNICEF told his story on 30 June 2026. Why must a child display exceptional resolve to obtain an ordinary public service? Nigeria carries one of the world’s largest education deficits. UNICEF says one in every five out-of-school children globally lives here. Its country profile cites about 10.5 million children aged five to fourteen outside school. A",
+      "id": "international-science-4",
+      "micro_summary": "BBC launches educational show in Hausa for millions out of school in West Africa.",
+      "publishers": 4,
+      "scope": "international",
+      "score": 0.595,
+      "sources": [
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c3pw450ndyjqo"
+        },
+        {
+          "publisher": "LEADERSHIP Newspapers",
+          "url": "https://leadership.ng/nigerias-missing-classrooms-mirror-our-future/"
+        }
+      ],
+      "summary": "BBC launches educational show in Hausa for millions out of school in West Africa. A boy called Ismail Idris begins his day before school.",
+      "timestamp": "2026-11-17T00:08:19Z"
+    },
+    {
+      "ai": true,
+      "articles": 10,
+      "category": "sports",
+      "extended_summary": "Bryson DeChambeau has agreed to join the DP World Tour for the 2027 season, submitting his application before Sunday's deadline. The 33-year-old American two-time US Open champion, who joined the Saudi-funded LIV Golf series in June 2022 and remained committed even after its financial backing was withdrawn, has been granted category one membership, guaranteeing him entry to every event across the season. DeChambeau has confirmed he will compete in the Nedbank Golf Challenge in South Africa in December. Other former LIV players including Dustin Johnson, Cameron Smith, Bubba Watson, Ian Poulter, Lee Westwood, Paul Casey and Graeme McDowell are also eligible to play on the tour in 2027, while Jon Rahm and Tyrrell Hatton have confirmed full-time returns. DP World Tour chief executive Guy Kinnings stated there has been significant change in men's professional golf over the past 12 months.",
+      "id": "international-sports-1",
+      "micro_summary": "Two-time US Open champion Bryson DeChambeau joins DP World Tour for 2027 season.",
+      "publishers": 8,
+      "scope": "international",
+      "score": 0.967,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/sport/2026/nov/17/bryson-dechambeau-joins-dp-world-tour-2027-season-liv-golf"
+        },
+        {
+          "publisher": "ESPN",
+          "url": "https://www.espn.com/golf/story/_/id/50510068/bryson-dechambeau-join-european-tour-2027-liv-demise"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.com/sport/golf/articles/c5vg27yzm9exo"
+        },
+        {
+          "publisher": "Fox Sports",
+          "url": "https://www.foxsports.com.au/en-AU/news/golf/bryson-dechambeau-joins-dp-world-tour-liv-golf-news-videos-highlights/x86r8u9i0hgs1y0skbq5z1662"
+        },
+        {
+          "publisher": "The Canberra Times",
+          "url": "https://www.canberratimes.com.au/story/9393549/smith-joins-dechambeau-in-signing-up-for-european-tour/"
+        }
+      ],
+      "summary": "Bryson DeChambeau has joined the DP World Tour for the 2027 season, securing category one membership guaranteeing entry to all events after LIV Golf's collapse. The two-time US Open champion submitted his application before Sunday's deadline.",
+      "timestamp": "2026-11-17T17:07:00Z"
+    },
+    {
+      "ai": false,
+      "articles": 10,
+      "category": "sports",
+      "extended_summary": "Erasmus made the comments at a news conference in Dublin on Monday South Africa head coach Rassie Erasmus has been banned for six matches by World Rugby over comments he made about match officials in his side's Nations Championship defeat by France last week. Speaking at a news conference conference in Dublin on Monday before the Springboks' match with Ireland, Erasmus questioned what he perceived as double standards in officiating to the point where he asked: \"is that not match-fixing?\". The two-time Rugby World Cup-winning coach was referencing the implementation of new rules surrounding hip-drop and knee-drop tackles, and felt the laws were not being applied correctly. It comes after Ireland fly-half Sam Prendergast became the first player to be cited for a hip-drop tackle in Ireland's win over Fiji on Saturday, which was not penalised in-play by referee Angus Gardner and television match official [TMO] Mike Adamson. World Rugby",
+      "id": "international-sports-2",
+      "micro_summary": "Rassie Erasmus has been suspended for six international matches following his comments about officiating.",
+      "publishers": 7,
+      "scope": "international",
+      "score": 0.954,
+      "sources": [
+        {
+          "publisher": "Sky Sports",
+          "url": "https://www.skysports.com/rugby-union/news/13613321/rassie-erasmus-south-africa-coach-suspended-for-six-international-matches-after-comments-about-officiating-double-standards"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.com/sport/rugby-union/articles/cj752w5q7z90o"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/sport/2026/nov/17/rugby-union-rassie-erasmus-south-africa-france-referee-blaming"
+        },
+        {
+          "publisher": "World Rugby",
+          "url": "https://www.world.rugby/news/1049488/disciplinary-update-rassie-erasmus-south-africa"
+        },
+        {
+          "publisher": "Daily Maverick",
+          "url": "https://www.dailymaverick.co.za/article/2026-11-17-world-rugby-bans-rassie-for-six-internationals-after-match-fixing-comments/?dm_source=blocks-grid-wide&dm_medium=card-link&dm_campaign=inform&dm_position=1"
+        }
+      ],
+      "summary": "Rassie Erasmus has been suspended for six international matches following his comments about officiating. South Africa men’s 15s head coach Rassie Erasmus has been suspended for six international matches with immediate effect.",
+      "timestamp": "2026-11-17T17:36:56Z"
+    },
+    {
+      "ai": true,
+      "articles": 10,
+      "category": "sports",
+      "extended_summary": "Tiger Woods will return to competitive golf at the Hero World Challenge in Albany, Bahamas, from December 3-6. The 50-year-old 15-time major champion has not played since missing the cut at the 2024 Open Championship. He missed the entire 2025 season after rupturing his Achilles tendon and underwent back surgery last October, then missed the 2026 campaign after stepping away following a March 27 car crash in Jupiter, Florida, that led to a DUI arrest. Woods reached a plea deal in early September that reduced his DUI charge to reckless driving and resulted in a five-year driver's license suspension; he subsequently spent several weeks at a rehabilitation facility in Switzerland. Woods joins Gary Woodland and Rickie Fowler as sponsor's exemptions in the 20-man field.",
+      "id": "international-sports-3",
+      "micro_summary": "Tiger Woods will return at the Hero World Challenge in Albany, Bahamas, December 3-6.",
+      "publishers": 7,
+      "scope": "international",
+      "score": 0.936,
+      "sources": [
+        {
+          "publisher": "ESPN",
+          "url": "https://www.espn.com/golf/story/_/id/50511075/tiger-woods-return-next-month-hero-world-challenge"
+        },
+        {
+          "publisher": "The New York Times",
+          "url": "https://www.nytimes.com/athletic/7788310/2026/11/17/tiger-woods-return-golf-hero-world-challenge/"
+        },
+        {
+          "publisher": "NBC News",
+          "url": "https://www.nbcnews.com/sports/golf/tiger-woods-return-pga-tour-hero-world-challenge-rcna609815"
+        },
+        {
+          "publisher": "Golf Digest",
+          "url": "https://www.golfdigest.com/story/tiger-woods-return-2026-hero-world-challenge"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.com/sport/golf/articles/cm93080ep703o"
+        },
+        {
+          "publisher": "Sky Sports",
+          "url": "https://www.skysports.com/golf/news/13613268/tiger-woods-15-time-major-champion-to-make-pga-tour-comeback-at-decembers-hero-world-challenge-in-bahamas"
+        }
+      ],
+      "summary": "Tiger Woods will compete in the Hero World Challenge in Albany, Bahamas, from December 3-6, his first tournament since the 2024 Open Championship, joining Gary Woodland and Rickie Fowler as sponsor's exemptions in the 20-man field.",
+      "timestamp": "2026-11-17T15:54:36Z"
+    },
+    {
+      "ai": true,
+      "articles": 10,
+      "category": "sports",
+      "extended_summary": "So You Are, a five-year-old gelding that finished eighth in the Melbourne Cup 13 days earlier, died on Monday from severe colic and was humanely euthanised under anaesthesia at REC Equine Specialists. Video released by a Sydney resident showed the horse's body in a skip bin at Lucas Heights. The hospital apologised unreservedly, stating that after death the horse was collected by a contracted service provider and taken to a licensed landfill instead of being promptly and respectfully buried. Trainer Bjorn Baker expressed deep distress over the handling of the remains and demanded a full explanation. Interim Racing NSW boss Graeme Hinton is working to create new industry standards to ensure animals are provided with dignity and respect after death.",
+      "id": "international-sports-4",
+      "micro_summary": "So You Are, eighth in the Melbourne Cup, was found in a Sydney skip bin after dying from colic.",
+      "publishers": 8,
+      "scope": "international",
+      "score": 0.933,
+      "sources": [
+        {
+          "publisher": "Racing Post",
+          "url": "https://www.racingpost.com/news/international/distressing-and-completely-unacceptable-remains-of-melbourne-cup-runner-so-you-are-found-dumped-in-sydney-waste-skip-aWw954g2KSpU/"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ck1ewl2zjqgzo"
+        },
+        {
+          "publisher": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/racing/2026/11/17/melbourne-cup-horse-so-you-are-dead-skip-bin-colic/"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/17/disgusted-by-it-body-of-melbourne-cup-horse-found-dumped-in-sydney-skip-bin-ntwnfb"
+        },
+        {
+          "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "url": "https://www.abc.net.au/news/2026-11-17/dead-melbourne-cup-runner-so-you-are-found-in-sydney-skip-bin/107395274"
+        },
+        {
+          "publisher": "SMH.com.au",
+          "url": "https://www.smh.com.au/sport/racing/melbourne-cup-runner-suspected-to-be-horse-found-in-sydney-skip-bin-20261117-p61ex8.html"
+        }
+      ],
+      "summary": "So You Are, eighth in the Melbourne Cup, was found in a Sydney skip bin after being euthanised for severe colic. The hospital apologised after a contractor took the remains to a landfill.",
+      "timestamp": "2026-11-17T15:17:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "All 17 people on board a military Antonov An-12 transport aircraft died when it crashed near the village of Yagunovo in Russia's Kemerovo region in southwestern Siberia on Tuesday at around 9:30pm local time. The Soviet-era plane was en route from Novosibirsk to Kansk in Krasnoyarsk Krai, a distance of approximately 505 miles, when it nosedived into a field and became engulfed in a giant fireball. Footage showed the aircraft on fire as it plummeted downward before exploding, with witnesses describing it falling 'like a stone.' Emergency services extinguished the blaze and deployed to the crash site, where regional Governor Ilya Seredyuk confirmed he had arrived to oversee assistance efforts. The cause of the crash remains under investigation. The incident occurred roughly 2,100 miles from the battlefields of Ukraine.",
+      "id": "international-tragedies-1",
+      "micro_summary": "All 17 people aboard a military transport plane died when it crashed near Yagunovo in Russia's Kemerovo region.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.844,
+      "sources": [
+        {
+          "publisher": "The Sun",
+          "url": "https://www.thesun.co.uk/news/41051264/russia-plane-crash-military-field/"
+        },
+        {
+          "publisher": "The Independent",
+          "url": "https://www.independent.co.uk/news/world/europe/russia-plane-crash-siberia-kemerovo-b3086529.html"
+        },
+        {
+          "publisher": "UA.NEWS",
+          "url": "https://ua.news/en/war-vs-rf/lukashenko-visloviv-putinu-spivchuttia-cherez-aviakatastrofu-v-rosiyi"
+        }
+      ],
+      "summary": "All 17 people on board a military An-12 transport aircraft died when it crashed near Yagunovo village in Russia's Kemerovo region on Tuesday evening. The plane, en route from Novosibirsk to Kansk, nosedived into a field engulfed in flames.",
+      "timestamp": "2026-11-17T15:27:00Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "The trains struck each other at low speeds on a bridge just outside the city's primary rail station Two trains have crashed outside Prague's main rail station, leaving dozens injured in the Czech capital. The passenger trains collided head-on during rush hour at about 07:00 local time (06:00 GMT) on a bridge close to the station. Forty-six people sustained injuries, with both train drivers among those said to be seriously injured, but fatalities were avoided as the trains were travelling at low speeds. Transport minister Ivan Bednárik told local media: \"I won't speculate on whether it was a technical fault or a human factor but so far it looks like a train ran a red light.\" He continued: \"Our goal is to thoroughly evaluate today's event and take any measures that will contribute to further increasing the safety of railway transport.\" It took around two hours for emergency services to",
+      "id": "international-tragedies-2",
+      "micro_summary": "Prague train crash leaves 46 people injured.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.82,
+      "sources": [
+        {
+          "publisher": "Sky News",
+          "url": "https://news.sky.com/story/prague-train-crash-leaves-46-people-injured-13613217"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6reg7r589nro"
+        },
+        {
+          "publisher": "Expats.cz",
+          "url": "https://www.expats.cz/czech-news/article/dozens-injured-as-two-trains-collide-near-prague-s-main-railway-station"
+        }
+      ],
+      "summary": "Prague train crash leaves 46 people injured.",
+      "timestamp": "2026-11-17T14:26:09Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "Ukrainian forces collapsed a key section of the Crimean Bridge spanning the Kerch Strait on November 17, bringing down the massive 227-meter road arch into the sea. The attack culminated a seven-stage operation conducted over several weeks by Ukraine's Security Service and General Staff, which gradually destroyed air defence systems, radars, and electronic warfare assets. A significant drone strike on November 16 had damaged the arch but left it standing; final strikes in the early hours of November 17 dealt the fatal blow. Verified footage showed a Ukrainian-made Flamingo missile approaching the main span before impact. President Volodymyr Zelensky confirmed that several types of missiles and drones were employed. The bridge, a prestige project for Russia and a symbol of occupation for Ukraine, now demonstrates Kyiv's ability to strike protected structures deep within defended territory. Kremlin spokesman Dmitry Peskov stated the bridge will be rebuilt.",
+      "id": "international-tragedies-3",
+      "micro_summary": "Ukrainian missiles collapsed the Crimean Bridge's road arch into the Kerch Strait on November 17 after a seven-stage operation.",
+      "publishers": 4,
+      "scope": "international",
+      "score": 0.815,
+      "sources": [
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo"
+        },
+        {
+          "publisher": "Sky News",
+          "url": "https://news.sky.com/story/ukraine-war-latest-russia-oil-production-zelenskyy-12541713"
+        },
+        {
+          "publisher": "Institute for the Study of War",
+          "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-november-16-2026/"
+        }
+      ],
+      "summary": "Ukrainian forces destroyed a key section of the Crimean Bridge on November 17, collapsing the 227-meter road arch into the Kerch Strait after a weeks-long seven-stage operation using missiles and drones, including a Flamingo missile.",
+      "timestamp": "2026-11-17T15:38:10Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’ Five EU member states have announced plans to set up an offshore centre in Rwanda for people with no legal right to stay in Europe, in a pilot scheme that is expected to face legal challenges and has been denounced as “a grave moral failing”. The five countries – Germany, Austria, the Netherlands, Denmark and Greece – are the first to seek to use the EU’s newly agreed returns law that allows people who have exhausted all avenues of appeal against their removal from Europe to be sent to a third country. In a statement released on Monday the five EU countries said “concrete negotiations with partner country Rwanda will begin for implementation”, saying the scheme would make “an important contribution to further curbing illegal migration, dismantling the business model of smugglers and",
+      "id": "international-tragedies-4",
+      "micro_summary": "Germany news: Plans for Rwanda migrant hub come under fire.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.815,
+      "sources": [
+        {
+          "publisher": "DW.com",
+          "url": "https://www.dw.com/en/germany-news-plans-for-rwanda-migrant-hub-come-under-fire/live-79965639"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cw987343352go"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda"
+        }
+      ],
+      "summary": "Germany news: Plans for Rwanda migrant hub come under fire. Five EU countries will open a migrant deportation centre in Rwanda next year as part of a broader push to boost removals.",
+      "timestamp": "2026-11-17T13:13:48Z"
+    },
+    {
+      "ai": true,
+      "articles": 14,
+      "category": "entertainment",
+      "extended_summary": "India's music industry generated Rs 17,401 crore in gross economic value in 2025, marking a 45% increase from Rs 12,047 crore in 2023. Digital platforms drove 52% of this value, followed by broadcasting at 21%, concerts and events at 16%, and filmed entertainment at 11%. The core music segment comprising label and publisher revenues grew 7% to Rs 5,433 crore. Music consumption reached nearly six trillion streams in 2025, with 233 million streamers but only 14.4 million paying subscribers, though paid subscriptions grew 37% from seven million in 2023. Independent music accounted for 43% of digital consumption. Publishing and performance revenues rose to Rs 1,125 crore from Rs 628 crore in 2023. The organised workforce expanded 50% to 60,000-70,000 people, while annual original song releases reached 22,000 to 27,000.",
+      "id": "national-entertainment-1",
+      "micro_summary": "India's music economy grew 45% to Rs 17,401 crore in 2025 amid surging digital streams and independent music.",
+      "publishers": 14,
+      "scope": "national",
+      "score": 0.898,
+      "sources": [
+        {
+          "publisher": "EY",
+          "url": "https://www.ey.com/en_in/insights/media-entertainment/it-is-a-good-time-to-be-in-music-indias-music-creator-economy"
+        },
+        {
+          "publisher": "Fortune India",
+          "url": "https://www.fortuneindia.com/business-news/indias-music-economy-hits-17400-crore-but-creators-struggle-to-find-their-rhythm/170804"
+        },
+        {
+          "publisher": "Variety",
+          "url": "https://variety.com/2026/music/news/india-music-economy-indie-share-climbs-ey-1236950066/"
+        },
+        {
+          "publisher": "MediaNews4U",
+          "url": "https://www.medianews4u.com/indias-music-economy-generates-inr-17400-crore-in-gross-economic-value-in-2025-up-45-from-2023-ey-report/"
+        },
+        {
+          "publisher": "ET BrandEquity",
+          "url": "https://brandequity.economictimes.indiatimes.com/news/media/indias-music-economy-touches-rs-17400-crore-in-2025-digital-platforms-drive-52-of-value-ey/135914641"
+        },
+        {
+          "publisher": "CNBC TV18",
+          "url": "https://www.cnbctv18.com/entertainment/indias-music-industry-booms-but-only-55-pc-creators-work-full-time-key-findings-ey-report-20035994.htm/amp"
+        }
+      ],
+      "summary": "India's music industry generated Rs 17,401 crore in gross economic value in 2025, up 45% from 2023, with digital platforms accounting for 52% of the total and paid subscribers reaching 14.4 million.",
+      "timestamp": "2026-11-17T16:27:34Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "politics",
+      "extended_summary": "India and the 11-member Association of Southeast Asian Nations emphasized peace, stability and regional cooperation in energy, renewable resources and the green economy at the 23rd ASEAN-India Summit in Manila. Prime Minister Narendra Modi stated that India and ASEAN together represent nearly one-fourth of the world's population and stressed that the world needs peace, stability and predictability. He said both sides must ensure their future is shaped by cooperation rather than competition, and affirmed India's unwavering commitment to ASEAN unity and centrality. The meeting aims to take their Comprehensive Strategic Partnership to new heights and build a secure, inclusive and prosperous Indo-Pacific. Philippine President Ferdinand Marcos Jr. called for closer cooperation on maritime security, environmental protection, the blue economy, renewable energy, the ASEAN power grid, cybersecurity, sustainable infrastructure and the green economy, while welcoming the ongoing review of the ASEAN Trade in Goods Agreement.",
+      "id": "national-politics-1",
+      "micro_summary": "India and ASEAN emphasized peace and cooperation at the 23rd summit in Manila, representing one-fourth of world population.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.597,
+      "sources": [
+        {
+          "publisher": "News On AIR",
+          "url": "https://newsonair.gov.in/pm-modi-to-attend-23rd-asean-india-summit-and-21st-east-asia-summit-in-manila-today/"
+        },
+        {
+          "publisher": "Anadolu Ajansı",
+          "url": "https://aa.com.tr/en/asia-pacific/india-asean-stress-peace-call-for-greater-cooperation-in-energy-green-economy/4127602"
+        }
+      ],
+      "summary": "India and ASEAN stressed peace, stability and cooperation in energy and green economy at the 23rd summit in Manila, with leaders representing nearly one-fourth of the world's population pledging to shape the future through cooperation.",
+      "timestamp": "2026-11-17T12:11:34Z"
+    },
+    {
+      "ai": true,
+      "articles": 3,
+      "category": "politics",
+      "extended_summary": "Prime Minister Narendra Modi met with Prime Minister Anutin Charnvirakul of Thailand in Manila on 17 November 2026 on the sidelines of the 23rd India-ASEAN Summit and 21st East Asia Summit. The meeting reviewed progress in bilateral ties elevated to Strategic Partnership during Modi's April 2025 visit to Thailand. The leaders discussed deepening cooperation across trade and investment, defence and security, connectivity, digital technologies and fintech, culture, tourism and people-to-people ties. They emphasized collaboration in regional forums including BIMSTEC, IORA, Mekong Ganga Cooperation and ASEAN-led architecture. Both exchanged views on regional and global issues of mutual importance and reaffirmed commitment to strengthening their partnership. The relationship is rooted in shared civilizational heritage and mutual trust, with Thailand serving as an important partner in India's Act East Policy and Comprehensive Strategic Partnership with ASEAN.",
+      "id": "national-politics-2",
+      "micro_summary": "Prime Minister Narendra Modi met Thai Prime Minister Anutin Charnvirakul in Manila to review and deepen their strategic partnership.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.555,
+      "sources": [
+        {
+          "publisher": "NarendraModi.in",
+          "url": "https://www.narendramodi.in/prime-minister-narendra-modi-meets-with-the-prime-minister-of-singapore-on-the-sidelines-of-the-asean-summit-in-manila"
+        },
+        {
+          "publisher": "PM India",
+          "url": "https://www.pmindia.gov.in/en/news_updates/pm-meets-with-the-prime-minister-of-the-kingdom-of-thailand-on-the-sidelines-the-asean-summit-in-manila/?comment=disable"
+        }
+      ],
+      "summary": "Prime Minister Narendra Modi met Thai Prime Minister Anutin Charnvirakul in Manila on 17 November 2026 to review bilateral ties elevated to Strategic Partnership in April 2025 and discuss deepening cooperation across trade, defence, digital technology and regional forums.",
+      "timestamp": "2026-11-17T10:59:00Z"
+    },
+    {
+      "ai": false,
+      "articles": 2,
+      "category": "science",
+      "extended_summary": "Shillong, Nov 17: Meghalaya Chief Minister Conrad K Sangma on Tuesday said the state aims to position itself as India’s next AI Valley, with an initial 125 job opportunities in the artificial intelligence sector marking the beginning of a larger push to create technology-driven employment for local youth. Speaking at the inaugural session of the AI Job Fair, organised in collaboration with Shamrock AI, Sangma said the initiative was part of a vision he had pursued since 2008 to transform Shillong and Meghalaya into an IT hub. He said the state had over the years worked towards developing infrastructure, nurturing local talent and building partnerships with industry leaders to create a conducive environment for the technology sector. “Today, seeing this vision begin to take shape is truly exciting,” he said. The chief minister said the government’s ambition was to make Meghalaya a leading AI destination in the country, attracting major",
+      "id": "national-science-1",
+      "micro_summary": "Meghalaya Aims To Be Next AI Valley, Says CM Sangma.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.603,
+      "sources": [
+        {
+          "publisher": "Rediff",
+          "url": "https://www.rediff.com/business/report/meghalaya-cm-aims-to-make-shillong-the-next-ai-valley/20261117.htm"
+        },
+        {
+          "publisher": "Hub News",
+          "url": "https://hubnetwork.in/meghalaya-aims-to-emerge-as-indias-ai-valley-says-conrad-sangma/"
+        }
+      ],
+      "summary": "Meghalaya Aims To Be Next AI Valley, Says CM Sangma. I would like to see Shillong and Meghalaya become the Information Technology Valley, the next Artificial Intelligence Valley.",
+      "timestamp": "2026-11-17T15:54:12Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "science",
+      "extended_summary": "Hitachi Systems India launched an Advanced Global Delivery Centre in Bengaluru on November 17, 2026, in partnership with CrowdStrike to deliver AI-powered cybersecurity and managed security services. The facility will serve organisations across India, Asia Pacific and the Middle East, combining Hitachi's technology integration capabilities with CrowdStrike's Falcon platform. Services include endpoint protection, identity management, cloud security, data protection and AI systems, featuring Falcon Guardian, an AI Detection and Response solution that monitors AI agents and prevents unauthorised operations. The centre also provides Falcon Next-Gen SIEM services. Hitachi Systems India joined CrowdStrike's Project QuiltWorks, which integrates AI models from OpenAI, Anthropic and NVIDIA with AWS infrastructure and cyber insurance protection. Through the Frontier AI Readiness and Resilience service, customers receive AI-powered vulnerability scanning and expert security assessments with advisory and remediation support.",
+      "id": "national-science-2",
+      "micro_summary": "Hitachi Systems India launched an Advanced Global Delivery Centre in Bengaluru with CrowdStrike for AI security.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.483,
+      "sources": [
+        {
+          "publisher": "Rediff",
+          "url": "https://m.rediff.com/amp/business/report/hitachi-systems-india-and-crowdstrike-launch-ai-delivery-centre/20261117.htm"
+        },
+        {
+          "publisher": "City Today News",
+          "url": "https://citytoday.media/2026/11/17/hitachi-systems-india-opens-bengaluru-centre-to-strengthen-ai-powered-cybersecurity/"
+        }
+      ],
+      "summary": "Hitachi Systems India launched an Advanced Global Delivery Centre in Bengaluru partnering with CrowdStrike to deliver AI-powered cybersecurity and managed security services across India, Asia Pacific and the Middle East.",
+      "timestamp": "2026-11-17T13:47:45Z"
+    },
+    {
+      "ai": false,
+      "articles": 4,
+      "category": "sports",
+      "extended_summary": "Chennai FOLLOW THE MATCH | India vs Pakistan LIVE score https://sportstar.thehindu.com/football/indian-football/india-vs-pakistan-live-score-highlights-saff-championship-2026-final/article71711420.ece#google_vignette Defending champion India will look to make history by winning the SAFF Championship for a third consecutive edition when it faces Pakistan in the final at the National Stadium in Dhaka, Bangladesh, on Tuesday. FOLLOW IPL 2027 RETENTION DAY LIVE UPDATES https://sportstar.thehindu.com/cricket/ipl/ipl-news/ipl-2027-retention-deadline-live-updates-full-list-of-retained-released-players-10-teams-franchises/article71711171.ece The Blue Tigers have won a record nine titles — 1993, 1997, 1999, 2005, 2009, 2011, 2015, 2021 and 2023 — but have never won three successive editions. Pakistan, meanwhile, will be appearing in its first-ever SAFF Championship final. Having reached the semifinals on four previous occasions, most recently in 2018, it broke new ground by defeating host Bangladesh 1-0 in the last four on Saturday. LIVE STREAMING INFO When is the India vs Pakistan SAFF Championship 2026 final? The India vs Pakistan SAFF Championship 2026 final will kick off at 7:30pm IST (8pm local time) at",
+      "id": "national-sports-1",
+      "micro_summary": "India vs Pakistan Football LIVE Streaming, SAFF Championship 2026 Final LIVE Telecast: When And Where To Watch.",
+      "publishers": 3,
+      "scope": "national",
+      "score": 0.67,
+      "sources": [
+        {
+          "publisher": "NDTV Sports",
+          "url": "https://sports.ndtv.com/football/india-vs-pakistan-football-live-streaming-saff-championship-2026-final-live-telecast-when-and-where-to-watch-12339195"
+        },
+        {
+          "publisher": "The Hindu",
+          "url": "https://sportstar.thehindu.com/football/indian-football/india-vs-pakistan-live-streaming-info-where-to-watch-saff-championship-2026-final/article71709357.ece"
+        },
+        {
+          "publisher": "Sportstar",
+          "url": "https://sportstar.thehindu.com/football/indian-football/india-vs-pakistan-guard-of-honour-saff-championship-2026-final/article71713340.ece"
+        }
+      ],
+      "summary": "India vs Pakistan Football LIVE Streaming, SAFF Championship 2026 Final LIVE Telecast: When And Where To Watch. Pakistan, meanwhile, will be appearing in their first-ever SAFF Championship final.",
+      "timestamp": "2026-11-17T17:41:39Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "sports",
+      "extended_summary": "India's U17 men's football team defeated Palestine 4-1 in their third Group E match of the AFC U17 Asian Cup 2027 Qualifiers at the Kuala Lumpur Football Stadium in Malaysia. Kamgouhao Doungel scored in the eighth minute, but Palestine's Yazan Khalifah equalized with a penalty in the 32nd minute. After a rain delay that suspended play for over an hour at halftime, India scored three more goals through Mukundo Singh Ningthoujam (52), captain Dallalmoun Gangte (59), and Zoramdinthara Lalhunmawia (89). Palestine was reduced to ten men after Mohammed Jamhour received a red card in the 10th minute. The victory leaves India unbeaten at the top of Group E with nine points from three wins. They need just one point from their final match against hosts Malaysia to qualify for the U17 Asian Cup for the 11th time.",
+      "id": "national-sports-2",
+      "micro_summary": "India's U17 team defeated Palestine 4-1 in AFC U17 Asian Cup 2027 Qualifiers.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.56,
+      "sources": [
+        {
+          "publisher": "Sportstar",
+          "url": "https://sportstar.thehindu.com/football/indian-football/india-vs-palestine-afc-u17-asian-cup-2027-qualifiers-report-red-card-rain-delay/article71711595.ece"
+        },
+        {
+          "publisher": "Rediff",
+          "url": "https://www.rediff.com/sports/report/india-u17-closer-to-asian-cup-qualification-after-palestine-win/20261117.htm"
+        }
+      ],
+      "summary": "India's U17 team beat Palestine 4-1 in AFC U17 Asian Cup 2027 Qualifiers in Kuala Lumpur, remaining unbeaten in Group E with nine points and needing one point from Malaysia to secure their 11th tournament appearance.",
+      "timestamp": "2026-11-17T16:13:06Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "sports",
+      "extended_summary": "India secured a historic 10th SAFF Championship title by defeating arch-rivals Pakistan 2-1 in a dramatic final in Dhaka. Pakistan took the lead in first-half stoppage time through Alamgir Ghazi in the 45+1st minute, but India equalized after Pakistan were reduced to 10 men in the 59th minute when Junaid Shah received a red card following a VAR review. Suhail Ahmad Bhat scored the equalizer in the 60th minute, and Sandip Mandi netted the winner in the 88th minute with a header from Abdul Rabeeh's corner. The victory marked India's third consecutive title and extended their record, achieved despite fielding a second-string squad. For Pakistan, appearing in their first-ever SAFF Championship final, it was a heartbreaking defeat after controlling much of the opening half.",
+      "id": "national-sports-3",
+      "micro_summary": "India defeated Pakistan 2-1 to win a record 10th SAFF Championship title.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.537,
+      "sources": [
+        {
+          "publisher": "Rediff",
+          "url": "https://www.rediff.com/sports/report/india-clinch-record-10th-saff-title-beat-pakistan-2-1/20261117.htm"
+        },
+        {
+          "publisher": "Onmanorama",
+          "url": "https://www.onmanorama.com/sports/football/2026/11/17/india-beat-pakistan-2-1-to-clinch-record-10th-saff-championship-title.html"
+        }
+      ],
+      "summary": "India came from behind to defeat arch-rivals Pakistan 2-1 in the SAFF Championship final, securing a record-extending 10th title and third consecutive crown despite fielding a second-string side.",
+      "timestamp": "2026-11-17T17:47:07Z"
+    },
+    {
+      "ai": false,
+      "articles": 3,
+      "category": "tragedies",
+      "extended_summary": "Mahindra's three-row electric SUV, the XEV 9S, has secured a 5-star safety rating in Bharat NCAP crash tests, scoring 31.15 out of 32 points for adult occupant protection and 45 out of 49 points for child occupant protection. The safety assessment was conducted for the 2026 model, with the results published in July 2026. The XEV 9S was tested in two configurations: Pack 2 Above 6-seater with the 79kWh battery pack and Pack 3 Above 7-seater with the same 79kWh battery pack. The SUV has a listed crash-test weight of 2,529kg and is manufactured in India. The XEV 9S scored 31.15 out of 32 in adult occupant protection (AOP), placing it close to the maximum possible score. In the frontal offset deformable barrier test, the SUV scored 15.15 out of 16 points, while it secured the full 16 out of 16 points in the side movable deformable barrier test. The",
+      "id": "national-tragedies-1",
+      "micro_summary": "Mahindra XEV 9S scores 5 stars in BNCAP crash tests.",
+      "publishers": 3,
+      "scope": "national",
+      "score": 0.607,
+      "sources": [
+        {
+          "publisher": "Autocar India",
+          "url": "https://www.autocarindia.com/car-news/mahindra-xev-9s-scores-5-stars-in-bncap-crash-tests-441349"
+        },
+        {
+          "publisher": "CarDekho",
+          "url": "https://www.cardekho.com/news/general/mahindra-xev-9s-scores-5-stars-in-bncap-is-it-indias-safest-7seater-suv-36979.htm"
+        },
+        {
+          "publisher": "India Today",
+          "url": "https://www.indiatoday.in/auto/cars/story/mahindra-xev-9s-scores-5-stars-in-bharat-ncap-crash-tests-gets-3115-points-in-adult-safety-3040633-2026-11-17"
+        }
+      ],
+      "summary": "Mahindra XEV 9S scores 5 stars in BNCAP crash tests. The SUV has a listed crash-test weight of 2,529kg and is manufactured in India.",
+      "timestamp": "2026-11-17T08:40:00Z"
+    }
+  ]
+}
