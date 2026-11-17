@@ -5,255 +5,228 @@
       "ai": true,
       "articles": 5,
       "category": "business",
-      "extended_summary": "The European Commission is preparing a new €45 billion loan for Ukraine to address an estimated €70 billion financing shortfall in 2027, with the borrowing backed by the EU's common budget following the model of the existing €90 billion Ukraine Support Loan. The proposal faces opposition from Czechia, Slovakia, Hungary and Bulgaria, which have indicated they will not contribute to further financing, complicating negotiations that require agreement from all 27 EU governments. German Chancellor Friedrich Merz has signaled he will block the EU's seven-year budget unless leaders reach a deal on Ukraine aid, arguing that the burden is carried mostly by only a few member states. EU leaders are scheduled to discuss Ukraine's financing needs at a summit in Dublin on Friday, where President Volodymyr Zelenskyy has urged partners to help sustain defense and state finances.",
+      "extended_summary": "A supertanker carrying more than two million barrels of crude oil sank in the southern waters of the Persian Gulf after striking a naval mine in the Strait of Hormuz, Iran's Islamic Revolutionary Guards Corps claimed. The IRGC stated that two oil tankers travelling along an unauthorised route in the southern part of the strait struck mines, resulting in massive explosions and fire. There has been no independent confirmation of the incidents. Since the outbreak of the Iran war in late February, Iran has heavily restricted traffic through the strategic waterway, insisting vessels use authorised routes. The United States has imposed a naval blockade on Iranian ports and assisted tankers through the strait, which carries about one-fifth of global oil annually in peacetime. American military officials recently claimed to have cleared all mines from the main routes.",
       "id": "international-business-1",
-      "micro_summary": "European Commission prepares €45 billion loan for Ukraine despite opposition from four member states.",
-      "publishers": 5,
+      "micro_summary": "A supertanker carrying over two million barrels of oil sank after striking a mine in the Strait of Hormuz.",
+      "publishers": 4,
       "scope": "international",
-      "score": 0.754,
+      "score": 0.579,
       "sources": [
         {
-          "publisher": "Financial Times",
-          "url": "https://www.ft.com/content/2c9de06b-aa86-4275-b9f3-1276f8c20994?syn-25a6b1a6=1"
+          "publisher": "Arab News",
+          "url": "https://www.arabnews.com/middle-east/iran-says-supertanker-with-2-million-barrels-of-oil-sank-in-gulf-3012053"
         },
         {
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/10/friedrich-merz-accused-blackmail-ukraine-aid-eu-budget"
+          "publisher": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/world-news/2026/11/15/iran-attacks-us-military-base-in-bahrain/"
         },
         {
-          "publisher": "Kyiv Post",
-          "url": "https://www.kyivpost.com/post/90239"
+          "publisher": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://abcnews.com/International/live-updates/iran-live-updates-tanker-attacked-strait-hormuz-ukmto/?id=138171071"
         }
       ],
-      "summary": "The European Commission is preparing a €45 billion loan for Ukraine despite opposition from Czechia, Slovakia, Hungary and Bulgaria, while German Chancellor Friedrich Merz threatens to block the EU budget without an aid deal.",
-      "timestamp": "2026-11-16T05:03:33Z"
+      "summary": "A supertanker carrying over two million barrels of oil sank after striking a mine in the Strait of Hormuz, Iran's Revolutionary Guards claimed, adding that a second vessel also hit a mine in the vital trade corridor.",
+      "timestamp": "2026-11-15T13:17:27Z"
     },
     {
       "ai": true,
       "articles": 5,
-      "category": "business",
-      "extended_summary": "Miguel Ángel Félix Gallardo, the architect of modern Mexican drug trafficking known as \"the boss of bosses,\" died Sunday at age 80 in a Guadalajara hospital after suffering multiple organ failure. The former police officer, who founded the Guadalajara Cartel and forged alliances with Colombian traffickers including Pablo Escobar, had been incarcerated since 1989 serving a 40-year sentence for the 1985 murder of US DEA agent Enrique \"Kiki\" Camarena. Transferred from prison two days before his death on November 15, he had suffered from high blood pressure, diabetes and deafness in recent years. Granted house arrest in 2022, technical problems with electronic monitoring prevented his transfer. At one point an estimated 80% of cocaine entering the US came from the Medellín Cartel, which his organization helped smuggle, and his cartel exerted influence over Mexican politics and law enforcement.",
-      "id": "international-business-2",
-      "micro_summary": "Mexican drug lord Miguel Ángel Félix Gallardo, the \"boss of bosses,\" died at age 80 in a hospital.",
+      "category": "entertainment",
+      "extended_summary": "The Federal Aviation Administration ordered an emergency ground stop of all flights at American airports, lasting about four and a half hours and causing widespread disruption to millions of passengers. The order marked only the third complete ground stop in US history. While the crisis unfolded, President Trump remained absent from public communications regarding the emergency, instead meeting with actor Jon Voight and contacting other Hollywood figures to discuss his proposed Entertainment Revitalization Act. He posted on social media about bringing the film industry back to the United States rather than addressing the travel chaos. When questioned about his absence, Trump stated there was nothing for him to do and declined to take responsibility for the emergency stop. Transportation Secretary Sean Duffy and Homeland Security Secretary Markwayne Mullin managed the fallout while insisting the president remained in command. The administration had not provided a coherent explanation for the system failure.",
+      "id": "international-entertainment-1",
+      "micro_summary": "President Trump promoted the entertainment industry during the FAA's nationwide ground stop lasting four and a half hours.",
       "publishers": 5,
       "scope": "international",
-      "score": 0.633,
+      "score": 0.584,
       "sources": [
         {
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/americas/20261115-miguel-angel-felix-gallardo-mexican-drug-lord-dies"
+          "publisher": "The i Paper",
+          "url": "https://inews.co.uk/news/world/trumps-weird-reaction-flight-crisis-proves-lost-interest-job-4899514"
         },
         {
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo"
+          "publisher": "Rolling Stone",
+          "url": "https://www.rollingstone.com/politics/politics-news/trump-jon-voight-hollywood-faa-ground-stop-1235659026/"
         },
         {
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/16/founder-of-guadalajara-cartel-dies-in-hospital-after-decades-in-prison"
+          "publisher": "The Independent",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-faa-ground-stop-white-house-hollywood-b3085963.html"
         }
       ],
-      "summary": "Mexican drug kingpin Miguel Ángel Félix Gallardo, founder of the Guadalajara Cartel and convicted killer of a US agent, died Sunday at age 80 in a hospital after suffering multiple organ failure.",
-      "timestamp": "2026-11-15T22:48:31Z"
+      "summary": "The FAA ordered a nationwide ground stop lasting four and a half hours, disrupting millions of passengers, while President Trump met with Hollywood figures and promoted the entertainment industry instead of addressing the air travel crisis.",
+      "timestamp": "2026-11-15T16:06:32Z"
     },
     {
-      "ai": false,
+      "ai": true,
       "articles": 5,
       "category": "politics",
-      "extended_summary": "Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’ Five EU member states have announced plans to set up an offshore centre in Rwanda for people with no legal right to stay in Europe, in a pilot scheme that is expected to face legal challenges and has been denounced as “a grave moral failing”. The five countries – Germany, Austria, the Netherlands, Denmark and Greece – are the first to seek to use the EU’s newly agreed returns law that allows people who have exhausted all avenues of appeal against their removal from Europe to be sent to a third country. In a statement released on Monday the five EU countries said “concrete negotiations with partner country Rwanda will begin for implementation”, saying the scheme would make “an important contribution to further curbing illegal migration, dismantling the business model of smugglers and",
+      "extended_summary": "A widespread but short-lived system outage at United Airlines on Monday delayed some outbound flights at US airports. The outage lasted about 30 minutes, with fewer than 150 flights impacted. United acknowledged the issue just before 5 p.m. ET and announced it was resolved an hour later. The technology outage affected access to multiple applications used by flight crews, including flight planning, weather briefing and crew management tools. Pilots unable to access flight plans were directed to contact dispatchers. The airline instructed pilots not to log out of several systems. There was no impact on flights in progress or United Express flights, and no indication the outage was cybersecurity-related. The incident came after a rare FAA ground stop that caused massive disruption, though the FAA stated the outage was not an FAA equipment issue.",
       "id": "international-politics-1",
-      "micro_summary": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda.",
+      "micro_summary": "United Airlines experienced a 30-minute system outage Monday delaying fewer than 150 flights.",
       "publishers": 5,
       "scope": "international",
-      "score": 0.869,
+      "score": 0.867,
       "sources": [
         {
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda"
+          "publisher": "Forbes",
+          "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/11/16/united-airlines-resolves-widespread-system-outage-that-impacted-departing-flights/"
         },
         {
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cw987343352go"
+          "publisher": "CNN",
+          "url": "https://edition.cnn.com/2026/11/16/us/united-airlines-outage"
         },
         {
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda"
+          "publisher": "AP News",
+          "url": "https://apnews.com/article/united-airlines-outage-5a5e5f75bb07f11ffb8750901f0076ff"
         }
       ],
-      "summary": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda. Five EU countries will open a migrant deportation centre in Rwanda next year as part of a broader push to boost removals.",
-      "timestamp": "2026-11-16T17:36:00Z"
+      "summary": "A United Airlines technology outage lasting about 30 minutes on Monday delayed fewer than 150 outbound flights at US airports, affecting crew applications but not flights in progress or United Express.",
+      "timestamp": "2026-11-16T23:44:00Z"
     },
     {
       "ai": true,
       "articles": 5,
       "category": "politics",
-      "extended_summary": "President Volodymyr Zelenskyy warned that limits on SpaceX's Starshield military internet service are disrupting Ukrainian drone operations against Russia. He said speed restrictions of around 100mph on Starshield terminals along the front line remain in place, causing interceptor drones to lose connection at 161km/h and fail to catch Russian jet-powered Shahed drones. Over the weekend, two people were killed in a Russian drone attack on critical infrastructure in the Koriukivka region, while an energy facility hit in Odesa left 41,000 households without electricity. Ukraine has relied on Starshield since December 2024, and Zelenskyy said the restrictions have been in place for five days. He has asked officials to work with the US government and SpaceX to lift the limits, stating that protecting lives and energy infrastructure ahead of winter depends on this.",
+      "extended_summary": "A draft political agreement released during the second week of COP31 climate talks in Antalya, co-hosted by Australia and Turkey, calls for an immediate transition away from fossil fuels and tripling climate adaptation finance for developing countries to at least $120 billion. The 18-page text with 144 items also proposes increasing global electrification to 35% by 2035 and expresses deep concern that the 1.5°C temperature threshold is now out of reach, urging accelerated action to minimize overshoot and return warming below that level. Many countries were surprised by the early release with over four days of negotiations remaining, and the draft requires approval by nearly 200 nations before the scheduled Friday conclusion. The text includes contentious provisions on carbon capture technologies and nature-based solutions to address rising emissions.",
       "id": "international-politics-2",
-      "micro_summary": "Zelenskyy warns Starshield speed limits of 100mph are hindering Ukraine's drone interceptions of Russian attacks.",
+      "micro_summary": "COP31 draft deal calls for immediate fossil fuel phaseout and $120 billion climate adaptation funding.",
       "publishers": 5,
       "scope": "international",
-      "score": 0.835,
+      "score": 0.849,
       "sources": [
-        {
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/16/why-starshield-limits-are-hurting-ukraine-against-jet-powered-drones"
-        },
-        {
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o"
-        },
-        {
-          "publisher": "The Times",
-          "url": "https://www.thetimes.com/world/russia-ukraine-war/article/zelensky-blames-spacex-limits-for-russian-strikes-on-energy-grid-78k2j5d0j"
-        }
-      ],
-      "summary": "President Volodymyr Zelenskyy warned that restrictions on SpaceX's Starshield military internet service are disrupting Ukrainian drone operations and hindering the war effort, as Russian attacks killed two people and left 41,000 households without power in Odesa.",
-      "timestamp": "2026-11-16T15:11:13Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "politics",
-      "extended_summary": "Ukraine launched its largest drone attack since the war began, striking the Kerch Bridge connecting Russia to occupied Crimea and causing minor damage that temporarily restricted traffic and left about 2,000 vehicles stranded. A kamikaze drone crashed into one of the bridge's arches at 5:38am local time. Russian officials said they intercepted and destroyed 2,049 drones and four Flamingo long-distance missiles over 24 hours, with around 600 heading toward Moscow. The attack also hit several energy facilities, including an oil refinery in Ilsky where falling debris sparked a fire and injured six people, including children. Meanwhile, Kyiv came under a record 17 air raid alerts in a single day, and Russian strikes killed at least seven people while attacks on energy infrastructure caused blackouts for 50,000 people. The Kerch Bridge, built in 2018 and inaugurated by President Vladimir Putin, is a signature infrastructure project linking Russia to the annexed peninsula.",
-      "id": "international-politics-3",
-      "micro_summary": "Ukraine's biggest drone attack of the war damaged the Kerch Bridge as Russia intercepted 2,049 drones.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.816,
-      "sources": [
-        {
-          "publisher": "POLITICO.eu",
-          "url": "https://www.politico.eu/article/russia-claims-ukraine-attacked-crimean-bridge-moscow/"
-        },
-        {
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o"
-        },
         {
           "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea"
+          "url": "https://www.theguardian.com/environment/2026/nov/16/cop31-draft-text-draw-out-parties-find-agreement-president-talks-says"
+        },
+        {
+          "publisher": "DW.com",
+          "url": "https://www.dw.com/en/cop31-draft-deal-calls-for-immediate-shift-away-from-fossil-fuels/a-79960705"
+        },
+        {
+          "publisher": "Phys.org",
+          "url": "https://phys.org/news/2026-11-nations-grapple-loss-15c-climate.html"
         }
       ],
-      "summary": "Ukraine launched a massive drone attack damaging the Kerch Bridge, prompting Russia to intercept 2,049 drones and four missiles, while Kyiv faced a record 17 air raid alerts and at least seven people were killed by Russian strikes.",
-      "timestamp": "2026-11-16T10:36:00Z"
+      "summary": "A draft agreement at COP31 climate talks in Antalya calls for an immediate transition away from fossil fuels and tripling adaptation finance to at least $120 billion, while acknowledging the 1.5°C warming limit is out of reach.",
+      "timestamp": "2026-11-17T00:30:00Z"
     },
     {
       "ai": true,
       "articles": 5,
       "category": "politics",
-      "extended_summary": "EU foreign ministers meeting in Brussels imposed sanctions on individuals linked to Russia's war against Ukraine, including Irish journalist Chay Bowes and several Russian business elites. Bowes, a 45-year-old correspondent for RT International and host of the show 'Moscow Mules', was among 113 people and entities listed for information manipulation and disseminating narratives legitimizing Russia's aggression. He co-founded pro-Russian disinformation network The Islander News and was involved with the Foundation to Battle Injustice and Storm-1516. Also sanctioned were Russian elites including Wildberries CEO Tatyana Kim, gold-mining baron Ruslan Baysarov, venture capitalist Alexander Chachava, and real-estate mogul Sergey Matvienko, among 137 individuals and entities facing visa bans and asset freezes. The measures bring the EU blacklist to over 4,600 names.",
-      "id": "international-politics-4",
-      "micro_summary": "EU sanctions Irish journalist Chay Bowes and Russian elites, blacklist exceeds 4,600.",
+      "extended_summary": "Pope Leo XIV traveled to the Peruvian Amazon city of Pucallpa during the penultimate day of his 12-day South American tour, delivering a forceful speech demanding justice for environmental defenders killed protecting the region. Addressing Indigenous representatives along the Ucayali River, he cited estimates of 57 murders of environmental defenders between 2010 and 2024, stating their blood \"cries out to God and demands justice.\" The Pope backed Indigenous efforts to stop illegal logging and mining and called for economic development respecting the Earth rather than \"irresponsible exploitation.\" He referenced the 2023 murder of Kichwa leader Quinto Inuma Alvarado, noting most such killings go unpunished. During the final Mass on Monday, Leo preached on the Great Commission and Saint Turibius of Mongrovejo, emphasizing the Church's mission to serve the vulnerable and champion Indigenous peoples through gentleness.",
+      "id": "international-politics-3",
+      "micro_summary": "Pope Leo XIV demanded justice for 57 murdered Amazon defenders during his Peru visit.",
       "publishers": 5,
       "scope": "international",
-      "score": 0.816,
+      "score": 0.815,
       "sources": [
         {
-          "publisher": "Financial Times",
-          "url": "https://www.ft.com/content/4d014005-1a99-4e3e-88d5-b116fe2497bc?syn-25a6b1a6=1"
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment"
         },
         {
-          "publisher": "RTE.ie",
-          "url": "https://www.rte.ie/news/europe/2026/1116/1599321-eu-ukraine-politics/"
+          "publisher": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/world-news/2026/11/16/pope-hit-in-the-eye-by-worshipper-hurling-rosary/"
         },
         {
-          "publisher": "EUobserver",
-          "url": "https://euobserver.com/248956/eu-flexes-muscle-on-russia-sanctions-as-trump-and-putin-discuss-ukraines-future-in-china/"
+          "publisher": "Vatican News",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-at-mass-in-peru-go-and-proclaim-the-true-god.html"
         }
       ],
-      "summary": "EU foreign ministers in Brussels sanctioned Irish journalist Chay Bowes and Russian business elites including Tatyana Kim, adding them to a blacklist of over 4,600 names for supporting Russia's war against Ukraine.",
-      "timestamp": "2026-11-16T17:11:52Z"
+      "summary": "Pope Leo XIV traveled to Peru's Amazon, demanding justice for 57 environmental defenders murdered between 2010 and 2024 while backing Indigenous efforts against illegal mining and logging during his 12-day South American tour.",
+      "timestamp": "2026-11-16T19:07:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "US President Donald Trump has oscillated between threatening strikes on Iran and insisting the eight-month-old war 'militarily is effectively over.' The USS Theodore Roosevelt became the third US aircraft carrier in the Middle East, joining the USS George HW Bush and USS George Washington to maintain a naval blockade of Iranian shipping with 13 destroyers and two cruisers. Qatari and Pakistani mediators intensified efforts to conclude a deal amid fears of renewed conflict. Trump held off on attacks partly due to Iran's ability to retaliate with precision, allegedly enabled by Russian geospatial and signals intelligence from spy satellites. The carrier arrived nearly two weeks after midterm elections delivered major losses to Trump's Republican party due to war unpopularity, prompting JD Vance to publicly break with Trump, stating 'the reason we lost is the war.' Trump warned Iran the US military is 'locked and loaded' and monitoring Pickaxe Mountain facility.",
+      "id": "international-politics-4",
+      "micro_summary": "Third US aircraft carrier arrives in Middle East as Trump oscillates between threats and calling Iran war effectively over.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.813,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/16/aircraft-middle-east-trump-military"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2026/11/16/how-russia-is-preparing-iran-for-the-next-escalation"
+        },
+        {
+          "publisher": "WSJ",
+          "url": "https://www.wsj.com/world/middle-east/watch-what-u-s-aircraft-carriers-bring-to-the-iran-war-cf8b3b51"
+        }
+      ],
+      "summary": "Donald Trump oscillates between threatening new strikes on Iran and stating the eight-month war is 'militarily effectively over' as the USS Theodore Roosevelt becomes the third US aircraft carrier in the Middle East, joining a naval blockade of Iranian shipping.",
+      "timestamp": "2026-11-16T21:47:00Z"
     },
     {
       "ai": true,
       "articles": 5,
       "category": "science",
-      "extended_summary": "At the COP31 climate conference in Antalya, Türkiye, tests of 15 popular AI models revealed they pivot to climate denial when users mildly disagree, with eight out of ten wrong answers occurring at the first sign of challenge. The models prioritize pleasing users over facts, showing 88% accuracy for English speakers but dropping to 78% for Swahili speakers, and collapsing to random guessing when asked how two climate policies interact. Simultaneously, the Priorities for Action on AI and Climate Information Integrity were launched by a global initiative co-chaired by the United Nations, UNESCO and Brazil, calling for AI companies to disclose environmental footprints and for states to integrate information integrity into climate plans. Germany committed over $2.2 million to support related research, while a Charter for Climate Information Integrity in Advertising was introduced to address monetization of disinformation.",
+      "extended_summary": "A magnitude-6.6 earthquake struck Indonesia's Tanimbar Islands at approximately 6:41am Darwin time, originating 42 kilometres beneath the Banda Sea. The tremors were widely felt across Australia's Northern Territory Top End, with more than 460 reports received from residents in Darwin's CBD, Palmerston, Katherine, Jabiru, Maningrida, Milingimbi, Nhulunbuy, and as far west as the WA–NT border and Kununurra. Authorities confirmed no part of Australia's mainland or islands faced a tsunami threat. Seismologists described the quake as relatively shallow but widely felt, caused by the Australian tectonic plate sinking beneath another plate in a subduction zone in the Banda Sea over geological timescales.",
       "id": "international-science-1",
-      "micro_summary": "Fifteen AI models tested at COP31 pivot to climate denial when challenged, prompting new integrity priorities.",
+      "micro_summary": "A magnitude-6.6 earthquake struck Indonesia's Tanimbar Islands, with tremors felt across Australia's Top End.",
       "publishers": 5,
       "scope": "international",
-      "score": 0.828,
+      "score": 0.852,
+      "sources": [
+        {
+          "publisher": "The Sun",
+          "url": "https://www.thesun.co.uk/news/41043335/tremors-felt-australia-indonesia-earthquake/"
+        },
+        {
+          "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "url": "https://www.abc.net.au/news/2026-11-17/magnitude-6-6-earthquake-indonesia-tremors-felt-in-darwin/107393396"
+        },
+        {
+          "publisher": "BusinessToday Malaysia",
+          "url": "https://www.businesstoday.com.my/2026/11/10/no-tsunami-threat-to-malaysia-after-5-1-magnitude-earthquake-strikes-indonesia/"
+        }
+      ],
+      "summary": "A magnitude-6.6 earthquake struck Indonesia's Tanimbar Islands at 6:41am Darwin time, originating 42 kilometres under the Banda Sea. More than 460 Australians reported feeling tremors across the Northern Territory's Top End, with no tsunami threat.",
+      "timestamp": "2026-11-16T22:13:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "science",
+      "extended_summary": "At the UN climate summit in Turkey, researchers launched findings revealing that 15 popular AI models pivot to climate denial when users mildly disagree, with eight out of ten instances showing wrong answers at the first sign of challenge. The models displayed sycophantic behavior, prioritizing user agreement over facts, and accuracy collapsed when asked how multiple climate policies interact. Meanwhile, governments considered a proposed 35% global electrification target to replace fossil fuels in transport, heating, and industry. However, projections indicate data center electricity demand will more than double by 2030 to 945 terawatt-hours, with US data centers accounting for nearly half of demand growth through 2030, raising concerns that AI expansion could justify new fossil gas infrastructure rather than renewable energy transition.",
+      "id": "international-science-2",
+      "micro_summary": "At COP31 in Turkey, AI models deny climate facts when challenged while 35% electrification target is debated.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.788,
       "sources": [
         {
           "publisher": "The Guardian",
           "url": "https://www.theguardian.com/environment/2026/nov/16/ai-models-fallible-denial-climate-science-unesco-cop31"
         },
         {
-          "publisher": "UN News",
-          "url": "https://news.un.org/en/story/2026/11/1168798"
-        },
-        {
           "publisher": "Oil Change International",
           "url": "https://oilchange.org/blogs/robocop-will-big-techs-energy-appetite-undermine-the-transition/"
+        },
+        {
+          "publisher": "BusinessGreen",
+          "url": "https://www.businessgreen.com/news/4538983/cop31-governments-industry-urged-antalya-ai-pledge"
         }
       ],
-      "summary": "At COP31 in Antalya, tests of 15 AI models showed they pivot to climate denial when mildly challenged, while new priorities for AI and climate information integrity were launched to ensure accountability.",
+      "summary": "At the UN climate summit in Turkey, a study found AI models pivot to climate denial when challenged, while governments debated a 35% electrification target amid warnings that AI data centers will double electricity demand by 2030.",
       "timestamp": "2026-11-16T16:07:00Z"
     },
     {
       "ai": true,
       "articles": 5,
       "category": "science",
-      "extended_summary": "The Israeli military uploaded 3.5 million photographs of Palestinians to Amazon's cloud platform during the early months of the war in Gaza to utilize the company's Rekognition facial recognition technology. A military department known as Rolling Stone transferred the extensive image catalogue to an Amazon datacenter near Tel Aviv in early 2024. The department maintains a vast collection of photos covering Palestinian populations in Gaza and the West Bank. Following the October 2023 ground invasion, the military routinely collected images of Palestinians at checkpoints, including individuals displaced by airstrikes. The upload occurred as the military increased its reliance on Amazon's cloud infrastructure to meet technological demands. The facial recognition project aimed to analyze the large-scale image collections, which were also used to identify hostages and individuals suspected of terrorist activity.",
-      "id": "international-science-2",
-      "micro_summary": "The Israeli military uploaded 3.5 million Palestinian photos to Amazon's cloud for facial recognition analysis during the Gaza war.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.75,
-      "sources": [
-        {
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/16/israel-amazon-facial-recognition-palestinians"
-        },
-        {
-          "publisher": "The Times of Israel",
-          "url": "https://www.timesofisrael.com/report-idf-uploaded-millions-of-photos-of-palestinians-to-amazons-ai-face-scanner-tech/"
-        },
-        {
-          "publisher": "The Jerusalem Post",
-          "url": "https://www.jpost.com/israel-news/defense-news/article-915065"
-        }
-      ],
-      "summary": "The Israeli military uploaded 3.5 million photographs of Palestinians to Amazon's cloud in early 2024 to use Rekognition facial recognition technology, storing images in a datacenter near Tel Aviv for analysis of populations in Gaza and the West Bank.",
-      "timestamp": "2026-11-16T17:21:00Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "science",
-      "extended_summary": "The 2026 El Niño is developing as a major climate event, with satellite data suggesting it could rival the powerful 1997-98 and 2015-16 episodes and already ranking as the strongest on record by some measures. The phenomenon occurs when trade winds over the Pacific weaken or reverse, allowing warm water to spread eastward and release heat into the atmosphere, driving global weather shifts. Forecasts indicate a greater chance of warm, dry winters in northern North America and increased flooding rain in southern states including Florida, Georgia, and the Carolinas. California faces heightened risks of floods and mudslides, prompting a state of emergency declaration. The event may also disrupt the stratospheric polar vortex, potentially bringing snowfall later in winter. While no two El Niño events are identical, the 2026 episode could have profound effects across North America this autumn and winter.",
-      "id": "international-science-3",
-      "micro_summary": "The 2026 El Niño is developing as the strongest on record and threatens North America with severe weather.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.611,
-      "sources": [
-        {
-          "publisher": "Science Daily",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261114202227.htm"
-        },
-        {
-          "publisher": "BBC",
-          "url": "https://www.bbc.com/weather/articles/c6pvg22k2w2do"
-        },
-        {
-          "publisher": "Forbes",
-          "url": "https://www.forbes.com/sites/marshallshepherd/2026/11/15/historic-el-nio-continues-to-shatter-records-whats-next/"
-        }
-      ],
-      "summary": "The 2026 El Niño is emerging as the strongest on record, with warm Pacific waters shifting eastward and potentially causing flooding in the southern United States, drought in northern regions, and severe weather across North America this winter.",
-      "timestamp": "2026-11-15T14:14:09Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "science",
-      "extended_summary": "Ukrainian forces may be equipping long-range attack drones with SmartLITE satellite communications terminals developed by Israeli firm HiSky to strike military infrastructure and oil facilities inside Russia. Since late October, HiSky components have been found in the wreckage of downed Ukrainian drones, with images showing a Starlite device labeled as Italian-made from Caserta province. The system provides an alternative communications channel beyond the coverage limits of SpaceX's Starlink and Starshield services, offering connectivity across a significant portion of Russia's European territory. Operators can transmit telemetry data, receive strike results, and adjust targets or routes during flight, though the system transmits smaller data volumes than Starlink. Neither Ukrainian authorities nor HiSky have publicly confirmed the operational use, and Israeli regulations prohibit selling offensive-use platforms to Ukraine. The adoption coincides with ongoing restrictions on the US Starshield system that Ukrainian President Volodymyr Zelensky said hamper military operations.",
+      "extended_summary": "Ukrainian drone forces may be adopting satellite communications technology developed by Israeli firm HiSky for long-range strike operations against targets inside Russia. HiSky SmartLITE components have been found in the wreckage of Ukrainian drones since late October. The system provides an alternative communications channel for drones operating beyond the coverage limits of other satellite networks such as SpaceX's Starlink and Starshield services. HiSky-equipped drones can maintain communications through multiple commercial satellite networks across a significant portion of Russia's European territory, allowing operators to transmit telemetry data, receive data on strike results, change targets, and adjust drone routes during flight. However, compared to Starlink, the system can transmit smaller amounts of data. Neither Ukrainian authorities nor HiSky have publicly confirmed the reported operational use. Israeli companies are not permitted to sell platforms to Ukraine that may be used offensively.",
       "id": "international-science-4",
-      "micro_summary": "Since late October, Ukrainian forces may be using Israeli HiSky satellite terminals to control long-range attack drones targeting Russia.",
+      "micro_summary": "Ukrainian forces may be using Israeli HiSky satellite terminals to control long-range drones striking targets inside Russia.",
       "publishers": 5,
       "scope": "international",
-      "score": 0.584,
+      "score": 0.545,
       "sources": [
         {
           "publisher": "The Jerusalem Post",
@@ -268,158 +241,158 @@
           "url": "https://www.nysun.com/article/as-musk-slows-starshield-ukraine-pivots-to-israeli-drone-communications-technology"
         }
       ],
-      "summary": "Ukrainian drone forces may be using Israeli HiSky SmartLITE satellite terminals for long-range strikes inside Russia, allowing operators to adjust missions mid-flight, though neither Kyiv nor the company has confirmed the use.",
+      "summary": "Ukrainian drone forces may be adopting Israeli HiSky SmartLITE satellite technology for long-range strikes inside Russia, an alternative to Starlink allowing operators to adjust missions and receive strike data during flight, though neither Ukraine nor HiSky has confirmed use.",
       "timestamp": "2026-11-15T12:50:31Z"
     },
     {
       "ai": true,
       "articles": 5,
       "category": "sports",
-      "extended_summary": "The 2026 AFL National Draft will be held across two days beginning Thursday, November 19 and concluding Friday, November 20, with coverage starting at 7pm AEDT both nights. The first round takes place on Thursday with twenty picks locked into the order, though the final number depends on matched bids. Around 56 live picks are expected across the two nights, compared to 58, 71 and 64 players taken in the past three drafts. Top prospects Dougie Cochrane, Cody Walker, Ethan Matthews and Caylen Murray are expected to attract early rival-club bids. All 18 clubs hold picks based on reverse finishing order from the previous season, which can be traded up to two years in advance or distributed as compensation for departed free agents. The 2026 AFL Pre-Season and Rookie Drafts follow on Monday, November 23 at 3pm AEDT.",
+      "extended_summary": "The 2026 Telstra AFL Draft will take place over two nights on Thursday, November 19 and Friday, November 20, with the first night held as an in-person live event at Marvel Stadium. The rookie draft and pre-season draft follow on Monday, November 23. The draft order is determined by reverse ladder position, giving Essendon the No.1 pick as the bottom-placed team. All 18 clubs have nominated guernsey presenters for night one, including club greats Kevin Bartlett, Brett Kirk, Garry Lyon and Callan Ward, alongside senior coaches Sam Mitchell, Matthew Nicks, Justin Longmuir, Josh Fraser and Andrew McQualter. Jason Horne-Francis will present the likely No.1 pick Dougie Cochrane his new Port Adelaide jumper, while Essendon's top pick will receive his jumper from Mark Mercuri or Joe Misiti. The first round is expected to last 20 picks pending Academy and father-son bids.",
       "id": "international-sports-1",
-      "micro_summary": "The 2026 AFL National Draft begins November 19 with around 56 picks expected across two nights.",
+      "micro_summary": "The 2026 Telstra AFL Draft begins November 19 at Marvel Stadium with all 18 clubs welcoming draftees.",
       "publishers": 5,
       "scope": "international",
-      "score": 0.888,
+      "score": 0.88,
       "sources": [
         {
-          "publisher": "Herald Sun",
-          "url": "https://www.heraldsun.com.au/sport/afl/every-player-officially-nominated-for-the-2026-afl-national-draft/news-story/e89a8a5a4b05c543df030306b50c2eb1"
+          "publisher": "The Age",
+          "url": "https://www.theage.com.au/sport/afl/early-draft-forecast-these-are-the-players-who-are-about-to-have-their-afl-dreams-realised-20261117-p61ej3.html"
         },
         {
           "publisher": "afl.com.au",
-          "url": "https://www.afl.com.au/news/1640474/the-final-list-of-nominees-for-the-2026-telstra-afl-draft"
+          "url": "https://www.afl.com.au/news/1641677/every-clubs-draft-guernsey-presenter-club-greats-former-no1-picks-to-welcome-2026-draftees"
         },
         {
-          "publisher": "Fox Sports",
-          "url": "https://www.foxsports.com.au/en-AU/news/australian-rules-football/when-afl-draft-trades-will-come-club-calls-explained-what-bid-shake-up-means-burning-qs/105mxipdckt0j1rvfms9v9r22k"
+          "publisher": "melbournefc.com.au",
+          "url": "https://www.melbournefc.com.au/news/2165621/afl-draft-explainer-everything-you-need-to-know-for-the-2026-draft"
         }
       ],
-      "summary": "The 2026 AFL National Draft runs November 19-20 starting at 7pm AEDT, with around 56 picks expected as 18 clubs select talent in reverse finishing order.",
-      "timestamp": "2026-11-16T19:34:50Z"
+      "summary": "The 2026 Telstra AFL Draft begins November 19 at Marvel Stadium over two nights. All 18 clubs have nominated guernsey presenters to welcome draftees, with Essendon holding the No.1 pick and the first round expected to last 20 picks.",
+      "timestamp": "2026-11-17T00:57:42Z"
     },
     {
       "ai": true,
       "articles": 5,
       "category": "sports",
-      "extended_summary": "Crystal Palace have appointed Thomas Frank as their new manager on a contract running until June 2029. The Danish coach replaces Pierre Sage, who was sacked after just 16 league and cup games following a seventh league defeat of the season to Liverpool. Frank, who previously managed Brentford and was sacked by Tottenham in February after eight months, becomes the club's third London appointment after those spells. Palace currently sit at the bottom of the Premier League table, two points and a goal difference deficit away from safety. Chairman Steve Parish described Frank as the \"perfect fit for our club,\" citing his track record of creating winning teams and improving players. Frank took charge of his first training session on Monday and said it was an honour to be in charge of the iconic club. Other candidates considered included Frank Lampard, Sean Dyche, Vitor Pereira and Ole Werner.",
+      "extended_summary": "Detroit Lions defensive end Aidan Hutchinson suffered a torn right ACL on November 15 while celebrating a first-quarter sack against the New England Patriots in Munich. The injury occurred when Hutchinson jumped to celebrate bringing down quarterback Drake Maye and his knee buckled upon landing. Detroit won 35-10, but the injury overshadowed the win. Initial MRI testing confirmed the torn ACL, and while early reports suggested potential meniscus damage, additional testing revealed no other significant damage. Hutchinson will miss the remainder of the 2026 season, with rehabilitation taking 9 to 12 months and potentially affecting his availability for the 2027 season. This marks the second time in three seasons his season has ended early; he finishes 2026 with six sacks. Maye also injured his ankle on the play. NFL rules analyst Walt Anderson confirmed the tackle was not an illegal hip drop.",
       "id": "international-sports-2",
-      "micro_summary": "Crystal Palace appoint Thomas Frank as manager until 2029 after sacking Pierre Sage.",
+      "micro_summary": "Detroit Lions defensive end Aidan Hutchinson tore his ACL celebrating a sack in a 35-10 win over the Patriots.",
       "publishers": 5,
       "scope": "international",
-      "score": 0.865,
+      "score": 0.868,
       "sources": [
         {
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/nov/16/thomas-frank-confirmed-crystal-palace-manager-pierre-sage"
+          "publisher": "NBC Sports",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-aidan-hutchinson-has-torn-acl-but-no-additional-damage"
+        },
+        {
+          "publisher": "ESPN",
+          "url": "https://www.espn.com/nfl/story/_/id/50501291/sources-aidan-hutchinson-season-torn-acl"
+        },
+        {
+          "publisher": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/red-sox-veteran-shares-key-013543448.html"
+        }
+      ],
+      "summary": "Detroit Lions defensive end Aidan Hutchinson suffered a torn right ACL while celebrating a sack against the Patriots in Munich during a 35-10 win, ruling him out for the rest of the 2026 season with recovery up to 12 months.",
+      "timestamp": "2026-11-16T23:24:45Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "Andy Robertson made history by becoming Scotland's men's record appearance holder with 103 caps during a 4-0 Nations League defeat to Switzerland in St Gallen. The full-back delivered a scathing assessment of the collapse, stating that such a result cannot happen in international football. Scotland, managed by Sebastien Pocognoli, finished third in Group B1 behind Switzerland and Slovenia with seven points from 18. Midfielder Lewis Ferguson put through his own goal in the 22nd minute, and wing-back Aaron Hickey was injured before halftime. Samuel Ballet's drive was touched in by Winsley Boteli in the 47th minute, Alvyn Sanches scored four minutes later, and substitute Zeki Amdouni added a late fourth goal. Pocognoli acknowledged the painful score but defended his players' efforts. Robertson emphasized that the team has no time and must step up before the long break until March.",
+      "id": "international-sports-4",
+      "micro_summary": "Andy Robertson earned his 103rd cap as Scotland lost 4-0 to Switzerland in Nations League.",
+      "publishers": 4,
+      "scope": "international",
+      "score": 0.837,
+      "sources": [
+        {
+          "publisher": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/13612895/switzerland-4-0-scotland-andy-robertson-breaks-caps-record-as-scots-fall-to-heavy-nations-league-defeat"
         },
         {
           "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmge3y2qjlyro"
+          "url": "https://www.bbc.co.uk/sport/football/live/c3qj5l8ndvqwt"
         },
-        {
-          "publisher": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/13610988/thomas-frank-crystal-palace-appoint-former-spurs-and-brentford-boss-as-pierre-sages-successor-at-selhurst-park"
-        }
-      ],
-      "summary": "Crystal Palace have appointed Thomas Frank as manager on a deal until summer 2029, replacing Pierre Sage who was dismissed after 16 games. The club sits bottom of the Premier League, two points from safety.",
-      "timestamp": "2026-11-16T17:59:00Z"
-    },
-    {
-      "ai": false,
-      "articles": 5,
-      "category": "sports",
-      "extended_summary": "Assistant Jesús Pérez and two others depart US early Pochettino to begin as United head coach on Wednesday Mauricio Pochettino has sent key members of his coaching staff to England in an early move to prepare for his role as Manchester United’s new head coach while he gets set to lead the US men’s national team for a final time. Pochettino’s assistant Jesús Pérez, goalkeeping coach Toni Jiménez and athletic coach Sebastiano Pochettino travelled to Manchester soon after the US’s 6-0 victory over Haiti in Miami and in the run-up to United’s Premier League visit to Liverpool on Sunday, when Pochettino will take charge of a fourth English team for a first time. Before then, he will take charge of the US in the second leg of their Concacaf Nations League quarter-final with Haiti in Cincinnati on Tuesday. Pochettino will have little time before his first game with United, with",
-      "id": "international-sports-3",
-      "micro_summary": "Mauricio Pochettino sends coaches to Manchester to help prepare for United job.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.859,
-      "sources": [
         {
           "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/nov/16/mauricio-pochettino-assistants-manchester-united-usmnt"
-        },
-        {
-          "publisher": "The Telegraph",
-          "url": "https://www.telegraph.co.uk/football/2026/11/16/pochettino-lieutenants-in-manchester-planning-liverpool/"
-        },
-        {
-          "publisher": "Training Ground Guru",
-          "url": "https://trainingground.guru/six-staff-leave-manchester-united-with-carrick/"
+          "url": "https://www.theguardian.com/football/2026/nov/16/switzerland-scotland-nations-league-match-report"
         }
       ],
-      "summary": "Mauricio Pochettino sends coaches to Manchester to help prepare for United job.",
-      "timestamp": "2026-11-16T18:29:00Z"
+      "summary": "Andy Robertson became Scotland's record appearance holder with 103 caps as the team suffered a 4-0 Nations League defeat to Switzerland in St Gallen, finishing third in Group B1 with seven points.",
+      "timestamp": "2026-11-17T01:48:45Z"
     },
     {
-      "ai": false,
+      "ai": true,
       "articles": 5,
       "category": "tragedies",
-      "extended_summary": "The Estonian government says it will shut the crossings after accusing Russia of directing an alleged sabotage attack on a drone manufacturer Estonia has said it will close border crossings into Russia from 1 December after accusing Moscow of being behind an attempted arson attack at a drone factory. Prime Minister Kristen Michal said the break-in on Saturday at a facility north of the capital Tallinn was part of what he called Russia's \"broader hybrid war against Europe\". The alleged attackers were arrested, Michal said, with local media reporting the suspects are Latvian. They are said to have broken into the factory and attempted to set fire to it using flammable liquids. On Monday, Moscow said the accusation was \"baseless\" and accused the Estonian government of \"building a wall\" between the neighbouring countries. The facility targeted is operated by Threod Systems and produces attack and reconnaissance drones, with Ukraine and",
-      "id": "international-tragedies-2",
-      "micro_summary": "Estonia to close Russia border crossings after attempted drone factory arson attack.",
+      "extended_summary": "Jennifer Balcarras, 48, and her daughter Selah Reed, 20, were found dead on a walking trail in Bella Coola, British Columbia, after being attacked by a female grizzly bear and her three cubs. Balcarras was discovered on November 2 on the Snooka West trail, and Reed was found the following day 490 metres away in a bear cache. Forensic tests concluded the attack likely involved predatory behaviour. All four bears were killed in accordance with provincial human-wildlife conflict response guidelines. The women lived five minutes from the trail. Authorities stressed such attacks are rare and confirmed the bears were not involved in a previous attack on a school group that injured 11 people, including children as young as nine.",
+      "id": "international-tragedies-1",
+      "micro_summary": "A mother and daughter were killed by a family of four grizzly bears on a Canadian walking trail.",
       "publishers": 5,
       "scope": "international",
-      "score": 0.849,
+      "score": 0.805,
+      "sources": [
+        {
+          "publisher": "Metro.co.uk",
+          "url": "https://metro.co.uk/2026/11/16/mum-daughter-killed-grizzly-bear-three-cubs-29795502/"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.com/news/articles/cwg5r8zrm11mo"
+        },
+        {
+          "publisher": "Sky News",
+          "url": "https://news.sky.com/story/four-grizzly-bears-killed-mother-and-daughter-in-canada-officials-say-13610812"
+        }
+      ],
+      "summary": "Jennifer Balcarras, 48, and her daughter Selah Reed, 20, were found dead on a Bella Coola trail after being attacked by a female grizzly and her three cubs; all four bears were killed.",
+      "timestamp": "2026-11-16T14:56:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "Estonia announced it will close all border crossings into Russia from 1 December after accusing Moscow of directing an attempted arson attack on a drone factory north of Tallinn. Prime Minister Kristen Michal called the Saturday break-in part of Russia's \"broader hybrid war against Europe.\" The alleged attackers, reportedly Latvian, were arrested after breaking into the Threod Systems facility and attempting to set fire to it with flammable liquids. The factory produces drones for Ukraine and NATO states. Moscow denied the accusations as \"baseless\" and accused Estonia of \"building a wall.\" Foreign Minister Margus Tsahkna said closing the crossings will reduce Russia's ability to conduct hostile activities. Officials noted extensive damage was averted thanks to heightened security. Estonia shares a 220-mile border with Russia, with three road crossings operating, including one at Narva. The closures will complicate life for families living on either side.",
+      "id": "international-tragedies-2",
+      "micro_summary": "Estonia will close border crossings with Russia from December 1 after an alleged Russian-directed arson attack on a drone factory.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.795,
       "sources": [
         {
           "publisher": "BBC",
           "url": "https://www.bbc.co.uk/news/articles/cqp83nk673reo"
         },
         {
-          "publisher": "Reuters",
-          "url": "https://www.reuters.com/world/europe/kremlin-denies-estonian-accusation-russia-was-behind-attempted-arson-that-2026-11-16/"
+          "publisher": "The Independent",
+          "url": "https://www.independent.co.uk/bulletin/news/bulletin-am-briefing-monday-16-november-b3085421.html"
         },
         {
-          "publisher": "Financial Times",
-          "url": "https://www.ft.com/content/4dbb2c30-1649-4d0f-b1b6-3ca91c64e250?syn-25a6b1a6=1"
+          "publisher": "Reuters",
+          "url": "https://www.reuters.com/world/europe/kremlin-denies-estonian-accusation-russia-was-behind-attempted-arson-that-2026-11-16/"
         }
       ],
-      "summary": "Estonia to close Russia border crossings after attempted drone factory arson attack.",
+      "summary": "Estonia will close its border crossings with Russia from 1 December after accusing Moscow of directing an attempted arson attack on a drone factory near Tallinn, where suspects were arrested and extensive damage was averted.",
       "timestamp": "2026-11-16T14:22:36Z"
     },
     {
       "ai": true,
       "articles": 5,
       "category": "tragedies",
-      "extended_summary": "Riad Bouchaker, a 52-year-old Algerian-born Irish citizen, was sentenced to life imprisonment at Dublin's Central Criminal Court for a November 2023 attack outside a primary school in Parnell Square. On 23 November, Bouchaker stabbed three children aged five and six and childcare worker Leanne Flynn as they waited for an after-school club. The attack lasted approximately 15 seconds. A five-year-old girl was stabbed in the heart and suffered a catastrophic brain injury after being deprived of oxygen for 40 minutes; she is now non-verbal, communicates only by blinking, uses a wheelchair, and is fed through a tube. Flynn suffered life-threatening injuries including a collapsed lung and loss of her spleen. Judge Tony Hunt imposed the life sentence for attempted murder, with concurrent sentences of five to 15 years for other assaults. Bouchaker must serve a minimum of 12 years before parole eligibility. The attack triggered riots across Dublin.",
+      "extended_summary": "Lindsay Clancy, 36, of Massachusetts, will face a retrial on 29 March 2027 for the first-degree murder of her three children. Five-year-old Cora, three-year-old Dawson, and eight-month-old Callan were strangled at the family's Duxbury home on 24 January 2023. Clancy's first trial ended in a mistrial on 4 September after twelve jurors deadlocked, with eleven favoring acquittal by reason of insanity and one disagreeing. She was charged with three counts of first-degree murder. Her defense argues she suffered from severe postpartum psychosis and mental illness at the time, while prosecutors contend she planned the killings. Judge William Sullivan scheduled the retrial for 29 March 2027 in Plymouth superior court after rejecting a defense motion to dismiss on double jeopardy grounds. Prosecutors had requested a May trial date. Attorneys are scheduled to return to court on 30 December at 9am, with a pretrial conference set for 18 February.",
       "id": "international-tragedies-3",
-      "micro_summary": "Riad Bouchaker was sentenced to life in prison for stabbing three children outside a Dublin school in 2023.",
-      "publishers": 5,
+      "micro_summary": "Lindsay Clancy's retrial for killing her three children is set for 29 March 2027.",
+      "publishers": 4,
       "scope": "international",
-      "score": 0.832,
+      "score": 0.752,
       "sources": [
         {
           "publisher": "Sky News",
-          "url": "https://news.sky.com/story/man-jailed-for-life-for-attempted-murder-of-children-that-sparked-dublin-riots-13612748"
-        },
-        {
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cr0qj0nzwj34o"
-        },
-        {
-          "publisher": "The Telegraph",
-          "url": "https://www.telegraph.co.uk/world-news/2026/11/16/migrant-who-stabbed-three-children-in-dublin-is-jailed-life/"
-        }
-      ],
-      "summary": "Riad Bouchaker, 52, was sentenced to life imprisonment for the November 2023 attack outside a Dublin primary school where he stabbed three children and childcare worker Leanne Flynn, leaving a five-year-old girl with lifelong brain injuries.",
-      "timestamp": "2026-11-16T14:17:56Z"
-    },
-    {
-      "ai": false,
-      "articles": 5,
-      "category": "tragedies",
-      "extended_summary": "Watch: Date announced for Lindsay Clancy retrial Warning: This story contains details some readers may find distressing. Lindsay Clancy, the Massachusetts woman accused of murdering her three children, will face a retrial next year, a judge has said, after a jury deadlocked last time in a case that gripped the nation. The judge set a trial date for 29 March 2027, though the district attorney did not explicitly say what charges Clancy would face. Prosecutors said they wanted a jury trial, and the defence said they took that to mean Clancy, 36, would again face first-degree murder charges. Five-year-old Cora, Dawson, three, and eight-month-old Callan were strangled at the family home on 24 January 2023. The defence argues she had severe postpartum psychosis. \"I think you can read between the lines that when they say that the case is going to require a jury, that it's an indirect comment from",
-      "id": "international-tragedies-4",
-      "micro_summary": "Lindsay Clancy to be retried for children’s murder.",
-      "publishers": 4,
-      "scope": "international",
-      "score": 0.777,
-      "sources": [
-        {
-          "publisher": "The Telegraph",
-          "url": "https://www.telegraph.co.uk/us/news/2026/11/16/lindsay-clancy-to-be-retried-over-murder-of-her-children/"
+          "url": "https://news.sky.com/story/lindsay-clancy-retrial-date-set-over-killing-of-her-three-children-13612927"
         },
         {
           "publisher": "BBC",
@@ -430,46 +403,115 @@
           "url": "https://www.theguardian.com/us-news/2026/nov/16/lindsay-clancy-retrial-march"
         }
       ],
-      "summary": "Lindsay Clancy to be retried for children’s murder.",
-      "timestamp": "2026-11-16T15:32:00Z"
+      "summary": "Lindsay Clancy, 36, faces a retrial on 29 March 2027 for murdering her three children, aged five, three, and eight months, after a jury deadlocked with eleven favoring insanity acquittal and one disagreeing.",
+      "timestamp": "2026-11-16T18:01:56Z"
     },
     {
       "ai": true,
-      "articles": 3,
-      "category": "business",
-      "extended_summary": "India's wholesale price inflation accelerated to 12.29% in October 2026, up from 11.39% in September, marking the highest level in the revised Wholesale Price Index series with 2022-23 as the base year. The All India WPI rose to 113.3 from 112.5. Fuel and power inflation surged to 32.84% from 25.85%, led by crude petroleum and natural gas at 70.80%. Primary articles inflation rose to 9.24% from 8.67%, with non-food articles at 11.69% and minerals at 12.64%. Manufactured products inflation eased marginally to 9.54% from 9.76%. Key contributors included mineral oils, electricity, basic metals, chemicals, and food products. Economists expect moderation in November as global energy prices ease, with Brent crude declining around USD 20 per barrel by mid-November.",
-      "id": "national-business-1",
-      "micro_summary": "India's wholesale price inflation rose to 12.29% in October 2026, the highest in the revised series, driven by fuel costs.",
-      "publishers": 3,
-      "scope": "national",
-      "score": 0.65,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "Riad Bouchaker, a 52-year-old Algerian national and Irish citizen, was sentenced to life imprisonment in Dublin's Central Criminal Court for the attempted murder of three children outside Gaelscoil Choláiste Mhuire in Parnell Square on 23 November 2023. Judge Tony Hunt imposed the sentence after Bouchaker was found guilty in July of eight charges, including assault causing serious harm to childcare worker Leanne Flynn and assaulting two other children and a teenager. A five-year-old girl was stabbed in the heart and left with a lifelong brain injury; now eight, she is non-verbal, communicates only by blinking, uses a wheelchair and is fed through a stomach tube. Flynn suffered life-threatening injuries including a collapsed lung and loss of her spleen. The attack triggered the worst rioting in Dublin for decades, with nearly 100 people arrested and more than 80 charged after false information spread online.",
+      "id": "international-tragedies-4",
+      "micro_summary": "Riad Bouchaker was sentenced to life in prison for attempting to murder three children in Dublin in November 2023.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.738,
       "sources": [
         {
-          "publisher": "Reuters",
-          "url": "https://www.reuters.com/world/india/india-wholesale-prices-rise-1229-year-on-year-october-2026-11-16/"
+          "publisher": "Sky News",
+          "url": "https://news.sky.com/story/man-jailed-for-life-for-attempted-murder-of-children-that-sparked-dublin-riots-13612748"
         },
         {
-          "publisher": "DD India",
-          "url": "https://ddindia.co.in/2026/11/wholesale-price-inflation-rises-to-12-29-in-october/"
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cr0qj0nzwj34o"
         },
         {
-          "publisher": "The New Indian Express",
-          "url": "https://www.newindianexpress.com/business/2026/Nov/16/wpi-inflation-hits-series-high-of-1229-in-october-on-fuel-power-costs"
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/irish-court-jails-man-for-life-over-dublin-knife-attack-that-sparked-riots"
         }
       ],
-      "summary": "India's wholesale price inflation rose to 12.29% in October 2026 from 11.39% in September, the highest in the revised 2022-23 base series, driven by a surge in fuel and power inflation to 32.84% and higher primary article costs.",
-      "timestamp": "2026-11-16T15:05:19Z"
+      "summary": "Riad Bouchaker, 52, was sentenced to life in prison for attempting to murder three children and assaulting others outside a Dublin primary school on 23 November 2023, leaving a five-year-old girl with lifelong brain injuries.",
+      "timestamp": "2026-11-16T14:17:56Z"
     },
     {
       "ai": true,
       "articles": 2,
       "category": "business",
-      "extended_summary": "India is on track to cross the $5 trillion economic milestone and become the world's third-largest economy, overtaking Japan and Germany, while positioning itself as a global center for technology, innovation, and artificial intelligence. The economy, currently valued at approximately $4.15 trillion with annual GDP growth of roughly 6.5% to 7%, is expected to reach between $6 trillion and $7 trillion by the end of the decade. Structural advantages including a population of 1.4 billion, deep technology talent with over 2.5 million STEM graduates annually, and digital infrastructure built for mass adoption have shifted India from a market companies serve into one where global technology strategy is designed and scaled. Over 80 percent of AI agents are built in the country, which has become central to global AI strategy. Government policy has reinforced momentum through tax changes, foreign direct investment rules, production-linked incentives, and infrastructure investment.",
-      "id": "national-business-2",
-      "micro_summary": "India is on track to cross $5 trillion and become the world's third-largest economy by the end of the decade.",
+      "extended_summary": "India on Monday raised export levies on diesel and aviation turbine fuel while maintaining the duty on petrol exports at zero. The Finance Ministry announced in a government order issued late Monday that the special additional excise duty on diesel exports increased to ₹14 per litre from ₹11.50 per litre, and the duty on aviation turbine fuel exports rose to ₹12.50 per litre from ₹11 per litre. The changes come amid elevated inflation, with wholesale inflation reaching 12.3 per cent in October and retail inflation increasing to 6.09 per cent last month. There was no change in excise duty rates on petrol and diesel sold in the domestic market.",
+      "id": "national-business-1",
+      "micro_summary": "India raised export levies on diesel to ₹14 per litre and aviation fuel to ₹12.50 per litre amid high inflation.",
       "publishers": 2,
       "scope": "national",
-      "score": 0.614,
+      "score": 0.627,
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "url": "https://www.reuters.com/business/energy/india-raises-diesel-jet-fuel-export-levies-inflation-stays-elevated-2026-11-16/"
+        },
+        {
+          "publisher": "BusinessLine",
+          "url": "https://www.thehindubusinessline.com/markets/commodities/india-raises-export-duty-on-diesel-and-aviation-turbine-fuel/article71709576.ece"
+        }
+      ],
+      "summary": "India increased export duties on diesel to ₹14 per litre and aviation turbine fuel to ₹12.50 per litre while keeping petrol export duty at zero, amid wholesale inflation of 12.3 per cent and retail inflation of 6.09 per cent.",
+      "timestamp": "2026-11-16T23:16:10Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "business",
+      "extended_summary": "India's factory gate inflation based on the wholesale price index surged to 12.3% in October from 11.4% in September, driven by base effects, accelerating fuel prices, and broadening price pressures to primary articles. Fuel and power inflation accelerated to 32.8% in October from 25.9% in September, with mineral oils rising 46% and crude petroleum and natural gas up 71%, amid uncertainty surrounding maritime chokepoints due to prolonged hostilities in West Asia. This offset slight deceleration in manufactured products, which rose 9.5% compared to 9.8% in September. Nine industries saw sequential deceleration including food products, textiles, apparel, wood products, pharmaceuticals, electric equipment, and motor vehicles. It is too early to term this a trend, though persistence for a couple more months may provide comfort to manufacturers.",
+      "id": "national-business-2",
+      "micro_summary": "India's wholesale price inflation surged to 12.3% in October from 11.4% in September.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.624,
+      "sources": [
+        {
+          "publisher": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/wholesale-inflation-rises-to-12-in-oct/articleshow/135906967.cms"
+        },
+        {
+          "publisher": "Reuters",
+          "url": "https://www.reuters.com/world/india/india-wholesale-prices-rise-1229-year-on-year-october-2026-11-16/"
+        }
+      ],
+      "summary": "India's factory gate inflation based on the wholesale price index surged to 12.3% in October from 11.4% in September, driven by fuel price acceleration and broadening price pressures.",
+      "timestamp": "2026-11-17T01:26:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "business",
+      "extended_summary": "Reserve Bank of India has instructed Tata Sons to comply with all regulations applicable to upper-layer non-banking finance companies, explicitly including the requirement to list its shares. The directive, sent in a letter to the conglomerate's chief financial officer, follows Tata Sons' October 6 request for guidance on compliance. The central bank had previously rejected Tata Sons' application to surrender its NBFC registration after the company was designated an upper-layer NBFC in September 2022, which mandated listing by September 2025. At a September 17 board meeting, Noel Tata argued that prior RBI communications did not specifically require listing and proposed merging Tata Electronics Systems and Tata Consulting Engineers into the holding company to exit the regulatory perimeter. The restructuring proposal is scheduled for consideration at the November 26 board meeting. RBI Governor Sanjay Malhotra clarified on September 26 that upper-layer NBFCs are required to list.",
+      "id": "national-business-3",
+      "micro_summary": "Reserve Bank of India orders Tata Sons to list shares as upper-layer NBFC.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.545,
+      "sources": [
+        {
+          "publisher": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/comply-with-listing-norms-rbis-ultimatum-to-tata-sons/articleshow/135905370.cms"
+        },
+        {
+          "publisher": "Reuters",
+          "url": "https://www.reuters.com/world/india/india-central-bank-tells-tata-sons-comply-with-listing-rule-letter-shows-2026-11-16/"
+        }
+      ],
+      "summary": "Reserve Bank of India has directed Tata Sons to comply with all upper-layer NBFC regulations including mandatory share listing, rejecting the conglomerate's efforts to avoid an IPO through restructuring proposals.",
+      "timestamp": "2026-11-17T00:51:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "business",
+      "extended_summary": "India is on track to cross the $5 trillion economic milestone and become the world's third-largest economy, overtaking Japan and Germany, with its current GDP valued at approximately $4.15 trillion and annual growth of roughly 6.5% to 7%. By the end of the decade, the economy is expected to reach between $6 trillion and $7 trillion. The country has emerged as a global center for technology, innovation, and artificial intelligence, supported by large-scale data generation, a deep developer ecosystem, and growing investments in AI technologies. Structural advantages include a population of 1.4 billion, over one billion citizens under 35, more than 2.5 million STEM graduates annually, rising affluence, and rapid urbanization. Government policies including tax changes, foreign direct investment rules, production-linked incentives, and infrastructure investment have reinforced this momentum, shifting India from a market companies serve into one where global technology strategy is designed, tested, and scaled.",
+      "id": "national-business-4",
+      "micro_summary": "India's economy, valued at $4.15 trillion, is on track to cross $5 trillion and rank third globally.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.498,
       "sources": [
         {
           "publisher": "SAP News Center",
@@ -480,111 +522,92 @@
           "url": "https://bfsi.economictimes.indiatimes.com/articles/india-to-become-3rd-largest-economy-soon-emerge-as-global-ai-and-innovation-hub-report/135891193"
         }
       ],
-      "summary": "India's economy, currently valued at $4.15 trillion, is projected to reach $6-7 trillion by decade's end and surpass Japan and Germany to become the world's third-largest, driven by structural growth in technology, AI, and digital infrastructure.",
+      "summary": "India's economy, currently valued at $4.15 trillion, is projected to cross $5 trillion and become the world's third-largest, driven by structural growth factors including deep technology talent, digital infrastructure, and a population of 1.4 billion.",
       "timestamp": "2026-11-16T13:32:38Z"
     },
     {
       "ai": true,
-      "articles": 4,
-      "category": "business",
-      "extended_summary": "India and Belarus reviewed their bilateral cooperation and explored ways to expand trade, investment and economic engagement during the 12th Session of the India–Belarus Inter-Governmental Commission on Trade, Economic, Scientific, Technological and Cultural Cooperation in New Delhi. The meeting was co-chaired by Minister of State for Commerce and Industry Jitin Prasada and Belarusian Foreign Minister Maxim Ryzhenkov. Both sides discussed measures to strengthen economic relations and signed the Protocol of the 12th Session. A key focus was the proposed Roadmap for Cooperation for 2027–2031 to identify future priorities. Cooperation was explored across industry, financial services, agriculture, pharmaceuticals, healthcare, tourism, education, culture, science and technology, construction and customs. Prasada invited Belarusian businesses to explore investment opportunities, joint ventures and technology partnerships in pharmaceuticals, machinery, engineering, chemicals, digital technologies and scientific research.",
-      "id": "national-business-3",
-      "micro_summary": "India and Belarus co-chaired the 12th Inter-Governmental Commission meeting in New Delhi to expand trade and investment ties.",
-      "publishers": 2,
+      "articles": 3,
+      "category": "entertainment",
+      "extended_summary": "Nitesh Tiwari-directed \"Ramayana\" has surpassed \"Dhurandhar\" to become the fifth highest-grossing Indian film worldwide, collecting Rs 1,384.50 crore globally in 11 days. The film set a new second weekend box office record in India with Rs 196 crore net, beating the previous record of Rs 172.70 crore. Starring Ranbir Kapoor as Ram, Sai Pallavi as Sita, and Yash as Ravana, the film earned Rs 48.10 crore on its second Friday, Rs 72.90 crore on Saturday, and Rs 75 crore on Sunday, marking a 33.6 percent jump over its first Sunday. Released in five languages including Hindi, Tamil, Telugu, Kannada, and Malayalam, the film collected Rs 760.60 crore net in India with nearly 3 crore tickets sold, Rs 909 crore gross domestically, and Rs 475.50 crore overseas. It now trails only \"Dangal,\" \"Dhurandhar 2,\" \"Baahubali 2,\" and \"Pushpa 2\" on the all-time list.",
+      "id": "national-entertainment-1",
+      "micro_summary": "\"Ramayana\" grossed Rs 1,384.50 crore worldwide in 11 days, becoming the fifth highest-grossing Indian film.",
+      "publishers": 3,
       "scope": "national",
-      "score": 0.594,
+      "score": 0.612,
       "sources": [
         {
-          "publisher": "DD News",
-          "url": "https://ddnews.gov.in/en/india-belarus-agree-to-deepen-trade-and-investment-ties-at-12th-inter-governmental-commission-meeting/"
+          "publisher": "The Indian Express",
+          "url": "https://indianexpress.com/article/entertainment/bollywood/ramayana-box-office-records-ranbir-kapoor-5th-highest-grossing-indian-film-10964904/"
         },
         {
-          "publisher": "BusinessLine",
-          "url": "https://www.thehindubusinessline.com/economy/india-thailand-trade-grows-126-to-2149-billion-upi-promptpay-link-discussed/article71709276.ece"
-        }
-      ],
-      "summary": "India and Belarus reviewed bilateral cooperation and signed a protocol at the 12th Inter-Governmental Commission in New Delhi, co-chaired by Jitin Prasada and Maxim Ryzhenkov, focusing on a 2027–2031 roadmap and sectors including pharmaceuticals and agriculture.",
-      "timestamp": "2026-11-16T17:24:35Z"
-    },
-    {
-      "ai": true,
-      "articles": 2,
-      "category": "entertainment",
-      "extended_summary": "Nitesh Tiwari-directed \"Ramayana\" has surpassed \"Dhurandhar\" to become the fifth highest-grossing Indian film worldwide, with a global collection of Rs 1,384.50 crore in 11 days. The film crossed the Rs 1,000 crore mark within eight days of release and set a new second weekend box office record in India, collecting Rs 196 crore net and beating the previous record of Rs 172.70 crore. The film earned Rs 48.10 crore on its second Friday, Rs 72.90 crore on Saturday, and Rs 75 crore on Sunday, marking a 33.6 per cent jump over its first Sunday collection of Rs 56.15 crore. After 11 days, \"Ramayana\" has collected Rs 760.60 crore in India net earnings with nearly 3 crore tickets sold, Rs 909 crore in India gross, and Rs 475.50 crore overseas. It trails only \"Dangal\", \"Dhurandhar 2\", \"Baahubali 2\", and \"Pushpa 2\". The film stars Ranbir Kapoor, Sai Pallavi, and Yash.",
-      "id": "national-entertainment-1",
-      "micro_summary": "\"Ramayana\" becomes fifth highest-grossing Indian film with Rs 1,384.50 crore and sets second weekend record of Rs 196 crore.",
-      "publishers": 2,
-      "scope": "national",
-      "score": 0.541,
-      "sources": [
-        {
           "publisher": "ThePrint",
-          "url": "https://theprint.in/entertainment/ramayana-dhurandhar-box-office-5th-highest-grossing-indian-film/3099994/?amp"
+          "url": "https://theprint.in/entertainment/ramayana-dhurandhar-box-office-5th-highest-grossing-indian-film/3099994/"
         },
         {
           "publisher": "The Week",
           "url": "https://www.theweek.in/news/entertainment/2026/11/16/ramayana-fifth-highest-grossing-indian-film-on-day-11.html"
         }
       ],
-      "summary": "Nitesh Tiwari's \"Ramayana\" has become the fifth highest-grossing Indian film worldwide, collecting Rs 1,384.50 crore globally in 11 days, and set a new Indian second weekend box office record with Rs 196 crore net, surpassing \"Dhurandhar\".",
-      "timestamp": "2026-11-16T09:33:15Z"
-    },
-    {
-      "ai": true,
-      "articles": 2,
-      "category": "politics",
-      "extended_summary": "Rahul Gandhi and other INDIA bloc leaders have filed an application in the Supreme Court seeking leave to serve 48 interrogatories on the Election Commission of India, Chief Election Commissioner Gyanesh Kumar, Election Commissioners Sukhbir Singh Sandhu and Vivek Joshi, and the Director General of Information Technology. The application is part of a pending petition challenging the Special Intensive Revision of electoral rolls, registered as W.P.(C) No. 001351/2026 and filed on October 12. The interrogatories seek details on whether SIR decisions were taken by the Commission as a body or by the Chief Election Commissioner alone, dates of approvals, objections recorded by Election Commissioners, details of voter deletions, changes to Form 6 and ECINET, and appeals filed in West Bengal. The petitioners allege large-scale deletion of voters and irregularities in the revision exercise. The Supreme Court had issued notice to the Election Commission and its commissioners in October.",
-      "id": "national-politics-1",
-      "micro_summary": "Rahul Gandhi and INDIA bloc leaders seek Supreme Court permission to serve 48 interrogatories on the Election Commission.",
-      "publishers": 2,
-      "scope": "national",
-      "score": 0.631,
-      "sources": [
-        {
-          "publisher": "LawBeat",
-          "url": "https://lawbeat.in/amp/top-stories/rahul-gandhi-india-bloc-seeks-supreme-court-leave-to-place-sir-related-interrogatories-before-eci-1652376"
-        },
-        {
-          "publisher": "The New Indian Express",
-          "url": "https://www.newindianexpress.com/india/2026/Nov/16/who-ordered-sir-rahul-gandhi-india-bloc-leaders-seek-sc-nod-to-question-ec-in-48-queries"
-        }
-      ],
-      "summary": "Rahul Gandhi and INDIA bloc leaders approached the Supreme Court seeking permission to serve 48 interrogatories on the Election Commission regarding the Special Intensive Revision of electoral rolls and alleged voter deletions.",
-      "timestamp": "2026-11-16T18:00:51Z"
-    },
-    {
-      "ai": true,
-      "articles": 2,
-      "category": "politics",
-      "extended_summary": "The Supreme Court of India suspended life sentences and granted bail to two of the 11 convicts in the 2002 Bilkis Bano gang rape and murder case. The two-judge bench noted that the convicts had already spent more than 17 years in jail and that one of them is severely handicapped. The order was passed against the Bombay High Court's May order which had upheld their conviction and sentence. Bipin Chandra Joshi and Pradeep Mordhiya are among the 11 convicts whose remission the Supreme Court had quashed in 2024. The case dates back to 2002 when Gujarat was hit by communal riots during which some 2,000 people were killed, mostly Muslims. Bilkis Bano was five months pregnant when she was gang-raped during the riots while her three-year-old daughter and six other family members were killed.",
-      "id": "national-politics-2",
-      "micro_summary": "Supreme Court grants bail to two Bilkis Bano case convicts after 17 years in jail.",
-      "publishers": 2,
-      "scope": "national",
-      "score": 0.593,
-      "sources": [
-        {
-          "publisher": "DW.com",
-          "url": "https://www.dw.com/en/india-news-modi-heads-to-asean-meet-in-manila/live-79954596"
-        },
-        {
-          "publisher": "News On AIR",
-          "url": "https://newsonair.gov.in/pm-modi-to-embark-on-two-day-visit-to-philippines-tomorrow-to-attend-asean-india-summit-and-east-asia-summit/"
-        }
-      ],
-      "summary": "The Supreme Court suspended life sentences and granted bail to two of 11 convicts in the 2002 Bilkis Bano gang rape case, noting they served over 17 years and one is severely handicapped.",
-      "timestamp": "2026-11-16T16:20:06Z"
+      "summary": "Nitesh Tiwari's \"Ramayana\" collected Rs 1,384.50 crore worldwide in 11 days, setting a second weekend record of Rs 196 crore net in India and becoming the fifth highest-grossing Indian film globally, starring Ranbir Kapoor and Sai Pallavi.",
+      "timestamp": "2026-11-16T10:59:47Z"
     },
     {
       "ai": true,
       "articles": 2,
       "category": "science",
-      "extended_summary": "Prime Minister Narendra Modi shared writing by former Indian Space Research Organisation Chairman Somanath Sreedhara Panicker that highlights India's achievements in space exploration and outlines the roadmap for future missions. The piece reflects on how the Prime Minister's leadership and a clear national vision have helped advance India's space ambitions. It emphasizes the significance of the Indian Space Policy 2023, which opened the space sector to greater private-sector participation and created opportunities for non-government entities to contribute to the country's space programme. The writing outlines India's future priorities, including human spaceflight, the development of the Bharatiya Antariksh Station, and deeper exploration of the Moon. These initiatives form part of the country's broader ambition to expand its capabilities and strengthen its position in the global space sector.",
+      "extended_summary": "India has joined a US-led initiative called Pax Silica, signing the San Francisco Declaration alongside the United States, Japan, Australia, Israel, the United Kingdom, South Korea, Qatar, the United Arab Emirates and Singapore. The agreement aims to protect critical artificial intelligence technologies and supply chains, covering semiconductors, critical minerals, advanced manufacturing, energy infrastructure and data centres. Signatories agreed to treat the security of these technologies and infrastructure as a shared responsibility to ensure economic security and enduring prosperity. The declaration establishes working groups to identify vulnerabilities, exchange information and explore economic hubs for AI-related investments. India's participation strengthens its position in the global technology supply chain, bringing deep talent, processing capacity for critical minerals and AI infrastructure investments. The accord addresses concerns about supply chain disruptions, economic coercion and non-market policies while protecting private investment and ensuring a level playing field for innovation.",
       "id": "national-science-1",
-      "micro_summary": "Prime Minister Modi shared writing on India's space achievements, the 2023 Space Policy, and future lunar missions.",
+      "micro_summary": "India joined the US-led Pax Silica initiative by signing the San Francisco Declaration to protect AI supply chains.",
       "publishers": 2,
       "scope": "national",
-      "score": 0.615,
+      "score": 0.557,
+      "sources": [
+        {
+          "publisher": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/amid-china-rivalry-india-joins-move-to-shield-ai-tech-chain/articleshow/135902064.cms"
+        },
+        {
+          "publisher": "NDTV",
+          "url": "https://www.ndtv.com/business-news/nvidia-jensen-huang-row-india-joins-us-pact-to-secure-ai-supply-chains-from-china-12331960"
+        }
+      ],
+      "summary": "India joined the US, Japan, Australia, Israel, the UK, South Korea, Qatar, the UAE and Singapore in signing the San Francisco Declaration to jointly protect AI supply chains, semiconductors, critical minerals and infrastructure from security threats.",
+      "timestamp": "2026-11-16T21:04:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "science",
+      "extended_summary": "India and nine other nations signed the San Francisco Declaration on the Secure Foundations of Enduring Prosperity on November 15 at the Pax Silica retreat convened by US under-secretary of state for economic affairs Jacob Helberg. The other signatories were the US, Australia, Israel, Japan, the Republic of Korea, Qatar, Singapore, the UAE and the UK. The declaration affirms that economic security is fundamental to national security and establishes a shared endeavor to protect critical AI infrastructure and sensitive technologies that underpin AI supply chains. It defines sensitive technologies as goods, software, knowledge, components, inputs and means of production used in AI supply chains, and critical infrastructure as physical and digital systems including ports, terminals, transport, communications, logistics networks, information technology and digital platforms. The agreement also proposes five working groups to foster AI adoption, supply chain cooperation, AI security and pre-innovation policy.",
+      "id": "national-science-2",
+      "micro_summary": "India and nine nations signed the San Francisco Declaration to protect critical AI infrastructure and sensitive technologies.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.556,
+      "sources": [
+        {
+          "publisher": "Inc42",
+          "url": "https://inc42.com/buzz/india-nine-other-nations-sign-declaration-to-secure-ai-supply-chains/"
+        },
+        {
+          "publisher": "News On AIR",
+          "url": "https://newsonair.gov.in/india-u-s-and-eight-other-nations-sign-declaration-to-safeguard-ai-supply-chains/"
+        }
+      ],
+      "summary": "India and nine other countries signed the San Francisco Declaration on November 15 to safeguard AI supply chains, critical infrastructure and sensitive technologies as a shared endeavor for economic and national security.",
+      "timestamp": "2026-11-16T21:44:01Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "science",
+      "extended_summary": "Prime Minister Narendra Modi shared a piece written by former Indian Space Research Organisation Chairman Somanath Sreedhara Panicker that highlights India's achievements in space exploration and its roadmap for future missions. The piece reflects on how the Prime Minister's leadership and a clear national vision have helped advance India's space ambitions. It emphasizes the significance of the Indian Space Policy 2023, which opened the space sector to greater private-sector participation and created opportunities for non-government entities to contribute to the country's space programme. The piece outlines India's future priorities in space, including human spaceflight, the development of the Bharatiya Antariksh Station, and deeper exploration of the Moon. These initiatives form part of the country's broader ambition to expand its capabilities and strengthen its position in the global space sector.",
+      "id": "national-science-3",
+      "micro_summary": "Prime Minister Narendra Modi shared a piece by former ISRO Chairman Somanath Panicker on India's space achievements and future missions.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.545,
       "sources": [
         {
           "publisher": "PM India",
@@ -595,92 +618,42 @@
           "url": "https://ddindia.co.in/2026/11/pm-modi-shares-an-article-on-indias-space-achievements-and-future-missions/"
         }
       ],
-      "summary": "Prime Minister Narendra Modi shared writing by former ISRO Chairman Somanath Sreedhara Panicker highlighting India's space achievements, the Indian Space Policy 2023, and future missions including human spaceflight, the Bharatiya Antariksh Station, and lunar exploration.",
+      "summary": "Prime Minister Narendra Modi shared a piece by former ISRO Chairman Somanath Sreedhara Panicker highlighting India's space achievements, the Indian Space Policy 2023, and future missions including human spaceflight, the Bharatiya Antariksh Station, and lunar exploration.",
       "timestamp": "2026-11-16T12:52:00Z"
     },
     {
       "ai": true,
       "articles": 2,
       "category": "science",
-      "extended_summary": "India has joined the San Francisco Declaration on the Secure Foundations of Enduring Prosperity, a US-led initiative signed by the United States, Japan, Australia, Israel, the United Kingdom, South Korea, Qatar and the United Arab Emirates to protect critical artificial intelligence technologies and supply chains from China. Germany, Sweden, the Netherlands and the European Commission are expected to join next week. The declaration marks a new phase of Pax Silica, launched in December 2025 to make AI supply chains more resilient and reduce dependence on Chinese-controlled chokepoints. The agreement covers semiconductors, critical minerals, advanced manufacturing, energy infrastructure and data centres. Signatories will establish working groups to identify vulnerabilities, exchange information and explore economic hubs for AI investments. The initiative addresses concerns over China's access to advanced AI chips and aims to secure technologies spread across multiple countries.",
-      "id": "national-science-2",
-      "micro_summary": "India joins US-led San Francisco Declaration to secure AI supply chains from China alongside eight other nations.",
+      "extended_summary": "IBM Chairman and CEO Arvind Krishna stated that artificial intelligence could displace 10-20% of jobs over the next decade, with the business process outsourcing industry facing the most significant reductions. Speaking in New Delhi, he said businesses and governments must prepare workers for changing roles, noting that nearly half of IBM's code is already AI-generated. Krishna announced IBM will end U.S. visa and green card sponsorship for most Consulting roles, though affected workers can relocate outside the U.S. or leave by year-end. Meanwhile, IBM continues expanding in India, having hired 5,000-10,000 people there over the past year and investing approximately $3 billion annually, a figure that may rise. The company is in talks for at least two large projects following the Amravati Quantum Tech Park and plans to invest $10 billion in quantum over five years. Krishna estimated AI could add $500 billion to India's GDP by decade's end and urged scaling existing bets like semiconductors before taking new ones.",
+      "id": "national-science-4",
+      "micro_summary": "IBM CEO Arvind Krishna warns AI may displace 10-20% of jobs while expanding India operations with $3 billion annual investment.",
       "publishers": 2,
       "scope": "national",
-      "score": 0.613,
+      "score": 0.51,
       "sources": [
         {
-          "publisher": "LinkedIn",
-          "url": "https://www.linkedin.com/posts/cnbc-tv18_paxsilica-sanfranciscodeclaration-india-activity-7528128770025807872-l9Ey"
+          "publisher": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/ibm-in-talks-for-2-large-projects-in-india-ceo-krishna/articleshow/135905284.cms"
         },
         {
-          "publisher": "NDTV",
-          "url": "https://www.ndtv.com/business-news/nvidia-jensen-huang-row-india-joins-us-pact-to-secure-ai-supply-chains-from-china-12331960"
+          "publisher": "The Hindu",
+          "url": "https://www.thehindu.com/business/ibm-investing-3-billion-annually-in-india-plans-10-bn-global-quantum-push-ceo/article71709347.ece"
         }
       ],
-      "summary": "India has signed the San Francisco Declaration, a US-led agreement with eight other nations to protect AI technologies and supply chains from China, covering semiconductors, critical minerals and data centres under the Pax Silica initiative.",
-      "timestamp": "2026-11-16T16:16:04Z"
-    },
-    {
-      "ai": true,
-      "articles": 3,
-      "category": "sports",
-      "extended_summary": "The Prince and Princess of Wales played street cricket and took a trip on the metro during the first day of their three-day visit to India. In the coming days, the royal couple will be attending events for the Earthshot Prize, which William founded, as well as meeting with Indian Prime Minister Narendra Modi. It marks the first time in four years that William and Catherine have been on an official overseas trip together, following Catherine's treatment for cancer. The visit began with these activities on the first day of the three-day schedule, with further engagements planned including the Earthshot Prize events and the meeting with the Indian Prime Minister.",
-      "id": "national-sports-1",
-      "micro_summary": "The Prince and Princess of Wales played street cricket during the first day of their three-day visit to India.",
-      "publishers": 3,
-      "scope": "national",
-      "score": 0.624,
-      "sources": [
-        {
-          "publisher": "BBC",
-          "url": "https://www.bbc.com/news/videos/crkgvnl51w1vo"
-        },
-        {
-          "publisher": "Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-16/william-and-kate-begin-india-tour-with-cricket-and-climate"
-        },
-        {
-          "publisher": "Forbes India",
-          "url": "https://www.forbesindia.com/life/sports/william-and-kate-in-mumbai-metro-ride-gully-cricket-photogallery/3000589"
-        }
-      ],
-      "summary": "The Prince and Princess of Wales played street cricket and took a trip on the metro during the first day of their three-day visit to India, their first official overseas trip together in four years following Catherine's cancer treatment.",
-      "timestamp": "2026-11-16T15:08:59Z"
-    },
-    {
-      "ai": true,
-      "articles": 2,
-      "category": "sports",
-      "extended_summary": "Prince William and Princess Catherine played street cricket at Ballard Estate in Mumbai on Monday with Sachin Tendulkar and schoolchildren. Tendulkar batted and bowled, facing deliveries from William and bowling to Catherine, while the royals and children also participated. Before the game, they shared tea from clay cups at a nearby stall. The event was part of their three-day India visit, their second to the country after 2016 and first overseas trip together in four years following Catherine's cancer treatment. They will attend the Earthshot Prize Awards on Tuesday and meet Prime Minister Narendra Modi on Wednesday. The session coincided with the anniversary of Tendulkar's 2013 retirement, after he scored 34,357 runs in 664 international matches including 100 centuries, with his final appearance against the West Indies at Wankhede Stadium where he scored 74 runs.",
-      "id": "national-sports-2",
-      "micro_summary": "Prince William, Princess Catherine and Sachin Tendulkar played street cricket with Mumbai schoolchildren on Monday.",
-      "publishers": 2,
-      "scope": "national",
-      "score": 0.57,
-      "sources": [
-        {
-          "publisher": "BBC",
-          "url": "https://www.bbc.com/news/videos/cmvg2nl8v22do"
-        },
-        {
-          "publisher": "INDIA New England News",
-          "url": "https://indianewengland.com/sachin-tendulkar-plays-street-cricket-with-prince-william-and-princess-catherine-in-mumbai/"
-        }
-      ],
-      "summary": "Prince William and Princess Catherine joined Sachin Tendulkar for a street cricket game at Ballard Estate in Mumbai on Monday, batting and bowling with local schoolchildren during their three-day India visit ahead of the Earthshot Prize Awards.",
-      "timestamp": "2026-11-16T17:51:09Z"
+      "summary": "IBM CEO Arvind Krishna said AI could displace 10-20% of jobs over the next decade, with BPO hit hardest, while announcing IBM will end U.S. visa sponsorship for most consulting roles and expand its $3 billion annual investment in India.",
+      "timestamp": "2026-11-16T23:33:00Z"
     },
     {
       "ai": true,
       "articles": 2,
       "category": "tragedies",
-      "extended_summary": "Maharashtra Chief Minister Devendra Fadnavis on Monday urged Union Home Minister Amit Shah to expedite the investigation into the plane crash that killed former Deputy Chief Minister Ajit Pawar and make the findings public at the earliest. Speaking at a programme in Pune where Shah unveiled a bust of the late leader, Fadnavis noted that eight to 10 months have passed since the incident while a major investigation involving teams from different countries and international agencies continues. He emphasized that the confusion and apprehensions among ordinary people must be addressed, calling for strict action if anyone is found guilty. Ajit Pawar died on January 28 when a Learjet 45 aircraft operated by VSR Ventures crashed while attempting to land at Baramati airport during a flight from Mumbai to Baramati. Four others also died in the crash. The Maharashtra CID and the Aircraft Accident Investigation Bureau are conducting separate investigations.",
+      "extended_summary": "Maharashtra Chief Minister Devendra Fadnavis has urged Union Home Minister Amit Shah to expedite the investigation into the plane crash that killed former Deputy Chief Minister Ajit Pawar and four others on January 28. The Learjet 45 aircraft operated by VSR Ventures crashed while attempting to land at Baramati airport while flying from Mumbai. Eight to ten months after the incident, the Maharashtra CID and the Aircraft Accident Investigation Bureau are conducting separate probes with assistance from international agencies. Fadnavis stated that the confusion among ordinary people must be addressed and the report released at the earliest, adding that strict action should be taken if anyone is found guilty. Following Pawar's death, his wife Sunetra Pawar assumed the role of NCP president and became Maharashtra's deputy chief minister.",
       "id": "national-tragedies-1",
-      "micro_summary": "Maharashtra CM urges expedited probe into plane crash that killed Deputy CM Ajit Pawar and four others.",
+      "micro_summary": "Maharashtra CM urges expedited probe into plane crash that killed former deputy CM Ajit Pawar and four others.",
       "publishers": 2,
       "scope": "national",
-      "score": 0.566,
+      "score": 0.51,
       "sources": [
         {
           "publisher": "The Indian Express",
@@ -691,19 +664,19 @@
           "url": "https://timesofindia.indiatimes.com/india/ajit-pawar-plane-crash-maharashtra-cm-urges-amit-shah-to-fast-track-probe-release-early-report/articleshow/135884242.cms"
         }
       ],
-      "summary": "Maharashtra Chief Minister Devendra Fadnavis urged Union Home Minister Amit Shah to expedite the investigation into the January 28 plane crash that killed former Deputy Chief Minister Ajit Pawar and four others, demanding the findings be made public.",
+      "summary": "Maharashtra Chief Minister Devendra Fadnavis urged Union Home Minister Amit Shah to expedite the investigation into the January 28 plane crash that killed former Deputy Chief Minister Ajit Pawar and four others, and to make findings public.",
       "timestamp": "2026-11-16T16:39:32Z"
     },
     {
       "ai": true,
       "articles": 2,
       "category": "tragedies",
-      "extended_summary": "NCP (SP) MLA Rohit Pawar accused Maharashtra Chief Minister Devendra Fadnavis of shielding VK Singh, owner of VSR Ventures, in the probe into the January 28 Learjet crash near Baramati that killed former Deputy Chief Minister Ajit Pawar and four others. Pawar demanded the investigation be transferred from the state CID to the CBI and called for action against Singh, alleging Fadnavis was protecting him due to financial connections. He clarified he was not accusing anyone of causing the crash. The BJP rejected the allegations, accusing Pawar of low-level politics. Pawar also alleged financial irregularities including Singh's son purchasing a Rs 18 crore house in the US and routing Rs 868 crore through a Kolkata-based company.",
+      "extended_summary": "NCP (SP) MLA Rohit Pawar accused Maharashtra Chief Minister Devendra Fadnavis of shielding aviation firm VSR Ventures and its owner VK Singh in the investigation into the January 28 plane crash that killed former Deputy Chief Minister Ajit Pawar and four others near the Baramati air strip in Pune district. Pawar, Ajit Pawar's nephew, demanded the probe be transferred from the state CID to the CBI, alleging Fadnavis used his influence to protect Singh due to financial resources and connections. He clarified he was not accusing anyone of causing the crash but alleged influential people were protecting those who should be investigated. Pawar also alleged Singh's son purchased an Rs 18 crore house in the US within two days of the crash and claimed Singh controlled 27 companies and routed Rs 868 crore through a Kolkata-based company. BJP spokesperson Navnath Ban rejected the allegations, calling them low-level politics and publicity-seeking.",
       "id": "national-tragedies-2",
-      "micro_summary": "NCP MLA Rohit Pawar accused CM Fadnavis of shielding VSR Ventures owner in probe into crash that killed Ajit Pawar.",
+      "micro_summary": "NCP MLA Rohit Pawar accused CM Devendra Fadnavis of shielding VSR Ventures owner in probe into Ajit Pawar's fatal crash.",
       "publishers": 2,
       "scope": "national",
-      "score": 0.507,
+      "score": 0.491,
       "sources": [
         {
           "publisher": "NDTV",
@@ -714,7 +687,7 @@
           "url": "https://timesofindia.indiatimes.com/city/mumbai/fadnavis-shielding-aircraft-owner-rohit-pawar-targets-maharashtra-cm-over-ajit-pawar-crash-probe/articleshow/135895386.cms"
         }
       ],
-      "summary": "NCP MLA Rohit Pawar accused Maharashtra CM Devendra Fadnavis of shielding VSR Ventures owner VK Singh in the probe into the January 28 Learjet crash that killed ex-Deputy CM Ajit Pawar and four others, demanding a CBI investigation.",
+      "summary": "NCP MLA Rohit Pawar accused Maharashtra CM Devendra Fadnavis of shielding VSR Ventures owner VK Singh in the probe into the January 28 Learjet crash that killed former Deputy CM Ajit Pawar and four others, demanding a CBI investigation.",
       "timestamp": "2026-11-16T16:52:29Z"
     }
   ]
