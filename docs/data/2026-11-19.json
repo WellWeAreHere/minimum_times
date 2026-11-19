@@ -2,15 +2,15 @@
   "date": "2026-11-19",
   "events": [
     {
-      "ai": true,
+      "ai": false,
       "articles": 5,
       "category": "business",
-      "extended_summary": "The General Medical Council (GMC) has apologised after erroneously emailing personal identifiable data relating to 223 doctors to a newspaper. The information, sent in error when responding to a media request, included GMC unique identification numbers, details of allegations of antisemitism or Islamophobia, and in some cases ethnicity. Some complaints did not meet the threshold for investigation, meaning affected doctors may have learned of allegations for the first time through the breach notification. The newspaper has stated it will not publish the private details at this stage but will not delete the data. The GMC has contacted affected doctors to apologise and offer support, and has reported itself to the Information Commissioner's Office. The British Medical Association condemned the breach as unacceptable, noting doctors are entitled to confidentiality, while the Doctors' Association UK called for an independent investigation into how the leak occurred and demanded the information be deleted.",
-      "id": "international-business-1",
-      "micro_summary": "The GMC erroneously shared personal data of 223 doctors with a newspaper.",
+      "extended_summary": "More than 200 doctors have had their details sent in error to the Times newspaper The doctors' regulator the General Medical Council (GMC) has apologised after it mistakenly sent information about more than 220 doctors to a national newspaper. The information included summaries of complaints alleging antisemitism or Islamophobia against the doctors. For some of the medics involved, it was only when the GMC alerted them to the data breach that they discovered a complaint had been made about them. The GMC says it is \"very sorry\" for the incident and has reported itself to the Information Commissioner's Office. The GMC - an independent body that regulates doctors, physician associates and anaesthesia associates to protect patient safety - sent the information about 223 doctors to a journalist at the Times newspaper. While no names were revealed, GMC identification numbers were included, which would easily allow doctors to be found on",
+      "id": "international-business-2",
+      "micro_summary": "Regulator mistakenly sent complaints about doctors to newspaper.",
       "publishers": 5,
       "scope": "international",
-      "score": 0.809,
+      "score": 0.668,
       "sources": [
         {
           "publisher": "BBC",
@@ -25,401 +25,656 @@
           "url": "https://www.independent.co.uk/news/uk/home-news/doctors-data-leak-general-medical-council-b3087280.html"
         }
       ],
-      "summary": "The General Medical Council apologised after erroneously emailing personal identifiable data of 223 doctors, including complaint details and ethnicity, to a newspaper, which has refused to delete the information despite promising not to publish it.",
+      "summary": "Regulator mistakenly sent complaints about doctors to newspaper. Medical professionals have called for an inquiry after the regulator sent details concerning 223 doctors to a national newspaper journalist \"in error\".",
       "timestamp": "2026-11-18T17:48:10Z"
     },
     {
-      "ai": true,
+      "ai": false,
       "articles": 5,
-      "category": "politics",
-      "extended_summary": "Ukrainian forces attacked the Crimean Bridge across the Kerch Strait again on Wednesday, temporarily halting traffic two days after a previous strike destroyed a 227-metre section of the road span. The Kremlin-appointed governor of Crimea confirmed the latest attack, stating that damage assessment is underway and all relevant services are on site. This marks the third strike on the bridge this week. The 19-kilometre bridge, which links annexed Crimea to Russia's Krasnodar Krai and is the longest in Europe, was previously hit in October 2022 and July 2023. While the road section collapsed in the earlier attack, the railway corridor remains operational despite sustaining damage. Ukrainian President Volodymyr Zelenskyy described the earlier operation as unprecedented, involving domestically produced Palianytsia drones and Neptune missiles. Russia has vowed to restore the bridge, though experts estimate repairs could take a year or more.",
-      "id": "international-politics-1",
-      "micro_summary": "Ukrainian forces attacked the Crimean Bridge again, halting traffic after a 227-metre road section was destroyed.",
+      "category": "business",
+      "extended_summary": "A senior United States Navy official has claimed that insurance costs for commercial ships crossing the Strait of Hormuz have soared to $64m for a single transit, highlighting the enormous economic toll of the US-Israeli war on Iran. Acting US Navy Secretary Hung Cao made the remarks during a Senate Armed Services Committee confirmation hearing on Tuesday, as lawmakers questioned the cost of the war and its impact on freedom of navigation. After the US and Israel launched strikes on Iran on February 28, Iran in effect closed the strait, allowing only some ships to pass while targeting those it says are unauthorised. This has raised the risks for shipping in the strait exponentially and caused severe shortages of oil, gas, fertiliser and other essential products from Gulf producers usually shipped via this route. Cao’s claim has not been independently verified and challenges previously reported rises in insurance costs over",
+      "id": "international-business-4",
+      "micro_summary": "US official says Hormuz insurance hits $64m: Is the strait really open?",
       "publishers": 5,
       "scope": "international",
-      "score": 0.869,
+      "score": 0.613,
       "sources": [
-        {
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine"
-        },
-        {
-          "publisher": "The Kyiv Independent",
-          "url": "https://kyivindependent.com/ukrainian-forces-once-more-hit-russias-crimean-bridge-days-after-devastating-strike/"
-        },
-        {
-          "publisher": "The Times",
-          "url": "https://www.thetimes.com/world/asia/article/putin-trump-xi-summit-china-gmfsb76xz"
-        }
-      ],
-      "summary": "Ukrainian forces struck the Crimean Bridge for the third time this week, temporarily halting traffic after a previous attack destroyed a 227-metre road section while the rail line remains operational.",
-      "timestamp": "2026-11-18T23:27:00Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "politics",
-      "extended_summary": "Donald Trump will meet Chinese leader Xi Jinping and Russian President Vladimir Putin on Thursday in Shenzhen, China, on the sidelines of a summit for Asia-Pacific countries. The trilateral meeting, reportedly proposed by Putin, comes as Trump appears to embrace a reorientation of American foreign policy toward spheres of influence. While Trump has expressed interest in discussing nuclear disarmament, substantive discussion of artificial intelligence is not expected. The gathering has unsettled traditional US allies, with Eastern European leaders including Volodymyr Zelensky and Poland's foreign minister Radosław Sikorski warning against a reprise of the 1945 Yalta Conference. However, analysts argue comparisons are overblown as no agenda has been agreed in advance. The meeting occurs alongside Quad naval exercises in the Western Pacific involving US, Japanese, Australian, and Indian forces, highlighting shifting geopolitical alignments.",
-      "id": "international-politics-2",
-      "micro_summary": "Donald Trump meets Xi Jinping and Vladimir Putin in Shenzhen for a trilateral summit on Thursday.",
-      "publishers": 4,
-      "scope": "international",
-      "score": 0.828,
-      "sources": [
-        {
-          "publisher": "Sky News",
-          "url": "https://news.sky.com/story/apec-summit-latest-historic-trump-putin-xi-talks-to-take-place-after-handshake-goes-viral-in-russia-13612438"
-        },
-        {
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/live/cmlye926e2eet"
-        },
-        {
-          "publisher": "The Telegraph",
-          "url": "https://www.telegraph.co.uk/world-news/2026/11/18/trumps-meeting-with-xi-and-putin-could-redraw-world-order/"
-        }
-      ],
-      "summary": "Donald Trump meets Chinese leader Xi Jinping and Russian President Vladimir Putin on Thursday in Shenzhen, China, for a trilateral meeting on the sidelines of an Asia-Pacific summit, with nuclear disarmament among possible topics.",
-      "timestamp": "2026-11-18T23:18:31Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "politics",
-      "extended_summary": "Israeli forces launched a ground operation in central Gaza, advancing west of the Yellow Line marking the area under Israeli control under the October 10, 2025 ceasefire. The operation, the first major ground offensive since the ceasefire took effect, targeted areas near the Nuseirat and Bureij refugee camps, with tanks and bulldozers advancing toward Salah al-Din Street amid heavy gunfire and artillery. The military issued evacuation orders and closed a section of the road, stating the precise operation aimed to dismantle a terror tunnel and remove threats. Hamas accused Israel of a flagrant violation of the ceasefire. Attacks killed four Palestinians: one in al-Mughraqa and three in Deir el-Balah, Nuseirat and Gaza City. The Yellow Line now encompasses around two-thirds of Gaza, where more than two million Palestinians live in the remaining territory, mostly in tents. The US-backed Board of Peace had warned the 13-month-old agreement risks collapse.",
-      "id": "international-politics-3",
-      "micro_summary": "Israeli forces launched a ground operation in central Gaza west of the ceasefire line, killing four people.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.818,
-      "sources": [
-        {
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno"
-        },
-        {
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza"
-        },
         {
           "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza"
+          "url": "https://www.aljazeera.com/news/2026/11/18/us-official-says-hormuz-insurance-hits-64m-is-the-strait-really-open"
+        },
+        {
+          "publisher": "TradeWinds News",
+          "url": "https://www.tradewindsnews.com/insurance/middle-east-war-claims-near-3bn-as-insurers-take-loss-of-hire-hit/2-1-2076793"
+        },
+        {
+          "publisher": "Lloyd's List",
+          "url": "https://www.lloydslist.com/LL1159056/The-Daily-View-Shippings-green-transition-is-becoming-lost-in-the-workarounds"
         }
       ],
-      "summary": "Israeli forces launched a ground operation in central Gaza west of the Yellow Line ceasefire boundary, advancing toward Salah al-Din Street near Nuseirat and Bureij camps, issuing evacuation orders, and killing four Palestinians in attacks.",
-      "timestamp": "2026-11-18T20:14:57Z"
+      "summary": "US official says Hormuz insurance hits $64m: Is the strait really open? Cao’s claim has not been independently verified and challenges previously reported rises in insurance costs over the course of the nine-month-old conflict.",
+      "timestamp": "2026-11-18T14:52:13Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "entertainment",
+      "extended_summary": "An American newlywed was left fighting for his life after a hippopotamus attack in Botswana, and says he only survived because his wife punched it until it let him go. Samuel McKee, 31, and his wife Anna were on their honeymoon in the Okavango Delta in September last year when their wildlife excursion turned into a fight for survival. The Washington state couple were travelling through the delta in a traditional mokoro canoe when their guide had pointed out a mother hippo and her calves and warned them to avoid the area, the couple told Newsweek. But the animal suddenly charged, tossing the husband and his wife into the water. “Then the hippo hit. It grabbed me around the torso and pinned me to the bottom of the swamp,” Samuel McKee told Newsweek. “What I remember most was the force. It was more force than I’d ever experienced in my",
+      "id": "international-entertainment-1",
+      "micro_summary": "Horror as raging hippo rips open groom on honeymoon before bride punches beast in face.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.556,
+      "sources": [
+        {
+          "publisher": "AOL.co.uk",
+          "url": "https://www.aol.co.uk/articles/horror-raging-hippo-rips-open-105500000.html"
+        },
+        {
+          "publisher": "NZ Herald",
+          "url": "https://www.nzherald.co.nz/world/hippo-attack-in-botswana-newlywed-says-brave-wifes-actions-saved-his-life/RKETYENR3JGNJCE4APAWDO35LE/"
+        },
+        {
+          "publisher": "Fodors Travel Guide",
+          "url": "https://www.fodors.com/world/africa-and-middle-east/botswana/experiences/news/a-hippo-disemboweled-a-tourist-on-his-honeymoon-how-dangerous-are-safaris-really"
+        }
+      ],
+      "summary": "Horror as raging hippo rips open groom on honeymoon before bride punches beast in face. A newlywed woman saved her husband's life after punching a hippopotamus in the head as the animal mauled him during their honeymoon safari in Botswana.",
+      "timestamp": "2026-11-18T10:55:53Z"
     },
     {
       "ai": true,
       "articles": 5,
       "category": "politics",
-      "extended_summary": "Israel postponed issuing contracts for the E1 West Bank settlement days after the UK sanctioned eight building firms operating in the area. Attorney General Gali Baharav-Miara said the caretaker government led by Benjamin Netanyahu should not decide on expansion, ordering the Israel land authority and housing ministry not to open the tender for 3,401 housing units. The land between Jerusalem and Ma'aleh Adumim bisects the West Bank and cuts it off from East Jerusalem. Israeli diplomats insisted the move was not a response to UK measures, while UK diplomats believe growing political pressure is having an impact. Gadi Eisenkot, seen as Israel's most likely next prime minister, opposed the expansion as a mistake likely to alienate international opinion.",
-      "id": "international-politics-4",
-      "micro_summary": "Israel postponed the E1 settlement tender for 3,401 housing units after the attorney general barred the caretaker government from deciding.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.814,
-      "sources": [
-        {
-          "publisher": "Financial Times",
-          "url": "https://www.ft.com/content/22b7656c-5cce-4711-b3d9-e1939a68bb56?syn-25a6b1a6=1"
-        },
-        {
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/18/israel-construction-contracts-e1-west-bank-settlement-uk-sanctions"
-        },
-        {
-          "publisher": "The Times of Israel",
-          "url": "https://www.timesofisrael.com/ag-freezes-controversial-e1-settlement-tender-process-until-new-government-sworn-in/"
-        }
-      ],
-      "summary": "Israel postponed issuing contracts for the E1 West Bank settlement, with the attorney general ordering the caretaker government not to open the tender for 3,401 housing units, days after the UK sanctioned eight construction firms operating in the area.",
-      "timestamp": "2026-11-18T17:28:53Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "science",
-      "extended_summary": "Demographic projections estimate future changes in the size and geographic distribution of seven religious groups—Christians, Muslims, Hindus, Buddhists, Jews, followers of other religions, and the religiously unaffiliated—between 2020 and 2070. The analysis covers 201 countries and territories representing 99.98% of the world's population. Researchers employed an advanced cohort-based method, projecting populations by age and sex groups while modeling births, deaths, immigration, and emigration. The model incorporates differences in fertility rates between religious groups, past patterns of religious switching, and data from national censuses, surveys, 2024 global population prospects, and migration flow estimates. The projections establish 2020 as the baseline year and do not account for potential disruptions such as wars, natural disasters, or epidemics.",
-      "id": "international-science-1",
-      "micro_summary": "Projections forecast changes in seven religious groups' global populations through 2070 across 201 countries.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.841,
-      "sources": [
-        {
-          "publisher": "Sky News",
-          "url": "https://news.sky.com/story/muslims-projected-to-outnumber-christians-by-2035-with-majority-in-uk-non-religious-by-2070-13613731"
-        },
-        {
-          "publisher": "The Times",
-          "url": "https://www.thetimes.com/uk/religion/article/islam-overtake-christianity-2035-xjhdq3lqf"
-        },
-        {
-          "publisher": "Pew Research Center",
-          "url": "https://www.pewresearch.org/religion/2026/11/18/the-future-of-world-religions-population-growth-projections-2020-2070/"
-        }
-      ],
-      "summary": "Demographic projections estimate the size and distribution of seven religious groups from 2020 to 2070 across 201 countries covering 99.98% of the world's population, incorporating fertility, mortality, migration, and religious switching data.",
-      "timestamp": "2026-11-18T21:58:18Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "science",
-      "extended_summary": "In the past week, technology outages disrupted US services. A Microsoft network upgrade caused server overload, while a Federal Aviation Administration failure involving a copper wire upgrade and outdated equipment grounded all US flights for more than four hours, longest halt since September 11, 2001. The National Security Agency had communication problems, Apple's iCloud and Apple Pay suffered disruptions, JPMorgan Chase reported a software bug affecting banks, and a United Airlines failure delayed about 150 flights. Separately, AI discovered flaws in Java, and malicious code in Optimizely allowed hackers to steal approximately $7,000 in cryptocurrency. US Secretary of State Marco Rubio stated there was zero evidence linking incidents or indicating a systemic attack, asserting they were not inter-related and not caused by cyber-criminals or hostile actors. Director of National Intelligence Jay Clayton confirmed outages were not a cyber-attack, explaining institutions were patching or upgrading systems, causing disruptions.",
-      "id": "international-science-2",
-      "micro_summary": "Recent major tech outages affecting Microsoft, US flights, banks and Apple were unrelated and not cyber-attacks, officials say.",
-      "publishers": 4,
-      "scope": "international",
-      "score": 0.661,
-      "sources": [
-        {
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o"
-        },
-        {
-          "publisher": "Financial Times",
-          "url": "https://www.ft.com/content/96c565f1-f229-40b6-91e8-7a849ec4b208?syn-25a6b1a6=1"
-        }
-      ],
-      "summary": "Major tech outages grounded all US flights for over four hours and disrupted Microsoft, Apple, banks and the NSA, but officials state there is zero evidence linking them or indicating a cyber-attack, blaming outdated infrastructure and failed updates.",
-      "timestamp": "2026-11-18T02:15:19Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "science",
-      "extended_summary": "US Central Command has expanded its military operations in the Middle East through multiple initiatives. On November 7, the command announced Task Force Iron Gate, a 20-member team based in Tampa, Florida, designed to disrupt the movement of weapons and sanctioned materials across Iran's land borders and the Caspian Sea, complementing the existing naval blockade that has prevented over $25 billion in Iranian exports. Meanwhile, Central Command chief Admiral Brad Cooper is expected to arrive in Saudi Arabia this week with more than three dozen military advisors to examine the kingdom's air defense capabilities. The visit comes as Saudi Arabia faces Houthi aerial attacks, including four strikes on Riyadh airport within one week last month that killed at least 13 people, amid concerns about the kingdom's vulnerability to drone attacks.",
-      "id": "international-science-3",
-      "micro_summary": "US launches 20-member Task Force Iron Gate against Iran and sends advisors to Saudi Arabia.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.644,
-      "sources": [
-        {
-          "publisher": "Middle East Eye",
-          "url": "https://www.middleeasteye.net/news/us-centcom-commander-expected-saudi-arabia-dozens-air-defence-experts-sources-say"
-        },
-        {
-          "publisher": "The Times of Israel",
-          "url": "https://www.timesofisrael.com/liveblog_entry/after-iranian-attacks-us-reissues-security-warnings-to-americans-in-saudi-arabia-and-bahrain/"
-        },
-        {
-          "publisher": "Iran International",
-          "url": "https://www.iranintl.com/en/202611156493"
-        }
-      ],
-      "summary": "US Central Command announced Task Force Iron Gate, a 20-member team targeting Iran's land routes, while sending over three dozen advisors to Saudi Arabia to examine air defenses amid Houthi attacks.",
-      "timestamp": "2026-11-17T17:51:00Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "sports",
-      "extended_summary": "Defending champion Luke Littler suffered a shock exit from the Grand Slam of Darts in Wolverhampton after losing 10-8 to 16th seed Jermaine Wattimena in the second round. The 19-year-old world champion had earlier hit a remarkable 150 checkout by landing three bullseyes against Niels Zonneveld to secure his place in the last 16, though he lost that group match 5-4. Wattimena, 38, hit 10 maximum 180s and averaged 101.70 to secure the victory, while Littler averaged 101.38. The Dutchman twice threatened nine-darters and progressed to the quarter-finals where he will face compatriot Kevin Doets. Littler had asked the crowd whether he should attempt the audacious finish before throwing the three darts.",
-      "id": "international-sports-1",
-      "micro_summary": "Defending champion Luke Littler lost 10-8 to Jermaine Wattimena, ending his Grand Slam of Darts title defense.",
+      "extended_summary": "A fractious summit in Dublin concluded last Friday without agreement on who would speak for Europe in forthcoming talks to end the Russian invasion of Ukraine. Jared Kushner, representing President Trump alongside Steve Witkoff, stated that Europeans agreeing on a single figure would be a greater achievement than securing a place at the table. Prior to the talks, some European commentators and Estonia's foreign ministry argued that Kaja Kallas, the EU's High Representative for Foreign and Security Affairs, was the only person with authority to represent Europe strategically. Moscow had previously stated it would never discuss anything with Kallas and would wait until she left office, though by Saturday Kremlin spokesman Dmitry Peskov said Russia would not set terms about European personnel in advance. Former president Dmitri Medvedev nevertheless called Kallas stupid and said nobody wanted her. Estonia, Kallas's home country, is considered the EU member most exposed to potential Russian aggression.",
+      "id": "international-politics-1",
+      "micro_summary": "A Dublin summit concluded Friday without agreement on who will represent Europe in Ukraine peace talks.",
       "publishers": 5,
       "scope": "international",
       "score": 0.852,
       "sources": [
         {
+          "publisher": "Financial Times",
+          "url": "https://www.ft.com/content/dddd1db4-d9f2-452b-9be8-651b49a8b1c2?syn-25a6b1a6=1"
+        },
+        {
+          "publisher": "Reuters",
+          "url": "https://www.reuters.com/world/china/putin-says-russia-invited-europeans-moscow-clarify-position-ukraine-talks-2026-11-19/"
+        },
+        {
+          "publisher": "The Critic",
+          "url": "https://thecritic.co.uk/hawks-without-beaks/"
+        }
+      ],
+      "summary": "A fractious Dublin summit concluded Friday without consensus on Europe's representative for talks to end the Russian invasion of Ukraine, as Moscow initially rejected EU foreign policy chief Kaja Kallas but later softened its stance on personnel conditions.",
+      "timestamp": "2026-11-19T15:24:55Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today. A failure to scale up testing at the start of the Covid-19 pandemic left the government “effectively blind” to the spread of the virus, a public inquiry has found. Even though British scientists had developed an effective test by mid-January 2020, “there was no system of widespread testing, tracing or isolation for several months” and “Covid-19 was allowed to spread with deadly speed across the country, virtually unchecked”, it said. Baroness Heather Hallett’s report on the UK’s test and trace response to Covid-19 also heavily criticised the then government over its border control policy, saying it was out of step with other countries and contributed to the spread of the virus in the UK. The report said: “The decision not to implement widespread border control measures from the outset of the Covid-19",
+      "id": "international-politics-2",
+      "micro_summary": "COVID was allowed to spread with 'deadly speed' and failure on borders was 'missed opportunity'.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.846,
+      "sources": [
+        {
+          "publisher": "Sky News",
+          "url": "https://news.sky.com/story/lack-of-testing-left-government-effectively-blind-to-covid-virus-report-found-13613869"
+        },
+        {
           "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/sport/darts/articles/crlyenxw18d7o"
+          "url": "https://www.bbc.co.uk/news/articles/crx20q8ql4gwo"
+        },
+        {
+          "publisher": "The Independent",
+          "url": "https://www.independent.co.uk/news/uk/home-news/british-government-germany-china-wuhan-b3087889.html"
+        }
+      ],
+      "summary": "COVID was allowed to spread with 'deadly speed' and failure on borders was 'missed opportunity'.",
+      "timestamp": "2026-11-19T14:58:28Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "Pete Hegseth met Venezuela's interim president at the presidential palace The United States and Venezuela have re-established military ties less than a year after US forces seized the then-leader of the South American country, Nicolás Maduro, in a raid on the capital, Caracas. The interim government led by Delcy Rodríguez, Maduro's former vice-president, signed a military co-operation agreement with US Secretary of Defence Pete Hegseth on Wednesday. Few details about the deal have been released so far but Hegseth said that Venezuela had \"gone from our most aggressive regional threat to a compliant security partner\" in less than 12 months. Interim President Rodríguez said the deal would help confront \"common threats\". Military co-operation between the two countries was terminated in 2005 by Hugo Chávez, Venezuela's left-wing president at the time. Chávez alleged that US military personnel sent to Venezuela to train their counterparts had made disparaging remarks about his government.",
+      "id": "international-politics-3",
+      "micro_summary": "Venezuela signs military deal with US less than a year after Maduro's removal.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.842,
+      "sources": [
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo"
+        },
+        {
+          "publisher": "The Times",
+          "url": "https://www.thetimes.com/world/latin-america/article/hegseth-military-venezuela-deals-caracas-fgglzlctw"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/why-is-pete-hegseth-strengthening-us-military-ties-with-venezuela"
+        }
+      ],
+      "summary": "Venezuela signs military deal with US less than a year after Maduro's removal. United States Defense Secretary Pete Hegseth has announced a new cooperation agreement with Venezuela’s interim government to facilitate military cooperation between the two countries.",
+      "timestamp": "2026-11-19T13:31:23Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "The International Court of Justice ruled by a nine-to-six majority that Myanmar committed genocide against its Rohingya minority during a 2017 military campaign. The court found that the military junta had the intent to destroy a substantial part of the Rohingya population, killing 1.2 percent of the target group and displacing more than 700,000 people to Bangladesh. This marks the first time the world court has found a state responsible for genocide. The judges determined that no single smoking gun was required, as circumstantial evidence sufficiently established genocidal intent. The ruling ends a seven-year legal battle and sets a precedent for future genocide claims. Rohingya refugees in Bangladesh celebrated the verdict, with survivors expressing relief and hope for future generations.",
+      "id": "international-politics-4",
+      "micro_summary": "International Court of Justice rules Myanmar committed genocide against Rohingya by nine-to-six vote.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.833,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/live/cr93z32d2344t"
         },
         {
           "publisher": "The Telegraph",
-          "url": "https://www.telegraph.co.uk/darts/2026/11/17/watch-luke-littler-hits-sensational-triple-bullseye-finish/"
-        },
-        {
-          "publisher": "RTE.ie",
-          "url": "https://www.rte.ie/sport/darts/2026/1118/1599768-emotional-wattimena-shocks-littler-at-grand-slam-of-darts/"
+          "url": "https://www.telegraph.co.uk/world-news/2026/11/19/genocide-verdict-puts-netanyahu-on-notice/"
         }
       ],
-      "summary": "Luke Littler's title defense ended at the Grand Slam of Darts with a 10-8 second-round defeat to Jermaine Wattimena after he had hit a 150 checkout against Niels Zonneveld.",
-      "timestamp": "2026-11-18T22:33:32Z"
+      "summary": "The International Court of Justice ruled nine to six that Myanmar committed genocide against its Rohingya minority during a 2017 campaign that displaced over 700,000 people, finding intent to destroy a substantial part of the population.",
+      "timestamp": "2026-11-19T11:08:00Z"
     },
     {
       "ai": true,
       "articles": 5,
+      "category": "science",
+      "extended_summary": "Ukrainian forces employed advanced drone tactics to strike Russian military assets in multiple operations across the front. The 237th Unmanned Systems Battalion deployed heavy fixed-wing drones, normally reserved for distant middle strikes against supply lines, against vehicles rolling toward the gray zone west of Huliaipole and in attacks toward Kramatorsk. On 13 November, the 1st Azov Corps defeated a Russian column that crossed the foggy gray zone from Shakhove, presumably using thermal-camera drones. Separately, the 1st Separate Assault Regiment used Darts fixed-wing drones to hit seven vehicles gathering in Razine. Meanwhile, the 33rd Brigade destroyed a BM-21 Grad multiple-launch rocket system with 40 launch tubes, several ground robotic vehicles, and an infantry shelter hidden in an autumn forest.",
+      "id": "international-science-2",
+      "micro_summary": "Ukrainian drone units destroyed Russian vehicles and a rocket system using heavy fixed-wing drones and thermal cameras.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.576,
+      "sources": [
+        {
+          "publisher": "Euromaidan Press",
+          "url": "https://euromaidanpress.com/2026/11/18/darts-drones/"
+        },
+        {
+          "publisher": "Defense Express",
+          "url": "https://en.defence-ua.com/news/ukrainian_drones_destroy_russian_grad_mlrs_ground_robots_and_infantry_shelter_in_forest_video-20429.html"
+        },
+        {
+          "publisher": "Forbes",
+          "url": "https://www.forbes.com/sites/davidhambling/2026/11/17/big-bang-ukraines-mystery-drone-weapon-demolishes-concrete-building/"
+        }
+      ],
+      "summary": "Ukrainian drone battalions used heavy fixed-wing drones to destroy Russian vehicles near Kramatorsk and a BM-21 Grad system in a forest.",
+      "timestamp": "2026-11-17T23:48:25Z"
+    },
+    {
+      "ai": true,
+      "articles": 10,
       "category": "sports",
-      "extended_summary": "Richmond's line-ball call on its second selection is poised to shape the top of the 2026 AFL Draft's uncertain first round. The Tigers met on Tuesday to decide between ruckman Harry Van Hattum and powerful forward Gus Teixeira for the No.8 pick, with rivals believing the club will settle on Van Hattum as the favourite. Recruiting boss Rhy Gieschen described the Northern Knights prospect as one of the best ruck talents of the past decade. Should Richmond select Van Hattum, Teixeira could land at Sydney, Gold Coast, St Kilda, Adelaide or Melbourne depending on how the first round unfolds. Sydney is also linked to West Australian midfielder Leo Steed, Sam Gayfer, Clancy Snell and Tyson Bradley. Clubs anticipate a highly unpredictable second half of the first round with potential order swings involving Richmond, Sydney and Collingwood.",
+      "extended_summary": "A former Australian cricketer has stated that the entire team on the 2018 South Africa tour knew about the use of sandpaper on the ball, contradicting the previous account that only three players were involved. He admitted that during Cricket Australia's 2018 investigation, he did not provide a complete account, withholding details about when the sandpaper use began, how long it continued, and the involvement of others. He said he carried this burden for eight years. Cricket Australia has announced an independent forum for all those on the 2018 tour, which he plans to attend. He cited the release of Usman Khawaja's autobiography and a press conference by captain Pat Cummins as catalysts for speaking out, saying his career has been destroyed and he has not played for Australia since Justin Langer was coach.",
+      "id": "international-sports-1",
+      "micro_summary": "A former Australian cricketer admits the entire 2018 South Africa tour team knew about ball-tampering.",
+      "publishers": 7,
+      "scope": "international",
+      "score": 0.906,
+      "sources": [
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/sport/cricket/articles/c94gnev3kj4vo"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/sport/2026/nov/19/cameron-bancroft-statement-sandpapergate-ball-tampering-australia-cricket-ntwnfb"
+        },
+        {
+          "publisher": "Sky Sports",
+          "url": "https://www.skysports.com/cricket/news/13613581/sandpapergate-australia-test-captain-pat-cummins-faces-fresh-scrutiny-after-cameron-bancrofts-explosive-claims"
+        },
+        {
+          "publisher": "News24",
+          "url": "https://www.news24.com/sport/cricket/cummins-defiant-as-sandpapergate-roils-australian-cricket-20261119-0337"
+        }
+      ],
+      "summary": "A former Australian cricketer has admitted the entire 2018 South Africa tour team knew about sandpaper ball-tampering, not just three players, and that he withheld details during the investigation. Cricket Australia is opening an independent forum for tour participants.",
+      "timestamp": "2026-11-19T14:57:42Z"
+    },
+    {
+      "ai": true,
+      "articles": 10,
+      "category": "sports",
+      "extended_summary": "Mauricio Pochettino has vowed to \"change things\" at Old Trafford in a confident first interview as Manchester United boss. The Argentine arrived following his departure from the United States national team, tasked with improving United's fortunes after a dismal start to the season. United sit 18th in the Premier League ahead of Pochettino's first game in charge, Sunday's trip to Liverpool at Anfield. Pochettino believes it would be a mistake to focus solely on United's current predicament, insisting the club's potential rather than its problems must be the starting point for his tenure. He stated the focus must be on seeing the potential of the club and acting to change things across all areas to recover the feeling of winning. Pochettino emphasized his priority is to create an environment where players can express themselves and rediscover the feeling of being winners through hard work.",
       "id": "international-sports-2",
-      "micro_summary": "Richmond is expected to select Harry Van Hattum with its No.8 pick in the 2026 AFL Draft.",
-      "publishers": 5,
+      "micro_summary": "Mauricio Pochettino vows to change things as Manchester United boss with club 18th in Premier League.",
+      "publishers": 7,
       "scope": "international",
-      "score": 0.848,
+      "score": 0.897,
       "sources": [
         {
-          "publisher": "afl.com.au",
-          "url": "https://www.afl.com.au/news/1641905/phantom-draft-late-mail-favourite-emerges-in-richmond-tigers-line-ball-call-new-name-linked-as-sydney-swans-mystery-grows"
+          "publisher": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/13613821/mauricio-pochettino-at-manchester-united-new-boss-vows-to-change-situation-at-old-trafford-in-first-interview"
         },
         {
-          "publisher": "Herald Sun",
-          "url": "https://www.heraldsun.com.au/sport/afl/afl-2026-draft-live-coverage-every-pick-all-the-late-news-and-trades/live-coverage/c3983983ecb4f9492a7b05e5257b1a11"
+          "publisher": "BBC",
+          "url": "https://www.bbc.com/sport/football/articles/cxlylzyg38l8o"
         },
         {
-          "publisher": "richmondfc.com.au",
-          "url": "https://www.richmondfc.com.au/news/2166170/bartlett-to-welcome-draftees-to-richmond"
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/nov/19/will-pochettino-fix-manchester-united-put-your-questions-to-will-unwin"
+        },
+        {
+          "publisher": "Daily Express",
+          "url": "https://www.express.co.uk/sport/football/2267575/Mauricio-Pochettino-Man-Utd-interview-Glazers"
         }
       ],
-      "summary": "Richmond's decision between ruckman Harry Van Hattum and forward Gus Teixeira for its No.8 selection is expected to shape the top of the 2026 AFL Draft, with rivals believing the Tigers will choose Van Hattum.",
-      "timestamp": "2026-11-18T20:37:32Z"
+      "summary": "Mauricio Pochettino has vowed to change things at Old Trafford in his first interview as Manchester United boss, with the club 18th in the Premier League ahead of Sunday's trip to Liverpool.",
+      "timestamp": "2026-11-19T16:29:32Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "",
+      "id": "international-sports-3",
+      "micro_summary": "",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.87,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/nov/19/premier-league-vote-new-rules-financial-indemnity-lawsuits"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqy4jvdw7jdlo"
+        },
+        {
+          "publisher": "The Times",
+          "url": "https://www.thetimes.com/sport/football/article/premier-league-clubs-vote-executives-man-city-sue-guilty-charges-58d9mkx6f"
+        }
+      ],
+      "summary": "",
+      "timestamp": "2026-11-19T17:23:00Z"
     },
     {
       "ai": true,
       "articles": 5,
       "category": "sports",
-      "extended_summary": "With two weeks remaining before the sport is expected to shut down, Commissioner Rob Manfred said Wednesday that MLB was prepared to go to war over its proposed salary cap. The commissioner stated that the league was ready to fight for the salary cap system. The players, however, have long said they will not accept the proposed salary cap. The statement comes as MLB faces a shutdown in two weeks, with the league prepared to go to war over the issue while the players remain opposed to the system they have long rejected. The dispute centers on the salary cap proposal that the players have long said they will not accept.",
+      "extended_summary": "Baltimore Ravens cornerback Marlon Humphrey was deactivated for the team's weekend game at Carolina following controversial remarks on his podcast. During a segment, the 30-year-old veteran said Baltimore is 'best at making criminals,' prompting an apology Wednesday. Baltimore Mayor Brandon Scott stated a verbal apology was 'not enough' and invited Humphrey to meet with community members who have re-entered society. First-year head coach Jesse Minter announced the one-game deactivation Thursday, stating Humphrey was sent home and would not practice, emphasizing that the comments did not reflect the team. The Ravens, currently on a five-game losing streak after a 4-1 start, have lost quarterbacks Lamar Jackson and Tyler Huntley to injuries. Humphrey, a 2017 first-round pick and four-time Pro Bowler, has faced criticism from fans during the team's struggles.",
       "id": "international-sports-4",
-      "micro_summary": "Commissioner Rob Manfred says MLB is prepared to go to war over a salary cap with two weeks until shutdown.",
+      "micro_summary": "Ravens deactivate cornerback Marlon Humphrey for one game after 'criminals' podcast remark.",
       "publishers": 5,
       "scope": "international",
-      "score": 0.817,
+      "score": 0.858,
       "sources": [
-        {
-          "publisher": "The New York Times",
-          "url": "https://www.nytimes.com/athletic/7793122/2026/11/18/rob-manfred-mlb-salary-cap/"
-        },
         {
           "publisher": "ESPN",
-          "url": "https://www.espn.com/mlb/story/_/id/50523785/rob-manfred-says-mlb-owners-compromise-salary-cap"
+          "url": "https://www.espn.com/nfl/story/_/id/50532199/ravens-send-marlon-humphrey-home-say-inactive"
         },
         {
-          "publisher": "The Washington Post",
-          "url": "https://www.washingtonpost.com/sports/2026/11/18/mlb-commissioner-digs-salary-cap-setting-ominous-tone-lockout-looms/"
+          "publisher": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nfl/article/ravens-marlon-humphrey-apologizes-after-joking-baltimore-is-best-at-making-criminals-mayor-requests-sit-down-with-cornerback-012455460.html"
+        },
+        {
+          "publisher": "NBC News",
+          "url": "https://www.nbcnews.com/sports/nfl/ravens-deactivate-marlon-humphrey-carolina-comments-rcna610246"
         }
       ],
-      "summary": "MLB Commissioner Rob Manfred said Wednesday that the league is prepared to go to war over its proposed salary cap, which players have long rejected, with two weeks remaining before the sport is expected to shut down.",
-      "timestamp": "2026-11-18T21:59:14Z"
+      "summary": "Baltimore Ravens cornerback Marlon Humphrey was deactivated for the team's game at Carolina after saying on a podcast that Baltimore is best at making 'criminals.' Coach Jesse Minter announced the one-game deactivation Thursday, sending Humphrey home.",
+      "timestamp": "2026-11-19T17:02:00Z"
     },
     {
       "ai": true,
       "articles": 5,
       "category": "tragedies",
-      "extended_summary": "Democrats in the US House nominated Hakeem Jeffries to be Speaker, setting him on the path to become the first Black lawmaker to lead the chamber. The House will elect its new Speaker on January 3, when Democrats will hold the majority. Jeffries was re-elected as party leader in a 251-11 closed-door vote on Wednesday. Democrats will hold at least 257 seats next year, beyond the 218 needed for a majority, with seven races still uncalled. Jeffries, who represents a New York district, has served as minority leader since 2023. Seven incoming lawmakers from the party's left wing stated that more work is needed to reflect constituent demands. President Donald Trump has signalled willingness to work with Democrats on some issues but pledged to veto legislation he opposes.",
+      "extended_summary": "Hassan Jihad Ibn Kariem, a 42-year-old technology teacher at Wesley International Academy, died on October 12 after being flung from the Goliath roller coaster at Six Flags Over Georgia in Austell. An autopsy determined he died from blunt force injuries after falling onto the roof of a park building, sustaining extensive injuries to his legs, arms, torso, neck, and head. He was seated next to his niece when he fell, striking several other guests before landing. The 5'9\", 301-pound man was visiting the park to celebrate his niece's birthday. Following the incident, Six Flags closed nine roller coasters including Goliath, later keeping eight additional rides at five other parks closed out of caution. CEO John Reilly announced that seat belts would be added to the Goliath ride and similar coasters. The Cobb County Police Department launched an investigation into the death.",
       "id": "international-tragedies-1",
-      "micro_summary": "Democrats nominated Hakeem Jeffries as Speaker, positioning him to become the first Black lawmaker to lead the House.",
+      "micro_summary": "School teacher Hassan Jihad Ibn Kariem died from blunt force trauma after falling from Six Flags' Goliath coaster.",
       "publishers": 5,
       "scope": "international",
-      "score": 0.818,
+      "score": 0.771,
       "sources": [
         {
-          "publisher": "Financial Times",
-          "url": "https://www.ft.com/content/9d0998cf-ffb8-4fe4-9f85-0c403b1966f9?syn-25a6b1a6=1"
+          "publisher": "The Mirror",
+          "url": "https://www.mirror.co.uk/news/us-news/six-flags-goliath-death-cause-37892679"
+        },
+        {
+          "publisher": "People.com",
+          "url": "https://people.com/cause-of-death-revealed-for-man-who-fell-died-riding-six-flags-roller-coaster-12172477"
+        },
+        {
+          "publisher": "The Independent",
+          "url": "https://www.independent.co.uk/news/world/americas/six-flags-death-autopsy-teacher-b3088058.html"
+        }
+      ],
+      "summary": "Hassan Jihad Ibn Kariem, 42, died October 12 after being ejected from the Goliath roller coaster at Six Flags Over Georgia, landing on a building roof and suffering blunt force injuries. Six Flags closed the ride and added seat belts.",
+      "timestamp": "2026-11-19T02:58:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "At a Coalition of the Willing meeting in Berlin, the UK announced a £260 million support package for Ukraine that includes 1,000 long-range strike drones capable of flying 625 miles and carrying heavier warheads to target military production facilities, with 80 percent of the funding spent domestically. Simultaneously, the UK and Norway committed over £100 million to jointly fund two advanced 30-metre fast attack boats built in the UK, providing frigate-like offensive and air defence capabilities to protect the Black Sea Grain Corridor and secure trade routes. The vessels will strengthen Ukraine's naval capability and apply pressure on Russia, while both nations also agreed to deepen cooperation on defensive artificial intelligence for the battlefield.",
+      "id": "international-tragedies-2",
+      "micro_summary": "UK and Norway pledge two attack boats and 1,000 drones to Ukraine at Berlin summit.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.748,
+      "sources": [
+        {
+          "publisher": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-18/uk-pledges-long-range-missiles-to-ukraine-despite-us-criticism"
         },
         {
           "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o"
+          "url": "https://www.bbc.co.uk/news/articles/c5n4em9mkkzeo"
         },
         {
-          "publisher": "Axios",
-          "url": "https://www.axios.com/2026/11/19/hakeem-jeffries-speaker-vote-left-progressives"
+          "publisher": "GOV.UK",
+          "url": "https://www.gov.uk/government/news/uk-and-norway-further-boost-ukrainian-navy-at-coalition-of-the-willing-meeting--2"
         }
       ],
-      "summary": "House Democrats nominated Hakeem Jeffries to be Speaker, setting him on the path to become the first Black lawmaker to lead the chamber when the new term begins on January 3.",
-      "timestamp": "2026-11-18T17:05:39Z"
+      "summary": "At a Berlin meeting of the Coalition of the Willing, the UK announced a £260m package including 1,000 long-range strike drones for Ukraine, while jointly funding two advanced fast attack boats with Norway worth over £100 million.",
+      "timestamp": "2026-11-19T07:49:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "The MV Mwanza, a 306ft vessel carrying 1,200 passengers, crashed into Bismarck Rock in Tanzania's Lake Victoria at around 10:30am on Wednesday. The ship had narrowly missed a passenger ferry inbound from Sengerema moments earlier when the ferry captain reversed, causing the MV Mwanza to strike the rock formation. Footage showed the vessel mounting the rocks before crashing back down into the lake, with black smoke erupting from the ship, which then reversed into open water. Witness Bakari Mwigeli stated the ferry captain's swift actions prevented greater damage. The vessel, which entered service this year as the largest ferry on Lake Victoria, was reportedly undergoing sea trials with stakeholders on board. No one was injured in the incident, and local authorities have launched an investigation.",
+      "id": "international-tragedies-3",
+      "micro_summary": "MV Mwanza cruise ship carrying 1,200 passengers crashed into Bismarck Rock in Lake Victoria with no injuries reported.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.735,
+      "sources": [
+        {
+          "publisher": "The Maritime Executive",
+          "url": "https://maritime-executive.com/article/newly-built-ferry-runs-into-rock-spires-on-lake-victoria"
+        },
+        {
+          "publisher": "The Sun",
+          "url": "https://www.thesun.co.uk/news/41070964/cruise-ship-smashes-rocks/"
+        },
+        {
+          "publisher": "Daily Mail",
+          "url": "https://www.dailymail.com/news/article-16305083/cruise-ship-rocks-narrowly-missing-vessel-Tanzania.html"
+        }
+      ],
+      "summary": "The MV Mwanza, a 306ft vessel carrying 1,200 passengers, crashed into Bismarck Rock in Tanzania's Lake Victoria around 10:30am Wednesday after narrowly missing a ferry. No one was injured and authorities launched an investigation.",
+      "timestamp": "2026-11-19T01:30:57Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "Adam McSweeney, 18, was stabbed at Kent train station on Lower Glanmire Road, Cork, at about 1.30pm on Tuesday. Paramedics treated him at the scene before he was taken in critical condition to Cork University Hospital, where he died three hours later. Timothy Miller, 18, appeared at Cork District Court on Thursday charged with McSweeney's murder. When charged, Miller replied, 'This is self-defence.' Judge David Waters remanded him in custody to appear by video-link on November 25th, noting bail is not available on a murder charge at district court level. A 16-year-old arrested in the same investigation was released without charge, with a file to be prepared for the Director of Public Prosecutions. Gardaí have appealed for witnesses to come forward. A post-mortem is scheduled for Wednesday at Cork University Hospital.",
+      "id": "international-tragedies-4",
+      "micro_summary": "Adam McSweeney, 18, was stabbed to death in Cork; Timothy Miller, 18, remanded in custody on murder charge.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.535,
+      "sources": [
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cxj0524zg5lmo"
+        },
+        {
+          "publisher": "RTE.ie",
+          "url": "https://www.rte.ie/news/courts/2026/1119/1599791-cork-murder-charge/"
+        },
+        {
+          "publisher": "The Irish Times",
+          "url": "https://www.irishtimes.com/crime-law/courts/2026/11/19/teenager-remanded-in-custody-charged-with-murder-of-18-year-old-in-cork/"
+        }
+      ],
+      "summary": "Adam McSweeney, 18, died after being stabbed at Kent train station in Cork on Tuesday. Timothy Miller, 18, was charged with his murder and remanded in custody at Cork District Court on Thursday.",
+      "timestamp": "2026-11-17T19:54:16Z"
     },
     {
       "ai": true,
       "articles": 2,
       "category": "business",
-      "extended_summary": "Chief Economic Advisor V Anantha Nageswaran stated that India expects stronger growth and improved capital flows in 2027-28 as four headwinds ease, including US relations, energy markets, absence of an 'AI play', and higher developed-world interest rates. He noted AI capital flowing in reverse will help attract FDI, citing $5 billion in inflows over two months during AI concerns. The rupee, which hit 96.88 against the dollar on October 8, rebounded to 93.41, and he suggested next year's challenge may be managing rupee strength rather than weakness. Exports reached $568.8 billion in the first seven months, up 16.7%, and are projected to approach $1 trillion by March 2027, while imports totaled $662.2 billion, up 16%. India recorded 7.8% growth in the first quarter, with manufacturing expanding 9.2%, and faces dual tailwinds from crude oil and the AI bubble.",
+      "extended_summary": "KKR announced the acquisition of a minority stake in Gentari Renewables India, the Indian renewable energy subsidiary of clean energy solutions provider Gentari, which was launched in 2022 by Malaysian integrated oil and gas company Petronas. The platform has approximately 8 GW of operating, under-construction and contracted renewable energy capacity across solar, wind, hybrid and battery energy storage projects serving commercial, industrial and government customers. The transaction provides growth capital to support expansion in India, which aims to reach 500 GW of installed renewable energy capacity by 2030 and has approved targets to reduce economy-wide emissions intensity by 47% and achieve 60% of electric power capacity from non-fossil sources by 2035. Under the agreement, Gentari retains strategic oversight and full operational control of the Indian platform. KKR Partner Hardik Shah stated that India's growing demand for reliable power creates significant need for continued energy infrastructure investment, while Gentari CEO Sushil Purohit said the partnership supports continued expansion of the renewable energy business in India.",
       "id": "national-business-1",
-      "micro_summary": "Chief Economic Advisor V Anantha Nageswaran predicts India's exports will hit $1 trillion by March 2027.",
+      "micro_summary": "KKR acquired a minority stake in Gentari Renewables India, which has approximately 8 GW of renewable capacity.",
       "publishers": 2,
       "scope": "national",
-      "score": 0.518,
+      "score": 0.624,
       "sources": [
         {
-          "publisher": "The Times of India",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/indias-challenge-next-year-may-be-rupees-strength-not-weakness-cea-nageswaran/articleshow/135974257.cms"
+          "publisher": "ESG Today",
+          "url": "https://www.esgtoday.com/kkr-acquires-stake-in-gentaris-india-renewable-energy-platform/"
         },
         {
-          "publisher": "BusinessLine",
-          "url": "https://www.thehindubusinessline.com/economy/softer-oil-global-ai-reset-to-boost-indias-growth-and-fdi-in-fy28-cea-nageswaran/article71716888.ece"
+          "publisher": "WSJ",
+          "url": "https://www.wsj.com/pro/private-equity/kkr-invests-in-india-renewables-business-run-by-petronas-backed-gentari-a096348c"
         }
       ],
-      "summary": "Chief Economic Advisor V Anantha Nageswaran said exports reached $568 billion in seven months, likely hitting $1 trillion by March 2027, and predicted stronger growth in 2027-28 as the rupee rebounded to 93.41.",
-      "timestamp": "2026-11-18T23:57:00Z"
+      "summary": "KKR acquired a minority stake in Gentari Renewables India, the Indian subsidiary of Petronas-backed Gentari, which operates approximately 8 GW of renewable energy capacity, to provide growth capital for expansion while Gentari retains operational control.",
+      "timestamp": "2026-11-19T15:46:57Z"
     },
     {
       "ai": true,
       "articles": 4,
-      "category": "science",
-      "extended_summary": "Union Minister Dr. Jitendra Singh launched the curtain raiser for the 12th India International Science Festival (IISF) 2026 at the National Media Centre in New Delhi. The four-day festival will be held in Pune from December 19 to 22 under the theme 'India's Science, World's Future.' Singh unveiled the official website and brochure, urging the scientific community to take research beyond laboratories and connect with young people, startups, entrepreneurs and society. He said IISF 2026 reflects Prime Minister Narendra Modi's vision of Vishwa Bandhu Bharat and India's growing global scientific role, citing indigenous research kits developed by the Department of Biotechnology and carried to the International Space Station by astronaut Shubhanshu Shukla. Singh noted that as India advances toward Viksit Bharat 2047, its scientific capabilities will shape the global research ecosystem. IISF serves as a public-facing platform with international participation, distinct from the academic-focused Emerging Science, Technology and Innovation Conclave.",
-      "id": "national-science-2",
-      "micro_summary": "Union Minister Jitendra Singh launched the curtain raiser for the 12th India International Science Festival 2026 in New Delhi.",
-      "publishers": 3,
+      "category": "entertainment",
+      "extended_summary": "Ramayana: Rise of the Legend has completed 14 days in theatres, crossing Rs 1,500 crore worldwide and Rs 1,000 crore gross in India. The film starring Ranbir Kapoor, Sai Pallavi and Yash reached a worldwide total of Rs 1,519.05 crore, making it the fastest Indian movie to achieve the milestone and the fifth Indian film overall to cross Rs 1,500 crore globally. Domestically, it collected Rs 1,009.05 crore gross and Rs 844.40 crore nett, with overseas earnings at Rs 510 crore, becoming the sixth Indian film and third Bollywood film to enter the domestic Rs 1,000 crore gross club. On Day 14, it earned Rs 23.20 crore nett. The Nitesh Tiwari directorial also set records for highest single-day BookMyShow ticket sales with 16.60 lakh tickets and the biggest worldwide IMAX opening for an Indian film at approximately $6 million.",
+      "id": "national-entertainment-1",
+      "micro_summary": "Ramayana becomes fastest Indian film to cross Rs 1,500 crore worldwide in just 14 days.",
+      "publishers": 4,
       "scope": "national",
-      "score": 0.613,
+      "score": 0.685,
       "sources": [
         {
-          "publisher": "www.pib.gov.in",
-          "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2338038"
+          "publisher": "NDTV",
+          "url": "https://www.ndtv.com/entertainment/ramayana-becomes-fastest-indian-film-to-enter-1-500-crore-club-a-look-at-all-records-broken-in-2-weeks-12347440"
         },
         {
-          "publisher": "News On AIR",
-          "url": "https://newsonair.gov.in/science-and-technology-minister-calls-for-taking-science-beyond-labs-to-empower-youth-and-startups/"
+          "publisher": "Moneycontrol.com",
+          "url": "https://www.moneycontrol.com/entertainment/ramayana-becomes-fastest-indian-film-to-cross-rs-1-500-crore-worldwide-beats-dhurandhar-2-pushpa-2-article-14084943.html/amp"
         },
         {
-          "publisher": "DD India",
-          "url": "https://ddindia.co.in/2026/11/jitendra-singh-launches-curtain-raiser-for-iisf-2026-calls-for-taking-science-beyond-laboratories/"
+          "publisher": "The Indian Express",
+          "url": "https://indianexpress.com/article/entertainment/bollywood/all-box-office-records-ranbir-kapoor-yash-ramayana-part-1-has-broken-10969618/"
+        },
+        {
+          "publisher": "India Today",
+          "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-box-office-day-14-proud-member-of-rs-1500-crore-club-rs-1700-club-next-3042019-2026-11-19"
         }
       ],
-      "summary": "Union Minister Jitendra Singh launched the curtain raiser for the 12th India International Science Festival 2026 in New Delhi, unveiling the website and brochure for the Pune festival scheduled December 19-22 under the theme 'India's Science, World's Future'.",
-      "timestamp": "2026-11-18T16:32:40Z"
-    },
-    {
-      "ai": true,
-      "articles": 2,
-      "category": "science",
-      "extended_summary": "Hitachi Systems India has launched an Advanced Global Delivery Centre in Bengaluru in partnership with US-based cybersecurity company CrowdStrike. The centre provides AI-powered cybersecurity and managed security services to organisations across India, Asia Pacific and the Middle East, combining Hitachi's systems integration with CrowdStrike's Falcon platform. The initiative addresses security challenges from AI adoption, helping enterprises identify vulnerabilities and strengthen operations. Hitachi Systems India joined CrowdStrike's Project QuiltWorks, which integrates frontier AI models from OpenAI and Anthropic, NVIDIA's Nemotron models, threat intelligence, AWS infrastructure and automated workflows to identify vulnerabilities. The company will offer CrowdStrike's Frontier AI Readiness and Resilience (FAIRR) Service for AI-powered vulnerability scanning and risk prioritisation, plus Falcon Guardian, an AI Detection and Response solution with an AI Kill Switch to terminate rogue agents. The partnership also covers Falcon Next-Gen SIEM services. Target customers include banking, financial services and healthcare enterprises.",
-      "id": "national-science-3",
-      "micro_summary": "Hitachi Systems India launched a Bengaluru delivery centre with CrowdStrike to provide AI-powered cybersecurity services.",
-      "publishers": 2,
-      "scope": "national",
-      "score": 0.546,
-      "sources": [
-        {
-          "publisher": "DQ",
-          "url": "https://www.dqindia.com/news/hitachi-systems-india-crowdstrike-bengaluru-cybersecurity-centre-12821642"
-        },
-        {
-          "publisher": "Analytics India Magazine",
-          "url": "https://analyticsindiamag.com/ai-news/hitachi-systems-india-sets-up-bengaluru-gdc-to-tackle-frontier-ai-risks"
-        }
-      ],
-      "summary": "Hitachi Systems India launched an Advanced Global Delivery Centre in Bengaluru with CrowdStrike, offering AI-powered cybersecurity and managed security services to enterprises across India, Asia Pacific and the Middle East using the Falcon platform.",
-      "timestamp": "2026-11-18T20:17:59Z"
+      "summary": "Ramayana: Rise of the Legend crossed Rs 1,500 crore worldwide and Rs 1,000 crore gross in India in 14 days, becoming the fastest Indian film to reach the global milestone and the third Bollywood film in the domestic club.",
+      "timestamp": "2026-11-19T12:45:34Z"
     },
     {
       "ai": true,
       "articles": 3,
-      "category": "sports",
-      "extended_summary": "The All India Football Federation filed a complaint with the Asian Football Confederation over an alleged racist gesture by Palestinian midfielder Taha Soueidan toward India under-17 captain Dallalmuon Gangte during their AFC U17 Asian Cup 2027 qualifier in Kuala Lumpur, which India won 4-1. Footage showed Soueidan fanning himself near Gangte during first-half stoppage time. The AIFF asked the AFC to review the incident and take action, stating racism has no place in football. Soueidan, 15, who plays for FC Union Berlin's under-17 team, denied the accusation, saying the gesture was due to high humidity, not racism. He said he approached Gangte to assure him he meant no offense. The match also saw Palestinian midfielder Mohammed Jamhour sent off for kicking Indian player Raj Singh Wahengbam twice.",
-      "id": "national-sports-3",
-      "micro_summary": "AIFF lodges complaint with AFC over alleged racist gesture during India's 4-1 U17 win over Palestine.",
+      "category": "politics",
+      "extended_summary": "India and Egypt are expanding bilateral cooperation in digital governance, emerging technologies, and administrative capacity building. Union Minister Dr. Jitendra Singh highlighted India's governance innovations and civil services framework while interacting with a delegation of 25 Deputy Governors from Egypt participating in the first Special Capacity-Building Programme on Smart Governance in New Delhi. Singh described India's administrative system as one of the world's largest civil services frameworks, the \"steel frame of governance,\" and stressed two-way learning in capacity-building programmes. The countries elevated their relationship to a Strategic Partnership in June 2023. Bilateral trade reached US$7.26 billion in FY 2021–22 and stood at US$4.8 billion in FY 2024–25. More than 500 Indian companies are registered in Egypt with investments exceeding US$4.5 billion, and over 1,500 Egyptian officials have benefited from Indian Technical and Economic Cooperation programmes.",
+      "id": "national-politics-1",
+      "micro_summary": "India and Egypt deepen ties in digital governance with 25 Egyptian Deputy Governors training in New Delhi.",
       "publishers": 3,
       "scope": "national",
-      "score": 0.601,
+      "score": 0.669,
       "sources": [
         {
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/11/18/india-lodges-complaint-against-palestinian-footballer-after-under-17-match"
+          "publisher": "News On AIR",
+          "url": "https://newsonair.gov.in/union-minister-jitendra-singh-advocates-deeper-india-egypt-cooperation-in-digital-governance-and-capacity-building/"
         },
         {
-          "publisher": "Reuters",
-          "url": "https://www.reuters.com/sports/soccer/india-lodge-racism-complaint-with-afc-over-alleged-gesture-by-palestine-player-2026-11-18/"
+          "publisher": "DD News",
+          "url": "https://ddnews.gov.in/en/india-egypt-explore-deeper-cooperation-in-digital-governance-ai-and-emerging-technologies/"
+        },
+        {
+          "publisher": "DD India",
+          "url": "https://ddindia.co.in/2026/11/india-egypt-explore-deeper-cooperation-in-digital-governance-ai-and-emerging-technologies/"
+        }
+      ],
+      "summary": "India and Egypt are expanding cooperation in digital governance and emerging technologies, with Union Minister Dr. Jitendra Singh hosting 25 Egyptian Deputy Governors for a capacity-building programme in New Delhi, building on their Strategic Partnership and $4.8 billion bilateral trade.",
+      "timestamp": "2026-11-19T16:03:45Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "politics",
+      "extended_summary": "Japan and India agreed to enhance their military and arms industry cooperation, including allowing Japanese troops to conduct live-fire missile training at Indian firing ranges in future joint drills. Defense and foreign ministers from both nations met Thursday in Tokyo for a \"two-plus-two\" meeting. Japanese Defense Minister Shinjiro Koizumi and Foreign Minister Toshimitsu Motegi joined Indian counterparts Rajnath Singh and S. Jaishankar. The agreement proceeds under a \"design with Japan, make in India\" framework. Japan, an island nation with limited space for missile tests, needs partners to provide facilities for live-fire drills essential to improving missile capability. The ministers also agreed to promote cooperation in defense equipment and technology and accelerate negotiations for transferring the Japanese naval radio antenna UNICORN to India. They reaffirmed deepening cooperation in air and maritime security, information sharing, search and rescue operations, naval shipbuilding and artificial intelligence.",
+      "id": "national-politics-2",
+      "micro_summary": "Japan and India agreed Thursday to enhance military ties and allow Japanese live-fire missile training at Indian ranges.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.618,
+      "sources": [
+        {
+          "publisher": "The Washington Post",
+          "url": "https://www.washingtonpost.com/world/2026/11/19/japan-india-military-missile-radar/d24b69cc-e424-11f1-a99e-b3e3805c6b8b_story.html"
+        },
+        {
+          "publisher": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://abcnews.com/International/wireStory/japan-india-agree-enhance-military-defense-industry-cooperation-138288577"
+        }
+      ],
+      "summary": "Japan and India agreed to enhance military and arms industry cooperation, including allowing Japanese troops to conduct live-fire missile training at Indian firing ranges during future joint drills at a Tokyo meeting Thursday.",
+      "timestamp": "2026-11-19T17:34:40Z"
+    },
+    {
+      "ai": true,
+      "articles": 3,
+      "category": "politics",
+      "extended_summary": "Union Parliamentary Affairs Minister Kiren Rijiju criticized Leader of Opposition Rahul Gandhi for describing India's economy as dead and alleging vote theft during his visit to the United States. Rijiju cited assessments by the International Monetary Fund and World Bank recognizing India as the world's fastest-growing major economy, contrasting this with Gandhi's remarks. He rejected claims that democracy does not exist in India, arguing that Gandhi's ability to openly protest and criticize Prime Minister Narendra Modi and the BJP demonstrates freedom of expression. Rijiju also referenced World Bank data indicating over 50 crore people were lifted out of poverty between 2011 and 2023. He accused Gandhi of making inaccurate statements abroad that damage his own political standing and that of the Opposition, stating that such remarks on foreign soil are shameful for the Leader of Opposition.",
+      "id": "national-politics-3",
+      "micro_summary": "Union Minister Kiren Rijiju criticized Rahul Gandhi for calling India's economy dead during his US visit.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.593,
+      "sources": [
+        {
+          "publisher": "Bharatiya Janata Party",
+          "url": "https://www.bjp.org/pressreleases/press-release-honble-union-minister-senior-bjp-leader-shri-kiren-rijijus-scathing-attack-rahul-gandhi"
+        },
+        {
+          "publisher": "Open Magazine",
+          "url": "https://openthemagazine.com/india/goes-abroad-and-makes-highly-inaccurate-remarks-kiren-rijiju-hits-back-at-rahul-gandhi-over-dead-economy-comment"
+        }
+      ],
+      "summary": "Union Minister Kiren Rijiju rebuked Rahul Gandhi for calling India's economy dead and questioning democracy during his US visit, citing IMF and World Bank recognition of India as the fastest-growing major economy and over 50 crore people lifted from poverty.",
+      "timestamp": "2026-11-19T12:01:12Z"
+    },
+    {
+      "ai": true,
+      "articles": 3,
+      "category": "science",
+      "extended_summary": "The Karnataka government announced India's first government Sports Technology Centre of Excellence at the 29th Bengaluru Tech Summit, which concluded on Thursday, November 19. The state signed a Letter of Intent with Amagi Media Labs Limited to establish the facility in Bengaluru, structured around three pillars: Core Technology and Research Areas, Athlete Development, and Cross-Cutting Ecosystem Enablers. The government will provide seed funding and infrastructure while industry professionals manage operations under a model described as 'run by the industry, for the industry, for the sports fraternity.' The sports ecosystem is expected to grow by 12–15% in coming years. The government also announced a shared CSR Circularity Ecosystem with SoulAce Consulting and an AI Lab.",
+      "id": "national-science-1",
+      "micro_summary": "Karnataka announced India's first government Sports Technology Centre of Excellence at the Bengaluru Tech Summit.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.645,
+      "sources": [
+        {
+          "publisher": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/karnataka/karnataka-to-open-indias-first-government-sports-technology-coe/article71721088.ece"
+        },
+        {
+          "publisher": "The South First",
+          "url": "https://thesouthfirst.com/karnataka/indias-first-government-sports-tech-coe-ai-lab-among-key-initiatives-unveiled-at-bts-2026/"
+        }
+      ],
+      "summary": "At the 29th Bengaluru Tech Summit, Karnataka announced India's first government Sports Technology Centre of Excellence, signing a Letter of Intent with Amagi Media Labs to establish the facility in Bengaluru with three operational pillars.",
+      "timestamp": "2026-11-19T15:40:25Z"
+    },
+    {
+      "ai": true,
+      "articles": 3,
+      "category": "science",
+      "extended_summary": "Karnataka hosts 1,088 of India's 2,117 Global Capability Centres, representing 51% of the national total and employing 829,000 people, including 111,000 AI/ML professionals who constitute 43% of India's GCC AI/ML workforce. The state's GCCs score 1.12x the national average on AI maturity and operate 120-plus dedicated AI/ML centres of excellence, nearly half of India's 250-plus. Between FY2021 and FY2026E, Karnataka attracted 217 of India's 510 new GCCs, including 46 of 89 new Global 2000 centres. Bengaluru accounts for 44% of India's senior AI-leadership GCC job postings, 6.4 times the average of other tier-1 cities. The state also holds 29% of India's AI startups and 60,000 of the country's 110,000 technical engineering leaders.",
+      "id": "national-science-2",
+      "micro_summary": "Karnataka hosts 51% of India's 2,117 GCCs and 43% of its AI/ML talent with 1.12x AI maturity.",
+      "publishers": 3,
+      "scope": "national",
+      "score": 0.637,
+      "sources": [
+        {
+          "publisher": "Deccan Herald",
+          "url": "https://www.deccanherald.com/business/karnataka-extends-its-lead-in-hosting-gccs-4224306"
         },
         {
           "publisher": "The Times of India",
-          "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/racism-row-aiff-approaches-afc-over-palestine-players-alleged-gesture-towards-india-captain/articleshow/135952936.cms"
+          "url": "https://timesofindia.indiatimes.com/business/india-business/ktaka-gccs-account-for-43-of-indias-ai-talent-report/articleshow/135996237.cms?utm_source=newsletter&utm_medium=email&utm_campaign=amp_rss"
+        },
+        {
+          "publisher": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/karnataka/karnataka-accounts-for-more-than-half-of-indias-gccs-43-of-ai-talent-report/article71720534.ece/amp/"
         }
       ],
-      "summary": "The All India Football Federation complained to the Asian Football Confederation over an alleged racist gesture by Palestinian midfielder Taha Soueidan toward India captain Dallalmuon Gangte during their AFC U17 qualifier, which India won 4-1 in Kuala Lumpur.",
-      "timestamp": "2026-11-18T11:37:48Z"
+      "summary": "Karnataka hosts 51% of India's 2,117 GCCs, employing 1.11 lakh AI/ML professionals and scoring 1.12x the national AI maturity average, with 69% of its GCCs maintaining dedicated AI budgets.",
+      "timestamp": "2026-11-19T14:47:00Z"
+    },
+    {
+      "ai": false,
+      "articles": 3,
+      "category": "science",
+      "extended_summary": "Bengaluru India’s aerospace, defence and space industry needs to move beyond isolated artificial intelligence (AI) experiments towards integrated, production-ready applications, with stronger data infrastructure, engineering capabilities and skilled manpower, as suggested by a report released at the Bengaluru Tech Summit. The report, titled ‘Intelligent by Design: AI Adoption in India’s Aerospace, Defence and Space Industry’, brought out by TiE Bangalore and the Aerospace Industry Association of India (AIA), identified AI as a significant opportunity to improve engineering productivity, manufacturing efficiency, maintenance and operational performance. However, it cautions that adoption across the sector remains uneven, with significant differences in technological maturity, investment capacity and organisational readiness. Drawing on practitioner perspectives gathered through interviews, working sessions and written contributions, the report identifies four major constraints: fragmented data access, inadequate integration with existing engineering systems, shortages of specialised talent and concerns around accountability in safety-critical applications. It also pointed out that aerospace and",
+      "id": "national-science-3",
+      "micro_summary": "Data gaps, skills shortage slow AI adoption in India’s aerospace sector: Report.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.587,
+      "sources": [
+        {
+          "publisher": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/data-gaps-skills-shortage-slow-ai-adoption-in-indias-aerospace-sector-report/articleshow/135999512.cms"
+        },
+        {
+          "publisher": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/karnataka/indias-aerospace-defence-sectors-should-move-beyond-isolated-ai-experiments-study/article71720871.ece"
+        }
+      ],
+      "summary": "Data gaps, skills shortage slow AI adoption in India’s aerospace sector: Report. However, it cautions that adoption across the sector remains uneven, with significant differences in technological maturity, investment capacity and organisational readiness.",
+      "timestamp": "2026-11-19T16:55:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "India and Japan agreed to strengthen their defence partnership during the fourth 2+2 ministerial meeting in Tokyo. Defence Minister Rajnath Singh and External Affairs Minister S. Jaishankar met Japanese counterparts Toshimitsu Motegi and Shinjiro Koizumi. They signed a Letter of Intent allowing the Japan Ground Self-Defence Force to conduct live-fire training with surface-to-ship missiles at Indian firing ranges for the first time. The nations set February 2027 as the target for transferring UNICORN communication system technology to enhance Indian Navy warship stealth. They agreed to expand research cooperation in advanced missile technologies, enhance joint exercises including 'Veer Guardian 26', and coordinate Indo-Pacific initiatives. Both reaffirmed commitment to a free, open, rules-based order, respect for sovereignty, and peaceful dispute resolution while opposing unilateral status quo changes.",
+      "id": "national-tragedies-1",
+      "micro_summary": "India and Japan signed a letter of intent for first-time live-fire missile training by Japanese forces in India.",
+      "publishers": 5,
+      "scope": "national",
+      "score": 0.819,
+      "sources": [
+        {
+          "publisher": "DD News",
+          "url": "https://ddnews.gov.in/en/india-and-japan-agree-to-deepen-defence-cooperation-expand-joint-military-exercises-and-strengthen-indo-pacific-security/"
+        },
+        {
+          "publisher": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/defence/news/japan-to-conduct-first-ever-live-fire-military-drills-in-india-test-surface-to-ship-missiles/articleshow/135996426.cms"
+        },
+        {
+          "publisher": "Deccan Herald",
+          "url": "https://www.deccanherald.com/india/japan-to-train-troops-in-india-to-fire-missiles-developed-to-deter-china-naval-stealth-tech-transfer-in-focus-4224676"
+        },
+        {
+          "publisher": "The New Indian Express",
+          "url": "https://www.newindianexpress.com/india/2026/Nov/19/japan-to-hold-its-first-live-fire-missile-drills-on-indian-ranges-next-year"
+        },
+        {
+          "publisher": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/in-a-first-japanese-forces-will-use-indian-facilities-for-live-fire-training/article71721191.ece/amp/"
+        }
+      ],
+      "summary": "India and Japan agreed during their 2+2 ministerial dialogue in Tokyo to strengthen defence ties, including first-time live-fire training for Japan's Ground Self-Defence Force in India and technology transfer of the UNICORN system by February 2027.",
+      "timestamp": "2026-11-19T18:09:59Z"
     }
   ]
 }
