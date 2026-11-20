@@ -2,305 +2,655 @@
   "date": "2026-11-20",
   "events": [
     {
+      "ai": false,
+      "articles": 5,
+      "category": "business",
+      "extended_summary": "The United States military has tightened its naval blockade of Iran, warning that vessels receiving Iranian cargo through ship-to-ship transfers will face military action. US Central Command (CENTCOM), in an advisory on Wednesday, said ships receiving cargo from vessels loaded at Iranian ports or along the country’s coastline could be considered to be “evading the blockade”. The move is aimed at closing a potential loophole that has allowed some Iranian petroleum products to reach international markets, despite Washington’s blockade of Iranian ports and oil exports since mid-July. It comes as Tehran seeks ways to revive its oil exports, with Iran’s Islamic Revolutionary Guard Corps (IRGC) repeatedly warning of retaliation against attacks on Iranian vessels. Analysts say that while Iran is unlikely to break the blockade militarily, it could seek to make its enforcement politically and economically costly for Washington, raising the risk of a wider regional confrontation. “This is potentially",
+      "id": "international-business-1",
+      "micro_summary": "Iranian Oil Moved Between Tankers as US Widens Blockade.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.813,
+      "sources": [
+        {
+          "publisher": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-20/iranian-oil-transferred-between-tankers-as-us-widens-blockade"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/us-targets-irans-ship-to-ship-transfers-can-tehran-break-the-blockade"
+        },
+        {
+          "publisher": "Euronews.com",
+          "url": "https://www.euronews.com/2026/11/20/iran-readies-tanker-convoy-at-kharg-island-to-test-us-oil-blockade"
+        }
+      ],
+      "summary": "Iranian Oil Moved Between Tankers as US Widens Blockade. The United States military has tightened its naval blockade of Iran, warning that vessels receiving Iranian cargo through ship-to-ship transfers will face military action.",
+      "timestamp": "2026-11-20T14:02:33Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "business",
+      "extended_summary": "Ukrainian forces struck the Kaleykino Oil Pumping Station in Russia's Tatarstan Republic on Nov. 19, damaging three large oil storage tanks at the Kaleykino-1 facility. One tank caught fire while two others sustained damage. Each tank has a capacity of 50,000 cubic meters, making them among Russia's largest storage facilities. Located near Almetyevsk more than 1,000 kilometers from the Ukrainian front line, the station is a key hub in Russia's oil transportation network, receiving and blending crude oil before distributing it to refineries and the Druzhba pipeline system that carries oil to European markets. The extent to which the attack disrupted operations remains unclear. Earlier on Nov. 19, explosions and a fire were reported at the facility.",
+      "id": "international-business-2",
+      "micro_summary": "Ukrainian forces struck the Kaleykino Oil Pumping Station in Tatarstan on Nov. 19, damaging three 50,000-cubic-meter oil tanks.",
+      "publishers": 4,
+      "scope": "international",
+      "score": 0.696,
+      "sources": [
+        {
+          "publisher": "The Kyiv Independent",
+          "url": "https://kyivindependent.com/ukraine-strikes-key-druzhba-oil-pipeline-station-in-russias-tatarstan-general-staff-confirms/"
+        },
+        {
+          "publisher": "Reuters",
+          "url": "https://www.reuters.com/business/energy/more-russian-regions-limit-fuel-sales-ukrainian-drone-strikes-hit-refinery-2026-11-20/"
+        }
+      ],
+      "summary": "Ukrainian forces struck the Kaleykino Oil Pumping Station in Russia's Tatarstan Republic on Nov. 19, damaging three 50,000-cubic-meter oil storage tanks, with one catching fire, at the key hub located over 1,000 kilometers from the front line.",
+      "timestamp": "2026-11-20T12:01:09Z"
+    },
+    {
+      "ai": false,
+      "articles": 4,
+      "category": "business",
+      "extended_summary": "What comes to mind when you think of your perfect winter getaway? Perhaps you dream of wandering through a vibrant Christmas market with a cup of hot cocoa in hand or watching the northern lights dance across the sky in a dazzling array of colors. With historic cities, snowy winter landscapes, and vibrant cultural experiences, Europe offers countless opportunities for memorable trips during the winter season, Euronews reports. From spectacular ski slopes to soothing thermal waters, discover magical European destinations for every traveler this winter. Embark on Snowy Adventures in Zermatt, Switzerland Nestled in Switzerland, Zermatt is known as a “skier’s paradise” with more than 200 miles of ski runs. Surrounded by Alpine peaks, visitors can take ski lifts up to Klein Matterhorn, which is almost 13,000 feet high. You can arrive in Zermatt by hopping on the “slowest express train in the world,” the Glacier Express. The journey lasts",
+      "id": "international-business-3",
+      "micro_summary": "‘The place becomes a jewellery box of glittering lights’: readers’ favourite winter city breaks in Europe.",
+      "publishers": 4,
+      "scope": "international",
+      "score": 0.693,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/travel/2026/nov/20/winter-christmas-city-breaks-europe-readers-travel-tips"
+        },
+        {
+          "publisher": "Vogue Adria",
+          "url": "https://vogueadria.com/european-cities-for-a-december-getaway/"
+        },
+        {
+          "publisher": "GOODNET - Gateway to Doing Good",
+          "url": "https://www.goodnet.org/planet/discover-the-best-winter-travel-destinations-in-europe/"
+        }
+      ],
+      "summary": "‘The place becomes a jewellery box of glittering lights’: readers’ favourite winter city breaks in Europe. From spectacular ski slopes to soothing thermal waters, discover magical European destinations for every traveler this winter.",
+      "timestamp": "2026-11-20T09:29:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "business",
+      "extended_summary": "More than half a million students sat South Korea's Suneung college entrance exam at 1,312 centers nationwide, an eight-hour test determining university placement. The exam proceeded under heightened security following revelations that the top scorer in the certified tax accountancy exam, who missed only one of 160 questions, admitted using a concealed microcamera, smartphone and AI to cheat. Authorities deployed emergency alerts to every phone in the country three times between 08:00 and 15:00 on exam day, sounding at full volume even on silent mode. Officials found 111 candidates with unauthorized smart devices, including five caught red-handed using them during the test. President Lee Jae Myung subsequently called for an overhaul of the examination system to address AI-assisted cheating, which he said undermines societal fairness.",
+      "id": "international-business-4",
+      "micro_summary": "111 candidates were caught with unauthorized smart devices during South Korea's high-stakes college entrance exam.",
+      "publishers": 4,
+      "scope": "international",
+      "score": 0.638,
+      "sources": [
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/18/south-korea-university-entrace-exams-ai-cheating-measures"
+        }
+      ],
+      "summary": "More than half a million students sat South Korea's Suneung college entrance exam, where authorities caught 111 candidates with unauthorized smart devices and five red-handed using them, following AI-assisted cheating scandals and nationwide emergency alerts.",
+      "timestamp": "2026-11-20T10:16:19Z"
+    },
+    {
       "ai": true,
       "articles": 5,
       "category": "politics",
-      "extended_summary": "European leaders at Berlin's Coalition of the Willing summit expressed readiness to negotiate with Russia to end the war in Ukraine. UK Prime Minister Andy Burnham stated Europe has a clear and united negotiating position, while German Chancellor Friedrich Merz said Moscow's maximalist demands are not realistic. US envoy Jared Kushner said President Trump wants to make a deal with Moscow with Europe by his side and believes peace is achievable following trilateral talks with Putin and Xi Jinping in Shenzhen. Kushner indicated Moscow is comfortable with Ukraine receiving security guarantees based on NATO's Article Five and willing to include Europeans in the process. Putin had rejected European involvement but invited Europeans to Moscow to clarify positions, denying plans to attack anyone. Ukrainian President Volodymyr Zelensky attended, having long sought NATO-equivalent guarantees. Progress was reported on postwar prosperity, security guarantees with NATO as a central pillar, and prisoner exchanges.",
+      "extended_summary": "Two Russian cruise missiles and a jet-powered drone crashed in south-eastern Poland during one of Russia's largest air attacks on Ukraine since 2022, which killed at least eight people and injured nearly 30. The objects landed in Nowy Lipowiec, Mołodycz and Rudnik nad Sanem, with one Kh-101 missile hitting a rural area about 50km from the Ukrainian border at approximately 06:30. No injuries were reported in Poland. The violations occurred during major western military exercises involving 11 countries in Nowa Dęba. Polish Prime Minister Donald Tusk called the incident an intentional provocation by Moscow, while Defence Minister Władysław Kosiniak-Kamysz confirmed three airspace violations. Nato Secretary General Mark Rutte condemned the grave violations, confirmed Nato jets were scrambled, and announced a visit to Warsaw. Ukrainian President Volodymyr Zelenskyy stated the attacks targeted civilian infrastructure across multiple regions.",
       "id": "international-politics-1",
-      "micro_summary": "European leaders signal readiness to negotiate with Russia to end the Ukraine war at Berlin summit.",
+      "micro_summary": "Two Russian cruise missiles and a drone crashed in Poland during major attacks on Ukraine that killed at least eight.",
       "publishers": 5,
       "scope": "international",
-      "score": 0.865,
+      "score": 0.843,
       "sources": [
         {
-          "publisher": "Sky News",
-          "url": "https://news.sky.com/story/putin-vows-to-retaliate-as-ukraine-hits-prized-crimea-bridge-for-third-time-in-four-days-13613963"
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro"
         },
         {
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go"
+          "publisher": "Sky News",
+          "url": "https://news.sky.com/story/ukraine-war-latest-three-kyiv-bridges-hit-by-missiles-after-putin-vowed-painful-response-for-crimea-attack-12541713"
         },
         {
           "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates"
+          "url": "https://www.theguardian.com/world/2026/nov/20/russian-missiles-drone-poland-attacks-ukraine"
         }
       ],
-      "summary": "European leaders at Berlin's Coalition of the Willing summit declared readiness to negotiate with Russia to end the Ukraine war, while US envoy Jared Kushner said Trump believes peace is achievable and Moscow accepts NATO-style guarantees for Ukraine.",
-      "timestamp": "2026-11-19T22:46:23Z"
+      "summary": "Two Russian cruise missiles and a jet-powered drone crashed in south-eastern Poland during major Russian air attacks on Ukraine that killed at least eight people, with Warsaw calling the airspace violations an intentional provocation by Moscow.",
+      "timestamp": "2026-11-20T12:09:29Z"
     },
     {
       "ai": true,
       "articles": 5,
       "category": "politics",
-      "extended_summary": "President Trump arrives in Shenzhen for a meeting with Xi Jinping this week as US-China relations face strain over new export restrictions on advanced chips. The Trump administration introduced curbs targeting Chinese firms accessing US chips in third countries like Malaysia and Thailand, prompting Beijing to label the rules \"economic coercion.\" Tensions are compounded by allegations involving former Nvidia CEO Jensen Huang and claims of Chinese intelligence ties, fueling debate over chip sales. Meanwhile, Canadian Prime Minister Mark Carney met Xi to announce a two-year remission on Chinese steel and aluminum products in exchange for tariff relief on Canadian pork, fish and seafood. Carney rejected Vladimir Putin's claim that sanctions are ineffective, stating they remain \"very real,\" and warned of risks from lacking global AI governance. Carney is scheduled to meet Trump later today to discuss a trade deal.",
+      "extended_summary": "Donald Trump, Xi Jinping and Vladimir Putin held the first-ever trilateral summit between the leaders of the US, China and Russia at the Kylin Villa in Shenzhen during the APEC summit. The 70-minute closed-door meeting produced a four-point 'Declaration Toward Peace' that made no mention of the wars in Ukraine or Iran but outlined priorities including UN reform, boosting oil supplies and protecting diplomatic immunity. The statement affirmed that 'a nuclear war cannot be won and must not be fought,' while Xi called for nuclear weapons to be completely prohibited and thoroughly destroyed over time. Trump rated the summit 12 out of 10 and described both Xi and Putin as friends, while Xi personally greeted Trump on the tarmac with an honor guard and crowds waving flags.",
       "id": "international-politics-2",
-      "micro_summary": "Trump arrives in Shenzhen for summit with Xi amid Nvidia spy scandal and new chip export curbs.",
-      "publishers": 5,
+      "micro_summary": "Trump, Xi and Putin held first trilateral summit in Shenzhen issuing peace declaration without mentioning Ukraine or Iran.",
+      "publishers": 4,
       "scope": "international",
-      "score": 0.857,
+      "score": 0.83,
       "sources": [
         {
-          "publisher": "Sky News",
-          "url": "https://news.sky.com/story/apec-summit-latest-historic-trump-putin-xi-talks-to-take-place-after-handshake-goes-viral-in-russia-13612438"
-        },
-        {
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o"
-        },
-        {
           "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china?page=with:block-6afd70ff8f0841c351d0a577"
+          "url": "https://www.theguardian.com/us-news/2026/nov/20/donald-trump-xi-jinping-vladimir-putin-summit"
+        },
+        {
+          "publisher": "Sky News",
+          "url": "https://news.sky.com/story/donald-trump-latest-us-president-gives-white-house-news-conference-after-meeting-putin-and-xi-13614291"
         }
       ],
-      "summary": "President Trump arrives in Shenzhen for talks with Xi Jinping as new US chip export restrictions on Chinese firms and allegations involving Nvidia's former CEO complicate US-China relations, while Canadian Prime Minister Carney meets Xi and Trump at the summit.",
-      "timestamp": "2026-11-19T22:33:53Z"
+      "summary": "Donald Trump, Xi Jinping and Vladimir Putin convened for the first trilateral summit at Kylin Villa in Shenzhen, issuing a four-point 'Declaration Toward Peace' that omitted the wars in Ukraine and Iran while affirming nuclear war cannot be won.",
+      "timestamp": "2026-11-20T16:45:00Z"
     },
     {
       "ai": true,
       "articles": 5,
       "category": "politics",
-      "extended_summary": "Xi Jinping, Vladimir Putin and Donald Trump held their first trilateral summit in Shenzhen, China, during the 33rd Asia-Pacific Economic Cooperation summit, meeting for 90 minutes. The three leaders issued a joint declaration outlining priorities including UN reform, boosting oil supplies and protecting diplomatic immunity, while affirming that a nuclear war cannot be won and must not be fought. The statement made no mention of the wars in Ukraine and Iran. Xi called for nuclear weapons to be completely prohibited and thoroughly destroyed over time. Putin sought to project superpower status and tacit approval of his geopolitical ambitions, while Trump described the meeting as making history. The talks drew comparisons to the 1945 Yalta Conference, with Ukrainian President Volodymyr Zelensky cautioning against decisions affecting his country without its input.",
-      "id": "international-politics-4",
-      "micro_summary": "Xi Jinping, Vladimir Putin and Donald Trump held a 90-minute trilateral summit in Shenzhen issuing a peace declaration.",
+      "extended_summary": "Russia launched a major overnight attack on Ukraine, firing at least 110 missiles and approximately 400 drones, including 120 jet-powered drones, in an assault that lasted more than ten hours and killed nine people while injuring at least 28 others. The strikes targeted warehouses, railway stations, energy plants, residential buildings and three bridges in Kyiv—the Podilsko-Voskresensky, Darnytskyi and Southern bridges—which were closed to traffic. Ukrainian President Volodymyr Zelensky described the attack as the biggest this year and one of the most massive of the war. The assault came hours after Russian President Vladimir Putin met US President Donald Trump and Chinese leader Xi Jinping in China for trilateral talks billed as a peace initiative, and followed Ukraine's recent damage to the Crimean Bridge. Polish and NATO fighter jets were scrambled and Patriot air defense systems activated after Poland's airspace was violated during the attack.",
+      "id": "international-politics-3",
+      "micro_summary": "Russia fired 110 missiles and 400 drones at Ukraine in its biggest attack this year, killing nine.",
       "publishers": 5,
       "scope": "international",
-      "score": 0.817,
+      "score": 0.805,
       "sources": [
         {
-          "publisher": "The Moscow Times",
-          "url": "https://www.themoscowtimes.com/2026/11/19/a-new-yalta-in-china-putin-gets-what-he-wants-mostly-a94314"
-        },
-        {
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars"
-        },
-        {
-          "publisher": "The Economist",
-          "url": "https://www.economist.com/the-world-this-week/2026/11/19/cartoon-the-meeting-of-donald-trump-xi-jinping-and-vladimir-putin"
-        }
-      ],
-      "summary": "Xi Jinping, Vladimir Putin and Donald Trump held a 90-minute trilateral summit in Shenzhen during APEC, issuing a declaration prioritizing UN reform, oil supplies and diplomatic immunity while affirming nuclear war cannot be won.",
-      "timestamp": "2026-11-19T14:09:00Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "sports",
-      "extended_summary": "Los Angeles Rams wide receiver Puka Nacua has been suspended three games for violating the personal conduct policy. The suspension is effective immediately, and he is eligible for reinstatement on Monday, December 14. Nacua, who was placed on injured reserve November 12 with a posterior cruciate ligament/MCL sprain and turf toe, will serve the suspension while on IR, with his remaining three games counting toward the penalty. He missed Sunday's game against the Cardinals. The suspension follows a lawsuit filed in March by a woman who accused him of making an \"unprovoked antisemitic statement\" and biting her on the shoulder; Nacua denied the allegations and entered a rehab center. He will lose $950,000 in game checks. Nacua has played seven games this season, totaling 70 catches for 715 yards and four touchdowns. Further violations of the personal conduct policy could result in banishment from the league.",
-      "id": "international-sports-2",
-      "micro_summary": "Los Angeles Rams wide receiver Puka Nacua has been suspended three games for violating the personal conduct policy.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.856,
-      "sources": [
-        {
-          "publisher": "ESPN",
-          "url": "https://www.espn.com/nfl/story/_/id/50533560/rams-wr-puka-nacua-serve-3-game-suspension-ir"
-        },
-        {
-          "publisher": "NFL.com",
-          "url": "https://www.nfl.com/news/puka-nacua-suspension-rams-nfl"
-        },
-        {
-          "publisher": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/breaking-news/article/rams-all-pro-wr-puka-nacua-reportedly-suspended-3-games-for-violating-leagues-personal-conduct-policy-202946159.html"
-        }
-      ],
-      "summary": "Los Angeles Rams wide receiver Puka Nacua has been suspended three games for violating the personal conduct policy, effective immediately with reinstatement eligible December 14. The suspension coincides with his injured reserve status, costing him $950,000 in game checks.",
-      "timestamp": "2026-11-19T20:38:00Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "sports",
-      "extended_summary": "President Donald Trump announced a posthumous pardon for Pete Rose, baseball's career hits leader with 4,256 hits who died in 2024 at age 83. Rose pleaded guilty in 1990 to two counts of filing false tax returns, admitting he failed to report $354,968, and was sentenced to five months in prison and fined $50,000. He had agreed to a permanent ban from Major League Baseball in August 1989 after investigators found he bet on the Cincinnati Reds while playing and managing the team from 1985 to 1987. Last May, MLB Commissioner Rob Manfred restored the eligibility of deceased individuals on the permanently ineligible list, opening a pathway for Rose to be considered for the Baseball Hall of Fame as early as 2028. The pardon, issued more than two years after Rose's death, is largely symbolic and does not alter his Hall of Fame status.",
-      "id": "international-sports-4",
-      "micro_summary": "President Trump posthumously pardoned Pete Rose, baseball's career hits leader with 4,256 hits.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.853,
-      "sources": [
-        {
-          "publisher": "NBC News",
-          "url": "https://www.nbcnews.com/politics/donald-trump/posthumously-pardons-pete-rose-mlb-hit-leader-betting-baseball-rcna610308"
-        },
-        {
-          "publisher": "ESPN",
-          "url": "https://www.espn.com/mlb/story/_/id/50534187/pete-rose-posthumously-pardoned-president-donald-trump"
+          "publisher": "Financial Times",
+          "url": "https://www.ft.com/content/d76c0ce7-ba3b-42b3-8efa-7724cc0900d7?syn-25a6b1a6=1"
         },
         {
           "publisher": "BBC",
-          "url": "https://www.bbc.com/news/articles/cx1l0pm7l9jmo"
+          "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o"
+        },
+        {
+          "publisher": "CNN",
+          "url": "https://www.cnn.com/2026/11/20/europe/russia-ukraine-putin-trump-intl-hnk"
         }
       ],
-      "summary": "President Trump posthumously pardoned Pete Rose, baseball's 4,256-hit career leader who died in 2024. Rose was banned for life in 1989 for betting but reinstated last year, making him eligible for the Hall of Fame in 2028.",
-      "timestamp": "2026-11-19T22:55:53Z"
+      "summary": "Russia launched a massive overnight attack on Ukraine, firing 110 missiles and 400 drones that killed nine and injured 28, hitting bridges and energy plants hours after Putin met Trump and Xi.",
+      "timestamp": "2026-11-20T06:14:28Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "President Donald Trump encountered Russian President Vladimir Putin at the APEC summit in Shenzhen, China, where he jokingly pretended not to know him before marching up for a hearty handshake and proclaiming, \"He's my friend! Nice to see you.\" Trump also told Kremlin spokesman Dmitry Peskov, \"You're doing a good job,\" despite Peskov being sanctioned by the U.S. Treasury. Former conservative ally Geraldo Rivera sharply criticized the exchange, asking why Trump does not ask his friend to stop bombing hospitals, daycare centers, civilian homes, and energy infrastructure in Ukraine, calling the behavior \"pathetic\" and saying he was \"embarrassed for the president.\" Rivera also rejected the idea that the summit hosted by Chinese Premier Xi Jinping represented a \"new world order,\" calling it a \"three-day junket.\" Late-night hosts also mocked Trump's friendly meeting with Putin and Xi Jinping at the summit.",
+      "id": "international-politics-4",
+      "micro_summary": "Geraldo Rivera criticized President Trump for calling Vladimir Putin his friend at the APEC summit in China.",
+      "publishers": 4,
+      "scope": "international",
+      "score": 0.783,
+      "sources": [
+        {
+          "publisher": "The Independent",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-putin-apec-summit-geraldo-rivera-b3088568.html"
+        },
+        {
+          "publisher": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/20/arts/television/jimmy-kimmel-trump-xi-putin-summit.html"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/culture/2026/nov/19/jimmy-kimmel-trump-xi-putin-summit-late-night"
+        }
+      ],
+      "summary": "President Trump called Vladimir Putin \"my friend\" at the APEC summit in Shenzhen and told Kremlin spokesman Dmitry Peskov \"You're doing a good job,\" prompting Geraldo Rivera to ask why Trump does not demand Putin stop bombing Ukrainian hospitals.",
+      "timestamp": "2026-11-20T12:35:00Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "science",
+      "extended_summary": "The US' national cyber director Sean Cairncross has been fired from his role, a source close to the White House told the AFP news agency on Thursday, following a wave of tech outages across the country. Kirsten Davies, the defence department's chief information officer, is set to take over from Cairncross on a temporary basis, the source said. \"Congratulations to the new National Cyber Director Kirsten Davies — look forward to working together to strengthen America’s cybersecurity,\" US Secretary of State Marco Rubio wrote in a post on social media. At the Pentagon, Davies has acted as the \"principal advisor\" to Secretary of Defence Pete Hegseth \"on all matters relating to information management, information technology, cybersecurity, and information assurance,\" her bio says. The move comes after outages have hit travel, communications and banking, as well as an internal system used by the National Security Agency in recent weeks. The national",
+      "id": "international-science-1",
+      "micro_summary": "White House cyber director fired after wave of tech outages.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.753,
+      "sources": [
+        {
+          "publisher": "Euronews.com",
+          "url": "https://www.euronews.com/2026/11/20/white-house-national-cyber-director-fired-after-wave-of-tech-outages"
+        },
+        {
+          "publisher": "Axios",
+          "url": "https://www.axios.com/2026/11/19/trump-national-cyber-director-sean-cairncross-leaving"
+        },
+        {
+          "publisher": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/world-news/2026/11/20/trump-sacks-cyber-director-after-wave-of-tech-outages/"
+        }
+      ],
+      "summary": "White House cyber director fired after wave of tech outages.",
+      "timestamp": "2026-11-20T07:03:40Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "science",
+      "extended_summary": "Stefan Tompson, founder of the Warsaw-based social media account Visegrad24, treated the Gaza conflict as a fundraising opportunity beginning 15 days after October 7, 2023. In the war's first three days, the account published nearly 400 posts, including rage-bait videos of alleged pro-Hamas demonstrations, which drew 370 million views and briefly exceeded the reach of major news outlets. Tompson told a confidant he chose to back Israel because it had 'a lot of influence and money,' writing that his goal was to fundraise off the conflict. By November 2023, he had joined private investor groups including Builders for Israel, and the account's foundation had taken in more than $1 million from wealthy tech investors and Wall Street figures.",
+      "id": "international-science-2",
+      "micro_summary": "Stefan Tompson's Visegrad24 raised over $1 million and drew 370 million views while backing Israel during the Gaza conflict.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.708,
+      "sources": [
+        {
+          "publisher": "WIRED",
+          "url": "https://www.wired.com/story/leaked-how-silicon-valley-elites-bankrolled-anti-migrant-pro-israel-propaganda-machine/"
+        },
+        {
+          "publisher": "Dealroom",
+          "url": "https://app.dealroom.co/news/note/leaked-files-show-vcs-funneled-over-1m-into-viral-x-account-visegrad24"
+        },
+        {
+          "publisher": "Middle East Monitor",
+          "url": "https://www.middleeastmonitor.com/20261120-pro-israel-tech-elite-funded-x-account-that-saw-gaza-genocide-as-perfect-excuse-to-attack-muslims/"
+        }
+      ],
+      "summary": "Stefan Tompson, founder of Visegrad24, treated the Gaza conflict as a fundraising opportunity, raising over $1 million from wealthy investors while his account posted nearly 400 anti-Muslim posts that drew 370 million views in three days.",
+      "timestamp": "2026-11-19T11:00:00Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "science",
+      "extended_summary": "A surprising thing has happened at the UN climate conference, Cop31, as it gears up to its conclusion in Antalya, Turkey. Negotiators are discussing how to cool the planet. You might think this should not be surprising, but how to respond to the latest climate science was not on the agenda when the meeting started. Now, the summit’s latest draft decision explicitly recognises a role for carbon dioxide removal (CDR) alongside deep emissions cuts. This is a significant shift, driven by pressure from some of the countries most vulnerable to climate change – the small island states – in response to two alarming scientific reports in the last month. The World Meteorological Organization has confirmed that the rate at which the Earth is heating up is accelerating. One reason is the planet is becoming less “reflective”: the loss of ice and snow, changes in cloud formation and (paradoxically) reductions in",
+      "id": "international-science-3",
+      "micro_summary": "Cop31: the world is heading for climate ‘overshoot’ – the UN summit must start planning for what comes next.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.674,
+      "sources": [
+        {
+          "publisher": "The Conversation",
+          "url": "https://theconversation.com/cop31-the-world-is-heading-for-climate-overshoot-the-un-summit-must-start-planning-for-what-comes-next-296769"
+        },
+        {
+          "publisher": "Reuters",
+          "url": "https://www.reuters.com/sustainability/climate-energy/net-zero-is-essential-it-is-no-longer-enough--ecmii-2026-11-18/"
+        },
+        {
+          "publisher": "AP News",
+          "url": "https://apnews.com/article/climate-change-carbon-removal-warming-43a5aa99d97cf290a77a14b09ed025b6"
+        }
+      ],
+      "summary": "Cop31: the world is heading for climate ‘overshoot’ – the UN summit must start planning for what comes next. Now, the summit’s latest draft decision explicitly recognises a role for carbon dioxide removal (CDR) alongside deep emissions cuts.",
+      "timestamp": "2026-11-19T12:21:46Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "Rams receiver Puka Nacua will serve a three-game suspension while on injured reserve following a negotiated agreement with the NFL. The suspension resulted from a compromise to avoid a hearing before Judge Sue L. Robinson, whose findings cannot be appealed by the league. The NFL agreed to let Nacua serve the suspension while unable to play due to injury, citing precedent. Prior cases include Daniel Ekuale of Pittsburgh, suspended five games in 2025 for a performance-enhancing substances violation after a season-ending injury; Sam Williams of Dallas, suspended three games in 2024 for a personal conduct violation while out for the season; Mike Woods of Cleveland, suspended six games in 2023 for a personal conduct violation while on NFI; and David Parry of New Orleans, suspended four games in 2018 for personal conduct and substances violations.",
+      "id": "international-sports-1",
+      "micro_summary": "Puka Nacua will serve a three-game suspension while on injured reserve following a negotiated agreement with the NFL.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.868,
+      "sources": [
+        {
+          "publisher": "NBC Sports",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/puka-nacua-serving-suspension-while-on-ir-raises-an-important-question"
+        },
+        {
+          "publisher": "ESPN",
+          "url": "https://www.espn.com/nfl/story/_/id/50542028/rams-puka-nacua-needs-mcl-surgery-likely-done-season"
+        },
+        {
+          "publisher": "The New York Times",
+          "url": "https://www.nytimes.com/athletic/7547136/2026/11/19/rams-puka-nacua-suspension/"
+        }
+      ],
+      "summary": "Rams receiver Puka Nacua will serve a three-game suspension while on injured reserve after negotiating a deal with the NFL to avoid a hearing, with the league citing precedent for players serving suspensions while injured.",
+      "timestamp": "2026-11-20T15:15:29Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "Dougie Cochrane becomes Port Adelaide's newest player. Name: Dougie Cochrane State: South Australia State League Club: Central District/Port Adelaide Community Club: Port Districts Date of Birth: 02/05/2008 Height: 195cm Port Adelaide has secured exciting utility Dougie Cochrane as the first selection in the 2026 Telstra AFL National Draft. The Power matched a bid from Essendon on Cochrane at pick one, with the 18-year-old tied to the club’s Next Generation Academy through his First Nations background. Touted as the number one pick since his under 16 national championships campaign in 2024, Cochrane has natural football talent in spades. Enjoy the highlights of our newest recruit, Dougie Cochrane. He won the Kevin Sheehan Medal and state MVP award that year, and has continued to be considered the top talent in this draft despite missing both the 2025 and 2026 under 18 national championships with injury. Cochrane burst onto the SANFL scene in",
+      "id": "international-sports-2",
+      "micro_summary": "Every pick: Bid wars, bolters dominate draft’s night two.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.85,
+      "sources": [
+        {
+          "publisher": "Herald Sun",
+          "url": "https://www.heraldsun.com.au/sport/afl/afl-draft-night-2-all-the-news-and-updates-on-who-your-club-will-pick/live-coverage/f30526db473a7a05d50a087d3d07c158"
+        },
+        {
+          "publisher": "afl.com.au",
+          "url": "https://www.afl.com.au/news/1642810/draft-night-live-every-pick-the-best-analysis-from-night-two"
+        },
+        {
+          "publisher": "portadelaidefc.com.au",
+          "url": "https://www.portadelaidefc.com.au/news/2166683/port-adelaide-secures-cochrane-at-pick-one"
+        }
+      ],
+      "summary": "Every pick: Bid wars, bolters dominate draft’s night two. The Power matched a bid from Essendon on Cochrane at pick one, with the 18-year-old tied to the club’s Next Generation Academy through his First Nations background.",
+      "timestamp": "2026-11-20T16:51:24Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "Chelsea striker Joao Pedro remains unfit for Saturday's Premier League home fixture against Leeds United at Stamford Bridge. Manager Xabi Alonso confirmed the Brazilian is not yet ready to train with the team and will not feature against Leeds. The 25-year-old has been sidelined with a thigh injury since being omitted from the starting lineup for the 2-0 home defeat to Tottenham last month, and has not played since. Chelsea have also lost 1-0 to Sunderland and been eliminated from the Carabao Cup by Liverpool on penalties during his absence. Summer signing Maxence Lacroix is also unavailable with a hamstring injury. Meanwhile, Leeds United manager Daniel Farke reported no injuries ahead of the match, with Anton Stach, Noah Okafor and Dominic Calvert-Lewin all back in full training, and Joe Rodon available after returning from international duty.",
+      "id": "international-sports-3",
+      "micro_summary": "Chelsea striker Joao Pedro remains unfit for Saturday's Premier League match against Leeds United.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.848,
+      "sources": [
+        {
+          "publisher": "London Evening Standard",
+          "url": "https://www.standard.co.uk/sport/football/chelsea-fc-injury-latest-joao-pedro-alonso-b1305726.html"
+        },
+        {
+          "publisher": "Leeds United | Official Website",
+          "url": "https://www.leedsunited.com/en/news/daniel-farke-provides-fitness-updates-on-stach-okafor-and-calvert-lewin-ahead-of-chelsea"
+        },
+        {
+          "publisher": "Chelsea Football Club",
+          "url": "https://www.chelseafc.com/en/news/article/training-gallery-blues-make-last-preparations-for-leeds"
+        }
+      ],
+      "summary": "Chelsea manager Xabi Alonso confirmed striker Joao Pedro is not ready for Saturday's Premier League home match against Leeds United at Stamford Bridge, while Leeds have no injury concerns with Anton Stach, Noah Okafor and Dominic Calvert-Lewin all available.",
+      "timestamp": "2026-11-20T13:52:12Z"
+    },
+    {
+      "ai": false,
+      "articles": 10,
+      "category": "sports",
+      "extended_summary": "All the co-hosts of Euro 2028 will take part in the qualifying competition, with the draw being held on Sunday, 6 December. But for England, being a Nations League quarter-finalists has an impact. This is because the winners need the June international dates free to play the finals. So, the Euro 2028 draw will see placeholders in eight groups for the winners and losers of each quarter-final tie. For instance, England may know they could be in Group A or Group C, but their result in the Nations League quarter-finals will determine which group they join. So, England will not know who they play until the quarter-finals take place in March. Uefa will still confirm the fixtures for all Euro 2028 groups next month, even with the Nations League placeholders.",
+      "id": "international-sports-4",
+      "micro_summary": "Nations League draw: England to face Norway; Wales to play Slovenia.",
+      "publishers": 6,
+      "scope": "international",
+      "score": 0.844,
+      "sources": [
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cx8dv4y3nm8et"
+        },
+        {
+          "publisher": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50539055/england-norway-spain-france-nations-league"
+        },
+        {
+          "publisher": "UEFA.com",
+          "url": "https://www.uefa.com/uefanationsleague/draws/2027/2002277/"
+        }
+      ],
+      "summary": "Nations League draw: England to face Norway; Wales to play Slovenia. But for England, being a Nations League quarter-finalists has an impact.",
+      "timestamp": "2026-11-20T14:23:04Z"
     },
     {
       "ai": true,
       "articles": 5,
       "category": "tragedies",
-      "extended_summary": "Fiona, a nine-year-old hippopotamus at Cincinnati Zoo who became a global sensation after surviving a premature birth in 2017, died after swallowing a visitor's knitted hat. The hat fell into her enclosure on November 8 after a visitor tossed it and it caught on a ceiling fan. Initially weighing 2,400 pounds, Fiona seemed fine at first, but her appetite declined days later. Zoo staff attempted numerous treatments including fluid therapy, enemas, a colonoscopy using a nine-foot scope borrowed from a nearby zoo, and a vibration plate from a local horse farm. Despite heroic efforts by veterinarians and keepers, including offering her coffee, Fiona's body could not overcome the blockage. Born prematurely at just 29 pounds, she had become a beloved attraction, and her death at age nine was considered premature as hippos typically live up to 50 years in human care.",
+      "extended_summary": "Reinaldo Dennes, 70, was pronounced dead after a 63-minute execution at the Huntsville penitentiary in Texas on Thursday night. The execution team struggled to find a vein to administer the sedative pentobarbital, causing the prisoner to scream in pain for over an hour. Witnesses reported that Dennes shouted \"The pain!\" and \"My leg, my leg, my leg,\" describing his leg as \"on fire,\" and repeatedly said, \"It's not working like it's supposed to.\" He begged his spiritual adviser to \"take me home\" and end his suffering. Dennes was convicted of the 1996 capital murder of Janos Szucs, a Houston diamond dealer. The botched procedure bears similarities to the recent failed execution of Christa Pike in Tennessee, who survived a full dose of execution drugs in September. The incident has led to renewed calls for a nationwide moratorium on lethal injections.",
       "id": "international-tragedies-1",
-      "micro_summary": "Fiona, the nine-year-old Cincinnati Zoo hippo, died after swallowing a visitor's knitted hat.",
-      "publishers": 4,
+      "micro_summary": "Reinaldo Dennes died after a 63-minute botched Texas execution during which he screamed in pain.",
+      "publishers": 5,
       "scope": "international",
-      "score": 0.795,
+      "score": 0.8,
       "sources": [
         {
-          "publisher": "The Telegraph",
-          "url": "https://www.telegraph.co.uk/us/news/2026/11/19/concerns-health-cincinnati-zoo-hippo-ate-woollen-hat-ease/"
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo"
+        },
+        {
+          "publisher": "RTE.ie",
+          "url": "https://www.rte.ie/news/us/2026/1120/1600057-texas-execution/"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/20/botched-execution-texas"
+        }
+      ],
+      "summary": "Reinaldo Dennes, 70, was executed in Texas after a 63-minute botched lethal injection during which he screamed in pain and begged for death, prompting renewed calls for a moratorium on executions.",
+      "timestamp": "2026-11-20T12:42:37Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "From premature baby to social media star - Famed Cincinnati Zoo hippo Fiona dies The Cincinnati Zoo in Ohio says its beloved hippopotamus Fiona has died just days after swallowing a knitted hat that slipped into her enclosure. \"It is with extreme sadness that we share with you the devastating news that Fiona did not make it after multiple attempts from our amazing vets and keeper team to help her through what ended up being a medical emergency,\" the zoo said on Thursday afternoon. Fiona, who became a social media star after her premature birth in 2017, swallowed the hat about 10 days ago and required emergency care. The vet staff \"tried everything they could to help her\" but \"it was ultimately too much to overcome\", the zoo said. Fiona initially seemed fine after swallowing the hat more than a week ago \"We are in shock at the moment,\" Cincinnati",
+      "id": "international-tragedies-2",
+      "micro_summary": "Fiona the hippo dies 11 days after swallowing zoo visitor’s hat.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.79,
+      "sources": [
+        {
+          "publisher": "The Independent",
+          "url": "https://www.independent.co.uk/news/world/americas/fiona-hippo-cincinnati-zoo-dead-hat-b3088445.html"
         },
         {
           "publisher": "BBC",
           "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko"
         },
         {
-          "publisher": "ESPN",
-          "url": "https://www.espn.co.uk/nfl/story/_/id/50534625/cincinnati-bengals-reds-fiona-hippo"
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/20/fiona-hippo-death-shrine-tributes-hat-cincinnati-zoo"
         }
       ],
-      "summary": "Fiona, a nine-year-old hippo and social media star at Cincinnati Zoo, died after swallowing a visitor's knitted hat that fell into her enclosure. Veterinarians attempted multiple treatments including fluid therapy and a borrowed scope, but she could not recover.",
-      "timestamp": "2026-11-19T21:49:00Z"
+      "summary": "Fiona the hippo dies 11 days after swallowing zoo visitor’s hat. Fiona, the world-famous hippo who won hearts across the globe after surviving a premature birth, has died at Cincinnati Zoo 11 days after swallowing a visitor’s knit hat.",
+      "timestamp": "2026-11-20T07:45:00Z"
     },
     {
       "ai": true,
       "articles": 5,
       "category": "tragedies",
-      "extended_summary": "Xavier Taylor, a 12-year-old Maple Shade, New Jersey baseball player, died Wednesday after spending five and a half months in a coma on a ventilator. He was accidentally struck in the neck by a baseball on May 26 while warming up for a Little League championship game about 13 miles outside Philadelphia. Taylor collapsed and never regained consciousness. He died eight days before what would have been his 13th birthday. The local community rallied behind him, lighting homes and businesses in blue, his team's color, and placing baseball bats outside front doors. His family, through the Xavier Strong organization and All Things Foundation, thanked supporters for their prayers and solidarity. The Maple Shade Youth Baseball Association expressed grief, stating the loss leaves a hole in their baseball community. Mayor Heather Talarico encouraged residents to illuminate their porches in blue to show support. Services have not yet been announced.",
-      "id": "international-tragedies-2",
-      "micro_summary": "Xavier Taylor, 12, died days before his 13th birthday after being struck by a baseball in May.",
+      "extended_summary": "Ukrainian attack drones struck the Dorogobuzh chemical plant in Russia's Smolensk region on November 20, targeting a facility that manufactures chemicals used in the production of explosives for Russian military ammunition. Footage recorded by local residents captured the moment of impact and a subsequent fire on the industrial site. The plant specializes in producing nitric acid, ammonia, nitroammophoska fertilizer, and ammonium nitrate, which are used to manufacture explosive compounds including TNT, RDX, and HMX for filling various types of ammunition. The facility accounts for about 11% of Russia's total ammonium nitrate production and is described as the largest industrial enterprise in the Smolensk region. The plant was previously attacked on February 25, when seven people were killed, and again in December 2025. No official statements about the November 20 attack have been issued.",
+      "id": "international-tragedies-3",
+      "micro_summary": "Ukrainian drones struck the Dorogobuzh chemical plant in Russia's Smolensk region on November 20, causing a fire.",
       "publishers": 5,
       "scope": "international",
-      "score": 0.763,
+      "score": 0.783,
       "sources": [
         {
-          "publisher": "The Independent",
-          "url": "https://www.independent.co.uk/news/world/americas/new-jersey-child-baseball-injury-death-xavier-taylor-b3088240.html"
+          "publisher": "The Kyiv Independent",
+          "url": "https://kyivindependent.com/ukrainian-drones-reportedly-strike-russian-chemical-plant/"
         },
         {
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/sport/2026/nov/19/xavier-taylor-dies-new-jersey-baseball-little-league"
+          "publisher": "Ukrinform",
+          "url": "https://www.ukrinform.net/rubric-ato/4186683-drones-attack-chemical-plant-producing-components-for-explosives-in-russias-smolensk-region-media.html"
         },
         {
-          "publisher": "6abc Philadelphia",
-          "url": "https://6abc.com/post/maple-shade-nj-community-mourning-loss-xavier-taylor-6-months-baseball-field-accident/20056585/"
+          "publisher": "UNITED24 Media",
+          "url": "https://united24media.com/war-in-ukraine/russian-plant-producing-chemicals-used-in-tnt-and-other-explosives-goes-up-in-flames-after-drone-strike-24551"
         }
       ],
-      "summary": "Xavier Taylor, 12, of Maple Shade, New Jersey, died Wednesday after being struck by a baseball on May 26. He remained unconscious on a ventilator for five and a half months, dying eight days before his 13th birthday.",
-      "timestamp": "2026-11-19T20:11:00Z"
+      "summary": "Ukrainian drones struck the Dorogobuzh chemical plant in Russia's Smolensk region on November 20, hitting a facility that produces chemicals for military explosives and causing a fire. The plant accounts for about 11% of Russia's ammonium nitrate production.",
+      "timestamp": "2026-11-20T02:59:39Z"
     },
     {
       "ai": false,
       "articles": 5,
       "category": "tragedies",
-      "extended_summary": "Tehran hits sites in Kuwait and Bahrain as more tankers come under fire and third US carrier arrives in region Akhtar is a foreign correspondent for The Telegraph based in London Iran has launched a wave of drones at US military bases in Kuwait and Bahrain in an escalation of the Middle East conflict. The strikes, early on Wednesday, came hours after the US had struck several sites on Iran’s Qeshm Island in response to fresh attacks on shipping in the Strait of Hormuz. The Iranian army claimed responsibility for the attack on Kuwait, claiming its “combat destruction drones” had hit US Patriot air defence systems along with drone and missile launchers at the Ali al-Salem air base, which hosts American forces. Tehran said the attacks were in response to US drone surveillance operations and an attack on Iranian communication towers, describing the Kuwaiti base as “a key hub for",
-      "id": "international-tragedies-3",
-      "micro_summary": "Kuwait, Bahrain, Saudi Arabia come under attack as Middle East tensions flare.",
+      "extended_summary": "To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video Up Next Previous Page Next Page &#8216;It was a Sunday evening like any other, until I heard popping sounds.&#8217; Kaitlin Davidson, 29, was doing her laundry in an ocean-view apartment opposite Bondi Beach, Sydney, when two gunmen opened fire on an event marking the Jewish festival of Hanukkah. Fifteen people &#8211; including a 10-year-old girl &#8211; were killed on December&nbsp;14 last year in what became Australia&#8217;s worst mass shooting in almost three decades. Kaitlin, a nurse, witnessed the attack unfolding before running out onto the beach to try save the dead and help the dozens who were injured. People ran from the idyllic Bondi Beach as the horror shooting unfolded targeting the Jewish community event (Picture: Alex Larriaga via REUTERS) Speaking ahead of a new Channel 4 documentary, Terror on Bondi Beach,",
+      "id": "international-tragedies-4",
+      "micro_summary": "‘I ran barefoot to help Bondi Beach victims.",
       "publishers": 5,
       "scope": "international",
-      "score": 0.681,
+      "score": 0.648,
       "sources": [
         {
-          "publisher": "The Times of Israel",
-          "url": "https://www.timesofisrael.com/kuwait-bahrain-saudi-arabia-come-under-attack-as-middle-east-tensions-flare/"
+          "publisher": "Metro.co.uk",
+          "url": "https://metro.co.uk/2026/11/19/i-ran-barefoot-help-bondi-beach-victims-saw-best-worst-humanity-29805206/"
         },
         {
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o"
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/tv-and-radio/2026/nov/19/terror-on-bondi-beach-review-channel-four"
         },
         {
-          "publisher": "The Telegraph",
-          "url": "https://www.telegraph.co.uk/world-news/2026/11/18/kuwait-bahrain-ali-al-salem-hormuz/"
+          "publisher": "J-Wire",
+          "url": "https://www.jwire.com.au/zaka-launches-in-australia/"
         }
       ],
-      "summary": "Kuwait, Bahrain, Saudi Arabia come under attack as Middle East tensions flare. The drone attack on Kuwait was the first in more than two months.",
-      "timestamp": "2026-11-18T11:31:00Z"
+      "summary": "‘I ran barefoot to help Bondi Beach victims. Israel’s ZAKA Search & Rescue is establishing volunteer emergency response units in Melbourne and Sydney, nearly a year after the deadly Chanukah terrorist attack at Bondi Beach.",
+      "timestamp": "2026-11-19T20:37:00Z"
     },
     {
-      "ai": true,
-      "articles": 4,
-      "category": "sports",
-      "extended_summary": "Glenn Phillips scored 108 not out off 193 balls on Day 2 of the first Test against India at the Basin Reserve in Wellington, becoming the first player to score hundreds against India in all three formats in a single calendar year. He had earlier scored 106 in an ODI in Indore on January 18 and 107 off 49 balls in a T20I in Auckland on October 30. Phillips is only the second player after Rohit Sharma to achieve this against the same opponent in one year, and the first New Zealand batter to do so. He is the third player after Shane Watson and Shai Hope to score centuries in all three formats against India. Phillips shared a 216-run sixth-wicket partnership with Henry Nicholls, who scored a century on Day 1.",
-      "id": "national-sports-1",
-      "micro_summary": "Glenn Phillips scored 108 not out vs India, first to hit centuries in all formats against one opponent this year.",
-      "publishers": 4,
+      "ai": false,
+      "articles": 2,
+      "category": "entertainment",
+      "extended_summary": "Mumbai: Shah Rukh Khan is the only Indian actor to make it to Variety’s list of the 100 greatest movie stars of all time. The Badshah of Bollywood been ranked 92nd, alongside some of Hollywood’s biggest names, including Marilyn Monroe, Charlie Chaplin, Tom Cruise and Marlon Brando. The list, published on 18 November, was compiled by Variety’s film critics. The publication has ranked actors from different countries and generations, considering not just their performances, but also their popularity and the impact they’ve had on cinema. Marilyn Monroe tops the list, followed by Humphrey Bogart and Charlie Chaplin. Jack Nicholson is fourth, with Katharine Hepburn completing the top five. Marlon Brando is seventh, while Tom Cruise comes in eighth. Bruce Lee is ranked 53rd. Khan is ranked between American actors Kristen Stewart, at No. 91, and Joaquin Phoenix, at No. 93. Variety has chosen Sanjay Leela Bhansali’s Devdas (2002) as Khan’s",
+      "id": "national-entertainment-1",
+      "micro_summary": "Shah Rukh Khan is the only Indian on Variety’s 100 greatest stars list.",
+      "publishers": 2,
       "scope": "national",
-      "score": 0.75,
+      "score": 0.573,
       "sources": [
         {
-          "publisher": "India Today",
-          "url": "https://www.indiatoday.in/sports/cricket/story/nz-vs-ind-glenn-phillips-century-all-three-formats-record-wellington-test-3042804-2026-11-20"
+          "publisher": "ThePrint",
+          "url": "https://theprint.in/entertainment/shah-rukh-khan-is-the-only-indian-on-varietys-100-greatest-stars-list/3104113/"
         },
         {
           "publisher": "Rediff",
-          "url": "https://www.rediff.com/cricket/report/india-vs-new-zealand-1st-test-glenn-phillips-matches-rohit-sharmas-rare-record-with-test-century/20261120.htm"
+          "url": "https://www.rediff.com/movies/report/srk-is-only-indian-among-100-greatest-movie-stars/20261120.htm"
+        }
+      ],
+      "summary": "Shah Rukh Khan is the only Indian on Variety’s 100 greatest stars list. Mumbai: Shah Rukh Khan is the only Indian actor to make it to Variety’s list of the 100 greatest movie stars of all time.",
+      "timestamp": "2026-11-20T09:57:42Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "politics",
+      "extended_summary": "Nepal Prime Minister Balendra Shah will pay a State visit to India from November 22 to 23, 2026, at the invitation of Prime Minister Narendra Modi. The visit marks Shah's first trip to India since assuming office in March 2026 as Nepal's youngest prime minister following his party's landslide victory in the first parliamentary election since protests last year ousted the previous government. During the visit, Shah will call on President Droupadi Murmu. Prime Minister Modi will hold bilateral talks with Shah on November 23 to review the full range of India-Nepal relations and exchange views on regional and international issues of mutual interest. The two countries share close ties rooted in historical, cultural and civilisational links, with cooperation spanning trade, energy, water resources, connectivity, technology and sports. The visit continues the tradition of regular high-level exchanges and reflects India's commitment to its 'Neighbourhood First' policy.",
+      "id": "national-politics-1",
+      "micro_summary": "Nepal Prime Minister Balendra Shah will visit India November 22-23 for talks with Prime Minister Narendra Modi.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.538,
+      "sources": [
+        {
+          "publisher": "Ministry of External Affairs",
+          "url": "https://www.mea.gov.in/press-releases?dtl/41978/State_Visit_of_Prime_Minister_of_Nepal_November_2223_2026"
+        },
+        {
+          "publisher": "DD News",
+          "url": "https://ddnews.gov.in/en/nepal-pm-balendra-shah-to-visit-india-on-november-22-23/"
+        }
+      ],
+      "summary": "Nepal Prime Minister Balendra Shah will pay a State visit to India from November 22 to 23, 2026, at Prime Minister Narendra Modi's invitation, holding bilateral talks on November 23 and calling on President Droupadi Murmu.",
+      "timestamp": "2026-11-20T09:06:09Z"
+    },
+    {
+      "ai": false,
+      "articles": 3,
+      "category": "politics",
+      "extended_summary": "News On AIR | November 20, 2026 2:22 PM Union Minister for Youth Affairs and Sports, Dr Mansukh Mandaviya, said that schemes like Khelo India Mission, Fit India Movement and Target Olympic Podium Scheme are helping expand grassroots participation, identify sporting talent and create pathways for high-performance sports. Addressing the 16th edition of FICCI’s Global Summit on the Business of Sports TURF-2026 today in New Delhi, the Minister highlighted the transformation of India’s sporting ecosystem over the past 12 years under the leadership of Prime Minister Narendra Modi. Mr Mandaviya further said that the vision is to transform India from a sporting nation into a global sports ecosystem. He invited international partners, innovators, manufacturers, and sporting institutions to become part of this transformation. The minister also highlighted the government’s focus on strengthening sports infrastructure and manufacturing capabilities. He said the government has approved a sports goods manufacturing scheme with an",
+      "id": "national-politics-2",
+      "micro_summary": "Union Minister Dr. Mansukh Mandaviya calls for Sports Industry Leaders to ‘Make In India, Play In India, Grow With India’.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.526,
+      "sources": [
+        {
+          "publisher": "www.pib.gov.in",
+          "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2339073&reg=1&lang=1"
+        },
+        {
+          "publisher": "News On AIR",
+          "url": "https://newsonair.gov.in/sports-minister-mansukh-mandaviya-highlights-indias-sporting-ecosystem-over-past-12-years/"
+        }
+      ],
+      "summary": "Union Minister Dr. Mansukh Mandaviya calls for Sports Industry Leaders to ‘Make In India, Play In India, Grow With India’. Mr Mandaviya further said that the vision is to transform India from a sporting nation into a global sports ecosystem.",
+      "timestamp": "2026-11-20T10:55:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 6,
+      "category": "sports",
+      "extended_summary": "The Men's Blind Cricket Asia Cup 2026 final between India and Pakistan in Dhaka was washed out due to rain, with no ball bowled. Match referee Tamim from Bangladesh declared Pakistan champions based on superior Net Run Rate in the league stage. India disputed the decision, claiming the clause was never in the playing conditions, and boycotted the trophy ceremony. India had earlier lost to Pakistan in a last-over league match. The Cricket Association for Blind in India appealed to the technical committee, which initially favored joint winners but the decision was overturned. The appeal was rejected despite two panel members supporting India, leading to the boycott. CABI officials accused Pakistan of unilaterally declaring themselves champions and threatened to sever ties with the World Blind Cricket Council.",
+      "id": "national-sports-1",
+      "micro_summary": "Pakistan won Men's Blind Cricket Asia Cup 2026 on Net Run Rate after final vs India washed out.",
+      "publishers": 5,
+      "scope": "national",
+      "score": 0.795,
+      "sources": [
+        {
+          "publisher": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-boycott-trophy-ceremony-after-pakistan-handed-blind-asia-cup-title-following-washout/articleshow/136029621.cms"
+        },
+        {
+          "publisher": "The New Indian Express",
+          "url": "https://www.newindianexpress.com/sport/sports-news/2026/Nov/20/pakistan-declared-asia-cup-winners-after-washout-india-blind-cricket-team-boycotts-presentation-ceremony"
         },
         {
           "publisher": "NDTV Sports",
-          "url": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/glenn-phillips-breaks-huge-record-emulates-rohit-sharma-for-rare-test-cricket-feat-with-century-in-1st-test-12351938"
+          "url": "https://sports.ndtv.com/cricket/india-blind-cricket-team-protests-after-pakistan-handed-asia-cup-title-controversially-12354646"
+        },
+        {
+          "publisher": "Rediff",
+          "url": "https://www.rediff.com/cricket/report/blind-cricket-asia-cup-india-boycotts-ceremony-over-pakistans-controversial-win/20261120.htm"
         },
         {
           "publisher": "Sportstar",
-          "url": "https://sportstar.thehindu.com/cricket/india-vs-new-zealand-glenn-phillips-second-test-century/article71721629.ece"
+          "url": "https://sportstar.thehindu.com/cricket/india-condemns-pakistan-decision-to-win-men-blind-cricket-asia-cup-after-ind-v-pak-final-washed-out/article71724277.ece"
         }
       ],
-      "summary": "Glenn Phillips scored 108 not out off 193 balls against India in Wellington, becoming first to hit centuries in Tests, ODIs and T20Is against one opponent in a calendar year.",
-      "timestamp": "2026-11-19T23:50:40Z"
+      "summary": "Pakistan were declared winners of the Men's Blind Cricket Asia Cup 2026 in Dhaka after the final against India was washed out without a ball bowled, with India boycotting the trophy ceremony and disputing the Net Run Rate decision.",
+      "timestamp": "2026-11-20T17:28:19Z"
+    },
+    {
+      "ai": false,
+      "articles": 2,
+      "category": "sports",
+      "extended_summary": "News On AIR | October 6, 2026 7:00 AM In Men’s Cricket, India will face West Indies in the first match of the five-match T20 International series at the Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium in Lucknow today. The match will start at 7 PM IST. After winning gold at the 2026 Asian Games and a convincing 2-1 win in the One Day International series, the hosts will aim to continue their winning run against the West Indies. As many as 10 members of India’s Asian Games 2026 team have been picked for the series, while three players from the ODI squad are also part of the team. West Indies, on the other hand, have brought in a few power-packed reinforcements for the T20 International in the form of Shimron Hetmyer, Rovman Powell and Romario Shepherd. The next four T20 matches will be played in Ranchi, Indore,",
+      "id": "national-sports-2",
+      "micro_summary": "Men’s Cricket: first T20I of five match series between India-West Indies to be played in Lucknow today.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.646,
+      "sources": [
+        {
+          "publisher": "News On AIR",
+          "url": "https://newsonair.gov.in/mens-cricket-first-t20i-of-five-match-series-between-india-west-indies-to-be-played-in-lucknow-today/"
+        },
+        {
+          "publisher": "Cricbuzz",
+          "url": "https://www.cricbuzz.com/cricket-match-squads/151543/ind-vs-wi-2nd-odi-west-indies-tour-of-india-2026"
+        }
+      ],
+      "summary": "Men’s Cricket: first T20I of five match series between India-West Indies to be played in Lucknow today.",
+      "timestamp": "2026-11-20T14:55:11Z"
     },
     {
       "ai": true,
       "articles": 2,
       "category": "sports",
-      "extended_summary": "Fifteen former India footballers, including legendary striker Bhaichung Bhutia, have written to Sports Minister Mansukh Mandaviya urging immediate intervention to nominate a leader with a proven track record to head the All India Football Federation. The letter, signed by players including Renedy Singh and Harmanjot Singh Khabra, describes the current state of Indian football under president Kalyan Chaubey as \"pathetic\" and states that the country's FIFA ranking has fallen from 95 to 138 over three years. The former players criticized the federation for organizing friendlies against Brazil and Uruguay as a \"publicity stunt\" while failing to run a proper league, citing the shutdown of Jamshedpur FC. They also noted the national team missed the ASEAN Championship due to these fixtures and lacked a preparatory camp for the SAFF Championship. The AIFF is scheduled to hold elections on December 20.",
-      "id": "national-sports-2",
-      "micro_summary": "Fifteen former India footballers urge Sports Minister to replace AIFF chief amid ranking drop from 95 to 138.",
+      "extended_summary": "India's U17 men's team secured a 0-0 draw against Malaysia at the Kuala Lumpur Football Stadium on Friday, November 20, 2026, to finish atop Group E of the AFC U17 Asian Cup Uzbekistan 2027 Qualifiers with 10 points from four matches. The result marked India's 11th overall and second consecutive qualification for the AFC U17 Asian Cup, achieved after winning three games and drawing the final fixture. The Blue Colts recorded their highest-ever scoring campaign in the qualifiers with 20 goals from nine different scorers, led by captain Dallalmuon Gangte with seven strikes. Palestine finished second with nine points, while hosts Malaysia placed third with seven. Teams reaching the quarter-finals in Uzbekistan next May will qualify for the FIFA U17 World Cup 2027.",
+      "id": "national-sports-3",
+      "micro_summary": "India drew 0-0 with Malaysia to top Group E and qualify for the AFC U17 Asian Cup.",
       "publishers": 2,
       "scope": "national",
-      "score": 0.512,
+      "score": 0.591,
       "sources": [
         {
-          "publisher": "Deccan Herald",
-          "url": "https://www.deccanherald.com/sports/football/former-india-footballers-slam-aiff-president-kalyan-chaubey-4224660"
+          "publisher": "Sportstar",
+          "url": "https://sportstar.thehindu.com/football/indian-football/india-vs-malaysia-live-streaming-info-where-to-watch-afc-u17-asian-cup-2027-qualifier/article71724260.ece"
         },
         {
-          "publisher": "Deccan Chronicle",
-          "url": "https://www.deccanchronicle.com/sports/15-ex-india-players-term-state-of-indian-football-pathetic-urge-minister-to-bring-new-aiff-chief-2005879"
+          "publisher": "All India Football Federation",
+          "url": "https://www.the-aiff.com/article/gallant-india-stay-unbeaten-to-qualify-for-afc-u17-asian-cup-2027"
         }
       ],
-      "summary": "Fifteen former India footballers, including Bhaichung Bhutia, have urged Sports Minister Mansukh Mandaviya to nominate a new AIFF chief, citing a FIFA ranking drop from 95 to 138 and calling the current state of the game pathetic.",
-      "timestamp": "2026-11-19T18:22:03Z"
-    },
-    {
-      "ai": true,
-      "articles": 4,
-      "category": "tragedies",
-      "extended_summary": "On June 12, 2025, a London-bound Boeing 787 Dreamliner crashed into the BJ Medical College hostel in Ahmedabad less than a minute after takeoff, killing 241 of 242 on board and 19 on the ground, totaling 260 deaths. On November 19, 2026, the Supreme Court bench of Chief Justice Surya Kant and Justices Joymalya Bagchi and V Mohana granted the Centre two weeks to complete the investigation, deferring petitions for an independent inquiry. Petitioners included Pushkaraj Sabharwal, father of deceased Captain Sumeet Sabharwal, the Federation of Indian Pilots, and the Safety Matters Foundation. The Centre stated the probe was at the fag end, while petitioners opposed the delay, noting the final report remained unreleased. The Aircraft Accident Investigation Bureau's preliminary report indicated the engine fuel-control switches moved to cutoff after takeoff without establishing the cause.",
-      "id": "national-tragedies-2",
-      "micro_summary": "Supreme Court grants Centre two weeks to complete Air India crash probe that killed 260 people.",
-      "publishers": 4,
-      "scope": "national",
-      "score": 0.715,
-      "sources": [
-        {
-          "publisher": "Sikkimexpress",
-          "url": "https://sikkimexpress.com/news-details/ahmedabad-air-india-crash-probe-nearing-completion-centre"
-        },
-        {
-          "publisher": "Bar and Bench",
-          "url": "https://www.barandbench.com/news/litigation/air-india-crash-probe-nearing-completion-centre-tells-supreme-court"
-        },
-        {
-          "publisher": "LawChakra",
-          "url": "https://lawchakra.in/supreme-court/air-india-crash-probe/"
-        },
-        {
-          "publisher": "The Hindustan Gazette",
-          "url": "https://thehindustangazette.com/election/air-india-crash-probe-in-final-stage-centre-tells-supreme-court-49739"
-        }
-      ],
-      "summary": "The Supreme Court on November 19, 2026, granted the Centre two weeks to complete the investigation into the June 12, 2025 Air India crash in Ahmedabad that killed 260 people, while deferring petitions seeking an independent inquiry.",
-      "timestamp": "2026-11-19T19:15:26Z"
+      "summary": "India's U17 team drew 0-0 with Malaysia to finish atop Group E with 10 points and secure their 11th qualification for the AFC U17 Asian Cup, scoring 20 goals in the campaign.",
+      "timestamp": "2026-11-20T16:51:31Z"
     }
   ]
 }
