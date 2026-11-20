@@ -1,0 +1,306 @@
+{
+  "date": "2026-11-20",
+  "events": [
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "European leaders at Berlin's Coalition of the Willing summit expressed readiness to negotiate with Russia to end the war in Ukraine. UK Prime Minister Andy Burnham stated Europe has a clear and united negotiating position, while German Chancellor Friedrich Merz said Moscow's maximalist demands are not realistic. US envoy Jared Kushner said President Trump wants to make a deal with Moscow with Europe by his side and believes peace is achievable following trilateral talks with Putin and Xi Jinping in Shenzhen. Kushner indicated Moscow is comfortable with Ukraine receiving security guarantees based on NATO's Article Five and willing to include Europeans in the process. Putin had rejected European involvement but invited Europeans to Moscow to clarify positions, denying plans to attack anyone. Ukrainian President Volodymyr Zelensky attended, having long sought NATO-equivalent guarantees. Progress was reported on postwar prosperity, security guarantees with NATO as a central pillar, and prisoner exchanges.",
+      "id": "international-politics-1",
+      "micro_summary": "European leaders signal readiness to negotiate with Russia to end the Ukraine war at Berlin summit.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.865,
+      "sources": [
+        {
+          "publisher": "Sky News",
+          "url": "https://news.sky.com/story/putin-vows-to-retaliate-as-ukraine-hits-prized-crimea-bridge-for-third-time-in-four-days-13613963"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates"
+        }
+      ],
+      "summary": "European leaders at Berlin's Coalition of the Willing summit declared readiness to negotiate with Russia to end the Ukraine war, while US envoy Jared Kushner said Trump believes peace is achievable and Moscow accepts NATO-style guarantees for Ukraine.",
+      "timestamp": "2026-11-19T22:46:23Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "President Trump arrives in Shenzhen for a meeting with Xi Jinping this week as US-China relations face strain over new export restrictions on advanced chips. The Trump administration introduced curbs targeting Chinese firms accessing US chips in third countries like Malaysia and Thailand, prompting Beijing to label the rules \"economic coercion.\" Tensions are compounded by allegations involving former Nvidia CEO Jensen Huang and claims of Chinese intelligence ties, fueling debate over chip sales. Meanwhile, Canadian Prime Minister Mark Carney met Xi to announce a two-year remission on Chinese steel and aluminum products in exchange for tariff relief on Canadian pork, fish and seafood. Carney rejected Vladimir Putin's claim that sanctions are ineffective, stating they remain \"very real,\" and warned of risks from lacking global AI governance. Carney is scheduled to meet Trump later today to discuss a trade deal.",
+      "id": "international-politics-2",
+      "micro_summary": "Trump arrives in Shenzhen for summit with Xi amid Nvidia spy scandal and new chip export curbs.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.857,
+      "sources": [
+        {
+          "publisher": "Sky News",
+          "url": "https://news.sky.com/story/apec-summit-latest-historic-trump-putin-xi-talks-to-take-place-after-handshake-goes-viral-in-russia-13612438"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china?page=with:block-6afd70ff8f0841c351d0a577"
+        }
+      ],
+      "summary": "President Trump arrives in Shenzhen for talks with Xi Jinping as new US chip export restrictions on Chinese firms and allegations involving Nvidia's former CEO complicate US-China relations, while Canadian Prime Minister Carney meets Xi and Trump at the summit.",
+      "timestamp": "2026-11-19T22:33:53Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "Xi Jinping, Vladimir Putin and Donald Trump held their first trilateral summit in Shenzhen, China, during the 33rd Asia-Pacific Economic Cooperation summit, meeting for 90 minutes. The three leaders issued a joint declaration outlining priorities including UN reform, boosting oil supplies and protecting diplomatic immunity, while affirming that a nuclear war cannot be won and must not be fought. The statement made no mention of the wars in Ukraine and Iran. Xi called for nuclear weapons to be completely prohibited and thoroughly destroyed over time. Putin sought to project superpower status and tacit approval of his geopolitical ambitions, while Trump described the meeting as making history. The talks drew comparisons to the 1945 Yalta Conference, with Ukrainian President Volodymyr Zelensky cautioning against decisions affecting his country without its input.",
+      "id": "international-politics-4",
+      "micro_summary": "Xi Jinping, Vladimir Putin and Donald Trump held a 90-minute trilateral summit in Shenzhen issuing a peace declaration.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.817,
+      "sources": [
+        {
+          "publisher": "The Moscow Times",
+          "url": "https://www.themoscowtimes.com/2026/11/19/a-new-yalta-in-china-putin-gets-what-he-wants-mostly-a94314"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars"
+        },
+        {
+          "publisher": "The Economist",
+          "url": "https://www.economist.com/the-world-this-week/2026/11/19/cartoon-the-meeting-of-donald-trump-xi-jinping-and-vladimir-putin"
+        }
+      ],
+      "summary": "Xi Jinping, Vladimir Putin and Donald Trump held a 90-minute trilateral summit in Shenzhen during APEC, issuing a declaration prioritizing UN reform, oil supplies and diplomatic immunity while affirming nuclear war cannot be won.",
+      "timestamp": "2026-11-19T14:09:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "Los Angeles Rams wide receiver Puka Nacua has been suspended three games for violating the personal conduct policy. The suspension is effective immediately, and he is eligible for reinstatement on Monday, December 14. Nacua, who was placed on injured reserve November 12 with a posterior cruciate ligament/MCL sprain and turf toe, will serve the suspension while on IR, with his remaining three games counting toward the penalty. He missed Sunday's game against the Cardinals. The suspension follows a lawsuit filed in March by a woman who accused him of making an \"unprovoked antisemitic statement\" and biting her on the shoulder; Nacua denied the allegations and entered a rehab center. He will lose $950,000 in game checks. Nacua has played seven games this season, totaling 70 catches for 715 yards and four touchdowns. Further violations of the personal conduct policy could result in banishment from the league.",
+      "id": "international-sports-2",
+      "micro_summary": "Los Angeles Rams wide receiver Puka Nacua has been suspended three games for violating the personal conduct policy.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.856,
+      "sources": [
+        {
+          "publisher": "ESPN",
+          "url": "https://www.espn.com/nfl/story/_/id/50533560/rams-wr-puka-nacua-serve-3-game-suspension-ir"
+        },
+        {
+          "publisher": "NFL.com",
+          "url": "https://www.nfl.com/news/puka-nacua-suspension-rams-nfl"
+        },
+        {
+          "publisher": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nfl/breaking-news/article/rams-all-pro-wr-puka-nacua-reportedly-suspended-3-games-for-violating-leagues-personal-conduct-policy-202946159.html"
+        }
+      ],
+      "summary": "Los Angeles Rams wide receiver Puka Nacua has been suspended three games for violating the personal conduct policy, effective immediately with reinstatement eligible December 14. The suspension coincides with his injured reserve status, costing him $950,000 in game checks.",
+      "timestamp": "2026-11-19T20:38:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "President Donald Trump announced a posthumous pardon for Pete Rose, baseball's career hits leader with 4,256 hits who died in 2024 at age 83. Rose pleaded guilty in 1990 to two counts of filing false tax returns, admitting he failed to report $354,968, and was sentenced to five months in prison and fined $50,000. He had agreed to a permanent ban from Major League Baseball in August 1989 after investigators found he bet on the Cincinnati Reds while playing and managing the team from 1985 to 1987. Last May, MLB Commissioner Rob Manfred restored the eligibility of deceased individuals on the permanently ineligible list, opening a pathway for Rose to be considered for the Baseball Hall of Fame as early as 2028. The pardon, issued more than two years after Rose's death, is largely symbolic and does not alter his Hall of Fame status.",
+      "id": "international-sports-4",
+      "micro_summary": "President Trump posthumously pardoned Pete Rose, baseball's career hits leader with 4,256 hits.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.853,
+      "sources": [
+        {
+          "publisher": "NBC News",
+          "url": "https://www.nbcnews.com/politics/donald-trump/posthumously-pardons-pete-rose-mlb-hit-leader-betting-baseball-rcna610308"
+        },
+        {
+          "publisher": "ESPN",
+          "url": "https://www.espn.com/mlb/story/_/id/50534187/pete-rose-posthumously-pardoned-president-donald-trump"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.com/news/articles/cx1l0pm7l9jmo"
+        }
+      ],
+      "summary": "President Trump posthumously pardoned Pete Rose, baseball's 4,256-hit career leader who died in 2024. Rose was banned for life in 1989 for betting but reinstated last year, making him eligible for the Hall of Fame in 2028.",
+      "timestamp": "2026-11-19T22:55:53Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "Fiona, a nine-year-old hippopotamus at Cincinnati Zoo who became a global sensation after surviving a premature birth in 2017, died after swallowing a visitor's knitted hat. The hat fell into her enclosure on November 8 after a visitor tossed it and it caught on a ceiling fan. Initially weighing 2,400 pounds, Fiona seemed fine at first, but her appetite declined days later. Zoo staff attempted numerous treatments including fluid therapy, enemas, a colonoscopy using a nine-foot scope borrowed from a nearby zoo, and a vibration plate from a local horse farm. Despite heroic efforts by veterinarians and keepers, including offering her coffee, Fiona's body could not overcome the blockage. Born prematurely at just 29 pounds, she had become a beloved attraction, and her death at age nine was considered premature as hippos typically live up to 50 years in human care.",
+      "id": "international-tragedies-1",
+      "micro_summary": "Fiona, the nine-year-old Cincinnati Zoo hippo, died after swallowing a visitor's knitted hat.",
+      "publishers": 4,
+      "scope": "international",
+      "score": 0.795,
+      "sources": [
+        {
+          "publisher": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/us/news/2026/11/19/concerns-health-cincinnati-zoo-hippo-ate-woollen-hat-ease/"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko"
+        },
+        {
+          "publisher": "ESPN",
+          "url": "https://www.espn.co.uk/nfl/story/_/id/50534625/cincinnati-bengals-reds-fiona-hippo"
+        }
+      ],
+      "summary": "Fiona, a nine-year-old hippo and social media star at Cincinnati Zoo, died after swallowing a visitor's knitted hat that fell into her enclosure. Veterinarians attempted multiple treatments including fluid therapy and a borrowed scope, but she could not recover.",
+      "timestamp": "2026-11-19T21:49:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "Xavier Taylor, a 12-year-old Maple Shade, New Jersey baseball player, died Wednesday after spending five and a half months in a coma on a ventilator. He was accidentally struck in the neck by a baseball on May 26 while warming up for a Little League championship game about 13 miles outside Philadelphia. Taylor collapsed and never regained consciousness. He died eight days before what would have been his 13th birthday. The local community rallied behind him, lighting homes and businesses in blue, his team's color, and placing baseball bats outside front doors. His family, through the Xavier Strong organization and All Things Foundation, thanked supporters for their prayers and solidarity. The Maple Shade Youth Baseball Association expressed grief, stating the loss leaves a hole in their baseball community. Mayor Heather Talarico encouraged residents to illuminate their porches in blue to show support. Services have not yet been announced.",
+      "id": "international-tragedies-2",
+      "micro_summary": "Xavier Taylor, 12, died days before his 13th birthday after being struck by a baseball in May.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.763,
+      "sources": [
+        {
+          "publisher": "The Independent",
+          "url": "https://www.independent.co.uk/news/world/americas/new-jersey-child-baseball-injury-death-xavier-taylor-b3088240.html"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/sport/2026/nov/19/xavier-taylor-dies-new-jersey-baseball-little-league"
+        },
+        {
+          "publisher": "6abc Philadelphia",
+          "url": "https://6abc.com/post/maple-shade-nj-community-mourning-loss-xavier-taylor-6-months-baseball-field-accident/20056585/"
+        }
+      ],
+      "summary": "Xavier Taylor, 12, of Maple Shade, New Jersey, died Wednesday after being struck by a baseball on May 26. He remained unconscious on a ventilator for five and a half months, dying eight days before his 13th birthday.",
+      "timestamp": "2026-11-19T20:11:00Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "Tehran hits sites in Kuwait and Bahrain as more tankers come under fire and third US carrier arrives in region Akhtar is a foreign correspondent for The Telegraph based in London Iran has launched a wave of drones at US military bases in Kuwait and Bahrain in an escalation of the Middle East conflict. The strikes, early on Wednesday, came hours after the US had struck several sites on Iran’s Qeshm Island in response to fresh attacks on shipping in the Strait of Hormuz. The Iranian army claimed responsibility for the attack on Kuwait, claiming its “combat destruction drones” had hit US Patriot air defence systems along with drone and missile launchers at the Ali al-Salem air base, which hosts American forces. Tehran said the attacks were in response to US drone surveillance operations and an attack on Iranian communication towers, describing the Kuwaiti base as “a key hub for",
+      "id": "international-tragedies-3",
+      "micro_summary": "Kuwait, Bahrain, Saudi Arabia come under attack as Middle East tensions flare.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.681,
+      "sources": [
+        {
+          "publisher": "The Times of Israel",
+          "url": "https://www.timesofisrael.com/kuwait-bahrain-saudi-arabia-come-under-attack-as-middle-east-tensions-flare/"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o"
+        },
+        {
+          "publisher": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/world-news/2026/11/18/kuwait-bahrain-ali-al-salem-hormuz/"
+        }
+      ],
+      "summary": "Kuwait, Bahrain, Saudi Arabia come under attack as Middle East tensions flare. The drone attack on Kuwait was the first in more than two months.",
+      "timestamp": "2026-11-18T11:31:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 4,
+      "category": "sports",
+      "extended_summary": "Glenn Phillips scored 108 not out off 193 balls on Day 2 of the first Test against India at the Basin Reserve in Wellington, becoming the first player to score hundreds against India in all three formats in a single calendar year. He had earlier scored 106 in an ODI in Indore on January 18 and 107 off 49 balls in a T20I in Auckland on October 30. Phillips is only the second player after Rohit Sharma to achieve this against the same opponent in one year, and the first New Zealand batter to do so. He is the third player after Shane Watson and Shai Hope to score centuries in all three formats against India. Phillips shared a 216-run sixth-wicket partnership with Henry Nicholls, who scored a century on Day 1.",
+      "id": "national-sports-1",
+      "micro_summary": "Glenn Phillips scored 108 not out vs India, first to hit centuries in all formats against one opponent this year.",
+      "publishers": 4,
+      "scope": "national",
+      "score": 0.75,
+      "sources": [
+        {
+          "publisher": "India Today",
+          "url": "https://www.indiatoday.in/sports/cricket/story/nz-vs-ind-glenn-phillips-century-all-three-formats-record-wellington-test-3042804-2026-11-20"
+        },
+        {
+          "publisher": "Rediff",
+          "url": "https://www.rediff.com/cricket/report/india-vs-new-zealand-1st-test-glenn-phillips-matches-rohit-sharmas-rare-record-with-test-century/20261120.htm"
+        },
+        {
+          "publisher": "NDTV Sports",
+          "url": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/glenn-phillips-breaks-huge-record-emulates-rohit-sharma-for-rare-test-cricket-feat-with-century-in-1st-test-12351938"
+        },
+        {
+          "publisher": "Sportstar",
+          "url": "https://sportstar.thehindu.com/cricket/india-vs-new-zealand-glenn-phillips-second-test-century/article71721629.ece"
+        }
+      ],
+      "summary": "Glenn Phillips scored 108 not out off 193 balls against India in Wellington, becoming first to hit centuries in Tests, ODIs and T20Is against one opponent in a calendar year.",
+      "timestamp": "2026-11-19T23:50:40Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "sports",
+      "extended_summary": "Fifteen former India footballers, including legendary striker Bhaichung Bhutia, have written to Sports Minister Mansukh Mandaviya urging immediate intervention to nominate a leader with a proven track record to head the All India Football Federation. The letter, signed by players including Renedy Singh and Harmanjot Singh Khabra, describes the current state of Indian football under president Kalyan Chaubey as \"pathetic\" and states that the country's FIFA ranking has fallen from 95 to 138 over three years. The former players criticized the federation for organizing friendlies against Brazil and Uruguay as a \"publicity stunt\" while failing to run a proper league, citing the shutdown of Jamshedpur FC. They also noted the national team missed the ASEAN Championship due to these fixtures and lacked a preparatory camp for the SAFF Championship. The AIFF is scheduled to hold elections on December 20.",
+      "id": "national-sports-2",
+      "micro_summary": "Fifteen former India footballers urge Sports Minister to replace AIFF chief amid ranking drop from 95 to 138.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.512,
+      "sources": [
+        {
+          "publisher": "Deccan Herald",
+          "url": "https://www.deccanherald.com/sports/football/former-india-footballers-slam-aiff-president-kalyan-chaubey-4224660"
+        },
+        {
+          "publisher": "Deccan Chronicle",
+          "url": "https://www.deccanchronicle.com/sports/15-ex-india-players-term-state-of-indian-football-pathetic-urge-minister-to-bring-new-aiff-chief-2005879"
+        }
+      ],
+      "summary": "Fifteen former India footballers, including Bhaichung Bhutia, have urged Sports Minister Mansukh Mandaviya to nominate a new AIFF chief, citing a FIFA ranking drop from 95 to 138 and calling the current state of the game pathetic.",
+      "timestamp": "2026-11-19T18:22:03Z"
+    },
+    {
+      "ai": true,
+      "articles": 4,
+      "category": "tragedies",
+      "extended_summary": "On June 12, 2025, a London-bound Boeing 787 Dreamliner crashed into the BJ Medical College hostel in Ahmedabad less than a minute after takeoff, killing 241 of 242 on board and 19 on the ground, totaling 260 deaths. On November 19, 2026, the Supreme Court bench of Chief Justice Surya Kant and Justices Joymalya Bagchi and V Mohana granted the Centre two weeks to complete the investigation, deferring petitions for an independent inquiry. Petitioners included Pushkaraj Sabharwal, father of deceased Captain Sumeet Sabharwal, the Federation of Indian Pilots, and the Safety Matters Foundation. The Centre stated the probe was at the fag end, while petitioners opposed the delay, noting the final report remained unreleased. The Aircraft Accident Investigation Bureau's preliminary report indicated the engine fuel-control switches moved to cutoff after takeoff without establishing the cause.",
+      "id": "national-tragedies-2",
+      "micro_summary": "Supreme Court grants Centre two weeks to complete Air India crash probe that killed 260 people.",
+      "publishers": 4,
+      "scope": "national",
+      "score": 0.715,
+      "sources": [
+        {
+          "publisher": "Sikkimexpress",
+          "url": "https://sikkimexpress.com/news-details/ahmedabad-air-india-crash-probe-nearing-completion-centre"
+        },
+        {
+          "publisher": "Bar and Bench",
+          "url": "https://www.barandbench.com/news/litigation/air-india-crash-probe-nearing-completion-centre-tells-supreme-court"
+        },
+        {
+          "publisher": "LawChakra",
+          "url": "https://lawchakra.in/supreme-court/air-india-crash-probe/"
+        },
+        {
+          "publisher": "The Hindustan Gazette",
+          "url": "https://thehindustangazette.com/election/air-india-crash-probe-in-final-stage-centre-tells-supreme-court-49739"
+        }
+      ],
+      "summary": "The Supreme Court on November 19, 2026, granted the Centre two weeks to complete the investigation into the June 12, 2025 Air India crash in Ahmedabad that killed 260 people, while deferring petitions seeking an independent inquiry.",
+      "timestamp": "2026-11-19T19:15:26Z"
+    }
+  ]
+}
