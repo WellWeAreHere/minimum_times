@@ -1,0 +1,456 @@
+{
+  "date": "2026-11-22",
+  "events": [
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "COP31 UN climate talks in Turkey reached a standstill as negotiations overran without resolution, with approximately 130 countries insisting on including a reference to transitioning away from fossil fuels in the final outcome. Saudi Arabia and allied nations resisted this language while pushing for strong recommendations on carbon capture and storage technology. Developing countries also demanded increased funding from wealthy nations to adapt to climate impacts. The European Union and Ireland stated that no agreement was preferable to a deal lacking fossil fuel phase-out language, with EU officials indicating readiness to withdraw if the text failed to recognize the transition. A draft published earlier in the week made no explicit mention of fossil fuels despite a prior agreement three years ago. Disagreements also persisted over a target to derive 35% of global energy from electricity by 2035.",
+      "id": "international-politics-2",
+      "micro_summary": "COP31 climate talks in Turkey stalled over fossil fuel transition and aid disputes.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.86,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/environment/2026/nov/21/climate-talks-stall-countries-mull-showdown-saudi-arabia-over-fossil-fuels"
+        },
+        {
+          "publisher": "Financial Times",
+          "url": "https://www.ft.com/content/b3ba64e9-9482-4525-acc7-49825f3daace?syn-25a6b1a6=1"
+        },
+        {
+          "publisher": "RTE.ie",
+          "url": "https://www.rte.ie/news/environment/2026/1121/1600094-cop31-turkey/"
+        }
+      ],
+      "summary": "COP31 climate talks in Turkey reached a standstill as about 130 countries demanded a fossil fuel transition reference while Saudi Arabia and allies resisted, with the EU threatening to leave without an agreement mentioning the phase-out.",
+      "timestamp": "2026-11-21T19:46:04Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "The Russian cargo ship Sparta II was struck by drones in the eastern Gulf of Finland on Saturday morning around 08:50 local time, approximately 50km west of Suursaari island off the coast of Loviisa, causing a fire and damage. Finnish authorities stated the attack was likely carried out by Ukraine. The vessel, which has links to Russia's armed forces and was sanctioned by the US and Ukraine, was bound for Kaliningrad. The crew was evacuated to another Russian vessel en route to Russia. Finnish Border Guard units, along with an Estonian navy patrol ship and a Russian rescue ship, conducted firefighting and cooling operations while the ship remained anchored off Loviisa. Finland implemented temporary air and sea traffic restrictions, and a Russian helicopter violated Finnish airspace by over 4km. No environmental damage was detected, and the ship was scheduled to be towed out of Finnish territorial waters on Saturday night.",
+      "id": "international-politics-3",
+      "micro_summary": "The Russian cargo ship Sparta II was hit by drones in the Gulf of Finland and its crew evacuated.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.829,
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko"
+        },
+        {
+          "publisher": "Sky News",
+          "url": "https://news.sky.com/story/ukraine-war-latest-zelenskyy-labels-putin-killer-after-trumps-friendship-comments-12541713"
+        }
+      ],
+      "summary": "The Russian cargo ship Sparta II was hit by drones in the eastern Gulf of Finland on Saturday, caught fire, and its crew was evacuated to another vessel bound for Russia while Finnish authorities led firefighting operations.",
+      "timestamp": "2026-11-21T20:09:35Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "European leaders at Berlin's Coalition of the Willing summit on November 19, 2026, declared readiness to negotiate with Russia to end the Ukraine war. UK Prime Minister Andy Burnham and German Chancellor Friedrich Merz said Europe has a united position, while Merz called Moscow's demands unrealistic. Europe will be represented by the E5 — Germany, France, the U.K., Italy and Poland — plus NATO and EU. US envoys Jared Kushner and Steve Witkoff attended, with Kushner saying Trump wants a deal with Moscow with Europe at his side and believes peace is achievable. Trump held trilateral talks in Shenzhen with Putin and Xi Jinping before dialing into the summit. Putin said Russia was not against European participation but invited leaders to Moscow to clarify positions, while maintaining 2022 demands including no foreign troops and Ukrainian disarmament. Zelensky continues seeking NATO Article Five-like security guarantees.",
+      "id": "international-politics-4",
+      "micro_summary": "European leaders at Berlin's Coalition of the Willing summit declared readiness to negotiate with Russia to end the Ukraine war.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.804,
+      "sources": [
+        {
+          "publisher": "The Kyiv Independent",
+          "url": "https://kyivindependent.com/is-europe-finally-ready-to-play-hardball-with-putin/"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/far-from-trump-putin-meeting-europe-to-count-cost-of-ukraines-defence"
+        }
+      ],
+      "summary": "European leaders at Berlin's Coalition of the Willing summit said they are ready to negotiate with Russia to end the Ukraine war, with the E5, NATO and EU set to represent Europe alongside Ukraine, Russia and the US.",
+      "timestamp": "2026-11-21T15:52:21Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "science",
+      "extended_summary": "An estimated 80,000 migrants breached the border into the Spanish enclave of Ceuta on July 30 and 31, triggering an institutional crisis among security agencies. The National Police identified 18 Moroccan officials by name, including governors and police commanders, alleging coordinated state involvement in guiding migrants toward the Tarajal breakwater. Investigators interviewed 81 migrants and compiled a 42-page dossier citing cross-organisational coordination, noting the use of 8,000 to 10,000 identical Giant Tyre inflatable rings, with aerial imagery suggesting up to 30,000 were deployed. Some migrants claimed Moroccan soldiers sold the devices. Conversely, the National Intelligence Centre maintains there is no evidence of Moroccan orchestration, while the Guardia Civil accused the spy agency of insufficient warnings despite an official alert. A National High Court judge is leading the judicial inquiry.",
+      "id": "international-science-1",
+      "micro_summary": "Eighty thousand migrants entered Ceuta in July as Spanish agencies dispute Moroccan orchestration of the border breach.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.755,
+      "sources": [
+        {
+          "publisher": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/world-news/2026/11/21/10000-rubber-inflatables-truth-ceuta-migrant-theory/"
+        },
+        {
+          "publisher": "Euronews.com",
+          "url": "https://www.euronews.com/2026/11/19/10000-identical-inflatable-rings-raise-questions-over-ceuta-migrant-crossing"
+        },
+        {
+          "publisher": "Sur in English",
+          "url": "https://www.surinenglish.com/spain/between-intelligence-services-20261116000500-nt.html"
+        }
+      ],
+      "summary": "An estimated 80,000 migrants entered Ceuta on July 30-31, with Spanish police identifying 18 Moroccan officials and 8,000-10,000 identical flotation devices suggesting coordination, while intelligence agencies deny evidence of state planning.",
+      "timestamp": "2026-11-21T05:00:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "science",
+      "extended_summary": "One hundred twenty-eight countries at a United Nations Convention on Certain Conventional Weapons conference in Geneva agreed to elaborate on a possible accord regulating lethal autonomous weapons over the next two years. The decision came after week-long efforts to secure a negotiating mandate for a legally binding treaty collapsed due to Russian objections and filibustering, with the consensus-based forum requiring unanimous agreement. Nearly 100 nations had pushed for swift adoption of binding rules on weapons capable of killing without human decision-making, but key arms-producing states including the United States, Russia, and Israel opposed the push. The final text refers to elaboration rather than negotiation, offering no clear route to legally binding obligations. Critics, including the Stop Killer Robots coalition and Future of Life Institute chair Max Tegmark, called the outcome watered down, noting autonomous weapons are already deployed in combat.",
+      "id": "international-science-3",
+      "micro_summary": "128 nations agreed to elaborate on autonomous weapons rules after Russia blocked a binding treaty mandate.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.702,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/nations-agree-to-draft-rules-for-killer-robots-at-arms-control-summit"
+        },
+        {
+          "publisher": "Reuters",
+          "url": "https://www.reuters.com/world/states-agree-to-un-talks-aiming-regulate-killer-robots-by-2028-2026-11-21/"
+        }
+      ],
+      "summary": "128 countries at a UN conference in Geneva agreed to elaborate on a possible accord regulating lethal autonomous weapons over two years after Russia blocked a push for legally binding rules, with key arms producers opposing the mandate.",
+      "timestamp": "2026-11-21T13:15:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "science",
+      "extended_summary": "Africa is demanding that annual adaptation finance be tripled from $40bn by 2035 to address worsening climate impacts, with Uganda's Karamoja region suffering a severe drought that has destroyed over 90% of crops and left families eating one meal daily, while Malawi faces both flooding from Tropical Cyclone Freddy aftermath and subsequent drought that destroyed harvests and traumatized children. Twenty-three African countries have yet to submit National Adaptation Plans to the UN climate convention. Meanwhile, ahead of Cop31, former Colombian minister Irene Veléz Torres warned that the conference prioritizes protecting negotiation mechanisms over achieving the 1.5C Paris target, following a Santa Marta conference where over 50 countries pledged to transition from fossil fuels and eleven nations published phase-out plans, though Colombia's new government has reversed previous environmental policies including its Amazon fossil fuel-free zone declaration.",
+      "id": "international-science-4",
+      "micro_summary": "Africa demands tripled adaptation finance by 2035 while Cop31 faces criticism for lacking ambition on climate goals.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.551,
+      "sources": [
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko"
+        },
+        {
+          "publisher": "Chatham House",
+          "url": "https://www.chathamhouse.org/2026/11/what-does-cop31-reveal-about-geopolitics-climate-change"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/environment/live/2026/nov/18/cop31-climate-crisis-talks-turkey-latest-news-updates"
+        }
+      ],
+      "summary": "Africa seeks to triple adaptation finance from $40bn annually by 2035 amid drought in Uganda and floods in Malawi, while Cop31 is criticized for prioritizing mechanisms over the 1.5C target and fossil fuel phase-out.",
+      "timestamp": "2026-11-20T00:54:50Z"
+    },
+    {
+      "ai": true,
+      "articles": 11,
+      "category": "sports",
+      "extended_summary": "England defeated New Zealand 37-12 in a record-breaking victory at south-west London, inflicting the All Blacks' heaviest loss to any northern hemisphere nation in their history. England led 19-0 after 36 minutes, with tries from Henry Slade, Jack van Poortvliet, Ben Earl and Ollie Chessum securing the dominant win. The match drew 81,953 spectators. Captain Maro Itoje's side faced the haka with former captain Lewis Moody lining up alongside the current players. Winger Tommy Freeman withdrew pre-game with a thigh problem, replaced by Cadan Murley. England's backline executed 176 passes against 29 kicks, a marked shift from the previous year's 104 passes and 35 kicks.",
+      "id": "international-sports-1",
+      "micro_summary": "England defeated New Zealand 37-12 in record-breaking rugby victory at south-west London.",
+      "publishers": 7,
+      "scope": "international",
+      "score": 0.934,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/sport/2026/nov/21/england-new-zealand-nations-championship-rugby-union-match-report"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm2jxd8k15mo"
+        },
+        {
+          "publisher": "Sky Sports",
+          "url": "https://www.skysports.com/rugby-union/news/13614346/nations-championship-england-37-12-new-zealand-most-complete-performance-under-steve-borthwick-sees-hosts-stay-in-title-hunt"
+        },
+        {
+          "publisher": "SuperSport",
+          "url": "https://supersport.com/rugby/news/f02efb21-aeed-497c-8a84-f242bb75d819/england-inflict-fresh-misery-on-all-blacks-with-record-win"
+        }
+      ],
+      "summary": "England beat New Zealand 37-12 in a record win, scoring five tries through Slade, Van Poortvliet, Earl and Chessum before 81,953 fans at south-west London.",
+      "timestamp": "2026-11-21T22:39:44Z"
+    },
+    {
+      "ai": true,
+      "articles": 10,
+      "category": "sports",
+      "extended_summary": "Australia secured a record win against Wales in Cardiff, claiming the Nations Championship spoils and ending a four-match losing run. The Wallabies scored tries through prop Taniela Tupou, hooker Brandon Paenga-Amosa, wing Max Jorgensen and centre Len Ikitau, with Lonergan kicking two conversions, Gordon one conversion and a late penalty. Wales captain Dewi Lake scored two tries, full-back Blair Murray crossed following an assist by Louis Rees-Zammit, and replacement hooker Ryan Elias grabbed a late try, with Costelow kicking three conversions. The match drew a crowd of 66,307, the highest of the autumn. Wales finished fifth in the northern hemisphere section and will play Japan at Twickenham on Saturday at 13:10 GMT, while Australia finished third in the southern hemisphere table and play Ireland on Friday at 20:10 GMT.",
+      "id": "international-sports-2",
+      "micro_summary": "Australia defeated Wales in Cardiff to claim Nations Championship spoils, ending a four-match losing run.",
+      "publishers": 8,
+      "scope": "international",
+      "score": 0.917,
+      "sources": [
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/sport/rugby-union/live/cqvgj73jrkd0t"
+        },
+        {
+          "publisher": "SMH.com.au",
+          "url": "https://www.smh.com.au/sport/rugby-union/wallabies-v-wales-live-updates-australians-out-to-snap-losing-streak-20261122-p61g1s.html"
+        },
+        {
+          "publisher": "Rugby365",
+          "url": "https://rugby365.com/countries/australia/live-wales-v-australia-nations-championship/"
+        },
+        {
+          "publisher": "supersport.com",
+          "url": "https://supersport.com/rugby/news/19bacb20-462d-474d-9454-06da9f59a5f2/wales-crash-back-to-earth-australia-end-four-match-losing-streak"
+        }
+      ],
+      "summary": "Australia defeated Wales in Cardiff to claim Nations Championship spoils, ending a four-match losing run. The Wallabies scored tries through Tupou, Paenga-Amosa, Jorgensen and Ikitau, while Wales replied through Lake (2), Murray and Elias.",
+      "timestamp": "2026-11-21T22:36:31Z"
+    },
+    {
+      "ai": true,
+      "articles": 10,
+      "category": "sports",
+      "extended_summary": "Leeds United secured a dominant 4-1 victory over Chelsea at Stamford Bridge, marking their first win at the venue since December 1999. Noah Okafor scored twice, Dominic Calvert-Lewin converted a second-half penalty for his sixth goal of the season, and Brenden Aaronson added a late strike. Emmanuel Emegha scored Chelsea's only goal early in the second half. The result leaves Chelsea in eighth place with five defeats in 11 games, the first time in 67 years they have lost home matches to both Leeds and Tottenham in the same season. Manager Xabi Alonso was booed by supporters and admitted his team was in a fragile mental state after the loss. Leeds moved up to sixth place under Daniel Farke.",
+      "id": "international-sports-3",
+      "micro_summary": "Leeds United defeated Chelsea 4-1 at Stamford Bridge for their first win there since 1999.",
+      "publishers": 7,
+      "scope": "international",
+      "score": 0.883,
+      "sources": [
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.com/sport/football/articles/cwe8944d004yo"
+        },
+        {
+          "publisher": "ESPN",
+          "url": "https://www.espn.com/soccer/report/_/gameId/401879236"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/nov/21/chelsea-leeds-premier-league-match-report"
+        },
+        {
+          "publisher": "London Evening Standard",
+          "url": "https://www.standard.co.uk/sport/football/chelsea-fc-xi-vs-leeds-starting-lineup-confirmed-team-news-injury-latest-premier-league-2026-today-b1305661.html"
+        }
+      ],
+      "summary": "Leeds United beat Chelsea 4-1 at Stamford Bridge, their first victory there since 1999, with goals from Noah Okafor, Dominic Calvert-Lewin and Brenden Aaronson. Chelsea fell to eighth place and Xabi Alonso faced fan boos.",
+      "timestamp": "2026-11-21T19:04:09Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "Former Australian cricket coach Darren Lehmann has denied knowing about a plan to use sandpaper during the 2018 Cape Town Test against South Africa, contradicting Cameron Bancroft's detailed statement. Lehmann stated he only learned of the sandpaper after seeing footage on television and could not recall being present when David Warner raised the prospect. He apologized for his role in the team's culture, admitting attempts to achieve reverse swing 'went too far' and left him in a 'dark place.' Lehmann rejected Bancroft's claim that he instructed Peter Handscomb via walkie-talkie to remove the sandpaper, saying the conversation occurred after the incident was visible on TV. While Usman Khawaja, David Warner, and Bancroft maintain the team knew of the tampering, Pat Cummins, Josh Hazlewood, and Mitch Starc have denied knowledge. Cricket Australia confirmed Cummins remains captain for the upcoming series against New Zealand starting December 9 in Perth.",
+      "id": "international-sports-4",
+      "micro_summary": "Darren Lehmann denies knowing about sandpaper plan in 2018 ball-tampering scandal.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.879,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/sport/2026/nov/22/i-didnt-know-former-australian-test-coach-darren-lehmann-denies-any-knowledge-of-sandpaper-use"
+        },
+        {
+          "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "url": "https://www.abc.net.au/news/2026-11-21/cricket-lehmann-responds-bancroft-australia-sandpaper-drama/107412988"
+        },
+        {
+          "publisher": "Nine.com.au",
+          "url": "https://www.nine.com.au/sport/cricket/news-sandpapergate-scandal-australia-darren-lehmann-interview-abc-radio-cameron-bancroft-20261122-p61g6o.html"
+        }
+      ],
+      "summary": "Former Australian coach Darren Lehmann denied knowledge of a sandpaper plan during the 2018 South Africa tour, contradicting Cameron Bancroft's claims while admitting the team's reverse swing attempts went too far.",
+      "timestamp": "2026-11-21T22:18:00Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "Moscow has accused Estonia of planning to build a “new Iron Curtain”, and promised to respond, after the small Baltic nation formally decided to close all border crossings with Russia to the east and south. Estonia’s government on Friday approved a preliminary six-month closure of its road border crossings from December 1, and will decide next year whether to extend it. Russian Ministry of Foreign Affairs spokesperson Maria Zakharova told a news briefing in Moscow that “should Tallinn proceed with these plans, our country will take the necessary political and diplomatic measures in response to safeguard its national interests.” “Such moves are tantamount to attempts to erect a new Iron Curtain under the false pretence of some sort of threat from the East,” Zakharova added. In Tallinn on Friday, Estonia’s Foreign Minister Margus Tsahkna described the border closure as “an important measure”. “It will reduce opportunities to exploit cross-border movement",
+      "id": "international-tragedies-1",
+      "micro_summary": "Estonia-Russia border closure sparks residents' rush to cross.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.83,
+      "sources": [
+        {
+          "publisher": "Euronews.com",
+          "url": "https://www.euronews.com/2026/11/21/estonia-russia-border-closure-sends-residents-rushing-to-cross-before-deadline"
+        },
+        {
+          "publisher": "Reuters",
+          "url": "https://www.reuters.com/world/estonia-close-border-with-russia-least-six-months-2026-11-20/"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/russia-complains-of-new-iron-curtain-as-estonia-shuts-its-borders"
+        }
+      ],
+      "summary": "Estonia-Russia border closure sparks residents' rush to cross.",
+      "timestamp": "2026-11-21T15:43:14Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "Israeli attacks in Gaza killed at least four Palestinians in violation of a ceasefire that took effect last October, while winter flooding deepened the humanitarian crisis in the enclave. Three people died when a van delivering food aid to displaced people was struck by a drone in the Tal al-Hawa neighbourhood of Gaza City; the van bore an aid logo but was unaffiliated, and a witness said it was distributing food to children when hit. A separate attack killed a man in the Halawa displacement camp east of Jabalia refugee camp, and another strike in al-Mawasi, Khan Younis, injured three people on an electric bicycle. More than 1,600 Palestinians have been killed since the ceasefire began. In the occupied West Bank, a 42-year-old Palestinian man was shot dead by security guards from an illegal settlement near Dura al-Qari, north of Ramallah, and his body was withheld by authorities.",
+      "id": "international-tragedies-4",
+      "micro_summary": "Israeli attacks killed at least four Palestinians in Gaza and one in the West Bank amid ceasefire violations.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.689,
+      "sources": [
+        {
+          "publisher": "Haaretz",
+          "url": "https://www.haaretz.com/gaza/2026-11-21/ty-article/israeli-strike-kills-three-in-vehicle-distributing-aid-in-gaza-medics-say/000001a1-fe5b-d9ff-a7b5-ffff29890000"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza"
+        },
+        {
+          "publisher": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/israeli-strike-kills-three-vehicle-distributing-aid-gaza-witnesses-say-2026-11-21/"
+        }
+      ],
+      "summary": "Israeli attacks killed at least four Palestinians in Gaza, including three in a drone strike on a food aid van in Gaza City, while winter flooding worsened conditions. A separate attack in the West Bank killed a 42-year-old man.",
+      "timestamp": "2026-11-21T15:05:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "entertainment",
+      "extended_summary": "Charlie Puth and Ellie Goulding will make their India debut at the inaugural Johnnie & Co. Festival on February 13, 2027, at Mumbai's Mahalaxmi Racecourse. The single-day event, produced by Team Innovation, will also feature Indian artists Kayan, Taba Chake, Mali and Gini, with additional performers expected to be announced. The festival is expected to attract more than 35,000 music fans. Ticket sales will be conducted exclusively through BookMyShow in two phases: an HSBC pre-sale from November 23 to November 24, 2026, followed by the general sale opening on November 25, 2026. While early speculation suggested multiple tour stops in Delhi and Mumbai, the official announcement confirms a single-day festival performance instead.",
+      "id": "national-entertainment-2",
+      "micro_summary": "Charlie Puth and Ellie Goulding make their India debut at Mumbai's Johnnie & Co. Festival on February 13, 2027.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.467,
+      "sources": [
+        {
+          "publisher": "t2ONLINE",
+          "url": "https://t2online.in/music/western/charlie-puth-and-ellie-goulding-are-finally-coming-to-india--here-s-everything-to-know-about-their-mumbai-debut-in-february-2027/2009380"
+        },
+        {
+          "publisher": "Indian Broadcasting World",
+          "url": "https://www.indianbroadcastingworld.com/american-singer-charlie-puth-to/"
+        }
+      ],
+      "summary": "Charlie Puth and Ellie Goulding will make their India debut at the inaugural Johnnie & Co. Festival on February 13, 2027, at Mumbai's Mahalaxmi Racecourse, joined by Indian artists Kayan, Taba Chake, Mali and Gini, with tickets available via BookMyShow.",
+      "timestamp": "2026-11-21T07:30:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "politics",
+      "extended_summary": "Prime Minister Narendra Modi participated in the Platinum Jubilee celebrations marking 75 years of IIT Kharagpur in West Bengal. Addressing students, faculty, staff, and alumni, he highlighted the institute's milestones over seven decades, noting India's transformation from bullock carts to bullet trains and from postal letters to social media during this period. As the country's first IIT, the institute has played an important role in every phase of these changes. Modi emphasized that IIT Kharagpur stands on the site of a former detention camp for freedom fighters. He stated that the institute's experience will play a big role in achieving Viksit Bharat and urged the nation to break limits and unlock possibilities with a nation-first mindset. He also referenced the recent Diwali celebrations and the competition among halls.",
+      "id": "national-politics-2",
+      "micro_summary": "Prime Minister Narendra Modi addressed IIT Kharagpur's 75th Platinum Jubilee celebrations in West Bengal.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.532,
+      "sources": [
+        {
+          "publisher": "PM India",
+          "url": "https://www.pmindia.gov.in/en/news_updates/pm-participates-in-platinum-jubilee-celebrations-of-iit-kharagpur/?comment=disable"
+        },
+        {
+          "publisher": "NarendraModi.in",
+          "url": "https://www.narendramodi.in/mobile/text-of-prime-minister-narendra-modis-address-at-the-platinum-jubilee-celebration-of-iit-kharagpur-610580"
+        }
+      ],
+      "summary": "Prime Minister Narendra Modi participated in the Platinum Jubilee celebrations of IIT Kharagpur in West Bengal, addressing students and alumni on the institute's 75-year journey and its role in India's transformation from bullock carts to bullet trains.",
+      "timestamp": "2026-11-21T11:50:20Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "science",
+      "extended_summary": "On November 21, 2026, the National Institute of Electronics and Information Technology inaugurated the transit campus of India's first dedicated Artificial Intelligence and Quantum University at Acharya Nagarjuna University in Guntur district, Andhra Pradesh. The facility, housed in the Centre for Distance Education building, was opened by Dr. A. Prathibha, Economic Advisor to the Ministry of Electronics and Information Technology, alongside NIELIT Director General Dr. Madan Mohan Tripathi. The initiative is backed by a central government grant-in-aid of Rs 730.70 crore and was operationalized within nine months of the bilateral agreement. Training programmes commence December 1, 2026, covering quantum computing, quantum communication, artificial intelligence, VLSI design, chip design, and IoT. NIELIT deployed Rs 47 crore to establish four specialized laboratories. The Andhra Pradesh government pledged full administrative support for the academic rollout.",
+      "id": "national-science-1",
+      "micro_summary": "NIELIT inaugurated India's first AI and Quantum University transit campus at ANU in Guntur with Rs 730.70 crore grant.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.635,
+      "sources": [
+        {
+          "publisher": "CASRAI",
+          "url": "https://casrai.org/news/nielit-amaravati-india-first-quantum-ai-university-campus-2026"
+        },
+        {
+          "publisher": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/indias-first-ai-quantum-university-campus-inagurated-in-guntur-of-andhra-pradesh/article71728573.ece"
+        }
+      ],
+      "summary": "On November 21, 2026, NIELIT inaugurated the transit campus of India's first Artificial Intelligence and Quantum University at Acharya Nagarjuna University in Guntur, Andhra Pradesh, backed by Rs 730.70 crore central grant, with courses starting December 1, 2026.",
+      "timestamp": "2026-11-21T18:12:07Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "sports",
+      "extended_summary": "India took a commanding lead against New Zealand on Day 4 of the first Test in Wellington, scoring 521/4 in 131 overs to surpass their previous highest Test total in New Zealand of 520 set in Hamilton in 2009. All five top-order batters scored 50-plus, with KL Rahul hitting a century and Yashasvi Jaiswal, Devdutt Padikkal, Shubman Gill, and Rishabh Pant scoring half-centuries. Anshul Kamboj added a quickfire 38 off 42 balls, sharing a 68-run fifth-wicket stand with Pant. This marked the fifth Indian pair to register a 50-plus stand in the innings and only the second instance of a team recording five such partnerships for the first five wickets in a Test innings, the first against New Zealand in a home Test. India leads by over 150 runs after bowling out New Zealand for 368.",
+      "id": "national-sports-2",
+      "micro_summary": "India scored 521/4 against New Zealand in Wellington, surpassing their previous record total in the country.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.633,
+      "sources": [
+        {
+          "publisher": "NDTV Sports",
+          "url": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/india-script-huge-record-in-1st-test-end-93-year-wait-for-rare-feat-in-new-zealand-12360417"
+        },
+        {
+          "publisher": "Sportstar",
+          "url": "https://sportstar.thehindu.com/cricket/india-highest-test-score-in-new-zealand-wellington-2026/article71729576.ece"
+        }
+      ],
+      "summary": "India scored 521/4 on Day 4 against New Zealand in Wellington, surpassing their previous record of 520. All five top-order batters scored 50-plus as India lead by over 150 runs after bowling New Zealand out for 368.",
+      "timestamp": "2026-11-21T23:24:58Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "tragedies",
+      "extended_summary": "More than 50 residential structures and several shops were set on fire in Bendar Char village, Kalia upazila, Narail district, on Friday afternoon following the killing of two BNP leaders in an attack on a party procession earlier in the week. Firefighters received reports around 4 pm but reached the village at 8 pm after trees blocked roads, finding most fires had died down. One official stated over 50 structures belonging to 20 to 25 households were gutted, while another assessed 15 to 20 houses vandalized with several burned. Properties of Awami League leaders and activists, including the ancestral home of former MP Kabirul Haque Mukti, were targeted. Police arrested Dipsha Biswas and Rakib Biswas and launched an investigation, while the BNP denied involvement. The attacks occurred amid political tensions ahead of Sheikh Hasina's planned return in December.",
+      "id": "national-tragedies-1",
+      "micro_summary": "More than 50 homes were set ablaze in Bangladesh's Narail district following the killing of two BNP leaders.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.598,
+      "sources": [
+        {
+          "publisher": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/world/south-asia/at-least-30-houses-of-awami-members-set-on-fire-in-bangladesh/articleshow/136065044.cms"
+        },
+        {
+          "publisher": "India Today",
+          "url": "https://www.indiatoday.in/world/story/bangladesh-narail-arson-50-homes-torched-two-bnp-leaders-killed-3043822-2026-11-21"
+        }
+      ],
+      "summary": "More than 50 residential structures and several shops were set on fire in Bangladesh's Narail district following the killing of two BNP leaders, with Awami League properties reportedly targeted.",
+      "timestamp": "2026-11-21T23:25:00Z"
+    }
+  ]
+}
