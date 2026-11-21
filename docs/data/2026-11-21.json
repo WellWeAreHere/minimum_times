@@ -1,0 +1,321 @@
+{
+  "date": "2026-11-21",
+  "events": [
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "business",
+      "extended_summary": "Iraqi security forces have been deployed to Jurf al-Sakhar, a stronghold of the powerful Iran-aligned Kataib Hezbollah armed group. Security forces arrived in the town, which sits in Babil province about 60km southwest of Baghdad and is also known as Jurf al-Nasr, on Friday. The deployment, which is understood to have been driven by pressure from the United States and its Gulf allies, comes a day after a compromise deal was sealed that will see Kataib Hezbollah move to other areas of the country. The government announced on Monday that it would take control of Jurf al-Sakhar after a probe raised suspicions that the group had stolen hundreds of millions of dollars’ worth of Iraqi oil via illicit oil refineries. It gave the group, which is believed to have thousands of trained fighters, a deadline of Friday to leave the town. However, under Thursday’s deal, they are expected to withdraw",
+      "id": "international-business-2",
+      "micro_summary": "Iraqi security forces deploy in Iran-backed militia stronghold.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.729,
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/iraqi-security-forces-deploy-iran-backed-militia-stronghold-security-officials-2026-11-20/"
+        },
+        {
+          "publisher": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/iraqi-forces-deploy-to-jurf-al-sakhar-after-deal-with-iran-backed-group"
+        }
+      ],
+      "summary": "Iraqi security forces deploy in Iran-backed militia stronghold. Iraqi security forces have been deployed to Jurf al-Sakhar, a stronghold of the powerful Iran-aligned Kataib Hezbollah armed group.",
+      "timestamp": "2026-11-20T07:31:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "Donald Trump is considering a four-to-seven-day joint bombing campaign with Israel against Iran after new intelligence on Tehran's missile rebuilding. The US president is weighing the option following a Washington visit by Mossad director Roman Goffman, who lobbied for renewed action, and Israeli warnings that Iran is advancing chemical and biological weapons programmes. This marks a shift from Trump's recent position, as he had described the war as effectively over, claimed a very big victory, and ordered Vice-President JD Vance to halt nuclear negotiations. The reconsideration comes two weeks after Republicans lost control of Congress in midterm elections, blamed partly on the war driving up the cost of living. The US maintains two aircraft carriers and an amphibious assault ship in the region, has evacuated non-essential personnel, and delivered another Patriot air defence battery to Israel. Meanwhile, Israeli Prime Minister Benjamin Netanyahu, having lost his governing majority, is calling for a unity government citing the Iran threat.",
+      "id": "international-politics-2",
+      "micro_summary": "Donald Trump considers four-to-seven-day joint air strikes with Israel against Iran to stop missile rebuilding.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.849,
+      "sources": [
+        {
+          "publisher": "Financial Times",
+          "url": "https://www.ft.com/content/2daf570c-189a-4362-a128-828c520b902e"
+        },
+        {
+          "publisher": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/world-news/2026/11/19/trump-considers-bombing-iran-after-visit-from-mossad-chief/"
+        },
+        {
+          "publisher": "The Economist",
+          "url": "https://www.economist.com/middle-east-and-africa/2026/11/19/neither-america-nor-iran-has-the-means-to-end-the-war"
+        }
+      ],
+      "summary": "Donald Trump is weighing a four-to-seven-day joint bombing campaign with Israel against Iran after new intelligence on Tehran's missile rebuilding, despite previously calling the war over and halting nuclear talks following Republican midterm losses.",
+      "timestamp": "2026-11-20T20:19:49Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "",
+      "id": "international-politics-4",
+      "micro_summary": "",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.842,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno"
+        },
+        {
+          "publisher": "The Independent",
+          "url": "https://www.independent.co.uk/bulletin/news/russia-us-ukraine-denmark-assassinate-kyivstoner-b3089000.html"
+        }
+      ],
+      "summary": "",
+      "timestamp": "2026-11-20T18:52:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 10,
+      "category": "sports",
+      "extended_summary": "Harry Kane suffered a tear of the syndesmosis ligament in his left ankle during Bayern Munich's 1-1 Bundesliga draw with Cologne on Friday, ruling the 33-year-old out for the next few months. The England forward was substituted after 20 minutes following a challenge from Cologne defender Joël Schmied. Mikey Moore had given Cologne the lead before Nathaniel Brown equalized for Bayern. Club doctors are discussing whether to recommend surgery, and Kane will miss Champions League matches against Lille and Slavia Prague, plus fixtures against Manchester United and Real Betis. The injury adds to Bayern's extensive list, which already includes Luis Díaz, Serge Gnabry, Alphonso Davies, Ismael Saibari and Manuel Neuer, while Michael Olise also left Friday's game with a foot contusion. Kane may face a race to be fit for the Nations League quarter-finals beginning 27 March in Norway. Bayern coach Vincent Kompany returned from his own month-long absence for the match.",
+      "id": "international-sports-1",
+      "micro_summary": "Harry Kane suffers ankle ligament tear in Bayern's 1-1 draw with Cologne and faces months out.",
+      "publishers": 8,
+      "scope": "international",
+      "score": 0.975,
+      "sources": [
+        {
+          "publisher": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50543079/harry-kane-injury-bayern-munich"
+        },
+        {
+          "publisher": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/13614559/harry-kane-england-and-bayern-munich-striker-set-to-miss-three-months-with-ankle-injury"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/nov/20/harry-kane-ankle-ligament-injury-bayern-munich-england"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cvze7d4w5g49o"
+        },
+        {
+          "publisher": "Sports Illustrated",
+          "url": "https://www.si.com/soccer/harry-kane-massive-injury-setback-recovery-timeline-revealed"
+        }
+      ],
+      "summary": "Harry Kane will be out for months after suffering a left ankle ligament tear in Bayern Munich's 1-1 Bundesliga draw with Cologne on Friday, with the England forward substituted after 20 minutes.",
+      "timestamp": "2026-11-20T23:02:00Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "Pat Cummins (left) and Josh Hazlewood have been long-time Australian teammates. (Getty Images: Cameron Spencer) Josh Hazlewood has publicly defended Pat Cummins amid speculation about his future as Australian men's Test captain. Cummins has come under fire following the resurfacing of the 2018 ball-tampering scandal. Hazlewood says Cummins has done a \"remarkable job\" as Australia's captain. Josh Hazlewood has thrown his support behind Pat Cummins to remain Australian men's captain following the resurfacing of the ball-tampering scandal. Speculation about Cummins's future in the role has intensified since Cameron Bancroft alleged the entire Australian cricket team knew about the 2018 sandpaper plot. Cummins has maintained he and the Australian bowling unit did not know sandpaper was being used on the field during the infamous Test series in South Africa. He was not Australia's captain at the time. Cummins spoke at length in a media conference last week and released a statement",
+      "id": "international-sports-2",
+      "micro_summary": "Hazlewood backs Cummins as sandpaper saga continues.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.881,
+      "sources": [
+        {
+          "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "url": "https://www.abc.net.au/news/2026-11-21/pat-cummins-josh-hazlewood-sandpaper-ball-tampering-cricket/107412300"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/sport/2026/nov/21/josh-hazlewood-pat-cummins-cricket-australia-sandpapergate"
+        },
+        {
+          "publisher": "Nine.com.au",
+          "url": "https://www.nine.com.au/sport/cricket/news-sandpapergate-ball-tampering-australia-pat-cummins-steve-smith-matthew-hayden-greg-blewett-podcast-comments-20261120-p61g2g.html"
+        }
+      ],
+      "summary": "Hazlewood backs Cummins as sandpaper saga continues. And as doubt lingers about Pat Cummins′ captaincy, Hazlewood said he would consider retiring from the game should Cummins be sacked.",
+      "timestamp": "2026-11-20T23:20:08Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "Daniel Jones is officially on the waiver wire. The NFL transaction report has gone out this afternoon, and Jones appears as a waiver from the Colts. After the trade deadline, every player who gets released by his team has to go on waivers before he becomes a free agent. That means any team that wants Jones on his current contract can claim him, but that is extraordinarily unlikely to happen. As the waiver transaction notes, Jones is a vested veteran with a fully guaranteed salary for the rest of this season. No team is going to want to claim that salary. Once he clears waivers, however, he’ll be an unrestricted free agent, free to sign with any team, and it won’t be surprising if some team wants to add him for veteran depth. Jones has been terrible this season, but he’s been a competent starter at times in his career,",
+      "id": "international-sports-3",
+      "micro_summary": "Colts officially place Daniel Jones on waivers.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.871,
+      "sources": [
+        {
+          "publisher": "NBC Sports",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-officially-place-daniel-jones-on-waivers"
+        },
+        {
+          "publisher": "ESPN",
+          "url": "https://www.espn.com/nfl/story/_/id/50542293/colts-release-qb-daniel-jones-blowout-loss-texans"
+        },
+        {
+          "publisher": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/patriots-urged-replace-drake-maye-232644889.html"
+        }
+      ],
+      "summary": "Colts officially place Daniel Jones on waivers. The NFL transaction report has gone out this afternoon, and Jones appears as a waiver from the Colts.",
+      "timestamp": "2026-11-20T22:02:48Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "George Russell calls it the biggest race on the Formula One calendar bar Monaco – and the numbers back him up That Formula One has achieved a palpable success in hosting a race in Las Vegas is impossible to ignore. Even with this year’s outing a dead rubber and with the city in perhaps its least flattering light, the cold drizzle of a Thursday afternoon beneath gunmetal-grey skies, the fans who have flocked to Nevada were irrepressibly enthusiastic. Long queues stretched out into the streets before the gates were even open and it seems many locals who were initially cool to the somewhat disruptive F1 circus have embraced the fans, their fervour for the sport and the positive impact of the race. Kimi Antonelli tied up the title with Mercedes in Mexico but this weekend’s race in Las Vegas retains an unmistakable celebratory atmosphere that the organisers have assiduously cultivated",
+      "id": "international-sports-4",
+      "micro_summary": "The Super Bowl of F1: how Las Vegas GP has hit the jackpot after turbulent start.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.851,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/sport/2026/nov/20/super-bowl-formula-one-las-vegas-grand-prix-jackpot"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.com/sport/formula1/articles/cx4gnlr603mqo"
+        },
+        {
+          "publisher": "Formula 1",
+          "url": "https://www.formula1.com/en/latest/article/all-the-stories-that-got-the-las-vegas-paddock-talking.4DclxlWGaLDwKgzLpfAvuz"
+        }
+      ],
+      "summary": "The Super Bowl of F1: how Las Vegas GP has hit the jackpot after turbulent start. Las Vegas is now entering its fourth year on the calendar with a deal to continue until 2037.",
+      "timestamp": "2026-11-20T21:58:00Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "President Volodymyr Zelenskyy has reported that Ukrainian forces struck three Russian ballistic missile launchers on the night of 19-20 November, when Russia launched a large-scale attack on Ukraine. Source: Zelenskyy on X (Twitter) Quote from Zelenskyy: \"Our warriors who are doing their best with the means available to us to destroy Russian ballistic missile launchers also deserve special recognition. Tonight, we struck three launchers.\" Details: The president stressed that one launcher had been destroyed, while the results of the strikes on the other two were still being assessed. Background: On the night of 19-20 November, Russian forces attacked the Podilsko-Voskresenskyi, Darnytskyi and Pivdennyi bridges in Kyiv. Traffic across the Podilskyi Bridge was partially restricted. The attack killed six local residents and injured another 15. Also on the night of 19-20 November, Russian forces struck a railway station in Lviv, killing two people and injuring another 10. Yurii Ihnat, spokesperson for",
+      "id": "international-tragedies-3",
+      "micro_summary": "Ukraine Goes After Russia’s Ballistic Missile Launchers—Three Hit, One Confirmed Destroyed.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.675,
+      "sources": [
+        {
+          "publisher": "UNITED24 Media",
+          "url": "https://united24media.com/war-in-ukraine/ukraine-goes-after-russias-ballistic-missile-launchers-three-hit-one-confirmed-destroyed-24557"
+        },
+        {
+          "publisher": "The Kyiv Independent",
+          "url": "https://kyivindependent.com/ukrainian-forces-strike-russian-elite-rubicon-drone-unit-deployment-site-in-russian-kursk-oblast/"
+        },
+        {
+          "publisher": "Українська правда",
+          "url": "https://www.pravda.com.ua/eng/news/2026/11/20/8063798/"
+        }
+      ],
+      "summary": "Ukraine Goes After Russia’s Ballistic Missile Launchers—Three Hit, One Confirmed Destroyed. President Volodymyr Zelenskyy has reported that Ukrainian forces struck three Russian ballistic missile launchers on the night of 19-20 November, when Russia launched a large-scale attack on Ukraine.",
+      "timestamp": "2026-11-20T11:14:04Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "Estonia's government announced it will close its road border crossings with Russia starting December 1 for at least six months on security grounds, with a decision after that period on whether to extend the suspension. The move follows Estonia's accusation that Russia was behind an attempted arson attack on drone manufacturer Threod Systems, which the Kremlin denied. Russian Foreign Ministry spokeswoman Maria Zakharova accused Estonia of attempting to erect a new Iron Curtain under false pretenses and stated that Russia would take necessary political and diplomatic measures to safeguard its national interests if the plans proceed. Estonia, described as a staunch supporter of Ukraine, first announced the border closure earlier in the month.",
+      "id": "international-tragedies-4",
+      "micro_summary": "Estonia will close its road border with Russia for six months starting December 1, prompting Russian threats of response.",
+      "publishers": 4,
+      "scope": "international",
+      "score": 0.665,
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "url": "https://www.reuters.com/world/europe/russia-accuses-estonia-erecting-new-iron-curtain-with-border-closure-says-it-2026-11-20/"
+        },
+        {
+          "publisher": "The Moscow Times",
+          "url": "https://www.themoscowtimes.com/2026/11/20/russia-accuses-estonia-of-erecting-new-iron-curtain-with-border-closure-says-it-will-respond-a94333"
+        }
+      ],
+      "summary": "Estonia announced it will close road border crossings with Russia from December 1 for at least six months on security grounds, citing an alleged Russian arson attack, prompting Russia to threaten political and diplomatic retaliation.",
+      "timestamp": "2026-11-20T11:50:09Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "politics",
+      "extended_summary": "Nepal Prime Minister Balendra Shah arrives in Delhi on Sunday for a two-day bilateral visit, his first since his Rastriya Swatantra Party swept to power in March following a Gen Z uprising that toppled the previous government. The 36-year-old leader will meet Indian Prime Minister Narendra Modi and senior officials to discuss economic and energy cooperation, new air corridors, and reconstruction assistance after August flash floods killed more than 1,450 people in Nepal. The visit marks the first high-level engagement between leaders of Nepal's new political generation and India, offering an opportunity to reset relations strained by territorial disputes and perceptions of Indian dominance. Analysts note the new leadership seeks to focus on development and economic partnership rather than past ideological baggage, while India aims to deepen ties with the Himalayan nation that shares a 1,750km open border and serves as a strategic buffer between India and China.",
+      "id": "national-politics-1",
+      "micro_summary": "Nepal Prime Minister Balendra Shah begins a two-day visit to India to meet Narendra Modi and reset bilateral relations.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.603,
+      "sources": [
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.com/news/articles/c6jre8xd83qgo"
+        },
+        {
+          "publisher": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/politics/international-relations/nepal-s-shah-to-meet-modi-for-indian-flood-aid-and-connectivity"
+        }
+      ],
+      "summary": "Nepal Prime Minister Balendra Shah arrives in Delhi for a two-day visit to meet Indian Prime Minister Narendra Modi, marking the first high-level engagement between the new Nepali government and India since his party won March elections.",
+      "timestamp": "2026-11-20T23:28:17Z"
+    },
+    {
+      "ai": false,
+      "articles": 2,
+      "category": "sports",
+      "extended_summary": "NEW DELHI, Nov 20: In a moment of immense pride and recognition, the Government of Jammu and Kashmir has been selected for the prestigious India Sports Award 2026 under the category “Best State/UT Promoting Sports” by the FICCI India Sports Awards Jury. The recognition acknowledges the Government’s sustained efforts towards strengthening the sports ecosystem, promoting sporting culture and creating opportunities for young talent across Jammu & Kashmir. The award is a testament to the Government’s commitment to nurture sporting excellence through development of sports infrastructure, strengthening grassroots sports initiatives, encouraging youth participation and providing a platform for aspiring athletes to showcase their talent at national and international levels. Over the years, Jammu & Kashmir has witnessed a renewed momentum in the sports sector, with focused interventions aimed at making sports an integral part of youth development, discipline, confidence-building and nation-building. The recognition assumes particular significance as it places Jammu and",
+      "id": "national-sports-2",
+      "micro_summary": "Jammu Kashmir Wins FICCI India Sports Award 2026 for Promoting Sports.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.459,
+      "sources": [
+        {
+          "publisher": "Kashmir Life",
+          "url": "https://kashmirlife.net/jammu-kashmir-wins-ficci-india-sports-award-2026-for-promoting-sports-462084/"
+        },
+        {
+          "publisher": "Daily Excelsior",
+          "url": "https://www.dailyexcelsior.com/jk-wins-prestigious-india-sports-award-for-excellence-in-promoting-sports/"
+        }
+      ],
+      "summary": "Jammu Kashmir Wins FICCI India Sports Award 2026 for Promoting Sports. SRINAGAR: Jammu and Kashmir has been selected for the prestigious India Sports Award 2026 in the category of ‘Best State/UT Promoting Sports’ by the FICCI India Sports Awards Jury.",
+      "timestamp": "2026-11-20T16:28:41Z"
+    },
+    {
+      "ai": false,
+      "articles": 2,
+      "category": "tragedies",
+      "extended_summary": "&lt;p style=&quot;text-align:justify;&quot;&gt;&lt;strong&gt;NEW DELHI:&lt;/strong&gt; India and Japan have taken a significant step towards expanding military cooperation, with &lt;strong&gt;Japanese Self-Defence Forces &lt;/strong&gt;set to conduct live-fire training at Indian firing ranges for the first time. The proposed arrangement, which includes training involving surface-to-ship missiles, was announced following the fourth India-Japan Foreign and Defence Ministers&#039; 2+2 Dialogue in Tokyo on November 19.&lt;/p&gt;&lt;p style=&quot;text-align:justify;&quot;&gt;The two countries signed a &lt;strong&gt;Letter of Intent (LOI)&lt;/strong&gt; towards the utilisation of Indian firing ranges by Japan&#039;s Self-Defence Forces. &lt;strong&gt;Defence Minister Rajnath Singh&lt;/strong&gt; and his &lt;strong&gt;Japanese counterpart Shinjiro Koizumi &lt;/strong&gt;agreed to accelerate coordination between their respective defence authorities to implement the arrangement.&lt;/p&gt;&lt;p style=&quot;text-align:justify;&quot;&gt;&lt;strong&gt;External Affairs Minister S. Jaishankar&lt;/strong&gt; and &lt;strong&gt;Japanese Foreign Minister Toshimitsu Motegi&lt;/strong&gt; also participated in the high-level dialogue.&lt;/p&gt;&lt;p style=&quot;text-align:justify;&quot;&gt;The agreement marks an important development in bilateral defence cooperation, moving the partnership towards greater operational coordination and military interoperability in the Indo-Pacific region. According to the joint statement issued after the",
+      "id": "national-tragedies-1",
+      "micro_summary": "India and Japan Plan First Japanese Live-Fire Training in India, Deepen Defence and Supply-Chain Cooperation.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.548,
+      "sources": [
+        {
+          "publisher": "The Policy Edge",
+          "url": "https://www.policyedge.in/p/india-and-japan-plan-first-japanese-live-fire-training-in-india-deepen-defence-and-supply-chain-cooperation"
+        },
+        {
+          "publisher": "LawStreet Journal",
+          "url": "https://lawstreet.co/international/india-and-japan-deepen-defence-ties-japanese-forces-to-conduct-first-ever-live-fire-training-on-indian-soil"
+        }
+      ],
+      "summary": "India and Japan Plan First Japanese Live-Fire Training in India, Deepen Defence and Supply-Chain Cooperation.",
+      "timestamp": "2026-11-20T09:37:17Z"
+    }
+  ]
+}
