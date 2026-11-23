@@ -1,0 +1,429 @@
+{
+  "date": "2026-11-23",
+  "events": [
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "business",
+      "extended_summary": "Hackers wiped onboard computers on an oil tanker sailing from Egypt to Galveston, Texas, sending taunting political messages before the FBI and US Coast Guard boarded the vessel. The attack, described as a wiper designed to destroy data rather than secure ransom, disrupted external email and vessel management applications but left operational technology systems unharmed. Investigators identified cybersecurity failings including reliance on a telecoms provider's firewall, outdated protection, limited logging and inadequate network segregation. Meanwhile, major US ports have faced a sharp rise in attempted cyberattacks, with the Port of Los Angeles blocking 120 million hacking attempts in August and the Port of Corpus Christi facing hundreds or thousands of attempts daily. The incidents highlight escalating threats to maritime infrastructure.",
+      "id": "international-business-1",
+      "micro_summary": "Cyberattacks wiped computers on a US-bound oil tanker while the Port of Los Angeles blocked 120 million hacking attempts.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.698,
+      "sources": [
+        {
+          "publisher": "Financial Times",
+          "url": "https://www.ft.com/content/c269cf3e-2275-4244-9a86-f412c8521b4f?syn-25a6b1a6=1"
+        },
+        {
+          "publisher": "TodayPress.tv",
+          "url": "https://todaypress.tv/en/world/record-number-of-cyberattacks-reported-at-largest-us-port"
+        },
+        {
+          "publisher": "Splash247",
+          "url": "https://splash247.com/fbi-investigates-tanker-cyberattack-designed-to-destroy-data/"
+        }
+      ],
+      "summary": "Hackers wiped computers on an oil tanker bound for Texas and sent political messages, while the Port of Los Angeles blocked 120 million cyberattacks in August and Corpus Christi faced thousands daily.",
+      "timestamp": "2026-11-22T12:00:06Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "Democrat Chuck Hubbard unseated Republican Representative Virginia Foxx in North Carolina's 5th Congressional District by 330 votes with 99% of ballots counted, securing the Democrats' largest majority in the US House of Representatives since 1992. Foxx, who had represented the district since 2005, requested a recount permitted under state law for margins under 1% before conceding on Sunday. The result contributed to Democrats winning at least 258 House seats compared to at least 173 for Republicans, with four races still uncalled, while the party also secured control of the Senate in the 2026 midterm elections. Hubbard, a former journalist whose first campaign was in 2022, had previously lost to Foxx by nine percentage points in the 2024 midterms. The victory came amid voter concerns over the rising cost of living during the war with Iran.",
+      "id": "international-politics-1",
+      "micro_summary": "Democrat Chuck Hubbard beat Virginia Foxx in North Carolina by 330 votes, giving Democrats their largest House majority since 1992.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.856,
+      "sources": [
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno"
+        },
+        {
+          "publisher": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html"
+        },
+        {
+          "publisher": "Financial Times",
+          "url": "https://www.ft.com/content/9d2983a7-196d-4164-a0c1-e262f32fd8c9?syn-25a6b1a6=1"
+        }
+      ],
+      "summary": "Democrat Chuck Hubbard unseated Republican Representative Virginia Foxx in North Carolina's 5th District by 330 votes, helping Democrats win at least 258 House seats and their largest majority since 1992 in the 2026 midterms.",
+      "timestamp": "2026-11-22T20:26:24Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "Co-chairing global climate talks is clearly not something to be repeated, certainly not by Australia, which is exporting climate pain The failure of Cop31 in Antalya was a line in the sand moment, a victory for multiculturalism as countries stood up to the big fossil fuel producers and said no. The text they rejected barely recognised the catastrophic climate emergency we’re facing, let alone signalled a definitive move away from fossil fuels. The good news is that most of the world’s governments rejected an agreement stripped of meaning. And the power of one particular fossil fuel producer, Saudi Arabia, needs particular scrutiny. What we also know is that co-chairing global climate talks is clearly not something to be repeated, certainly not by Australia. It didn’t work. Governments have spent the past 35 years negotiating the global response to preventing “dangerous interference” with the climate system. Over that same period global",
+      "id": "international-politics-2",
+      "micro_summary": "Cop31 left Chris Bowen stuck between petrostates and climate reality. But the f-word failure is not his alone.",
+      "publishers": 4,
+      "scope": "international",
+      "score": 0.834,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/environment/2026/nov/23/cop31-left-chris-bowen-stuck-between-petrostates-and-climate-reality-but-the-failure-to-say-the-f-word-is-not-his-alone"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo"
+        }
+      ],
+      "summary": "Cop31 left Chris Bowen stuck between petrostates and climate reality. But the f-word failure is not his alone.",
+      "timestamp": "2026-11-22T23:10:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "Gadi Eisenkot, the former chief of the Israel Defense Forces who received the mandate to form a government after last month's Israeli election, instructed his centrist Yashar party to begin marathon coalition talks with Benjamin Netanyahu's Likud party on Sunday. The invitation reflects a genuine commitment to forming the broadest possible administration, with the negotiating team vowing to leave no stone unturned. Likud has demanded a promise to end personal attacks against Netanyahu, rejection of a Palestinian state, continued IDF presence in security zones in Syria, Lebanon and Gaza, and that Netanyahu serve as prime minister for the entire term. Former prime minister Naftali Bennett stated his party would not join Netanyahu's bloc under any circumstances. Eisenkot has until next month to form a government and would consider a minority national emergency government if broad-based efforts fail.",
+      "id": "international-politics-3",
+      "micro_summary": "Gadi Eisenkot invited Benjamin Netanyahu's Likud party to coalition talks to form a broad unity government in Israel.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.812,
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/22/netanyahus-likud-eisenkots-yashar-end-coalition-talks-without-deal"
+        },
+        {
+          "publisher": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/world-news/2026/11/22/netanyahus-main-rival-invites-pm-party-marathon-talks/"
+        },
+        {
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20261121-eisenkot-invites-netanyahu-s-party-for-marathon-israeli-coalition-talks"
+        }
+      ],
+      "summary": "Gadi Eisenkot instructed his Yashar party to begin marathon coalition talks with Benjamin Netanyahu's Likud party on Sunday to form the broadest possible unity government after the October election failed to produce a clear majority.",
+      "timestamp": "2026-11-22T21:39:54Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "Reform deputy leader calls Russian leader ‘a murderous dictator’ after US president appears to endorse him Reform UK and the Conservatives have distanced themselves from Donald Trump after the US president posted a photo of himself shaking hands with Vladimir Putin with the caption: “My friend.” The US president had already used the term to describe the Russian president while at last week’s Asia-Pacific Economic Cooperation summit in Shenzhen, southern China, where he also met the Chinese president, Xi Jinping. But the photo with Putin, showing Trump leaning towards the Russian leader to talk to him as they met at the summit, posted by Trump on his Truth Social platform overnight, prompted condemnation in the UK. Asked for his reaction, Richard Tice, the deputy leader of Reform UK, the British party most closely associated with Trump, replied: “Horror.” He told Sky News: “It’s just wrong at every level … And",
+      "id": "international-politics-4",
+      "micro_summary": "US intelligence chief says he trusts Trump’s description of Putin as ‘my friend’.",
+      "publishers": 4,
+      "scope": "international",
+      "score": 0.803,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/22/intelligence-chief-jay-clayton-trump-putin-my-friend"
+        },
+        {
+          "publisher": "Reuters",
+          "url": "https://www.reuters.com/world/china/us-intelligence-chief-says-putin-is-not-americas-friend-ukraine-2026-11-22/"
+        }
+      ],
+      "summary": "US intelligence chief says he trusts Trump’s description of Putin as ‘my friend’.",
+      "timestamp": "2026-11-22T20:55:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "science",
+      "extended_summary": "Archaeologists unearthed 208 Celtic silver coins dating to the late second or early first century B.C. during excavations for an electrical substation in western Hungary between 2023 and 2025. The Velem-type tetradrachms, weighing approximately 2 kilograms, were discovered inside a ceramic vessel buried 40 centimeters below ground near Szombathely. The hoard represents one of the largest such finds in Hungary in decades, with the last comparable discovery occurring in the late 1960s. Excavations also revealed Iron Age graves, stone tools dating back roughly 7,000 years, a glass bead approximately 2,500 years old, and a Roman brick bearing a dog's paw print from a rural villa complex. The site shows evidence of more than 7,000 years of human occupation.",
+      "id": "international-science-1",
+      "micro_summary": "Archaeologists discovered 208 Celtic silver coins over 2,000 years old in western Hungary during substation construction.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.72,
+      "sources": [
+        {
+          "publisher": "Live Science",
+          "url": "https://www.livescience.com/archaeology/2-200-year-old-celtic-silver-coin-hoard-unearthed-at-construction-site-in-hungary"
+        },
+        {
+          "publisher": "Archaeology News Online Magazine",
+          "url": "https://archaeologymag.com/2026/11/celtic-silver-hoard-found-at-hungarian-substation-site/"
+        },
+        {
+          "publisher": "Arkeonews",
+          "url": "https://arkeonews.net/208-celtic-silver-coins-found-just-a-shovels-depth-down/"
+        }
+      ],
+      "summary": "Archaeologists discovered 208 Celtic silver coins over 2,000 years old during 2023-2025 substation excavations in western Hungary. Weighing 2 kilograms and found in a ceramic vessel 40 centimeters underground, the hoard is one of the largest in decades.",
+      "timestamp": "2026-11-22T13:00:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "science",
+      "extended_summary": "Philosopher Thomas Nagel, 89, received the $1 million Berggruen Prize for Philosophy & Culture for work spanning consciousness, morality, and justice, including his classic paper \"What Is It Like to Be a Bat?\" Nagel argued that large language models are not conscious and will not become so, rejecting functionalism by stating that consciousness requires specific physical substrates like nervous systems, not merely complex data centers. Concurrently, religious leaders in San Francisco gathered to discuss humanity in the age of AI, with Anthropic courting theologians and its cofounder suggesting chatbots might possess consciousness. A priest countered that AI, formed as commerce and utility, cannot replicate human experience, beauty, mystery, or the \"divine spark\" that defines human existence beyond mere task performance.",
+      "id": "international-science-3",
+      "micro_summary": "Thomas Nagel received the $1 million Berggruen Prize for Philosophy & Culture.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.543,
+      "sources": [
+        {
+          "publisher": "Financial Times",
+          "url": "https://www.ft.com/content/6f807d57-f0ea-4251-9f4d-75a6edc8d49a?syn-25a6b1a6=1"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/21/silicon-valleys-ai-soul-search"
+        },
+        {
+          "publisher": "WIRED",
+          "url": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/"
+        }
+      ],
+      "summary": "Philosopher Thomas Nagel, 89, received the $1 million Berggruen Prize for Philosophy & Culture, stating AI chatbots cannot be conscious due to physical substrate differences, while San Francisco religious leaders debated AI's spiritual nature with Anthropic.",
+      "timestamp": "2026-11-21T05:04:21Z"
+    },
+    {
+      "ai": true,
+      "articles": 10,
+      "category": "sports",
+      "extended_summary": "Tom Jackson, a former Denver Broncos linebacker and longtime ESPN broadcaster, died at age 75 on Friday. Jackson played 14 seasons for the Broncos, earning two All-Pro selections before retiring from football in 1986. He then joined ESPN, where he spent 29 years as a key analyst, most notably partnering with Chris Berman on NFL Primetime and Sunday NFL Countdown until his retirement in 2016. In 2015, the Pro Football Hall of Fame honored him with the Pete Rozelle Award for broadcasting excellence. ESPN's NFL studio bears the name Chris Berman-Tom Jackson Studio in recognition of their partnership. Following his death, rival network FOX paid tribute by playing the NFL Primetime theme music during halftime highlights. Chris Berman described Jackson as one of the best human beings and his best professional friend, while ESPN chairman Jimmy Pitaro called him one of the most influential and beloved figures in the network's history.",
+      "id": "international-sports-1",
+      "micro_summary": "Tom Jackson, former Broncos linebacker and ESPN broadcaster, died at age 75.",
+      "publishers": 8,
+      "scope": "international",
+      "score": 0.913,
+      "sources": [
+        {
+          "publisher": "AP News",
+          "url": "https://apnews.com/article/tom-jackson-dead-espn-broncos-bba71b580bd5120afcbad215af5b9f72"
+        },
+        {
+          "publisher": "ESPN",
+          "url": "https://www.espn.com/nfl/story/_/id/50561778/tom-jackson-broncos-star-espn-legend-dies-75"
+        },
+        {
+          "publisher": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/fox-had-classiest-reaction-tom-201221603.html"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/sport/2026/nov/22/espn-mourns-one-of-the-best-human-beings-ever-after-nfl-analyst-tom-jackson-dies-at-75"
+        },
+        {
+          "publisher": "Yardbarker",
+          "url": "https://www.yardbarker.com/entertainment/articles/todays_craig_melvin_mourns_shock_loss_in_heartfelt_tribute_you_will_be_sorely_missed/s1_17197_44602194"
+        }
+      ],
+      "summary": "Former Denver Broncos linebacker Tom Jackson, a two-time All-Pro who played 14 seasons with the team and spent 29 years at ESPN alongside Chris Berman, died at age 75.",
+      "timestamp": "2026-11-22T21:42:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 10,
+      "category": "sports",
+      "extended_summary": "Carlos Alcaraz defeated world No. 1 Alexander Zverev 6-2, 7-6 (7) in the ATP Finals final in Turin to win his first title at the season-ending championship. At 23, the Spaniard became the fourth man in history to win all four Grand Slam titles and the ATP Finals, having earlier in 2026 become the youngest man to complete the career Grand Slam. Despite suffering a thigh injury during the tournament, Alcaraz extended his winning streak to 14 matches, triumphing on fast indoor courts in Paris and Turin. The victory ended Zverev's tournament without dropping serve until the final, where Alcaraz immediately generated break points and broke to love in the second game. Alcaraz has missed only two majors and two Masters 1000 events this season despite a wrist injury that sidelined him for four and a half months.",
+      "id": "international-sports-2",
+      "micro_summary": "Carlos Alcaraz defeated Alexander Zverev 6-2, 7-6 (7) to win his first ATP Finals title.",
+      "publishers": 7,
+      "scope": "international",
+      "score": 0.877,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/sport/2026/nov/22/carlos-alcaraz-first-atp-finals-title-alexander-zverev-tennis"
+        },
+        {
+          "publisher": "ESPN",
+          "url": "https://www.espn.com/tennis/story/_/id/50563835/carlos-alcaraz-wins-season-ending-atp-finals"
+        },
+        {
+          "publisher": "ATP Tour",
+          "url": "https://www.atptour.com/en/news/alcaraz-zverev-nitto-atp-finals-2026-sunday"
+        },
+        {
+          "publisher": "Nitto ATP Finals",
+          "url": "https://www.nittoatpfinals.com/en/news/nitto-atp-finals-2026-final-preview"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.com/sport/tennis/articles/c60evlendg0jo"
+        }
+      ],
+      "summary": "Carlos Alcaraz defeated world No. 1 Alexander Zverev 6-2, 7-6 (7) in the ATP Finals final in Turin to claim his first title at the season finale, becoming the fourth man to win the career Grand Slam and ATP Finals.",
+      "timestamp": "2026-11-22T21:12:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "Two-time Cy Young Award-winning left-hander Tarik Skubal has agreed to a nine-year, $450 million contract with the New York Mets, setting records for total value and average annual value for a pitcher. The deal includes a full no-trade clause, no opt-outs, and a $45 million signing bonus. Skubal, who turned 30, was traded from the Detroit Tigers to the Los Angeles Dodgers on August 2 for three prospects. He finished the 2026 season 12-7 with a 2.72 ERA in 26 starts across both teams after returning from elbow surgery in June, and went 1-1 with a 2.45 ERA in two postseason starts for Los Angeles. Over his seven MLB seasons, Skubal is 66-44 with a 3.02 ERA and 1,075 strikeouts.",
+      "id": "international-sports-3",
+      "micro_summary": "Tarik Skubal agreed to a record $450 million nine-year contract with the New York Mets.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.875,
+      "sources": [
+        {
+          "publisher": "MLB.com",
+          "url": "https://www.mlb.com/news/tarik-skubal-mets-contract"
+        },
+        {
+          "publisher": "ESPN",
+          "url": "https://www.espn.com/mlb/story/_/id/50565674/sources-mets-skubal-agree-9-year-450m-contract"
+        },
+        {
+          "publisher": "CNN",
+          "url": "https://www.cnn.com/2026/11/22/sport/tarik-skubal-mets-signing"
+        }
+      ],
+      "summary": "Two-time Cy Young Award winner Tarik Skubal agreed to a record nine-year, $450 million contract with the New York Mets, including a full no-trade clause and $45 million signing bonus.",
+      "timestamp": "2026-11-22T22:10:29Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "Russian overnight strikes across the Kyiv region killed at least six people and injured others, including when a five-storey residential building in Dymer partially collapsed at 05:00 local time. Rescuers recovered the bodies of three victims, including a woman born in 1978 and a teenager born in 2008, while searching for 11 missing people including two children. A seven-year-old boy was rescued from the rubble 14 hours after the strike and taken to hospital in stable condition. More than 130 emergency personnel continued operations amid ongoing air raid alerts. Additional strikes killed two people and wounded eight in Vyshneve when a supermarket was hit, and one person died in Bila Tserkva when a private home caught fire. Russia also struck a power substation in the Dnipropetrovsk region. More than 70 strikes were launched across 10 Ukrainian regions.",
+      "id": "international-tragedies-2",
+      "micro_summary": "Russian strikes across Kyiv region killed at least six, with a seven-year-old boy rescued from rubble.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.867,
+      "sources": [
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go"
+        },
+        {
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/europe/20261122-live-finland-says-war-spilling-over-after-baltic-sea-drone-strike-on-russian-cargo-ship"
+        },
+        {
+          "publisher": "RTE.ie",
+          "url": "https://www.rte.ie/news/ukraine/2026/1122/1600199-ukraine-russia/"
+        }
+      ],
+      "summary": "Russian overnight strikes on the Kyiv region killed at least six people, including in a partially collapsed apartment block in Dymer where a seven-year-old boy was rescued after 14 hours; more than 70 strikes hit 10 regions.",
+      "timestamp": "2026-11-22T22:25:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "business",
+      "extended_summary": "Tata Steel's board approved selling its steel tubes and pipes business and Tata Steel Colors (TSCL) to APL Apollo Tubes at a combined value of about Rs 28,000 crore. The tubes business sale was approved for up to Rs 11,700 crore, while the entire stake in TSCL received approval for Rs 16,300 crore. The board approved transferring manufacturing, processing, marketing, sale, and distribution operations at facilities in Jamshedpur, Hosur, Khopoli, and Sahibabad, plus certain cold rolling and surface coated steel product facilities, to APL Apollo on a slump sale basis. The board also approved selling its entire 100% equity stake in TSCL, held directly and indirectly through subsidiary TSDPL, to APL Apollo. Upon completion, APL Apollo will own 100% of TSCL's paid-up equity share capital. Both transactions remain subject to customary conditions including regulatory approvals.",
+      "id": "national-business-1",
+      "micro_summary": "Tata Steel board approves Rs 28,000 crore sale of tubes business and Tata Steel Colors to APL Apollo Tubes.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.619,
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "url": "https://www.reuters.com/world/india/tata-steel-nears-deal-acquire-majority-stake-apl-apollo-tubes-moneycontrol-2026-11-22/"
+        },
+        {
+          "publisher": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/tata-steel-approves-sale-of-tubes-and-pipes-business/articleshow/136083810.cms"
+        }
+      ],
+      "summary": "Tata Steel board approved selling its steel tubes business and Tata Steel Colors to APL Apollo Tubes for a combined Rs 28,000 crore, with Rs 11,700 crore for tubes and Rs 16,300 crore for the color unit.",
+      "timestamp": "2026-11-22T22:33:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "politics",
+      "extended_summary": "External Affairs Minister Dr S Jaishankar held talks with the Minister of Foreign Affairs of the Netherlands, Tom Berendsen, in New Delhi. In his opening remarks, Dr Jaishankar stated that India and the Netherlands had elevated their ties to a Strategic Partnership, with a roadmap forged by both countries allowing the pathway to proceed forward. He said their discussions would cover several areas including water, health, and agriculture, as well as newer areas like defence, technology, semiconductors, and renewable energy. He noted that 2027 will mark the 80th anniversary of India-Netherlands diplomatic ties. Mr Berendsen reached New Delhi on a two-day visit and will also meet Union Minister Ashwini Vaishnaw the following day.",
+      "id": "national-politics-1",
+      "micro_summary": "India and the Netherlands elevate ties to a Strategic Partnership during foreign minister talks in New Delhi.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.63,
+      "sources": [
+        {
+          "publisher": "News On AIR",
+          "url": "https://newsonair.gov.in/netherlands-foreign-minister-to-meet-eam-jaishankar-ib-minister-ashwini-vaishnaw/"
+        },
+        {
+          "publisher": "DD News",
+          "url": "https://ddnews.gov.in/en/netherlands-foreign-minister-arrives-in-india-for-inaugural-bilateral-talks-with-jaishankar/"
+        }
+      ],
+      "summary": "External Affairs Minister Dr S Jaishankar held talks with Netherlands Foreign Minister Tom Berendsen in New Delhi, discussing cooperation in water, health, agriculture, defence, technology, semiconductors and renewable energy, noting 2027 marks 80 years of diplomatic ties.",
+      "timestamp": "2026-11-22T20:37:39Z"
+    },
+    {
+      "ai": true,
+      "articles": 4,
+      "category": "politics",
+      "extended_summary": "Nepal Prime Minister Balendra Shah will pay a State visit to India from November 22 to 23, 2026, at the invitation of Prime Minister Narendra Modi. The visit marks Shah's first trip to India since assuming office in March 2026 as Nepal's youngest prime minister following his party's landslide victory in the first parliamentary election since protests last year ousted the previous government. During the visit, Shah will call on President Droupadi Murmu. Prime Minister Modi will hold bilateral talks with Shah on November 23 to review the full range of India-Nepal relations and exchange views on regional and international issues of mutual interest. The two countries share close ties rooted in historical, cultural and civilisational links, with cooperation spanning trade, energy, water resources, and connectivity, as well as emerging areas such as start-ups, technology, innovation and sports.",
+      "id": "national-politics-2",
+      "micro_summary": "Nepal Prime Minister Balendra Shah will visit India November 22-23 for talks with Prime Minister Narendra Modi.",
+      "publishers": 3,
+      "scope": "national",
+      "score": 0.612,
+      "sources": [
+        {
+          "publisher": "DD News",
+          "url": "https://ddnews.gov.in/en/nepal-pm-balendra-shah-to-visit-india-on-november-22-23/"
+        },
+        {
+          "publisher": "News On AIR",
+          "url": "https://newsonair.gov.in/nepal-pm-balendra-shah-visits-india-on-nov-22-23-at-invitation-of-pm-narendra-modi/"
+        },
+        {
+          "publisher": "The Indian Express",
+          "url": "https://indianexpress.com/article/explained/explained-global/balendra-shah-visit-india-on-the-table-10973975/"
+        }
+      ],
+      "summary": "Nepal Prime Minister Balendra Shah will pay a State visit to India from November 22 to 23, 2026, at Prime Minister Narendra Modi's invitation, including bilateral talks on November 23 to review India-Nepal relations and regional issues.",
+      "timestamp": "2026-11-22T19:23:52Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "sports",
+      "extended_summary": "New Zealand face a daunting task on the final day of the fifth Test against India at Wellington's Basin Reserve, needing to survive 90 overs to secure a draw after India posted a record 720-9 declared in their first innings. The Black Caps, who scored 368 in reply, resumed their second innings at 119-2 on Sunday, still 233 runs behind India's total and trailing by 352 runs. Devon Conway (59 not out) and Rachin Ravindra (27 not out) added an unbroken 59-run partnership to see the hosts to the close of play. India's innings featured centuries from KL Rahul (136) and Rishabh Pant (128), while Jasprit Bumrah claimed 1-33, dismissing captain Tom Latham in the first over. Ravindra stated the team would focus on batting as long as possible and taking the challenge ball by ball rather than looking too far ahead at saving the game.",
+      "id": "national-sports-2",
+      "micro_summary": "New Zealand need to bat out 90 overs to save the fifth Test after India scored 720-9.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.627,
+      "sources": [
+        {
+          "publisher": "Telegraph India",
+          "url": "https://www.telegraphindia.com/sports/india-vs-new-zealand-test-hosts-prepare-to-fight-ball-by-ball-to-avoid-defeat-prnt/cid/2190773"
+        },
+        {
+          "publisher": "NZ Herald",
+          "url": "https://www.nzherald.co.nz/sport/cricket/black-caps/black-caps-v-india-live-updates-first-test-day-five-from-wellingtons-basin-reserve/PS2ZO2E5GREJFC5GF72D3UXC3M/"
+        }
+      ],
+      "summary": "New Zealand must survive 90 overs on the final day to draw the fifth Test against India at Wellington after trailing by 352 runs, with Conway (59 not out) and Ravindra (27 not out) at 119-2.",
+      "timestamp": "2026-11-22T23:28:31Z"
+    },
+    {
+      "ai": false,
+      "articles": 2,
+      "category": "sports",
+      "extended_summary": "NEW DELHI: India A were bowled out for 265 in 49.1 overs while chasing Pakistan A’s 314, despite a magnificent ton from captain Tilak Varma and a spirited half-century from Shahbaz Ahmed in their ACC Men’s Asia Cup Rising Stars 2026 Group B clash on Sunday in Doha, Qatar.Varma stood tall amid a dramatic batting collapse, scoring 100 off 149 balls, with seven fours and a six. He anchored the innings after India A lost Vaibhav Sooryavanshi (11), Ayush Badoni (0) and Abhishek Sharma (70) inside the first 16 overs.Abhishek had provided a blistering start to the chase, smashing six fours and six sixes in his 42-ball knock before Hasan Nawaz ended his assault at 93/3.Pakistan A’s spinners and disciplined bowling then tightened their grip. Sufyan Moqim bowled Kumar Kushagra for 2, while Nawaz removed Rinku Singh (6) and Suryansh Shedge (3) to leave India A reeling at 129/6.With the",
+      "id": "national-sports-3",
+      "micro_summary": "Captain Tilak Varma’s knock in vain as Pakistan A beat India A in Asia Cup Rising Stars thriller.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.576,
+      "sources": [
+        {
+          "publisher": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/sports/cricket/news/captain-tilak-varmas-knock-in-vain-as-pakistan-a-beat-india-a-in-asia-cup-rising-stars-thriller/articleshow/136082154.cms?utm_source=newsletter&utm_medium=email&utm_campaign=amp_rss"
+        },
+        {
+          "publisher": "ANI News",
+          "url": "https://www.aninews.in/news/sports/cricket/rising-stars-asia-cup-tilak-varmas-century-in-vain-as-pakistan-a-beat-india-a-by-48-runs20261123005546"
+        }
+      ],
+      "summary": "Captain Tilak Varma’s knock in vain as Pakistan A beat India A in Asia Cup Rising Stars thriller. A 48-run defeat for India A in our second match of the campaign.",
+      "timestamp": "2026-11-22T19:25:00Z"
+    }
+  ]
+}
