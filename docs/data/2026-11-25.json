@@ -1,0 +1,761 @@
+{
+  "date": "2026-11-25",
+  "events": [
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "business",
+      "extended_summary": "A Ukrainian SPYS interceptor drone successfully destroyed Russia's Geran-5 K5-K, a high-speed weapon classified as a small cruise missile, during combat trials in Ukraine. The interception occurred without assistance from other air defense systems. The Geran-5 K5-K, deployed by Russia since early autumn 2026, measures four meters in length with a three-meter wingspan, cruises above 450 km/h, and can reach 1,000 km/h during maneuvers. It has a range of 1,000 kilometers, an operating ceiling of approximately six kilometers, and carries a 90-kilogram thermobaric warhead. The SPYS drone is developed by Quantum WIY Industries, a joint venture between German defense company Quantum Systems and Ukrainian manufacturer WIY Drones. The company plans to supply tens of thousands of SPYS interceptors to counter Russian jet-powered attack drones.",
+      "id": "international-business-2",
+      "micro_summary": "Ukrainian SPYS interceptor drone destroyed Russia's Geran-5 K5-K cruise missile during combat trials.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.639,
+      "sources": [
+        {
+          "publisher": "Euronews.com",
+          "url": "https://www.euronews.com/2026/11/23/german-ukrainian-interceptor-shoots-down-russian-jet-powered-drone-company-says"
+        },
+        {
+          "publisher": "UNITED24 Media",
+          "url": "https://united24media.com/war-in-ukraine/ukraine-just-shot-down-russias-elusive-new-geran-5-k5-k-cruise-missile-with-one-drone-24638"
+        },
+        {
+          "publisher": "Ukrinform",
+          "url": "https://www.ukrinform.net/rubric-defense/4187843-germanukrainian-spys-interceptor-drone-shoots-down-russian-jetpowered-geran5.html"
+        }
+      ],
+      "summary": "Ukrainian forces used a SPYS interceptor drone to destroy Russia's new Geran-5 K5-K cruise missile, which travels over 450 km/h and carries a 90 kg warhead, during combat trials without other air defense assistance.",
+      "timestamp": "2026-11-23T21:18:13Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "business",
+      "extended_summary": "The European Commission has launched a safeguard investigation into imports of composite materials and key chemical inputs, covering glass-fibre reinforcements, resin systems and chemicals used in production. The investigation includes chopped strands, rovings, mats, epoxy, unsaturated polyester and vinyl ester resins, plus inputs such as epichlorohydrin, isophorone diamine and maleic anhydride. These materials serve strategic EU industries including wind energy, electricity infrastructure, aerospace and defence. Rising imports have been driven by global overcapacity and trade-restrictive measures in other markets. Provisional measures could be introduced four or five months after the investigation began if conditions are met, requiring support from a qualified majority of EU Member States. Definitive measures must follow within 200 days, or no later than nine months after initiation, extendable to eleven months in certain circumstances. The investigation covers a wider range of inputs from all countries than existing anti-dumping duties.",
+      "id": "international-business-3",
+      "micro_summary": "The European Commission launched a safeguard investigation into composite imports, with provisional measures possible in four to five months.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.629,
+      "sources": [
+        {
+          "publisher": "Euronews.com",
+          "url": "https://www.euronews.com/2026/11/23/eu-targets-chinese-imports-in-fresh-trade-defence-investigation"
+        },
+        {
+          "publisher": "EU Law Live",
+          "url": "https://eulawlive.com/commission-opens-wto-compliance-review-of-indonesian-fatty-acid-duties-and-safeguard-investigation-into-composite-material-inputs/"
+        },
+        {
+          "publisher": "Fibre2Fashion",
+          "url": "https://www.fibre2fashion.com/news/technical-textiles/european-commission-launches-probe-into-composite-materials-imports-315264-newsdetails.htm"
+        }
+      ],
+      "summary": "The European Commission launched a safeguard investigation into imports of composite materials and chemical inputs, including glass-fibre reinforcements and resins, amid global overcapacity concerns, with provisional measures possible within four to five months pending qualified majority approval.",
+      "timestamp": "2026-11-23T10:41:54Z"
+    },
+    {
+      "ai": true,
+      "articles": 3,
+      "category": "business",
+      "extended_summary": "A 27-year-old civil engineering student with two children aged three and nine was found mutilated near a river in Kokstad, KwaZulu-Natal, in August after her father learned of her death from a Facebook post. She was among 581 women killed in South Africa between July and September, a period that saw 5,590 murders nationwide, 204 fewer than the same period last year. The killing renewed national outcry over gender-based violence following the discovery of multiple women's bodies in Ekurhuleni since July. President Cyril Ramaphosa promised safety audits across municipalities to address dangerous spaces for women. The violence has created a mental health crisis affecting survivors, families, and communities living in fear, as South Africa maintains one of the world's highest rates of femicide.",
+      "id": "international-business-4",
+      "micro_summary": "South Africa recorded 581 women killed and 5,590 total murders between July and September.",
+      "publishers": 3,
+      "scope": "international",
+      "score": 0.518,
+      "sources": [
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqglr0d5jejxo"
+        },
+        {
+          "publisher": "Glamour South Africa",
+          "url": "https://www.glamour.co.za/wellness/what-happens-to-the-minds-of-women-who-survive-gbv-5d8f8fa7-891b-4a0e-ab1d-1ffb83115a7e"
+        },
+        {
+          "publisher": "Latest news from Azerbaijan",
+          "url": "https://news.az/news/what-is-behind-south-africa-s-femicide-crisis-and-growing-distrust-of-the-police"
+        }
+      ],
+      "summary": "A 27-year-old civil engineering student was found mutilated near a river in KwaZulu-Natal, among 581 women killed in South Africa between July and September, when 5,590 murders were recorded nationwide.",
+      "timestamp": "2026-11-24T00:02:15Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "The climate summit in Antalya, Turkey, ended in failure on Sunday when delegates could not agree on the proposed Antalya Pact after it omitted any mention of fossil fuels. Australian minister Chris Bowen, who led negotiations, blamed the collapse on the most complicated and fraught geopolitical environment in living memory, describing competing demands as unbridgeable red lines. Turkey's environment minister Murat Kurum suggested governments should not get hung up on one word or phrase. The omission contrasted with the COP28 agreement in Dubai three years prior to transition away from fossil fuels. Opposition came publicly from oil-producing nations, including Saudi negotiator Mohammad Ayoub speaking for 22 Arab League countries, who argued Arab nations contributed less than 2% of historical greenhouse gas emissions and defended their right to choose national approaches. Russia's delegate Sergei Kononuchenko also opposed the text.",
+      "id": "international-politics-1",
+      "micro_summary": "The Antalya climate summit collapsed when the proposed pact omitted fossil fuels.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.854,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/environment/2026/nov/24/missed-opportunities-cop31-oceans-fossil-fuels"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo"
+        },
+        {
+          "publisher": "Financial Times",
+          "url": "https://www.ft.com/content/f01d609c-485d-4d1d-ac0a-5fa1fd5c7612?syn-25a6b1a6=1"
+        }
+      ],
+      "summary": "The Antalya climate summit in Turkey failed to reach agreement on the proposed pact after it omitted any mention of fossil fuels, with negotiators citing unbridgeable geopolitical divides and oil-producing nations opposing the omission.",
+      "timestamp": "2026-11-24T17:28:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "President Donald Trump awarded Rudy Giuliani the Presidential Medal of Freedom on Tuesday in a private ceremony, more than 14 months after first announcing the honor in September 2025. Giuliani, the former New York City mayor and Trump's former lawyer, stated he was \"honored and humbled\" to receive the nation's highest civilian award. The ceremony took place privately, though Giuliani's son Andrew confirmed to reporters that it had occurred. Giuliani had been disbarred from practicing law in Washington, D.C., and New York for making baseless claims of widespread voter fraud following the 2020 election. A federal judge previously ruled that Giuliani should pay $146 million to two Fulton County election workers he defamed, though the parties later reached a settlement. Trump has faced criticism for awarding the medal predominantly to political supporters and Republicans throughout his presidency.",
+      "id": "international-politics-2",
+      "micro_summary": "President Trump awarded Rudy Giuliani the Presidential Medal of Freedom 14 months after first announcing it.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.838,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/24/trump-giuliani-presidential-medal-of-freedom"
+        },
+        {
+          "publisher": "The Washington Post",
+          "url": "https://www.washingtonpost.com/politics/2026/11/24/trump-award-rudy-giuliani-presidential-medal-freedom/"
+        },
+        {
+          "publisher": "MS NOW",
+          "url": "https://www.ms.now/rachel-maddow-show/maddowblog/rudy-giuliani-trump-medal-freedom-republicans-honor"
+        }
+      ],
+      "summary": "President Donald Trump awarded former New York City mayor Rudy Giuliani the Presidential Medal of Freedom on Tuesday in a private ceremony, 14 months after first announcing the honor for his longtime friend and former lawyer.",
+      "timestamp": "2026-11-24T17:09:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "Pope Francis wrote in his private diary that he saw the devil three times and once witnessed the gates of hell. The diary, covering 1992 to 2024, describes visions from a car, a choir loft during Mass, and a Vatican meeting, with the devil having flaming eyes and a rasping voice. Francis expressed devastation over his 2018 Chile visit, where he defended a bishop accused of covering up sexual abuse, later apologizing and summoning bishops to Rome where they offered to resign. In June 2018, he wrote of seeing the gates of hell while preparing for sleep, taking the rosary as a weapon. The diaries, edited by Cardinal Victor Fernandez, are the first by a pope released publicly since the 1960s. Francis led the Catholic Church for 12 years until his death in April 2025 at age 88.",
+      "id": "international-politics-3",
+      "micro_summary": "Pope Francis's private diary reveals he saw the devil three times and the gates of hell.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.801,
+      "sources": [
+        {
+          "publisher": "The Times",
+          "url": "https://www.thetimes.com/world/europe/article/personal-diary-of-pope-francis-devil-83nb29dg8"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm78270l4z7no"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/24/pope-francis-gates-of-hell-clerical-sexual-abuse-scandal-diary-excerpts-reveal"
+        }
+      ],
+      "summary": "Pope Francis wrote in his private diary that he saw the devil three times and the gates of hell, describing menacing eyes and a rasping voice, and expressed regret over his 2018 Chile visit during a sexual abuse scandal.",
+      "timestamp": "2026-11-24T09:44:17Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "Attacks on commercial shipping in and around the Strait of Hormuz have reached their highest levels since the Iran war began in late February, with more than 30 incidents reported in October and at least 22 in November, compared to a previous average of around 10 per month. The escalation comes as Iran seeks to reassert control over the critical waterway amid falling oil prices and economic pressure from US sanctions and a naval blockade on its ports. More than 25 tankers have been hit in the past week alone, including two that struck mines and caught fire on Tuesday. Iran has vowed to use all available means to confront the US blockade, which has largely halted its oil exports. Commercial traffic through the strait, which carried a fifth of the world's oil before the war, remains at reduced levels.",
+      "id": "international-politics-4",
+      "micro_summary": "Attacks on Strait of Hormuz shipping exceeded 30 in October, highest since the Iran war began.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.788,
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/hormuz-oil-traffic-is-down-40-percent-are-irans-tanker-attacks-working"
+        },
+        {
+          "publisher": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html"
+        },
+        {
+          "publisher": "CNN",
+          "url": "https://www.cnn.com/2026/11/22/middleeast/hormuz-attacks-highest-levels-iran-war-intl"
+        }
+      ],
+      "summary": "Attacks on shipping in the Strait of Hormuz reached highest levels since the Iran war began, exceeding 30 in October and at least 22 in November as Iran escalates amid economic strain.",
+      "timestamp": "2026-11-24T13:46:20Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "science",
+      "extended_summary": "On November 21, Ukrainian forces may have struck a Russian military surveillance facility in the Smolensk region using more than 30 jet-powered drones. The target was the AP-MRIK-VKO multifunctional aerospace defense information complex, operated by Russia's 572nd Separate Radio-Technical Unit and associated with the 821st Main Center for Space Situation Reconnaissance. The strike potentially damaged both a radar installation and the unit's headquarters, though the extent of destruction remains unconfirmed. The facility collects and processes intelligence on atmospheric and outer space activity to support Russian air defense and missile defense units. Russia had deployed 80P6 radar systems, part of the AP-MRIK-VKO complex, in the Mityuli region of Smolensk in 2021. While conflicting reports placed the strike in the Moscow region, the actual attack occurred in Smolensk, where the unit maintains a permanent base elsewhere.",
+      "id": "international-science-2",
+      "micro_summary": "Ukrainian forces may have struck a Russian space surveillance facility in Smolensk on November 21 with over 30 drones.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.694,
+      "sources": [
+        {
+          "publisher": "UNITED24 Media",
+          "url": "https://united24media.com/war-in-ukraine/ukraine-reportedly-strikes-russias-military-space-surveillance-facility-with-over-30-jet-powered-drones-24670"
+        },
+        {
+          "publisher": "Ukrinform",
+          "url": "https://www.ukrinform.net/rubric-ato/4188026-ukrainian-forces-hit-russian-military-truck-concentration-area-in-bryansk-region.html"
+        },
+        {
+          "publisher": "Мілітарний",
+          "url": "https://militarnyi.com/en/news/ukraine-strikes-russian-821st-space-intelligence-center-in-smolensk-region/"
+        }
+      ],
+      "summary": "On November 21, Ukrainian forces may have struck the AP-MRIK-VKO aerospace defense facility in Russia's Smolensk region with more than 30 jet-powered drones, potentially damaging radar equipment and the 572nd Radio-Technical Unit's headquarters.",
+      "timestamp": "2026-11-24T12:31:51Z"
+    },
+    {
+      "ai": false,
+      "articles": 15,
+      "category": "sports",
+      "extended_summary": "The Senegalese have been restored as the winners of the 2025 Africa Cup of Nations, after being initially stripped of the title, which was then handed to losing finalists Morocco on a technicality. On Tuesday, 24 November 2026, the Court of Arbitration for Sport (CAS) delivered its verdict on Senegal’s appeal against the stripping of the 2025 Africa Cup of Nations (Afcon) title by the Confederation of African Football (CAF). The title was retrospectively awarded to losing finalists and tournament hosts Morocco, with Senegal punished for staging a walkout during the final. Senegal challenged the March 2026 decision by CAF’s appeal board. The global sports dispute resolution platform has now overturned the decision and reinstalled the Lions of Teranga as the rightful winners of Africa’s premier soccer tournament. CAS said the decision to overturn the verdict, which left Morocco as champions via a technicality, as opposed to on-field results, was",
+      "id": "international-sports-1",
+      "micro_summary": "Senegal reinstated as 2025 Africa Cup of Nations winners over Morocco.",
+      "publishers": 11,
+      "scope": "international",
+      "score": 0.891,
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/24/senegal-reinstated-as-2025-africa-cup-of-nations-winners-over-morocco"
+        },
+        {
+          "publisher": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50582074/senegal-africa-cup-nations-morocco-cas"
+        },
+        {
+          "publisher": "CNN",
+          "url": "https://www.cnn.com/2026/11/24/sport/afcon-cas-decision-morocco-senegal"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/nov/24/afcon-verdict-senegal-morocco-africa-cup-of-nations-champions-court-ruling-cas"
+        },
+        {
+          "publisher": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/13615545/senegal-crowned-afcon-2025-champions-by-court-of-arbitration-for-sport-following-appeal"
+        },
+        {
+          "publisher": "CAFOnline.com",
+          "url": "https://www.cafonline.com/inside-caf/news/caf-media-statement-on-the-court-of-arbitration-for-sport-cas-award-in-the-matter-concerning-the-totalenergies-caf-africa-cup-of-nations-morocco-2025-final/"
+        }
+      ],
+      "summary": "Senegal reinstated as 2025 Africa Cup of Nations winners over Morocco. Senegal has been reinstated as the 2025 Africa Cup of Nations (AFCON) men’s champion after winning an appeal at the Court of Arbitration for Sport (CAS).",
+      "timestamp": "2026-11-24T18:18:40Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "Week 11 of the 2026 NFL season kicked off Thursday with another strong performance from Texans quarterback C.J. Stroud, who notched his fifth straight game with multiple touchdown passes in a win over the Colts. On Sunday, Jaguars wide receiver Parker Washington had his third game with 100 receiving yards this season, though it wasn't enough to defeat the Giants. And Broncos cornerback Ja'Quan McMillian put away the Raiders with a late pick-six. What do these players have in common? They're all eligible for extensions, whether on their rookie deals or otherwise. They're also all mentioned below, as along with our 1-32 rankings, we asked our NFL Nation reporters to pick a player from each team who could receive a contract extension this offseason. To form the 1-32 list, our power panel of more than a dozen NFL analysts evaluates how all 32 teams stack up against one another. Here",
+      "id": "international-sports-2",
+      "micro_summary": "NFL Power Rankings, Week 12: Broncos climb to No. 3; Giants crack top 10; Steelers in free fall.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.857,
+      "sources": [
+        {
+          "publisher": "NFL.com",
+          "url": "https://www.nfl.com/news/nfl-power-rankings-week-12-2026-nfl-season"
+        },
+        {
+          "publisher": "ESPN",
+          "url": "https://www.espn.com/nfl/story/_/id/50574413/nfl-power-rankings-week-12-offseason-contract-extension-candidates"
+        },
+        {
+          "publisher": "The New York Times",
+          "url": "https://www.nytimes.com/athletic/7806316/2026/11/24/nfl-power-rankings-week-12-49ers-giants-steelers-thanksgiving/"
+        }
+      ],
+      "summary": "NFL Power Rankings, Week 12: Broncos climb to No. 3; Giants crack top 10; Steelers in free fall.",
+      "timestamp": "2026-11-24T16:00:57Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "Arsenal hosted Bundesliga leaders Borussia Dortmund in a Champions League fixture at the Emirates Stadium, with the Premier League champions aiming to continue their unbeaten European campaign. Viktor Gyokeres opened the scoring for Arsenal, while Noni Madueke missed a late chance to double the lead. Kepa Arrizabalaga made his second Champions League start, replacing injured David Raya, as Mikel Arteta's side made six changes from the team that drew 2-2 with Newcastle United. Arsenal had won three and drawn one of their four European matches, including a 2-1 win over Slavia Prague. Dortmund arrived top of the German league, two points clear of Bayern Munich after ten matches, fresh from a 1-0 victory at Borussia Monchengladbach.",
+      "id": "international-sports-3",
+      "micro_summary": "Viktor Gyokeres scores opener as Arsenal host Borussia Dortmund in Champions League.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.837,
+      "sources": [
+        {
+          "publisher": "London Evening Standard",
+          "url": "https://www.standard.co.uk/sport/football/arsenal-fc-vs-borussia-dortmund-live-stream-latest-score-updates-result-champions-league-2026-b1306239.html"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cr4gnp24p0e6t"
+        },
+        {
+          "publisher": "Arsenal.com",
+          "url": "https://www.arsenal.com/news/team-news-gyokeres-starts-against-dortmund-aaNmK8K8cy91"
+        }
+      ],
+      "summary": "Arsenal face Bundesliga leaders Borussia Dortmund in the Champions League, with Viktor Gyokeres opening the scoring and Kepa Arrizabalaga in goal for injured David Raya after six changes from the 2-2 Newcastle draw.",
+      "timestamp": "2026-11-24T17:31:25Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "Australia defeated England by three wickets at the MCG on Saturday night in the series-opening T20 international, chasing down 9-187 with a ball to spare. Nikhil Chaudhary top-scored with 66 off 38 balls, while Jack Edwards hit 25 not out off 11 to finish the chase. Debutants Sam Harper (32 off 15) and Lachlan Shaw provided early impetus for the hosts. England had posted 9-187 after captain Harry Brook struck a 20-ball half-century. On Tuesday night at the Gold Coast, England won the second match by eight wickets, chasing 185 with 41 balls to spare to level the series 1-1. Aneurin Donald scored 85 off 32 balls and Phil Salt made 58 off 30, sharing a 151-run opening stand. Australia had made 8/184, with Joel Davies top-scoring with 39 off 25.",
+      "id": "international-sports-4",
+      "micro_summary": "Australia and England split the opening two T20 internationals, with the series level at 1-1.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.821,
+      "sources": [
+        {
+          "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "url": "https://www.abc.net.au/news/2026-11-24/australia-vs-england-second-t20i-on-the-gold-coast/107421294"
+        },
+        {
+          "publisher": "cricket.com.au",
+          "url": "https://www.cricket.com.au/news/4612345/australia-england-first-t20i-report-video-highlights-mcg-melbourne-chaudhary-harper-shaw-catch-debut-brook"
+        },
+        {
+          "publisher": "Fox Sports",
+          "url": "https://www.foxsports.com.au/en-AU/news/cricket/cricket-2026-australia-vs-england-second-t20i-match-report-and-final-scores-who-won-aneurin-donald-phil-salt/1hi2ohfb23wjv1pyoeresrgy11"
+        }
+      ],
+      "summary": "Australia won the MCG opener by three wickets chasing 9-187, then England won at the Gold Coast by eight wickets chasing 185 to level the T20 series 1-1.",
+      "timestamp": "2026-11-24T10:17:31Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "The UK government has issued a security alert warning that businesses supplying the Ukrainian Armed Forces are being targeted by the Russian state, describing the action as \"truly shameful.\" The National Protective Security Agency, part of MI5, warned of increased risks including sabotage, arson, and threats to staff and operations. Closed-door threat briefings are being delivered to critical national infrastructure and defence sector CEOs in Whitehall, chaired by defence and security ministers alongside intelligence representatives. The alert follows a rise in sabotage attempts against European defence facilities, including alleged plots to torch UK drone factories and arson attempts in Estonia. Organisations are advised to reduce digital exposure, improve detection of hostile reconnaissance, install visible security measures such as CCTV and secure entrances, and ensure staff remain alert to their surroundings and avoid predictable routines.",
+      "id": "international-tragedies-1",
+      "micro_summary": "UK warns businesses supplying Ukraine's armed forces of Russian targeting and holds closed-door security briefings for defence CEOs.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.862,
+      "sources": [
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckpdw4d0z2dwo"
+        },
+        {
+          "publisher": "Financial Times",
+          "url": "https://www.ft.com/content/d9f17145-cdc0-424a-bace-7147a971d0ab?syn-25a6b1a6=1"
+        },
+        {
+          "publisher": "GOV.UK",
+          "url": "https://www.gov.uk/government/news/ceos-from-sensitive-sectors-receive-briefings-on-russia-threats"
+        }
+      ],
+      "summary": "The UK has warned businesses supplying Ukraine's armed forces that they are being targeted by Russia and urged them to strengthen security. Closed-door briefings are being held for critical infrastructure and defence CEOs following increased sabotage attempts across Europe.",
+      "timestamp": "2026-11-24T16:48:59Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "At least 11 people were wounded in a Houthi attack on a tower in Riyadh's King Abdullah Financial District on Tuesday. The injured include two Saudi citizens, two Indian nationals, three Nepali nationals and four Egyptian nationals, a civil defence spokesperson said. The strike targeted the PIF skyscraper, which houses the headquarters of Saudi Arabia's sovereign wealth fund and is the country's tallest skyscraper, causing damage about halfway up the facade. This marks the second attack on Riyadh's financial district in less than a week. The Houthi group, which controls much of western Yemen including Sanaa, has been firing at Saudi targets since Yemen's frozen civil war reignited in July. The Secretary-General of the Gulf Cooperation Council condemned the attack as a heinous crime and called for a decisive international stance to hold the militia accountable.",
+      "id": "international-tragedies-2",
+      "micro_summary": "At least 11 people were wounded in a Houthi attack on a Riyadh financial district tower.",
+      "publishers": 4,
+      "scope": "international",
+      "score": 0.824,
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/saudi-led-coalition-condemns-terrorist-attack-on-tower-in-riyadh"
+        },
+        {
+          "publisher": "Financial Times",
+          "url": "https://www.ft.com/content/ecdf59b6-c78b-4703-bc26-8d085d7b9d24?syn-25a6b1a6=1"
+        }
+      ],
+      "summary": "At least 11 people were wounded in a Houthi attack on a tower in Riyadh's King Abdullah Financial District. The injured include two Saudis, two Indians, three Nepalis and four Egyptians. The strike damaged the PIF skyscraper facade.",
+      "timestamp": "2026-11-24T18:49:20Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "At least 490,000 Russian military personnel have died in Ukraine since February 2022, with official death certificates registered through August 2026. Including those missing in action, estimated irrecoverable losses exceed 720,000, while total losses including permanently wounded surpass two million. Russian forces continue suffering 30,000 to 40,000 casualties monthly, averaging 280 to 300 fatalities daily. Approximately 92 percent of deaths result from explosions and shrapnel, with firearms accounting for only 1.3 percent. At least 7,421 foreign fighters have died on Russia's side. Non-combat deaths include around 2,500 from alcohol, drugs or suicide, with more than 1,000 confirmed suicides. Death registrations average a 3.5-month delay, while missing soldiers face approximately a one-year delay.",
+      "id": "international-tragedies-3",
+      "micro_summary": "Russian military deaths in Ukraine exceed 490,000 since February 2022, with estimates reaching over 700,000 including missing personnel.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.812,
+      "sources": [
+        {
+          "publisher": "Euronews.com",
+          "url": "https://www.euronews.com/2026/11/24/at-least-490000-russian-soldiers-killed-in-ukraine-rosstat-data-leak-reveals"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/23/russia-war-dead-hidden-toll-ukraine-conflict"
+        },
+        {
+          "publisher": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/news/2026/11/24/putin-mobilisation-ukraine-war-meat-grinder-casualties-700k/"
+        }
+      ],
+      "summary": "At least 490,000 Russian soldiers have died in Ukraine since February 2022, with total irrecoverable losses estimated above 700,000 when including missing personnel, averaging 280 to 300 fatalities daily.",
+      "timestamp": "2026-11-24T14:25:03Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "The peak of the planet's strongest El Niño on record will reshape weather globally during the coming months, with sea surface temperatures almost 10°C warmer than normal near the Galapagos Islands and Peru. Some regions will experience extreme heat and drought while others face flooding, high humidity, or heavy snow. The phenomenon has already brought heavy rain, flooding, and extreme winds to America's west coast. In the UK, it could cause extra stormy weather and potentially blizzard conditions as colder Arctic air drifts into Europe and North America. The event may disrupt wildlife food chains and food supplies, potentially causing higher prices for rice, cocoa, and coffee. Forecasts for approximately 37,000 cities indicate San Francisco will be warmer, wetter, windier, more humid, and cloudier, while Washington D.C. faces wetter, windier, and more humid conditions with high chance of extreme rainfall.",
+      "id": "international-tragedies-4",
+      "micro_summary": "The strongest El Niño on record is peaking with sea temperatures 10°C above normal near Peru, reshaping global weather.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.81,
+      "sources": [
+        {
+          "publisher": "Metro.co.uk",
+          "url": "https://metro.co.uk/2026/11/24/super-el-nino-morphed-a-mega-el-nino-scientists-warn-29815004/"
+        },
+        {
+          "publisher": "The Washington Post",
+          "url": "https://www.washingtonpost.com/climate-environment/interactive/2026/11/23/will-your-winter-be-snowier-because-el-nio-rainier-look-up-what-your-area-will-face/"
+        },
+        {
+          "publisher": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-23/companies-el-nino-anxiety-is-surging-as-weather-perils-loom"
+        }
+      ],
+      "summary": "The planet's strongest El Niño on record is peaking with Pacific sea surface temperatures nearly 10°C warmer than normal near the Galapagos and Peru, bringing extreme weather including flooding, drought, and potential blizzards to various regions this winter.",
+      "timestamp": "2026-11-24T10:11:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 10,
+      "category": "business",
+      "extended_summary": "At the India International Space Conclave 2026 in Delhi, Union Minister Jitendra Singh stated that India's space economy, valued at nearly $9 billion, is projected to expand to $40-45 billion in less than a decade. He attributed this growth to private investment and reforms that opened the sector to private participation through NewSpace India Limited and IN-SPACe. The ecosystem has grown from single-digit startups to nearly 400-500 companies. Singh highlighted Skyroot's maiden launch vehicle flight on July 18, 2026, and its unicorn status, alongside other firms developing propulsion and satellite technologies. He emphasized that space technology's value extends beyond launches to generating savings, efficiency and better outcomes across sectors. The conclave was attended by ISRO and IN-SPACe chairmen and industry leaders from nine countries.",
+      "id": "national-business-1",
+      "micro_summary": "Union Minister Jitendra Singh says India's $9 billion space economy will grow to $40-45 billion in under a decade.",
+      "publishers": 6,
+      "scope": "national",
+      "score": 0.833,
+      "sources": [
+        {
+          "publisher": "News On AIR",
+          "url": "https://newsonair.gov.in/indias-space-economy-to-reach-40-to-45-billion-dollars-in-under-decade-as-private-sector-drives-growth-says-union-minister-jitendra-singh/"
+        },
+        {
+          "publisher": "DD News",
+          "url": "https://ddnews.gov.in/en/indias-space-economy-projected-to-reach-40-45-billion-as-private-sector-drives-growth-jitendra-singh/"
+        },
+        {
+          "publisher": "www.pib.gov.in",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2340845"
+        },
+        {
+          "publisher": "DD India",
+          "url": "https://ddindia.co.in/2026/11/indias-space-economy-projected-to-reach-40-45-billion-as-private-sector-drives-growth-jitendra-singh/"
+        },
+        {
+          "publisher": "India Today",
+          "url": "https://www.indiatoday.in/amp/science/story/india-space-economy-usd-45-billion-private-sector-growth-ptag-3046005-2026-11-24"
+        },
+        {
+          "publisher": "BusinessLine",
+          "url": "https://www.thehindubusinessline.com/news/science/indias-space-economy-could-reach-45-billion-in-less-than-a-decade-jitendra-singh/article71738113.ece"
+        }
+      ],
+      "summary": "At the India International Space Conclave 2026 in Delhi, Union Minister Jitendra Singh said India's $9 billion space economy is expected to reach $40-45 billion in less than a decade, driven by private firms and reforms.",
+      "timestamp": "2026-11-24T16:05:38Z"
+    },
+    {
+      "ai": true,
+      "articles": 3,
+      "category": "entertainment",
+      "extended_summary": "Ramayana has crossed ₹1,700 crore worldwide after 19 days in theatres, reaching ₹1,709 crore gross. The film has earned ₹1,141 crore in India and ₹568 crore overseas. Yash, who plays Ravana and produces the film, becomes the first Indian actor to have two releases cross ₹50 crore across all five major Indian languages—Hindi, Kannada, Telugu, Tamil and Malayalam—after first achieving the feat with KGF: Chapter 2. Language-wise India net collections stand at ₹725 crore in Hindi, ₹76.15 crore in Kannada, ₹56.90 crore in Telugu, ₹49.95 crore in Malayalam and ₹47.45 crore in Tamil. The film recently surpassed Dhurandhar: The Revenge's $28.1 million US run to reach $28.4 million. With both KGF: Chapter 2 and Ramayana crossing ₹1,000 crore globally, Yash now has two films in that bracket.",
+      "id": "national-entertainment-2",
+      "micro_summary": "Yash's Ramayana crosses ₹1,700 crore globally, making him first actor with two films over ₹50 crore in five languages.",
+      "publishers": 3,
+      "scope": "national",
+      "score": 0.639,
+      "sources": [
+        {
+          "publisher": "MensXP",
+          "url": "https://www.mensxp.com/entertainment/bollywood/186942-ramayana-collection-yash-first-indian-actor-two-films-rs-50-crore-5-languages.html"
+        },
+        {
+          "publisher": "IMDb",
+          "url": "https://www.imdb.com/es/news/ni66125782/?ref_=int_nwr_6"
+        },
+        {
+          "publisher": "The Hollywood Reporter India",
+          "url": "https://www.hollywoodreporterindia.com/features/insight/ramayana-box-office-yash-becomes-first-indian-actor-to-have-two-films-gross-50-crore-each-across-five-languages"
+        }
+      ],
+      "summary": "Ramayana has crossed ₹1,700 crore worldwide in 19 days, making Yash the first Indian actor with two films exceeding ₹50 crore in Hindi, Kannada, Telugu, Tamil and Malayalam, after KGF: Chapter 2.",
+      "timestamp": "2026-11-24T08:44:15Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "entertainment",
+      "extended_summary": "The Australian Film Festival of India returns December 7-22 across multiple Indian cities after a COVID-19 pause, launching the Australian Cinema Bootcamp to connect Indian filmmakers, investors and executives with the Australian screen sector. First launched in Mumbai in 2011 with Hugh Jackman's support, the 2026 edition is led by Festival Director Peter Castaldi and features an advisory council including Viveck Vaswani, Lori Fesker, Sonia Gandhi and Vinod Daniel OAM. The bootcamp, supported by Screen Australia, will hold sessions in Bengaluru, Hyderabad and Trivandrum covering co-production under the India-Australia Audio Visual Co-Production Treaty, investment opportunities including the 40% Producer Offset, distribution, and access to VFX and post-production services. The festival is backed by Disney Studios, Ausfilm, the City of Perth and the University of NSW. Screen Australia Chief Operating Officer Grainne Brunsdon stated the initiative aims to strengthen ties between the two screen industries and create new pathways for collaborative projects.",
+      "id": "national-entertainment-3",
+      "micro_summary": "The Australian Film Festival of India returns December 7-22 to promote India-Australia film co-productions.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.613,
+      "sources": [
+        {
+          "publisher": "ANI News",
+          "url": "https://www.aninews.in/news/entertainment/bollywood/australian-film-festival-of-india-returns-after-covid-pause-eyes-co-production-opportunities20261124183251"
+        },
+        {
+          "publisher": "Variety",
+          "url": "https://variety.com/2026/film/markets-festivals/australian-film-festival-india-returns-co-production-bootcamps-1236956837/"
+        }
+      ],
+      "summary": "The Australian Film Festival of India returns December 7-22 across Indian cities after a COVID pause, launching the Australian Cinema Bootcamp to foster co-productions and investment under the new India-Australia treaty.",
+      "timestamp": "2026-11-24T13:02:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "entertainment",
+      "extended_summary": "The All India Cine Workers Association has written to Prime Minister Narendra Modi seeking a complete ban on the Indian release of Jo Bachay Hain Sang Samait Lo, Netflix's first Pakistani original series, ahead of its scheduled premiere on December 4. The streaming platform has yet to clarify whether the title will be available to viewers in India. In its appeal dated November 24, the film workers' body urged strict enforcement of the government's May 8, 2025 directive barring Pakistan-origin content from Indian digital platforms following the Pahalgam terror attack. AICWA also called for legislative action to ensure Pakistani productions never return to Indian screens, demanding a strong permanent law with severe penalties. The series, adapted from Farhat Ishtiaq's Urdu novel, features an ensemble cast including Fawad Khan and Mahira Khan, and was produced by Momina Duraid Films.",
+      "id": "national-entertainment-4",
+      "micro_summary": "AICWA demands ban on Pakistani Netflix series Jo Bachay Hain Sang Samait Lo scheduled for December 4 release in India.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.499,
+      "sources": [
+        {
+          "publisher": "India Today",
+          "url": "https://www.indiatoday.in/entertainment/ott/story/film-body-urges-pm-modi-to-ban-fawad-mahiras-pakistani-netflix-series-jo-bachay-hain-sang-samait-lo-in-india-3045817-2026-11-24"
+        },
+        {
+          "publisher": "MensXP",
+          "url": "https://www.mensxp.com/buzz-on-web/latest/186938-fawad-khan-mahira-khan-pakistani-drama-netflix-ban-demand-india.html"
+        }
+      ],
+      "summary": "The All India Cine Workers Association wrote to Prime Minister Narendra Modi demanding a complete ban on the Pakistani Netflix series Jo Bachay Hain Sang Samait Lo, scheduled for December 4, citing a May 2025 government advisory against Pakistan-origin content.",
+      "timestamp": "2026-11-24T09:44:38Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "politics",
+      "extended_summary": "Bulgarian Foreign Minister Velislava Petrova-Chamova concluded her three-day visit to India, the first by a Bulgarian Foreign Minister in 17 years. She called on President Droupadi Murmu at Rashtrapati Bhavan, where discussions focused on expanding cooperation across trade, investment, defence, education, science and technology, artificial intelligence, space, mobility, and cultural exchanges. President Murmu noted that the India-European Union Free Trade Agreement would create new opportunities to deepen ties. In New Delhi, Petrova-Chamova held delegation-level talks with External Affairs Minister Dr. S. Jaishankar, reviewing bilateral relations and reaffirming commitment to strengthening cooperation in multiple sectors. The ministers discussed regional and global issues and exchanged a joint roadmap to strengthen their partnership over the next five years.",
+      "id": "national-politics-1",
+      "micro_summary": "Bulgarian Foreign Minister Velislava Petrova-Chamova concluded her three-day India visit, the first in 17 years, exchanging a five-year partnership roadmap.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.523,
+      "sources": [
+        {
+          "publisher": "DD News",
+          "url": "https://ddnews.gov.in/en/bulgarian-foreign-minister-calls-on-president-murmu-india-bulgaria-partnership-in-focus/"
+        },
+        {
+          "publisher": "News On AIR",
+          "url": "https://newsonair.gov.in/bulgarian-foreign-affairs-minister-concludes-three-day-visit-to-india/"
+        }
+      ],
+      "summary": "Bulgarian Foreign Minister Velislava Petrova-Chamova concluded her three-day India visit, the first in 17 years, holding talks with External Affairs Minister S. Jaishankar and exchanging a joint roadmap to strengthen partnership over the next five years.",
+      "timestamp": "2026-11-24T15:21:35Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "science",
+      "extended_summary": "QNu Labs, a provider of hybrid quantum cybersecurity solutions, has signed a Memorandum of Understanding with the National Institute of Electronics and Information Technology (NIELIT), an autonomous scientific society under India's Ministry of Electronics and Information Technology, to strengthen quantum technology education and capacity building in India. The collaboration will develop learning and training programmes in quantum technologies, including quantum-safe cybersecurity, and establish Quantum Labs at mutually identified institutions through a Hub-and-Spoke model. The partnership will create industry-oriented curricula, learning resources, and practical training opportunities, including hands-on demonstrations, projects, hackathons, faculty development, Train-the-Trainer programmes, assessment and certification, as well as internships and on-the-job training. The initiative aims to bridge the gap between emerging technology requirements and industry-ready skills by combining QNu Labs' quantum technology expertise with NIELIT's institutional network in technical education.",
+      "id": "national-science-1",
+      "micro_summary": "QNu Labs and NIELIT signed an MoU to expand quantum technology education and workforce training in India.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.632,
+      "sources": [
+        {
+          "publisher": "The Quantum Insider",
+          "url": "https://thequantuminsider.com/2026/11/24/qnu-labs-nielit-quantum-technology-training-india/"
+        },
+        {
+          "publisher": "Quantum Computing Report",
+          "url": "https://quantumcomputingreport.com/qnu-labs-and-indias-nielit-sign-mou-to-establish-hub-and-spoke-quantum-labs-and-workforce-training/"
+        }
+      ],
+      "summary": "QNu Labs signed a Memorandum of Understanding with NIELIT to develop quantum technology curricula, establish Quantum Labs via a Hub-and-Spoke model, and provide hands-on training, certification, and internships in quantum-safe cybersecurity across India.",
+      "timestamp": "2026-11-24T18:41:07Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "science",
+      "extended_summary": "India is seeking increased demand for satellites and rockets to bolster its rapidly growing private space sector, which has expanded from a few startups to 440 companies developing satellites and launch vehicles. The country's first industry-built PSLV-N1 rocket is ready for launch in early 2027. Regulators are collaborating with state governments and private firms to expand space-based applications and services. Reliance Jio plans a constellation of at least 1,600 satellites, importing at least 400 from the US, with a September 2027 test mission and completion targeted by 2035. The government is investing in surveillance satellites while working with private firms. Officials project India's space economy could reach $45 billion in less than a decade, supported by corporate funding for scientific research.",
+      "id": "national-science-2",
+      "micro_summary": "India needs more satellite and rocket orders to boost its private space industry, now home to 440 companies.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.526,
+      "sources": [
+        {
+          "publisher": "BusinessLine",
+          "url": "https://www.thehindubusinessline.com/news/science/india-needs-more-satellite-and-rocket-orders-to-boost-private-space-industry-in-space-chief/article71738581.ece"
+        },
+        {
+          "publisher": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-24/india-s-private-space-firms-need-orders-to-scale-regulator-says"
+        }
+      ],
+      "summary": "India needs more satellite and rocket orders to support its private space industry, now 440 companies strong, while preparing its first industry-built PSLV-N1 for launch in early 2027 and targeting a $45 billion space economy within a decade.",
+      "timestamp": "2026-11-24T13:33:03Z"
+    },
+    {
+      "ai": true,
+      "articles": 8,
+      "category": "sports",
+      "extended_summary": "Vaibhav Sooryavanshi, 15, scored 204 from 53 balls for India A against the United Arab Emirates in the ACC Men's Asia Cup Rising Stars 2026 in Doha on November 24. The innings featured 28 sixes and seven fours, breaking records for the most sixes in a senior men's innings, the fastest double-century in List A cricket at 52 balls, the fastest century at 28 balls, and the fastest 150 at 40 balls. India A chased down the UAE's 249/8 in 14.2 overs to reach the 250 target, with Harpreet Singh Bhatia scoring 130 for the opposition. Sooryavanshi was caught at long-off with his side five runs from victory, having also broken the fastest fifty record earlier in the innings.",
+      "id": "national-sports-1",
+      "micro_summary": "Vaibhav Sooryavanshi scored 204 from 53 balls for India A against the United Arab Emirates in Doha.",
+      "publishers": 6,
+      "scope": "national",
+      "score": 0.775,
+      "sources": [
+        {
+          "publisher": "ICC",
+          "url": "https://www.icc-cricket.com/news/sooryavanshi-smashes-list-a-records-in-sensational-knock"
+        },
+        {
+          "publisher": "Sky Sports",
+          "url": "https://www.skysports.com/cricket/news/13615968/vaibhav-sooryavanshi-smashes-fastest-hundred-and-double-century-in-list-a-cricket-during-india-as-victory-over-uae"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.com/sport/cricket/articles/c6y9709xx4qwo"
+        },
+        {
+          "publisher": "Open Magazine",
+          "url": "https://openthemagazine.com/sports/vaibhav-sooryavanshi-smashes-fastest-list-a-century-in-28-balls-india-a-teen-rewrites-cricket-history"
+        },
+        {
+          "publisher": "Sportstar",
+          "url": "https://sportstar.thehindu.com/cricket/vaibhav-sooryavanshi-fastest-double-century-200-record-india-vs-uae-full-list-asia-cup-rising-star-2026/article71738394.ece"
+        },
+        {
+          "publisher": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/sports/cricket/news/vaibhav-sooryavanshi-breaks-all-time-sixes-record-with-incredible-28-maximum-against-uae/articleshow/136130817.cms"
+        }
+      ],
+      "summary": "Vaibhav Sooryavanshi scored 204 from 53 balls with 28 sixes as India A chased 250 against the United Arab Emirates in 14.2 overs in Doha, breaking multiple List A records including the fastest double-century.",
+      "timestamp": "2026-11-24T13:11:14Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "sports",
+      "extended_summary": "Vaibhav Sooryavanshi scored 204 runs off 53 balls for India A against the United Arab Emirates in an Asia Cup Rising Stars match, chasing a target of 250 in just 14.2 overs. The 15-year-old struck 28 sixes, the most ever in a senior men's innings, and broke multiple List A records. He reached his century off 28 balls, surpassing the previous record by one delivery, and raised his double-century off 52 deliveries, breaking the 103-ball mark. He also reached 150 off 40 balls. India A captain Tilak Varma described the innings as \"absolute carnage.\" Sooryavanshi previously became India's youngest men's international in July and was the leading run-scorer in this year's IPL for Rajasthan Royals with 776 runs at a strike rate of 237.30.",
+      "id": "national-sports-2",
+      "micro_summary": "Vaibhav Sooryavanshi scored 204 off 53 balls to break multiple List A records against UAE.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.648,
+      "sources": [
+        {
+          "publisher": "Reuters",
+          "url": "https://www.reuters.com/sports/cricket/sooryavanshi-15-blasts-204-off-53-balls-india-2026-11-24/"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/24/records-tumble-as-indian-teen-sooryavanshi-smashes-53-ball-204-against-uae"
+        }
+      ],
+      "summary": "Vaibhav Sooryavanshi hammered 204 off 53 balls with 28 sixes as India A chased 250 against UAE in 14.2 overs, breaking records for fastest century (28 balls) and double-century (52 balls) in List A cricket.",
+      "timestamp": "2026-11-24T18:10:33Z"
+    },
+    {
+      "ai": false,
+      "articles": 2,
+      "category": "sports",
+      "extended_summary": "&lt;p&gt;The University for Science &amp; Technology Cricket Ground in Doha is set to go down in history as a venue for a world record in List A cricket which is not going to be broken in a hurry. Vaibhav Sooryavanshi, a name that needs little introduction these days, unleashed a carnage for India A when he smashed 204 off just 53 deliveries as his team made a mockery of the UAE’s 250-run target in 14.2 overs in their Group B clash at the Rising Stars Asia Cup in the Qatar capital.&lt;/p&gt;&lt;p&gt;He took 16 balls to score 50. There was no stopping after that as the 100 came in 28 balls, 150 in 40 balls and 200 in 52 balls.&lt;/p&gt;&lt;p&gt;The innings from the 16-year-old created fresh ripples in the cricketing fraternity—notwithstanding the quality of the rivals’ attack as the wonderkid has now taken power hitting to a different level in last",
+      "id": "national-sports-3",
+      "micro_summary": "Vaibhav’s carnage in Doha for India A leaves cricket world in awe.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.523,
+      "sources": [
+        {
+          "publisher": "National Herald",
+          "url": "https://www.nationalheraldindia.com/cricket/vaibhavs-carnage-in-doha-for-india-a-leaves-cricket-world-in-awe"
+        },
+        {
+          "publisher": "The New Indian Express",
+          "url": "https://www.newindianexpress.com/sport/cricket/2026/Nov/24/sensational-sooryavanshi-shatters-host-of-world-records-in-india-as-rout-of-uae-2"
+        }
+      ],
+      "summary": "Vaibhav’s carnage in Doha for India A leaves cricket world in awe. And India is a very good side, and I'm glad that I made it,\" Harpreet said.\"And I had a thought this morning that today is Guru Nanak Jayanti.",
+      "timestamp": "2026-11-24T16:45:47Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "tragedies",
+      "extended_summary": "India has pledged a $1.62 billion aid package for Nepal's reconstruction following significant floods that struck earlier this year. The announcement came during Nepalese Prime Minister Balendra Shah's first official visit to India since taking office in March. India was the first country to respond to the August disaster, providing relief supplies and restoring communications. Nepal estimates it requires approximately $5 billion for rebuilding, making India's contribution the largest support received to date. In the last fiscal year, India's financial assistance to Nepal surpassed China's by more than four times. The aid aims to help stabilize Shah's government while allowing India to mend strained relations caused by border disputes and resentment over a 2015 blockade. Despite China's growing economic influence in Nepal through increased trade and investment, smaller South Asian nations continue to rely more heavily on India for development aid, which combines grants with immediate emergency assistance.",
+      "id": "national-tragedies-2",
+      "micro_summary": "India pledged $1.62 billion in aid to Nepal for flood reconstruction during the prime minister's visit.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.669,
+      "sources": [
+        {
+          "publisher": "Modern Diplomacy",
+          "url": "https://moderndiplomacy.eu/2026/11/24/nepals-flood-crisis-becomes-new-battleground-for-influence-between-india-and-china/"
+        },
+        {
+          "publisher": "Reuters",
+          "url": "https://www.reuters.com/world/china/india-seizes-nepal-flood-crisis-rebuild-influence-china-gains-ground-2026-11-24/"
+        }
+      ],
+      "summary": "India pledged a $1.62 billion aid package for Nepal's flood reconstruction during Prime Minister Balendra Shah's visit, the largest support Nepal has received, as New Delhi seeks to regain influence amid strained bilateral relations.",
+      "timestamp": "2026-11-24T17:35:20Z"
+    },
+    {
+      "ai": true,
+      "articles": 3,
+      "category": "tragedies",
+      "extended_summary": "Thirteen people were killed and 14 injured when a passenger bus collided with a truck on Al Watan Road in Ras Al Khaimah, UAE. The Ministry of Interior initially reported 11 deaths, but two victims later died in hospital, raising the toll to 13. The bus carried 41 people and struck a truck stopped due to mechanical fault. Indian nationals were among the deceased. The Indian Consulate in Dubai contacted families and provided helpline 800-46342 while working with local authorities. Emergency teams conducted rescue operations. An investigation into the cause has been launched. The crash follows a Fujairah accident days earlier that killed 14 and injured 30, including Indians.",
+      "id": "national-tragedies-3",
+      "micro_summary": "A bus-truck collision in Ras Al Khaimah killed 13 people, including Indian nationals.",
+      "publishers": 3,
+      "scope": "national",
+      "score": 0.653,
+      "sources": [
+        {
+          "publisher": "Telangana Today",
+          "url": "https://telanganatoday.com/indian-nationals-killed-in-ras-al-khaimah-crash"
+        },
+        {
+          "publisher": "Telegraph India",
+          "url": "https://www.telegraphindia.com/india/indians-among-13-killed-in-uae-road-crash-as-passenger-bus-collides-with-truck-in-ras-al-khaimah/cid/2191089"
+        },
+        {
+          "publisher": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/indians-among-13-killed-in-uae-bus-truck-crash-14-injured/articleshow/136136806.cms?utm_source=newsletter&utm_medium=email&utm_campaign=amp_rss"
+        }
+      ],
+      "summary": "Thirteen people were killed and 14 injured when a passenger bus collided with a truck on Al Watan Road in Ras Al Khaimah, UAE. Indian nationals were among the deceased, and the Indian Consulate in Dubai is assisting families.",
+      "timestamp": "2026-11-24T17:32:00Z"
+    }
+  ]
+}
