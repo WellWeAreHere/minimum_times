@@ -5,152 +5,229 @@
       "ai": true,
       "articles": 5,
       "category": "business",
-      "extended_summary": "The Trump administration announced plans to impose new trade tariffs on 14 major trading partners, including China, the European Union and India, accusing them of flooding world markets with cheap goods through structural excess capacity. China faces the highest rates. The Office of the US Trade Representative announced the duties following an eight-month investigation, imposing them under Section 301 of the 1974 US trade law. The tariffs are the latest attempt to rebuild sweeping import taxes that the US Supreme Court struck down in February. The rates are not due to come in until January or February after consultation and will largely replace previous findings on forced labour provisions. The UK remains unaffected by the new announcement but stays subject to 10 percent tariffs under forced labour provisions. Twenty-five states have taken the administration to court over the forced labour tariffs.",
+      "extended_summary": "The Trump administration announced new tariffs under Section 338 of the 1930s Smoot-Hawley Act, replacing previous findings on forced labour provisions. The rates take effect in January or February after consultation, lacking the fanfare of April 2025's \"Liberation Day\" tariffs. The move shores up the domestic legal basis after the Supreme Court struck down the original emergency basis earlier this year, creating two legal bases for many countries. The UK remains unaffected but stays subject to forced labour provisions at a 10% rate on global tariffs, with no move against its digital services tax. Twenty-five states have sued to strike down the forced labour tariffs. Half of Canada's tariffs are authorized under Section 338. The tariffs must be finalized under a Democrat Congress, where a Senate bill exists and rebel Republicans could potentially override a presidential veto.",
       "id": "international-business-1",
-      "micro_summary": "The Trump administration announced new tariffs on 14 trading partners including China and the EU under Section 301.",
+      "micro_summary": "Trump announces new tariffs under Section 338 replacing forced labour provisions, effective January or February after consultation.",
       "publishers": 5,
       "scope": "international",
-      "score": 0.863,
+      "score": 0.886,
       "sources": [
         {
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe"
+          "publisher": "Sky News",
+          "url": "https://news.sky.com/story/trump-tariffs-latest-us-to-slap-new-levies-on-14-major-economies-including-china-13616296"
         },
         {
           "publisher": "BBC",
           "url": "https://www.bbc.co.uk/news/live/cqglr4708r85t"
         },
         {
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/25/trump-announces-new-trade-tariffs-which-countries-will-they-target"
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe"
         }
       ],
-      "summary": "The Trump administration announced new trade tariffs on 14 major partners including China, the EU and India under Section 301, with China facing the highest rates, to replace tariffs struck down by the Supreme Court.",
-      "timestamp": "2026-11-25T16:05:00Z"
+      "summary": "The Trump administration announced new tariffs under Section 338 of the 1930s Smoot-Hawley Act to replace forced labour provisions, with rates effective January or February after consultation, following the Supreme Court striking down the original emergency basis earlier this year.",
+      "timestamp": "2026-11-26T01:33:19Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "business",
+      "extended_summary": "The European Union is engaged in contentious budget negotiations, with leaders meeting November 26-27 to decide on a €45 billion ($49 billion) loan to Ukraine and the 2028-2034 budget. The talks pit net contributors like Germany against recipients such as Poland and Hungary, while German Chancellor Friedrich Merz has threatened to veto the EU budget unless all members back the Ukraine loan, which requires unanimous approval. The IMF estimates Ukraine's funding gap at €70 billion ($76 billion) for the coming year. The draft budget earmarks €100 billion for Ukraine, but disputes persist over whether €55.4 billion in interest payments on existing loans are included or paid separately, with Italy and Bulgaria questioning the arrangement.",
+      "id": "international-business-2",
+      "micro_summary": "EU leaders meet November 26-27 to decide on €45 billion Ukraine loan and 2028-2034 budget.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.745,
+      "sources": [
+        {
+          "publisher": "POLITICO.eu",
+          "url": "https://www.politico.eu/article/emmanuel-macron-threatens-stop-negotiating-eu-budget-after-december/"
+        },
+        {
+          "publisher": "Responsible Statecraft",
+          "url": "https://responsiblestatecraft.org/eu-budget-ukraine/"
+        },
+        {
+          "publisher": "The Kyiv Independent",
+          "url": "https://kyivindependent.com/days-before-key-summit-eu-countries-want-to-help-ukraine-but-cant-agree-on-how/"
+        }
+      ],
+      "summary": "EU leaders meet November 26-27 to decide on a €45 billion Ukraine loan and 2028-2034 budget, as Germany threatens veto unless all members back the loan amid €70 billion funding gap disputes.",
+      "timestamp": "2026-11-25T16:40:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 4,
+      "category": "business",
+      "extended_summary": "York Road in the Birmingham suburb of Kings Heath has been included among the world's coolest streets, recognized for its buzzy community atmosphere, independent shops, restaurants, and al-fresco vibe. The pedestrianised street features picnic benches and colourful painted shop fronts where pub tables spill across the road. The Grade II-listed Hare & Hounds pub, operating on the corner since 1907 and dating back to 1820, features Art Nouveau tiles and was the first venue where Birmingham reggae band UB40 played; other music venues include Fletchers and Schooners. Residents highlight the welcoming environment, with locals and visitors gathering to socialize, dance, and enjoy the street's unique character that distinguishes it from the city centre.",
+      "id": "international-business-4",
+      "micro_summary": "York Road in Kings Heath has been named one of the world's coolest streets.",
+      "publishers": 4,
+      "scope": "international",
+      "score": 0.605,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/lifeandstyle/2026/nov/25/the-worlds-coolest-street-heol-maengwyn-machynlleth-powys-wales"
+        },
+        {
+          "publisher": "The Times",
+          "url": "https://www.thetimes.com/uk/wales/article/welsh-village-time-out-coolest-road-machynlleth-07lkpbpcb"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c35y1vkq8q5do"
+        }
+      ],
+      "summary": "York Road in Birmingham's Kings Heath has been recognized as one of the world's coolest streets for its community atmosphere, independent shops, and the historic Hare & Hounds pub dating to 1820.",
+      "timestamp": "2026-11-25T18:50:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "entertainment",
+      "extended_summary": "Severe weather threatens Thanksgiving travel for 81.5 million Americans, with 72.9 million driving. Pacific storms bring rain, snow, and winds to the West Coast, including an atmospheric river causing heavy rain from Washington to Northern California, delays on I-5 between Seattle and Sacramento, and impacts on I-80 and I-90. Highest tides of the year coincide with coastal flood watches. A southeast storm intensifies into a Nor'easter over Thanksgiving, affecting 250 million people across 25 states with floods, winds, and rain, prompting New York City to consider moving the 100th Macy's parade start. The Midwest prepares for a winter storm dropping close to a foot of snow in St. Louis, while Florida's Atlantic Coast faces more heavy rain.",
+      "id": "international-entertainment-1",
+      "micro_summary": "Powerful storms disrupt Thanksgiving travel for 81.5 million Americans on both US coasts.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.556,
+      "sources": [
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.com/weather/articles/c5742nplemnno"
+        },
+        {
+          "publisher": "FOX Weather",
+          "url": "https://www.foxweather.com/live-news/poweful-thanksgiving-storms-west-east-coast-rain-wind-flood-november-2026"
+        },
+        {
+          "publisher": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/25/weather/thanksgiving-weather-storm-rain-flooding.html"
+        }
+      ],
+      "summary": "Severe storms threaten Thanksgiving travel for 81.5 million Americans, with Pacific systems bringing rain and snow to the West Coast and a Nor'easter targeting the East Coast, potentially disrupting the Macy's parade and causing power outages across 25 states.",
+      "timestamp": "2026-11-24T11:38:49Z"
     },
     {
       "ai": true,
       "articles": 5,
       "category": "politics",
-      "extended_summary": "On November 25, 2026, at approximately 9:00 a.m. CST, the U.S. Army conducted a controlled detonation of nearly five tonnes of unstable lead azide at the Iowa Army Ammunition Plant in Middletown, Iowa. The explosives had been stored for around 20 years and degraded through recrystallisation, risking accidental detonation. Residents within a five-mile zone southwest of the plant were evacuated starting November 24, with FEMA providing transportation, shelter, and meals through November 27. Smoke rose after the blast, but officials declared the risk 'as close to zero as is absolutely humanly possible' and reported no lead readings above 0.0. President Donald Trump said mitigation efforts 'far exceeded expectations,' and acting Army Secretary Adam Telle called the operation a 'HUGE success.' Middletown Mayor Rodney Johnson expressed relief, noting residents eight miles away felt nothing.",
+      "extended_summary": "Israeli caretaker Prime Minister Benjamin Netanyahu called for an immediate end to his corruption trial after judges recommended dropping the bribery case against him. In a televised statement at parliament, Netanyahu said the \"fabricated cases\" were falling apart and spoke of \"ten years of terrible suffering\" for him and his family. During a Jerusalem hearing, judges indicated little chance of conviction in Case 4000, which accuses Netanyahu of offering regulatory favors to a telecoms company for favorable media coverage, questioned whether Case 2000 actions amounted to criminal conduct, and suggested a plea deal for Case 1000. Attorney General Gali Baharav-Miara, unusually summoned to the hearing, said she would consider the recommendations. The developments come as Netanyahu fights for political survival after inconclusive October 27 elections, while opposition leader Gadi Eisenkot's bloc voted for an independent investigation into the October 7, 2023, Hamas attack.",
       "id": "international-politics-1",
-      "micro_summary": "The U.S. Army detonated nearly five tonnes of unstable lead azide in Iowa on November 25, 2026.",
+      "micro_summary": "Israeli caretaker Prime Minister Benjamin Netanyahu demanded an immediate end to his corruption trial after judges recommended dropping bribery charges.",
       "publishers": 5,
       "scope": "international",
-      "score": 0.872,
+      "score": 0.868,
       "sources": [
         {
-          "publisher": "Sky News",
-          "url": "https://news.sky.com/story/iowa-explosion-us-army-detonates-several-tons-of-explosives-thousands-shelter-in-place-13616291"
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/netanyahu-says-corruption-trial-must-end-as-court-suggests-dropping-case"
         },
         {
           "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko"
-        },
-        {
-          "publisher": "Army.mil",
-          "url": "https://www.army.mil/article/297039/public_safety_advisory_controlled_mitigated_detonation_of_unstable_lead_azide_at_iowa_army_ammunition_plant"
-        }
-      ],
-      "summary": "The U.S. Army detonated nearly five tonnes of degraded lead azide at the Iowa Army Ammunition Plant on November 25, 2026, after evacuating residents within a five-mile zone; officials reported success with no lead readings above 0.0.",
-      "timestamp": "2026-11-25T18:12:16Z"
-    },
-    {
-      "ai": false,
-      "articles": 5,
-      "category": "politics",
-      "extended_summary": "",
-      "id": "international-politics-2",
-      "micro_summary": "",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.817,
-      "sources": [
-        {
-          "publisher": "The Independent",
-          "url": "https://www.independent.co.uk/bulletin/news/trump-abdul-elsayed-michigan-b3091316.html"
-        },
-        {
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/25/trump-to-meet-abdul-el-sayed-will-he-agree-to-a-renamed-medicare-for-all"
+          "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o"
         },
         {
           "publisher": "The New York Times",
-          "url": "https://www.nytimes.com/2026/11/22/us/politics/el-sayed-trump-health-care.html"
+          "url": "https://www.nytimes.com/2026/11/25/world/middleeast/judges-israel-corruption-case-netanyahu.html"
         }
       ],
-      "summary": "",
-      "timestamp": "2026-11-25T11:11:00Z"
+      "summary": "Israeli caretaker Prime Minister Benjamin Netanyahu called for an immediate end to his corruption trial after judges recommended dropping the bribery case, questioning a second case, and suggesting a plea deal in a third.",
+      "timestamp": "2026-11-26T00:33:45Z"
     },
     {
-      "ai": false,
+      "ai": true,
       "articles": 5,
       "category": "politics",
-      "extended_summary": "Poland has appealed to its allies to consider the possibility of bringing down Russian missiles over Ukraine when they are heading towards NATO territory. Source: Bloomberg, citing sources, as reported by European Pravda Details: This request comes after three Russian Kh-101 missiles violated Polish airspace on 20 November. The sources familiar with the situation said that Warsaw brought the idea up for discussion during a meeting of ambassadors from North Atlantic Treaty Organization member states in Brussels on Monday 23 November. Some countries supported the proposal, though the discussions were preliminary and no decision was made, the sources noted. The idea is controversial, as it would extend NATO's defensive operations into Ukrainian territory – a step that could potentially put allies at risk of direct confrontation with Russia, the agency points out. According to the sources, Monday's discussion in Brussels did not address the details of what a potential NATO",
-      "id": "international-politics-3",
-      "micro_summary": "Poland urges NATO to intercept Russian missiles over Ukraine.",
+      "extended_summary": "The BBC has lodged an urgent appeal with the US Court of Appeals for the Eleventh Circuit challenging a Florida federal judge's decision to allow Donald Trump's $10 billion defamation lawsuit to proceed. The lawsuit concerns the editing of a Panorama documentary about Trump's speech on January 6, 2021, shortly before the Capitol riot. The BBC argues the Florida court lacks jurisdiction because the programme never aired in the United States and the broadcaster made rigorous efforts to prevent US access. Earlier this month, Judge Jeffrey T Kuntz ruled the case could continue, prompting Trump to call it a 'huge victory.' The BBC maintains there is a complete lack of evidence anyone in Florida viewed the documentary. Trump has been ordered to answer questions under oath by January 22, with a trial scheduled for May 3, 2027, in Fort Lauderdale.",
+      "id": "international-politics-2",
+      "micro_summary": "The BBC has appealed a US court ruling allowing Donald Trump's $10 billion defamation lawsuit to proceed.",
       "publishers": 5,
       "scope": "international",
-      "score": 0.788,
+      "score": 0.819,
       "sources": [
         {
-          "publisher": "Українська правда",
-          "url": "https://www.pravda.com.ua/eng/news/2026/11/25/8064605/"
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/25/bbc-trump-defamation-case-10bn-urgent-appeal"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwdd1zn9npdpo"
+        },
+        {
+          "publisher": "The Mirror",
+          "url": "https://www.mirror.co.uk/news/us-news/donald-trump-china-putin-verdict-37915543"
+        }
+      ],
+      "summary": "The BBC has filed an urgent appeal against a Florida judge's ruling allowing Donald Trump's $10 billion defamation lawsuit to proceed, arguing the court lacks jurisdiction as the documentary never aired in the United States.",
+      "timestamp": "2026-11-25T19:30:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "Poland will soon create a no-fly zone near the Ukrainian border, a deputy defence minister announced on Wednesday. The decision follows several incursions into Polish airspace that Poland blamed on Russia. Poland backs Ukraine as it fights off Russia's near five-year invasion and has repeatedly accused Moscow of seeking to target Kyiv's supporters with drone incursions and other methods. The no-fly zone is intended to allow Polish forces to quickly identify any Russian military aircraft and shoot them down if necessary. The announcement comes as Poland continues to support Ukraine against the ongoing invasion while addressing repeated violations of its sovereign airspace.",
+      "id": "international-politics-3",
+      "micro_summary": "Poland will create a no-fly zone near the Ukrainian border to shoot down Russian aircraft after airspace incursions.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.787,
+      "sources": [
+        {
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/poland-says-will-create-no-fly-zone-at-ukraine-border-after-repeated-airspace-violations"
         },
         {
           "publisher": "Bloomberg",
           "url": "https://www.bloomberg.com/news/articles/2026-11-25/poland-asks-nato-to-shoot-down-russian-missiles-over-ukraine"
         },
         {
-          "publisher": "DW.com",
-          "url": "https://www.dw.com/en/ukraine-poland-to-set-up-no-fly-zone-near-ukraine-border/live-80047122"
+          "publisher": "Reuters",
+          "url": "https://www.reuters.com/business/aerospace-defense/polish-defence-official-calls-regional-border-no-fly-zones-2026-11-25/"
         }
       ],
-      "summary": "Poland urges NATO to intercept Russian missiles over Ukraine. Poland has appealed to its allies to consider the possibility of bringing down Russian missiles over Ukraine when they are heading towards NATO territory.",
-      "timestamp": "2026-11-25T12:55:00Z"
+      "summary": "Poland announced it will soon establish a no-fly zone near the Ukrainian border following several airspace incursions blamed on Russia, allowing forces to identify and shoot down Russian military aircraft if necessary.",
+      "timestamp": "2026-11-25T19:18:41Z"
     },
     {
       "ai": true,
       "articles": 5,
       "category": "politics",
-      "extended_summary": "Estonia will close all road border crossings with Russia from December 1 for at least six months, halting land traffic at the Narva-Ivangorod crossing. Foreign Minister Margus Tsahkna cited Russia's aggressive behavior, including a suspected arson attack on drone company Threod Systems near Tallinn, as the trigger. Tsahkna warned Russia has been \"boiling Europe as a frog.\" Russia's Foreign Ministry lodged a formal protest, accusing Estonia of hostile actions putting it \"on the verge of unleashing open war\" and imposing a naval blockade. Estonia denied these claims, stating it never allows its territory for military operations and that Russia is diverting attention from its own attacks on European security, citing missile strikes on Poland and an assassination plot in Denmark. Estonia shares a 294-kilometer border with Russia.",
+      "extended_summary": "Russian officials have dismissed proposals for NATO-like security guarantees for Ukraine amid ongoing tensions between the two nations. Concurrently, Ukrainian naval drone strikes targeted Russian vessels in Libya. The Kremlin has ignored President Zelensky's ceasefire proposal while promoting a different humanitarian mission. Additionally, nuclear threats from Russia aim to deter Ukraine's military actions. These simultaneous developments, including the rejection of security guarantees, the naval drone strikes in Libya, the ignored ceasefire proposal, and the nuclear threats, underscore the continued escalation of military operations and the diplomatic impasse regarding security arrangements and ceasefire negotiations in the ongoing conflict between Russia and Ukraine.",
       "id": "international-politics-4",
-      "micro_summary": "Estonia closes its border with Russia from December 1 for at least six months.",
+      "micro_summary": "Russia dismisses Ukraine security guarantees and ignores ceasefire while Ukraine strikes Russian vessels in Libya.",
       "publishers": 5,
       "scope": "international",
-      "score": 0.777,
+      "score": 0.786,
       "sources": [
         {
+          "publisher": "Institute for the Study of War",
+          "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-november-25-2026/"
+        },
+        {
           "publisher": "The Independent",
-          "url": "https://www.independent.co.uk/news/world/europe/estonia-closing-border-russia-attacks-b3090839.html"
+          "url": "https://www.independent.co.uk/bulletin/news/russia-ukraine-news-oil-refinery-b3091181.html"
         },
         {
-          "publisher": "Reuters",
-          "url": "https://www.reuters.com/world/moscow-accuses-estonia-hostile-actions-verge-triggering-open-war-2026-11-23/"
-        },
-        {
-          "publisher": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/24/russia-estonia-ukraine-war-nato-finland.html"
+          "publisher": "Spartanat",
+          "url": "https://spartanat.com/en/the-situation-1707-november-23-2026"
         }
       ],
-      "summary": "Estonia will close all land border crossings with Russia from December 1 for at least six months, citing aggressive Russian actions including a suspected arson attack on a drone company, while Russia accuses Estonia of hostile actions risking open war.",
-      "timestamp": "2026-11-25T12:11:00Z"
+      "summary": "Russian officials dismissed NATO-like security guarantees for Ukraine and ignored President Zelensky's ceasefire proposal while promoting a separate humanitarian mission, as Ukrainian naval drones targeted Russian vessels in Libya and Russia issued nuclear threats to deter military actions.",
+      "timestamp": "2026-11-26T00:45:00Z"
     },
     {
       "ai": true,
       "articles": 5,
       "category": "science",
-      "extended_summary": "China launched the Shenzhou-24 spacecraft on Wednesday at 08:18 local time from the Jiuquan Satellite Launch Centre, carrying Pakistan's first astronaut Muhammad Zeeshan Ali alongside Chinese commander Tang Hongbo and flight engineer Wu Yi. The Long March-2F rocket lifted off at 00:18 GMT, and the spacecraft docked with the Tiangong space station at 8:56am (03:56 GMT). Ali, a 40-year-old Pakistan Air Force pilot, will conduct experiments on photosynthesis in bacteria and the effects of radiation and microgravity on seeds before returning to Earth after a short stay. Tang and Wu will remain at the station for six months with Zhu Yangzhu. The mission marks the first time a foreign astronaut has joined a Chinese crewed mission and coincides with 75 years of space cooperation between China and Pakistan.",
-      "id": "international-science-1",
-      "micro_summary": "China launched the Shenzhou-24 mission carrying Pakistan's first astronaut Muhammad Zeeshan Ali to the Tiangong space station.",
+      "extended_summary": "Pakistan's first astronaut, 40-year-old Pakistan Air Force pilot Muhammad Zeeshan Ali, launched aboard China's Shenzhou-24 spacecraft on Wednesday at 5:18am from the Jiuquan Satellite Launch Centre in northwest China, alongside Chinese astronauts Tang Hongbo and Wu Yi. The Long March-2F rocket lifted off before dawn, and the spacecraft separated and entered orbit about 10 minutes after liftoff. At 8:56am, the Shenzhou-24 docked at China's Tiangong space station, with the crew expected to enter at about 11:45am. Ali will conduct experiments in biotechnology and photosynthetic microorganisms during the five-day orbital flight before returning to Earth. The mission marks the first time China has sent a foreign national into space and coincides with 75 years of space cooperation between China and Pakistan. Observers in Islamabad watched the launch at the Pakistan Space & Upper Atmosphere Research Commission headquarters.",
+      "id": "international-science-2",
+      "micro_summary": "Pakistan's first astronaut Muhammad Zeeshan Ali launched aboard China's Shenzhou-24 spacecraft to the Tiangong space station.",
       "publishers": 5,
       "scope": "international",
-      "score": 0.794,
+      "score": 0.751,
       "sources": [
-        {
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c6x2e0j3kx28o"
-        },
         {
           "publisher": "Al Jazeera",
           "url": "https://www.aljazeera.com/features/2026/11/25/from-stargazing-to-space-pakistan-watches-its-first-astronaut-take-flight"
@@ -158,430 +235,376 @@
         {
           "publisher": "The Guardian",
           "url": "https://www.theguardian.com/news/gallery/2026/nov/25/pakistan-astronaut-golden-light-photos-of-the-day-wednesday"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.com/news/live/cmd71g9lzg1gt"
         }
       ],
-      "summary": "China launched the Shenzhou-24 mission from Jiuquan carrying Pakistan's first astronaut Muhammad Zeeshan Ali and two Chinese crew members to the Tiangong space station, where the spacecraft docked successfully hours later.",
-      "timestamp": "2026-11-25T04:46:23Z"
+      "summary": "Pakistan's first astronaut Muhammad Zeeshan Ali launched aboard China's Shenzhou-24 spacecraft from Jiuquan Satellite Launch Centre on Wednesday, docking at the Tiangong space station at 8:56am for a five-day mission conducting experiments.",
+      "timestamp": "2026-11-25T08:14:44Z"
     },
     {
       "ai": true,
       "articles": 5,
       "category": "science",
-      "extended_summary": "Unknown attackers breached an open-source intelligence analysis system at the CIA, also affecting the Office of the Director of National Intelligence and the National Geospatial-Intelligence Agency, using the ARTEX AI-powered penetration testing framework. No classified data or systems were exposed and there were no disruptions to critical capabilities. Early indications suggest the hack may have originated in China, though government involvement remains unclear. Separately, the Financial Crimes Enforcement Network disclosed unauthorized access to a limited subset of its systems, took some systems offline as a precaution, and is working with the FBI and CISA to determine the scope, with no evidence of breaches to beneficial ownership databases or the Bank Secrecy Act.",
+      "extended_summary": "Up to 50 commercial shipping vessels were recently compromised by cyberattacks that U.S. officials suspect are linked to Iran. The breaches targeted ships carrying oil, liquefied gas, and explosive chemicals traveling across Asia and Europe, with several oil tankers headed toward the U.S. coast having their navigation systems breached in August. Hackers exploited known vulnerabilities in Fortinet FortiGate devices, also known as FortiBleed, which are frequently used in the maritime industry to manage firewalls and virtual private networks. In August, the Coast Guard and FBI partnered to send a specialized team to board two foreign commercial vessels in the Gulf of America heading to U.S. ports. A joint FBI-Coast Guard cyber bulletin issued in September warned the industry about the threat. No operational disruptions, vessel instability, physical danger to crews, or environmental impacts have been observed, though dozens more ships in international waters are believed compromised.",
       "id": "international-science-3",
-      "micro_summary": "Unknown attackers breached CIA and ODNI intelligence systems using AI tools, but no classified data was exposed.",
+      "micro_summary": "Up to 50 commercial shipping vessels were compromised by cyberattacks suspected to be linked to Iran.",
       "publishers": 5,
       "scope": "international",
-      "score": 0.7,
+      "score": 0.613,
+      "sources": [
+        {
+          "publisher": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/"
+        },
+        {
+          "publisher": "WSJ",
+          "url": "https://www.wsj.com/politics/national-security/iran-us-cyberattack-suspect-fed78942"
+        },
+        {
+          "publisher": "NPR",
+          "url": "https://www.npr.org/2026/11/24/nx-s1-6052994/hack-commercial-vessels-iran"
+        }
+      ],
+      "summary": "Up to 50 commercial shipping vessels were recently compromised by cyberattacks suspected to be linked to Iran, exploiting vulnerabilities in Fortinet devices, with no current operational disruptions or physical danger to crews.",
+      "timestamp": "2026-11-24T21:09:04Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "science",
+      "extended_summary": "Unknown attackers breached an unclassified open-source intelligence analysis system used by the CIA and the Office of the Director of National Intelligence, with the National Geospatial-Intelligence Agency also affected. Officials confirmed no classified information or critical capabilities were disrupted, and no classified systems were compromised. Investigators suspect the hackers used the open-source AI hacking tool Artex, which significantly reduces the time required to carry out cyberattack stages by automating the process with artificial intelligence. Early indications suggest the attack may have originated in China, though it remains unclear whether the country's government was involved. The full extent of the breach, when it occurred, and whether it has been resolved remain unknown. The incident does not appear related to a separate apparent hack of the FBI's nationwide criminal information database.",
+      "id": "international-science-4",
+      "micro_summary": "CIA, ODNI and NGA systems breached via AI tool Artex, affecting unclassified data only.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.589,
       "sources": [
         {
           "publisher": "BleepingComputer",
           "url": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/"
         },
         {
-          "publisher": "The Telegraph",
-          "url": "https://www.telegraph.co.uk/us/news/2026/11/24/top-us-intelligence-agencies-hit-cyber-security-breach/"
+          "publisher": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/24/us/politics/spy-agencies-computer-network-breaches.html"
         },
         {
           "publisher": "CNN",
-          "url": "https://www.cnn.com/2026/11/24/politics/cia-odni-hack-unclassified-information"
+          "url": "https://edition.cnn.com/2026/11/24/politics/cia-odni-hack-unclassified-information"
         }
       ],
-      "summary": "Unknown attackers breached an open-source intelligence system at the CIA, ODNI and National Geospatial-Intelligence Agency using the ARTEX AI framework, though no classified data was exposed; FinCEN also disclosed unauthorized access to a limited subset of its systems.",
-      "timestamp": "2026-11-25T17:29:31Z"
+      "summary": "Unknown attackers breached unclassified open-source intelligence systems at the CIA, ODNI, and NGA using the AI tool Artex, with early indications pointing to China, though no classified information was affected.",
+      "timestamp": "2026-11-25T07:45:03Z"
     },
     {
       "ai": true,
-      "articles": 5,
-      "category": "science",
-      "extended_summary": "A survey of 1,827 UK adults conducted in March 2026 reveals widespread misperceptions about immigration, with only 4% correctly identifying that net migration fell significantly between 2024 and 2025, while nearly two-thirds believed it had risen. Net migration has fallen, following a two-thirds drop in the year to June 2025. The public also overestimates support for immigration cuts and mistakenly believes asylum seekers outnumber students and their dependants. However, respondents accurately estimated that 18% of the UK population was born abroad, matching official data of 18.9%, and 71% correctly recognized asylum seekers cannot work immediately. Most know asylum seekers can access free NHS and dental care during processing. These misperceptions correlate with firmer anti-immigration attitudes and policy preferences across political groups.",
-      "id": "international-science-4",
-      "micro_summary": "Only 4% of UK adults correctly recognize that net migration fell significantly between 2024 and 2025.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.654,
-      "sources": [
-        {
-          "publisher": "Sky News",
-          "url": "https://news.sky.com/story/misperceptions-on-immigration-widespread-among-public-13616005"
-        },
-        {
-          "publisher": "King's College London",
-          "url": "https://www.kcl.ac.uk/news/immigration-britons-wrong-on-many-key-facts"
-        },
-        {
-          "publisher": "New Statesman",
-          "url": "https://www.newstatesman.com/politics/polling/2026/11/britains-immigration-debate-is-a-battle-over-reality-itself"
-        }
-      ],
-      "summary": "A survey of 1,827 UK adults finds widespread misperceptions about immigration, with only 4% correctly stating net migration fell significantly between 2024 and 2025 while nearly two-thirds believed it rose.",
-      "timestamp": "2026-11-25T04:04:34Z"
-    },
-    {
-      "ai": true,
-      "articles": 15,
+      "articles": 10,
       "category": "sports",
-      "extended_summary": "Usman Khawaja has said he was hurt by personal attacks from Australia Test captain Pat Cummins after Cummins disputed Khawaja's claims that every member of the side was aware of the use of sandpaper during the 2018 ball-tampering scandal in South Africa. Khawaja made the allegations in his autobiography Sabr, and they have since been backed by David Warner and Cameron Bancroft, who along with then-skipper Steve Smith received bans following the incident. Cummins, who was part of the bowling attack on that tour, insisted he was not aware of the scheme when he and fellow bowlers Josh Hazlewood, Mitchell Starc and Nathan Lyon released a joint statement in 2021. Cummins categorically denied knowledge in a 68-minute press conference earlier this month, accusing Khawaja of being casual with people's lives. Khawaja expressed surprise at Cummins' response, having hoped the captain would bring the team together.",
+      "extended_summary": "Liverpool recovered from a shock defeat to Fenerbahce to beat Club Brugge 3-0 in the Champions League league phase. Alexander Isak scored twice, opening the scoring following a misplaced pass from Yann Sommer and adding a late chipped finish to take his season tally to 10 goals. Florian Wirtz scored the second goal with a finish at the near post after a surging run from Rio Ngumoha. The victory was Liverpool's fourth in five league phase matches, moving them up to fifth in the standings. Victor Munoz suffered an injury in the first half after clattering into a defender and was replaced by Ngumoha. Club Brugge's Felix Lemarechal was the hosts' greatest threat, forcing saves from Alisson, but could not prevent the defeat.",
       "id": "international-sports-1",
-      "micro_summary": "Usman Khawaja says Pat Cummins' personal attacks hurt him over 2018 sandpaper claims.",
+      "micro_summary": "Liverpool beat Club Brugge 3-0 in the Champions League with Alexander Isak scoring twice.",
       "publishers": 8,
       "scope": "international",
-      "score": 0.909,
+      "score": 0.903,
       "sources": [
         {
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/sport/2026/nov/25/usman-khawaja-sandpapergate-peace-deal-text-cricket-australia-ceo"
+          "publisher": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/13616517/club-brugge-0-3-liverpool-alexander-isak-and-florian-wirtz-on-target-in-dominant-champions-league-win"
         },
         {
           "publisher": "BBC",
-          "url": "https://www.bbc.com/sport/cricket/articles/c6grexq2jpero"
+          "url": "https://www.bbc.com/sport/football/live/c5vg2w2e2gy1t"
         },
         {
-          "publisher": "The Telegraph",
-          "url": "https://www.telegraph.co.uk/cricket/2026/11/25/usman-khawaja-plans-peace-deal-australia-cricket-civil-war/"
+          "publisher": "Liverpool FC",
+          "url": "https://www.liverpoolfc.com/news/team-news-confirmed-liverpool-line-up-v-club-brugge"
         },
         {
-          "publisher": "Sky Sports",
-          "url": "https://www.skysports.com/cricket/news/13616325/sandpapergate-usman-khawaja-hurt-by-personal-attacks-from-pat-cummins-as-he-details-cameron-bancroft-relationship"
-        },
-        {
-          "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
-          "url": "https://www.abc.net.au/news/2026-11-25/usman-khawaja-offers-sandpapergate-peace-proposal/107426926"
-        },
-        {
-          "publisher": "Fox Sports",
-          "url": "https://www.foxsports.com.au/en-AU/news/cricket/usman-khawaja-reveals-more-sandpapergate-details-in-new-podcast/pexp6os6b8971b5ysuv9a45k1"
+          "publisher": "Liverpool.com",
+          "url": "https://www.liverpool.com/liverpool-fc-news/features/team-club-brugge-munoz-nyoni-34966901"
         }
       ],
-      "summary": "Usman Khawaja stated he was hurt by Pat Cummins' personal attacks after the Australia captain denied claims that all team members knew of the 2018 sandpaper use, which Khawaja made in his autobiography and Warner and Bancroft supported.",
-      "timestamp": "2026-11-25T16:50:00Z"
+      "summary": "Liverpool defeated Club Brugge 3-0 in the Champions League, with Alexander Isak scoring twice and Florian Wirtz adding another, moving Liverpool to fifth in the league phase standings with their fourth win in five games.",
+      "timestamp": "2026-11-26T01:10:17Z"
     },
     {
       "ai": true,
-      "articles": 5,
+      "articles": 10,
       "category": "sports",
-      "extended_summary": "The Pittsburgh Steelers benched quarterback Aaron Rodgers for Friday's game against the Denver Broncos, naming Mason Rudolph the starter. The decision was announced Tuesday night at 11:10 p.m. ET without explanation, despite Rodgers taking all first-team repetitions during Tuesday's practice. Rodgers stated he learned of the benching through a phone call with tight end Pat Freiermuth rather than from head coach Mike McCarthy, claiming the topic never arose in their conversations. He alleged McCarthy missed meetings and fell asleep during a quarterback meeting, citing disagreements over offensive play-calling. Rodgers declared, \"At this point, I'm not going back to Pittsburgh.\" His brother Jordan Rodgers suggested general manager Omar Khan may have influenced the decision. The move follows the team's 19-16 loss to the Eagles.",
+      "extended_summary": "The Pittsburgh Steelers released veteran quarterback Aaron Rodgers following a public dispute with head coach Mike McCarthy. Rodgers, 43, was benched for Friday's game against the Denver Broncos after claiming McCarthy fell asleep during meetings and missed offensive sessions. In media interviews, Rodgers detailed instances where McCarthy allegedly snored during a quarterback meeting and left early. The Steelers confirmed Rodgers would be inactive despite McCarthy previously stating he remained the starter. Mason Rudolph is set to start in Rodgers' place. The four-time NFL MVP had previously stated that the word \"benched\" never came up in discussions with McCarthy. Meanwhile, the Minnesota Vikings, who had considered signing Rodgers before the 2025 season, avoided the situation after dialogue failed to produce a contract.",
       "id": "international-sports-2",
-      "micro_summary": "Pittsburgh Steelers bench Aaron Rodgers for Friday's game against Broncos, starting Mason Rudolph instead.",
-      "publishers": 5,
+      "micro_summary": "Aaron Rodgers released by Pittsburgh Steelers after benching and public criticism of coach Mike McCarthy.",
+      "publishers": 6,
       "scope": "international",
-      "score": 0.866,
+      "score": 0.902,
       "sources": [
-        {
-          "publisher": "CBS Sports",
-          "url": "https://www.cbssports.com/nfl/news/aaron-rodgers-brother-theory-why-qb-was-shockingly-benched-steelers/"
-        },
         {
           "publisher": "ESPN",
-          "url": "https://www.espn.com/nfl/story/_/id/50595660/rodgers-heard-mccarthy-benching"
-        },
-        {
-          "publisher": "CBS News",
-          "url": "https://www.cbsnews.com/pittsburgh/news/aaron-rodgers-steelers-benching-pat-mcafee-show/"
-        }
-      ],
-      "summary": "The Pittsburgh Steelers benched quarterback Aaron Rodgers for Friday's game against the Denver Broncos, naming Mason Rudolph the starter. Rodgers learned of the decision via a phone call with Pat Freiermuth and stated he will not return to Pittsburgh.",
-      "timestamp": "2026-11-25T16:32:03Z"
-    },
-    {
-      "ai": false,
-      "articles": 5,
-      "category": "sports",
-      "extended_summary": "Sky Sports’ Lewis Jones:“How do you go about fixing this Manchester United team?“Mauricio Pochettino can point to Leny Yoro's early red card at Anfield as a mitigating factor for his miserable start, but the defensive issues run far deeper than that.“United have conceded 19 goals across their last six matches and have won just one of their last 12 in all competitions.“Their numbers away from Old Trafford make for particularly grim reading. United are winless in eight away Premier League and Champions League fixtures this season, shipping an average of 2.30 goals and 2.00 expected goals per game.“Their only clean sheet anywhere this season came against Sabah at Old Trafford.“Pochettino has built his reputation on producing well-drilled, aggressive football teams. On the evidence of what he's inherited, he's going to need plenty of time on the training pitch.”",
-      "id": "international-sports-3",
-      "micro_summary": "Sporting vs Man Utd predictions: 7-2 Bet Builder tip, team news and odds.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.862,
-      "sources": [
-        {
-          "publisher": "Racing Post",
-          "url": "https://www.racingpost.com/sport/football-tips/champions-league/sporting-vs-man-utd-odds-predictions-betting-tips-team-news-bet-builder-a1c7d6Y7cx8u/"
-        },
-        {
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/sport/football/live/cx98zmzyn0y7t"
-        },
-        {
-          "publisher": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/13616485/sporting-vs-man-utd-live-champions-league-match-updates-news-and-score"
-        }
-      ],
-      "summary": "Sporting vs Man Utd predictions: 7-2 Bet Builder tip, team news and odds. Club Brugge v Liverpool (20:00 GMT) Premier League fans, and Liverpool fans in particular, are learning something that many of us already knew about Bradley Barcola.",
-      "timestamp": "2026-11-25T16:00:00Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "sports",
-      "extended_summary": "Heading into Thanksgiving week, all 32 NFL teams remain mathematically alive for the playoffs. Simulations of the remaining 109 regular-season games of the 2026 season project 14 playoff teams. The projected AFC field includes the Bills (9-1), Broncos (8-2), Bengals (7-3), Jaguars (7-3), Chiefs (8-2), Steelers (6-4), and Browns (6-4), with the Texans and Patriots just missing. The Bills-Chiefs Thanksgiving game holds significant implications for the top seed and first-round bye. The Arizona Cardinals could theoretically be eliminated by the end of Week 12 but likely will not be. In the NFC, the 49ers lead toward the top seed while all four NFC North teams remain in the projected field alongside the Rams and Seahawks. The Steelers remain projected for playoffs despite benching Aaron Rodgers. The Jaguars hold the league's best point differential at plus-125.",
-      "id": "international-sports-4",
-      "micro_summary": "All 32 NFL teams remain playoff-alive as simulations project 14 teams.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.842,
-      "sources": [
-        {
-          "publisher": "NBC Sports",
-          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-playoff-picture-2026-updated-afc-and-nfc-standings-bracket-tiebreakers-for-week-12"
-        },
-        {
-          "publisher": "CBS Sports",
-          "url": "https://www.cbssports.com/nfl/news/predicting-full-14-team-nfl-playoff-bracket-nfl-week-12/"
+          "url": "https://www.espn.com/nfl/story/_/id/50597187/sources-confirm-aaron-rodgers-allegations-mike-mccarthy"
         },
         {
           "publisher": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/article/nfl-playoff-picture-entering-week-12-thanksgiving-games-could-shake-up-postseason-seeding-172717898.html"
+          "url": "https://sports.yahoo.com/nfl/articles/vikings-dodged-disaster-amid-steelers-012029173.html"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/sport/2026/nov/25/aaron-rodgers-pat-mcafee-interview-biggest-highlights-mike-mccarthy"
+        },
+        {
+          "publisher": "Sky Sports",
+          "url": "https://www.skysports.com/nfl/news/13616514/aaron-rodgers-to-be-released-by-pittsburgh-steelers-after-accusing-head-coach-mike-mccarthy-of-sleeping-in-meetings"
         }
       ],
-      "summary": "NFL simulations project 14 playoff teams heading into Thanksgiving week, with the Bills (9-1) atop the AFC and all 32 teams still mathematically alive. The Bills-Chiefs Thanksgiving game carries major top-seed implications.",
-      "timestamp": "2026-11-25T16:03:25Z"
+      "summary": "The Pittsburgh Steelers released quarterback Aaron Rodgers after benching him for Friday's game against Denver and following his public claims that head coach Mike McCarthy fell asleep in meetings. Mason Rudolph will start in his place.",
+      "timestamp": "2026-11-26T00:49:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "The Green Bay Packers and Los Angeles Rams will play on Wednesday, November 25 at 7 p.m. CT at SoFi Stadium in Inglewood, California. The game will be broadcast on Netflix, with local over-the-air television available on NBC26 in the Green Bay market and TMJ4 in the Milwaukee market, and streaming available on NFL+ for mobile devices. Both teams enter the matchup with 6-4 records. The Packers will welcome back star defensive end Micah Parsons, who makes his season debut following an ACL tear suffered last December. The Rams will be without All-Pro wide receiver Puka Nacua, who is out for the rest of the season with a knee injury. The game can also be heard on the Packers Radio Network across 54 stations in six states, with the flagship station at 95.7 BIG FM.",
+      "id": "international-sports-3",
+      "micro_summary": "Green Bay Packers face Los Angeles Rams Wednesday at SoFi Stadium with both teams at 6-4.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.878,
+      "sources": [
+        {
+          "publisher": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nfl/live/packers-rams-score-live-updates-inactives-highlights-stats-where-to-watch-week-12-wednesday-235059451.html"
+        },
+        {
+          "publisher": "ESPN",
+          "url": "https://www.espn.com/nfl/story/_/id/50599365/nfl-week-12-highlights-touchdowns-plays"
+        },
+        {
+          "publisher": "Green Bay Packers – packers.com",
+          "url": "https://www.packers.com/news/packers-vs-rams-how-to-watch-stream-listen-week-12-2026"
+        }
+      ],
+      "summary": "The Green Bay Packers and Los Angeles Rams meet Wednesday at 7 p.m. CT at SoFi Stadium in a game broadcast on Netflix, with both teams holding 6-4 records.",
+      "timestamp": "2026-11-26T01:51:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "North Melbourne will play Melbourne in its fourth consecutive AFLW grand final, aiming to become the first side in competition history to secure a three-peat. The Kangaroos have lost just one game in their last 43 matches and boast a 96 per cent winning rate since losing the 2023 grand final. A victory would equal Adelaide's record of three premierships in the competition. This marks the first year neither Adelaide nor Brisbane will feature in the grand final. Brisbane has played in seven grand finals with two wins, while Adelaide currently holds the record with three premierships. North Melbourne has only lost once in the past three AFLW seasons. The dominance is viewed as beneficial for the league's long-term competitiveness as other teams work to close the gap.",
+      "id": "international-sports-4",
+      "micro_summary": "North Melbourne aims for historic AFLW three-peat against Melbourne in fourth consecutive grand final.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.871,
+      "sources": [
+        {
+          "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "url": "https://www.abc.net.au/news/2026-11-26/aflw-premiership-north-melbourne-in-sight/107427680"
+        },
+        {
+          "publisher": "nmfc.com.au",
+          "url": "https://www.nmfc.com.au/news/2169859/live-stream-aflw-grand-final-captains-coach-press-conference"
+        },
+        {
+          "publisher": "Herald Sun",
+          "url": "https://www.heraldsun.com.au/news/victoria/cartoonist-mark-knight-locks-in-official-aflw-grand-final-posters-for-demons-and-kangaroos-clash/news-story/83693179977f36dbb02babb04e0eec81"
+        }
+      ],
+      "summary": "North Melbourne faces Melbourne in the AFLW grand final seeking a historic third consecutive premiership, which would equal Adelaide's record of three titles. The Kangaroos have lost only once in their last 43 matches.",
+      "timestamp": "2026-11-25T23:40:42Z"
     },
     {
       "ai": false,
       "articles": 5,
       "category": "tragedies",
-      "extended_summary": "Divers recovered bodies from fuselage after aircraft went down in the Gulf of Mexico A family of six including two children and a teenager died after a plane crashed off the coast of Mississippi, killing everyone on board. The air traffic control regional tower in Mobile, Alabama, reported at about 3.45pm local time that it had lost contact with the aircraft, according to the Coast Guard. Responders searched for hours and initially only found three life jackets, a life raft and the plane’s cabin floating on the water, according to Juan Ros, a Coast Guard spokesman. Divers found the bodies of the victims in the fuselage after the Cessna 210 went down in the Gulf of Mexico between Pascagoula, Mississippi, and Horn Island, which is part of the Gulf Islands National Seashore. The plane’s pilot was Brent Stokes, the 50-year-old president of a marine contracting company based in Fort Myers.",
+      "extended_summary": "Huge fire erupts near Cairo killing at least 30 people Thirty-one people have been killed and 21 others injured in a large fire on a busy highway in Cairo after a fuel tanker crashed, Egypt's health ministry says. Hospitals nearby treated patients suffering burns and smoke inhalation after the incident, which occurred on a section of a ring road in the Warraq neighbourhood, to the north of the old city centre, on Wednesday evening. Footage circulating on social media showed billowing flames and black smoke towering high into the night sky, with multiple nearby vehicles torched. Officials have not given an account of how the fire broke out, but state-owned media reported the tanker had overturned, dousing nearby vehicles with petrol. The regional public prosecutor has launched an investigation into the incident and asked that DNA samples be taken from bodies of the dead. The tanker, which belonged to a",
       "id": "international-tragedies-1",
-      "micro_summary": "Two children among six dead after plane crash off Mississippi coast.",
+      "micro_summary": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway.",
       "publishers": 5,
       "scope": "international",
-      "score": 0.789,
+      "score": 0.857,
       "sources": [
         {
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo"
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway"
         },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o"
+        },
+        {
+          "publisher": "Sky News",
+          "url": "https://news.sky.com/story/egypt-latest-at-least-31-killed-after-vehicle-carrying-fuel-overturns-near-cairo-13616496"
+        }
+      ],
+      "summary": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway. Officials have not given an account of how the fire broke out, but state-owned media reported the tanker had overturned, dousing nearby vehicles with petrol.",
+      "timestamp": "2026-11-25T22:10:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "A Cessna 210 plane crashed into the Gulf of Mexico two nautical miles northeast of Horn Island off the Mississippi coast Tuesday afternoon around 3:30 p.m., killing all six people on board. The aircraft departed New Orleans Lakefront Airport en route to Fort Myers, Florida, after the family completed a fishing trip in southeastern Louisiana. The victims were pilot Brent Stokes, 50; his son Hunter Stokes, 16; Brent's sister Arlyn Knox, 43; her husband Michael Knox, 43; and their sons Charles Holden Knox, 12, and Truett Knox, 10. The plane was flying in fair weather when it began dropping at 10,000 feet per minute. Coast Guard responders searched through the night, finding the cabin, three life jackets and a life raft before divers recovered the bodies from the fuselage. The Federal Aviation Administration and National Transportation Safety Board launched investigations into the cause.",
+      "id": "international-tragedies-2",
+      "micro_summary": "Six people died when a Cessna 210 crashed into the Gulf of Mexico off Mississippi Tuesday.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.833,
+      "sources": [
         {
           "publisher": "The Telegraph",
           "url": "https://www.telegraph.co.uk/us/news/2026/11/25/two-children-among-six-dead-in-mississippi-plane-crash/"
         },
         {
-          "publisher": "Sky News",
-          "url": "https://news.sky.com/story/divers-find-bodies-of-six-people-including-two-children-after-us-plane-crash-13616273"
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo"
+        },
+        {
+          "publisher": "NOLA.com",
+          "url": "https://www.nola.com/news/horn-island-plane-crash-victims/article_1997cbff-b356-4b67-a294-fc2b11303a8c.html"
         }
       ],
-      "summary": "Two children among six dead after plane crash off Mississippi coast. Six people, including two children, have been found dead after a plane crashed off the coast of Mississippi on Tuesday, the US Coast Guard says.",
-      "timestamp": "2026-11-25T07:08:22Z"
+      "summary": "A Cessna 210 crashed into the Gulf of Mexico off Horn Island, Mississippi, Tuesday, killing six people including three children. The family was returning to Fort Myers, Florida, from a fishing trip. Federal authorities are investigating.",
+      "timestamp": "2026-11-25T19:06:00Z"
     },
     {
       "ai": true,
       "articles": 5,
       "category": "tragedies",
-      "extended_summary": "Former Sydney police officer Beau Lamarre, 31, was found guilty on Wednesday of murdering his former partner Jesse Baird, a 26-year-old TV presenter, and Baird's new partner Luke Davies, 29, with his work-issued gun. The murders occurred in February 2024 at a Sydney home, where CCTV captured Lamarre dressed as an UberEats rider dawdling for 20 minutes before gunshots rang out. During a two-month trial, jurors heard evidence that Lamarre had planned the killings over months, purchasing a surfboard bag to transport Baird's body and later driving the decomposing bodies in a white hire van to a rural property with a dam, where Taylor Swift's \"No Body, No Crime\" played. The bloodied belongings of the victims were found in a skip in Cronulla, leading to the discovery of their partially buried bodies on a rural property. Lamarre pleaded not guilty, claiming self-defense, but was convicted of both murders.",
-      "id": "international-tragedies-2",
-      "micro_summary": "Former Sydney policeman Beau Lamarre, 31, was found guilty of double murder of Jesse Baird and Luke Davies.",
+      "extended_summary": "Former Australian police officer Beau Lamarre-Condon, 31, has been unanimously found guilty of murdering TV presenter Jesse Baird, 26, and Baird's boyfriend Luke Davies, 29, in Sydney on 19 February 2024. The jury rejected Lamarre-Condon's claims that he acted in self-defense and that the second shot was accidental. He was also convicted of breaking and entering and stealing. Eight days after the killings, the victims' bodies were discovered in surfboard bags near a monastery in rural Bungonia, south-west of Sydney. Lamarre-Condon admitted moving the bodies in a hired van and attempting to sink them in a farm dam using cement and weights. The nine-week trial heard that Lamarre-Condon's relationship with Baird was marked by jealousy and controlling behavior after they separated in April 2023. He will be sentenced in March 2027.",
+      "id": "international-tragedies-3",
+      "micro_summary": "Former police officer Beau Lamarre-Condon was found guilty of murdering TV presenter Jesse Baird and his boyfriend Luke Davies.",
       "publishers": 5,
       "scope": "international",
-      "score": 0.715,
+      "score": 0.788,
       "sources": [
         {
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cmrrg749d02do"
+          "publisher": "PinkNews",
+          "url": "https://www.thepinknews.com/2026/11/25/beau-lamarre-condon-murder-trial-jesse-baird-luke-davies/"
         },
         {
           "publisher": "CNN",
-          "url": "https://www.cnn.com/2026/11/24/world/australia-lamarre-condon-verdict-intl-hnk"
+          "url": "https://edition.cnn.com/2026/11/24/world/australia-lamarre-condon-verdict-intl-hnk"
         },
         {
           "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/australia-news/2026/nov/25/beau-lamarre-condon-trial-verdict-former-police-officer-jesse-baird-luke-davies-ntwnfb"
+          "url": "https://www.theguardian.com/australia-news/2026/nov/25/beau-lamarre-condon-guilty-verdict-luke-davies-jesse-baird-murders-ntwnfb"
         }
       ],
-      "summary": "Former Sydney police officer Beau Lamarre, 31, was found guilty of murdering former partner Jesse Baird, 26, and Baird's new partner Luke Davies, 29, with his work-issued gun in February 2024.",
-      "timestamp": "2026-11-25T01:51:43Z"
+      "summary": "A jury unanimously convicted former Australian police officer Beau Lamarre-Condon, 31, of murdering TV presenter Jesse Baird and flight attendant Luke Davies in Sydney in February 2024, rejecting his self-defense claims.",
+      "timestamp": "2026-11-25T17:50:06Z"
     },
     {
-      "ai": false,
+      "ai": true,
       "articles": 5,
       "category": "tragedies",
-      "extended_summary": "Relatives of those being held hostage spent anxious hours as the situation unfolded Colombian security forces have freed around 76 shoppers and employees who had been held hostage for about 17 hours at a supermarket in the city of Cartagena. Gunmen had stormed into the building at 08:00 local time (13:00 GMT) on Tuesday after what Colombian President Abelardo de la Espriella described as a failed attempt at robbing an armoured car carrying money. They held those inside at gunpoint while trying to negotiate their getaway. With the situation becoming ever more intense as the day progressed, de la Espriella gave the green light for special forces and police to launch a daring operation to free the hostages, killing one gunman. Residents living near the supermarket reported hearing explosions as the security forces moved into the building. Police later confirmed that officers had used stun grenades to overpower the hostage-takers.",
-      "id": "international-tragedies-3",
-      "micro_summary": "Colombian police storm supermarket to free 76 held hostage for 17 hours.",
-      "publishers": 5,
+      "extended_summary": "Macy's has postponed its 100th annual Thanksgiving Day Parade in New York City from Thursday to Saturday due to a powerful nor'easter threatening the region with heavy rain and winds gusting up to 60mph. City regulations require the parade's 100 giant character balloons to be grounded if sustained winds exceed 23mph or gusts surpass 35mph, making Thursday's conditions too dangerous. The balloons, including 10 new inflatables, were deflated Wednesday night and stored in New Jersey for reinflation before Saturday's event. New York City Mayor Zohran Mamdani confirmed the decision, citing safety as paramount and noting an expanded police presence along the route. The parade, featuring marching bands and floats, has only been cancelled during World War II between 1942 and 1944, making this the first weather-related postponement in its history.",
+      "id": "international-tragedies-4",
+      "micro_summary": "Macy's 100th Thanksgiving Day Parade postponed to Saturday due to severe nor'easter winds.",
+      "publishers": 4,
       "scope": "international",
-      "score": 0.713,
+      "score": 0.748,
       "sources": [
         {
           "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo"
+          "url": "https://www.bbc.com/weather/articles/cr894e8dd7wqo"
         },
         {
-          "publisher": "Sky News",
-          "url": "https://news.sky.com/story/armed-men-take-at-least-25-hostages-in-supermarket-in-colombia-tourist-hotspot-13616139"
-        },
-        {
-          "publisher": "The Telegraph",
-          "url": "https://www.telegraph.co.uk/world-news/2026/11/24/gunmen-hold-people-hostage-at-colombia-supermarket/"
+          "publisher": "RTE.ie",
+          "url": "https://www.rte.ie/news/us/2026/1126/1600707-thanksgiving-parade-us/"
         }
       ],
-      "summary": "Colombian police storm supermarket to free 76 held hostage for 17 hours.",
-      "timestamp": "2026-11-25T09:56:19Z"
-    },
-    {
-      "ai": false,
-      "articles": 5,
-      "category": "tragedies",
-      "extended_summary": "Lesley Stahl speaks with former members of an online subculture that idolizes mass shooters in a new 60 Minutes investigation airing Sunday, Nov. 22. The report, \"The Mass Shooter Fandom,\" examines why some teenagers are drawn to these groups and what might help interrupt their involvement before it escalates. CBS says Stahl focused on a global online subculture known as the True Crime Community, or TCC, that is believed to have thousands of members. Her report examines the part of that community where some participants romanticize real-life attackers. Former members offer a firsthand perspective on the groups, while experts discuss how young people become involved and what can be done to intervene. The network says only a small fraction of people in the community go on to commit violence. Its preview cites seven school shootings over the past three years carried out by young people it describes as connected to",
-      "id": "international-tragedies-4",
-      "micro_summary": "The ‘True Crime Community’ Is Inspiring Violent Attacks Through TikTok.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.693,
-      "sources": [
-        {
-          "publisher": "WIRED",
-          "url": "https://www.wired.com/story/the-true-crime-community-is-inspiring-violent-attacks-through-tiktok/"
-        },
-        {
-          "publisher": "CBS News",
-          "url": "https://www.cbsnews.com/news/how-an-american-teen-who-idolized-mass-shooters-became-one-himself/"
-        },
-        {
-          "publisher": "JubileeCast",
-          "url": "https://www.jubileecast.com/articles/41254/20261121/60-minutes-investigates-why-some-teens-are-drawn-to-an-online-fandom-that-idolizes-mass-shooters.htm"
-        }
-      ],
-      "summary": "The ‘True Crime Community’ Is Inspiring Violent Attacks Through TikTok. Lesley Stahl speaks with former members of an online subculture that idolizes mass shooters in a new 60 Minutes investigation airing Sunday, Nov.",
-      "timestamp": "2026-11-25T11:00:00Z"
+      "summary": "Macy's 100th annual Thanksgiving Day Parade in New York has been postponed from Thursday to Saturday due to a powerful nor'easter bringing winds up to 60mph, forcing the deflation of 100 giant balloons for safety.",
+      "timestamp": "2026-11-25T14:41:42Z"
     },
     {
       "ai": true,
       "articles": 4,
-      "category": "business",
-      "extended_summary": "Union Minister of State for Science and Technology Dr Jitendra Singh announced at the CII Global Genomics Summit 2026 in New Delhi that India's bio-economy is projected to reach $300 billion by 2030. The bio-economy has grown from approximately $10 billion in 2014 to nearly $195 billion at present, while the biotechnology startup ecosystem expanded from around 50-60 startups in 2014 to nearly 11,000. Dr Singh described biotechnology as a key driver of the next industrial revolution and a strategic technology platform with applications across healthcare, agriculture and economic development. He highlighted the Genome India Project, which has undertaken whole-genome sequencing of 10,000 individuals representing 80 population groups, and emphasized the potential of advanced genomic applications in improving crop productivity, livestock breeding and personalised healthcare. The minister also referenced the government's BioE3 Policy aimed at promoting biotechnology for economy, environment and employment.",
-      "id": "national-business-1",
-      "micro_summary": "India's bio-economy is projected to reach $300 billion by 2030, driven by biotechnology startups and research expansion.",
-      "publishers": 3,
-      "scope": "national",
-      "score": 0.622,
-      "sources": [
-        {
-          "publisher": "www.pib.gov.in",
-          "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2341178"
-        },
-        {
-          "publisher": "News On AIR",
-          "url": "https://newsonair.gov.in/indias-bio-economy-projected-to-reach-300-billion-by-2030-says-union-minister-jitendra-singh/"
-        },
-        {
-          "publisher": "DD India",
-          "url": "https://ddindia.co.in/2026/11/indias-bio-economy-projected-to-reach-300-billion-by-2030-dr-jitendra-singh/"
-        }
-      ],
-      "summary": "Union Minister Dr Jitendra Singh announced at the CII Global Genomics Summit 2026 in New Delhi that India's bio-economy will reach $300 billion by 2030, up from nearly $195 billion, with biotech startups growing from 50-60 in 2014 to 11,000.",
-      "timestamp": "2026-11-25T16:08:10Z"
-    },
-    {
-      "ai": false,
-      "articles": 4,
       "category": "entertainment",
-      "extended_summary": "The All India Cine Workers Association (AICWA) has sent a letter to Indian Prime Minister Narendra Modi to block the release of Pakistan’s first Netflix original series, Jo Bachay Hain Sang Samait Lo, in the country. In a letter published on the Bollywood workers’ union on its social media accounts, the groups’s president, Suresh S Gupta, said he wrote to the PM with “deep pain and a strong sense of duty” on behalf of “the 140 crore (1.4 billion) people of this country” to protest the release of the series starring Pakistani actors who have “spoken against India at times of high tension between the two countries”. Gupta said the AICWA had banned Pakistani artists from working in India following the 2019 Pulwama attack. Citing an advisory issued by India’s Ministry of Information and Broadcasting in the aftermath of the 2025 Pehelgam attack, Gupta said OTT platforms like Netflix had",
+      "extended_summary": "Netflix's first Pakistani series, \"Jo Bachay Hain Sang Samait Lo,\" has triggered a cross-border controversy ahead of its scheduled December 4 release. The trailer, featuring actors Fawad Khan, Mahira Khan and Sanam Saeed, was released Tuesday, though it remains unclear whether the release will include India. In India, the All Indian Cine Workers Association and the Federation of Western India Cine Employees have written to Prime Minister Narendra Modi urging him to block the series, citing a May 8, 2025 Ministry of Information and Broadcasting advisory that asked OTT platforms to discontinue Pakistani-origin content following the Pahalgam terror attack. The associations described Pakistan as a \"terrorist country\" and argued the release would violate the advisory. Meanwhile, Pakistan's Planning Minister Ahsan Iqbal criticised the ban calls on X using the hashtag #GrowUpIndia, accusing New Delhi of weaponising art and culture. Netflix has maintained silence.",
       "id": "national-entertainment-1",
-      "micro_summary": "Netflix's first Pakistani series triggers row as Indian film bodies seek ban.",
+      "micro_summary": "Netflix's first Pakistani series triggers controversy with Indian bodies seeking ban before December 4 release.",
       "publishers": 4,
       "scope": "national",
-      "score": 0.723,
+      "score": 0.738,
       "sources": [
         {
           "publisher": "National Herald",
           "url": "https://www.nationalheraldindia.com/amp/story/entertainment/netflixs-first-pakistani-series-triggers-row-indian-film-bodies-seek-ban"
         },
         {
-          "publisher": "Dawn",
-          "url": "https://images.dawn.com/news/1196200/bollywood-film-workers-union-asks-pm-modi-to-ban-pakistans-netflix-debut-jo-bachay-hain-sang-samait-lo-in-india"
+          "publisher": "Indian Broadcasting World",
+          "url": "https://www.indianbroadcastingworld.com/film-bodies-demand-ban-on-netflixs-pakistani-series-in-india/"
+        },
+        {
+          "publisher": "Inc42",
+          "url": "https://inc42.com/buzz/film-body-seeks-ban-on-pakistani-shows-netflix-release-in-india/"
         },
         {
           "publisher": "The Times of India",
           "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/pakistani-show-jo-bachay-hain-sang-samait-lo-controversy-pak-minister-says-india-grow-up-as-fwice-and-aicwa-demand-ban-on-the-series-starring-fawad-khan/articleshow/136168082.cms"
-        },
-        {
-          "publisher": "The Hindu",
-          "url": "https://www.thehindu.com/entertainment/movies/fawad-khan-pakistans-first-netflix-show-controversy-ban-aicwa-jo-bachay-hai-sang-samait-lo-pulwama/article71741607.ece"
         }
       ],
-      "summary": "Netflix's first Pakistani series triggers row as Indian film bodies seek ban. Netflix's first Pakistani original, 'Jo Bachay Hain Sang Samait Lo', has landed in the middle of a major controversy.",
-      "timestamp": "2026-11-25T16:51:00Z"
-    },
-    {
-      "ai": false,
-      "articles": 2,
-      "category": "science",
-      "extended_summary": "Air India is considering a major organisational restructuring, integrating key functions across Air India and Air India Express under the &amp;quot;One Air India&amp;quot; Model, as new CEO Tewolde Gebremariam looks to streamline operations, cut costs and improve the Tata-owned carrier&amp;#039;s financial performance.At a town hall with employees on Wednesday, Gebremariam outlined a new blueprint, meaning a possible senior management reshuffle and a review of its workforce.The proposed &amp;quot;One Air India&amp;quot; model will see the two airlines operate as one group while retaining their separate brands and regulatory identities. Functions such as Finance, Human Resources, IT, Network Planning, Commercials, Marketing and Engineering could be brought under a common structure, while flight operations, crew management and customer-facing functions will continue to remain separate.Both airlines will continue to operate under separate Air Operator Certificates (AOCs), with their existing licences and statutory requirements remaining unchanged.Addressing employees, Gebremariam said the integration would help the two",
-      "id": "national-science-1",
-      "micro_summary": "Air India, AI Express To Operate As 'One Group, Two Brands': Here's What That Means.",
-      "publishers": 2,
-      "scope": "national",
-      "score": 0.635,
-      "sources": [
-        {
-          "publisher": "NDTV",
-          "url": "https://www.ndtv.com/india-news/air-india-ai-express-to-operate-as-one-group-two-brands-heres-what-that-means-12377449"
-        },
-        {
-          "publisher": "Business Standard",
-          "url": "https://www.business-standard.com/industry/aviation/air-india-plans-closer-ties-with-air-india-express-to-tackle-cost-pressures-126112500970_1.html"
-        }
-      ],
-      "summary": "Air India, AI Express To Operate As 'One Group, Two Brands': Here's What That Means.",
-      "timestamp": "2026-11-25T17:39:47Z"
+      "summary": "Netflix's first Pakistani series \"Jo Bachay Hain Sang Samait Lo\" triggers controversy as Indian bodies urge PM Modi to block its December 4 release while Pakistan accuses India of weaponising art.",
+      "timestamp": "2026-11-26T00:30:11Z"
     },
     {
       "ai": true,
       "articles": 2,
-      "category": "science",
-      "extended_summary": "The Indian government has stated it sees no contradiction between Sarvam AI's indigenous AI model development supported by the IndiaAI Mission and the company's new enterprise offering of open-source-based AI models, including Chinese ones. Ministry of Electronics and IT Secretary S Krishnan said on Wednesday that hosting open-weight models to provide AI services from India does not violate IndiaAI Mission principles or misuse incentives. Sarvam launched Token Factory on November 16, an inference stack serving its own 105-billion-parameter model and leading open-weight models including DeepSeek, Kimi, and GLM from GPU clusters in India. While critics questioned how offering Chinese models fit with India's sovereign AI push, Krishnan defended the move, noting AI companies require revenue models. The government continues supporting Sarvam's work toward a trillion-parameter model under the ₹10,372 crore IndiaAI Mission.",
-      "id": "national-science-2",
-      "micro_summary": "Government says Sarvam AI hosting Chinese models does not violate IndiaAI Mission as it builds indigenous 105-billion-parameter model.",
+      "category": "politics",
+      "extended_summary": "Union Minister for Youth Affairs and Sports Dr Mansukh Mandaviya addressed the 16th edition of the Global Summit on the Business of Sports TURF-2026 in New Delhi, stating that schemes including Khelo India Mission, Fit India Movement and Target Olympic Podium Scheme are expanding grassroots participation and identifying talent. He highlighted the transformation of India's sporting ecosystem over the past 12 years under Prime Minister Narendra Modi, with a vision to become a global sports ecosystem. The government has approved a sports goods manufacturing scheme with an outlay of nearly two thousand crore rupees to make India a global hub for manufacturing and innovation. Mandaviya also noted preparations for the Commonwealth Games 2030 and India's ambition to host the 2036 Olympic Games, while France serves as the partner country with a signed MoU for cooperation.",
+      "id": "national-politics-1",
+      "micro_summary": "Dr Mansukh Mandaviya announced a nearly two thousand crore rupees scheme and 2036 Olympic bid at TURF-2026 in New Delhi.",
       "publishers": 2,
       "scope": "national",
-      "score": 0.569,
+      "score": 0.594,
       "sources": [
         {
-          "publisher": "Business Standard",
-          "url": "https://www.business-standard.com/technology/artificial-intelligence/sarvam-hosting-china-ai-models-doesn-t-violate-india-ai-mission-meity-secy-126112501187_1.html"
+          "publisher": "DD News",
+          "url": "https://ddnews.gov.in/en/preparations-underway-for-return-of-f1-to-india-sports-minister-mandaviya/"
         },
         {
-          "publisher": "BusinessLine",
-          "url": "https://www.thehindubusinessline.com/info-tech/no-contradiction-in-sarvamais-open-source-models-and-indias-sovereign-ai-push-says-meity-secretary/article71743362.ece"
+          "publisher": "News On AIR",
+          "url": "https://newsonair.gov.in/sports-minister-mansukh-mandaviya-highlights-indias-sporting-ecosystem-over-past-12-years/"
         }
       ],
-      "summary": "The Indian government stated there is no contradiction between Sarvam AI's government-backed indigenous AI model development and its new Token Factory offering Chinese open-source models to enterprises, noting the startup received support to train a 105-billion-parameter model.",
-      "timestamp": "2026-11-25T15:24:17Z"
+      "summary": "Dr Mansukh Mandaviya addressed the 16th TURF-2026 summit in New Delhi, citing 12 years of sporting growth, a nearly two thousand crore rupees manufacturing scheme, and ambitions for the 2036 Olympics and 2030 Commonwealth Games.",
+      "timestamp": "2026-11-25T21:55:02Z"
     },
     {
       "ai": false,
       "articles": 2,
-      "category": "sports",
-      "extended_summary": "Average 1st innings Total at Hagley Oval, Christchurch (Men's Tests) - 285 Average 2nd innings Total at Hagley Oval, Christchurch (Men's Tests) - 306 Average 3rd innings Total at Hagley Oval, Christchurch (Men's Tests) - 283 Average 4th innings Total at Hagley Oval, Christchurch (Men's Tests) - 193 Current Form New Zealand and India: The 1st Test Match of the series ended as a draw. The top run scorer for New Zealand in the Test Series is Henry Nicholls with 206 runs to his name. The top wicket taker for New Zealand in the Test Series is Glenn Phillips with 3 scalps under his belt. The top run scorer for India in the Test Series is KL Rahul with 136 runs to his name. The top wicket taker for India in the Test Series is Jasprit Bumrah with 5 scalps under his belt. In the First Test Match, New Zealand",
-      "id": "national-sports-3",
-      "micro_summary": "India tour of New Zealand 2026: 2nd Test preview and match predictions.",
+      "category": "politics",
+      "extended_summary": "The September 2025 Gen Z protests precipitated a historic political transition in Nepal, bringing a young cabinet led by former Kathmandu Mayor Balendra Shah to power.[1] India’s fundamental importance to Nepal remains unchanged, but the new political dispensation has brought fresh expectations to the bilateral relationship. In this regard, PM Shah’s visit to India on 22–23 November 2026, his first bilateral visit since assuming office in March, marks an important engagement. For India, the visit provided an opportunity to engage directly with the new leadership in Kathmandu. For Nepal, it offered an avenue to advance its domestic development priorities, particularly economic recovery and reconstruction following the devastating August 2026 floods. More broadly, the visit provided an opportunity to reassess a relationship that, despite its historical and geographical foundations, has periodically encountered political differences over territorial issues, the 1950 Treaty of Peace and Friendship, trade and transit arrangements, and perceptions of",
+      "id": "national-politics-2",
+      "micro_summary": "Prime Minister Balen Shah’s Visit and India–Nepal Relations.",
       "publishers": 2,
       "scope": "national",
-      "score": 0.503,
+      "score": 0.541,
       "sources": [
         {
-          "publisher": "Cricket World",
-          "url": "https://www.cricketworld.com/match-predictions-india-tour-of-new-zealand-2026-2nd-test-match-new-zealand-vs-india-26th-30th-november-2026/114527.htm"
+          "publisher": "MP-IDSA",
+          "url": "https://idsa.in/publisher/comments/prime-minister-balen-shahs-visit-and-india-nepal-relations"
         },
         {
-          "publisher": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/cricket/articles/ind-vs-nz-2nd-test-164002992.html"
+          "publisher": "News On AIR",
+          "url": "https://newsonair.gov.in/nepals-foreign-minister-calls-pm-balendra-shahs-india-visit-a-historic-milestone/"
         }
       ],
-      "summary": "India tour of New Zealand 2026: 2nd Test preview and match predictions. IND vs NZ 2nd Test predicted playing XIs: Will Mohammed Siraj make a comeback to the Indian team at Christchurch? originally appeared on Cricket News.",
-      "timestamp": "2026-11-25T16:40:02Z"
+      "summary": "Prime Minister Balen Shah’s Visit and India–Nepal Relations. In this regard, PM Shah’s visit to India on 22–23 November 2026, his first bilateral visit since assuming office in March, marks an important engagement.",
+      "timestamp": "2026-11-25T18:25:27Z"
     },
     {
       "ai": true,
       "articles": 2,
       "category": "tragedies",
-      "extended_summary": "Researchers at IIT Guwahati have developed a new method for assessing seismic hazards in earthquake-prone Northeast India by compiling a catalogue of nearly 6,000 earthquakes recorded over the past 1,200 years and generating 200 synthetic earthquake catalogues. Using Kernel Density Estimation and accounting for geological fault orientations, the study addresses non-uniform seismic activity and historical data inaccuracies. The research identified the Indo-Burma Ranges as having the most intense earthquake activity, with Imphal showing the highest estimated ground shaking among eight major cities including Guwahati, Agartala, Shillong, Aizawl, Kohima, Gangtok and Itanagar. The findings provide crucial information for engineers to design earthquake-resistant buildings, bridges and infrastructure in the vulnerable region between two tectonic boundaries that was devastated by the 1897 Shillong and 1950 Assam earthquakes.",
-      "id": "national-tragedies-1",
-      "micro_summary": "IIT Guwahati study of 6,000 earthquakes finds Imphal has highest ground shaking among eight northeastern cities.",
+      "extended_summary": "Researchers at IIT Guwahati have developed a new method for seismic hazard assessment in Northeast India, compiling a catalogue of nearly 6,000 earthquakes over the past 1,200 years and generating 200 synthetic earthquake catalogues using Kernel Density Estimation and geological fault orientations. The study identified the Indo-Burma Ranges as having the most intense earthquake activity, with Imphal showing the highest estimated ground shaking among eight major cities including Guwahati, Agartala, Shillong, Aizawl, Kohima, Gangtok and Itanagar. Northeast India lies between two tectonic boundaries and contains the Shillong Plateau and numerous geological faults, making it prone to earthquakes such as the devastating 1897 Shillong and 1950 Assam events. The methodology accounts for non-uniform seismic activity and historical data inaccuracies, providing crucial information for engineers to design earthquake-resistant buildings, bridges and infrastructure in the vulnerable region.",
+      "id": "national-tragedies-2",
+      "micro_summary": "IIT Guwahati researchers developed a seismic hazard method using nearly 6,000 earthquakes to predict ground shaking in Northeast India.",
       "publishers": 2,
       "scope": "national",
-      "score": 0.619,
+      "score": 0.486,
       "sources": [
         {
           "publisher": "Rediff.com",
@@ -592,7 +615,7 @@
           "url": "https://timesofindia.indiatimes.com/india/imphal-faces-highest-earthquake-shaking-hazard-among-8-ne-cities-iit-study/amp_articleshow/136163995.cms"
         }
       ],
-      "summary": "Researchers at IIT Guwahati developed a new seismic hazard assessment method using nearly 6,000 historical earthquakes over 1,200 years, finding Imphal faces the highest estimated ground shaking among eight major northeastern cities to aid earthquake-resistant construction.",
+      "summary": "IIT Guwahati researchers developed a new seismic hazard assessment method for Northeast India using nearly 6,000 earthquakes from the past 1,200 years, identifying Imphal as having the highest estimated ground shaking among eight major cities to aid resilient construction.",
       "timestamp": "2026-11-25T13:56:00Z"
     }
   ]
