@@ -1,0 +1,510 @@
+{
+  "date": "2026-11-27",
+  "events": [
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "business",
+      "extended_summary": "Washington warned EU leaders against implementing a bloc-wide digital services tax as they gathered in Brussels to discuss funding the EU's €2 trillion long-term budget. The Trump administration opposes the EU-wide digital levy, arguing it discriminates against US companies and hurts consumers. European Council President António Costa proposed reviving talks on the tax, which would target companies with global turnover above €750 million including at least €50 million in Europe, catching US tech giants such as Google, Meta and Amazon. The proposal aims to generate new revenue and reduce the burden on national coffers. France, Denmark, Spain and Italy support the measure. The warning came as Washington threatened new tariffs on the EU following a separate investigation into industrial overcapacity. The European Commission originally proposed an EU-wide digital tax in 2018 but shelved it for OECD talks, while France, Austria and Italy implemented national levies that drew retaliation threats.",
+      "id": "international-business-1",
+      "micro_summary": "Washington opposes an EU digital services tax targeting Big Tech to fund the €2 trillion budget.",
+      "publishers": 4,
+      "scope": "international",
+      "score": 0.784,
+      "sources": [
+        {
+          "publisher": "POLITICO.eu",
+          "url": "https://www.politico.eu/article/us-fires-warning-shot-ahead-of-eu-leaders-big-tech-tax-talks/"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks"
+        },
+        {
+          "publisher": "Financial Times",
+          "url": "https://www.ft.com/content/3f577839-deed-40f4-af9f-bf8fb54890e3?syn-25a6b1a6=1"
+        }
+      ],
+      "summary": "The Trump administration warned EU leaders against a proposed bloc-wide digital services tax targeting companies with over €750 million global turnover, complicating efforts to fund the EU's €2 trillion budget as leaders meet in Brussels.",
+      "timestamp": "2026-11-26T11:21:00Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "Italy has denounced Ukraine for carrying out attacks against Russian vessels in Libyan waters, saying it was wrong to “violate Libya’s sovereignty”. Rome’s rebuke marks a crack in its relationship with Ukraine, which Italy has largely supported since Russia’s full-scale invasion in 2022, including with military assistance. It coincides with growing concern about the involvement of foreign powers in a divided Libya, as well as the risk of other nations being drawn into the Russia-Ukraine conflict. So why has Italy weighed in now, and what makes Libya so strategically important to Rome? Kyiv claimed it sank a Russian warship and struck a cargo vessel transporting military equipment off Libya’s coast on Sunday night. The attack on the warship at Benghazi port in eastern Libya killed two naval officers of the self-styled Libyan National Army (LNA), according to Libya’s eastern-based forces. Ukraine’s Foreign Minister Andrii Sybiha described the vessels as legitimate",
+      "id": "international-politics-1",
+      "micro_summary": "Why is Italy angry with Ukraine for striking Russian ships off Libya?",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.818,
+      "sources": [
+        {
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/why-is-italy-angry-with-ukraine-for-striking-russian-ships-off-libya"
+        },
+        {
+          "publisher": "Financial Times",
+          "url": "https://www.ft.com/content/7461793f-6983-45ea-8ba2-8b1824df9379?syn-25a6b1a6=1"
+        },
+        {
+          "publisher": "The Economist",
+          "url": "https://www.economist.com/the-world-this-week/2026/11/26/politics"
+        }
+      ],
+      "summary": "Why is Italy angry with Ukraine for striking Russian ships off Libya? Italy has denounced Ukraine for carrying out attacks against Russian vessels in Libyan waters, saying it was wrong to “violate Libya’s sovereignty”.",
+      "timestamp": "2026-11-26T15:07:56Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "Myanmar's president Min Aung Hlaing has led the country since he seized power in a 2021 military coup Myanmar will not comply with \"inappropriate\" parts of the genocide ruling by the International Court of Justice (ICJ), its leader Min Aung Hlaing has said in his first public comments since the court decision. The ICJ's landmark ruling last week found Myanmar guilty of committing genocide against its Rohingya minority in a 2017 military crackdown that killed thousands and forced more than 700,000 to flee. Myanmar denied committing genocide, saying its forces had responded to attacks by armed groups. It is the first state to have been found in violation of the 1948 Genocide Convention. Min Aung Hlaing said \"the term 'genocide' had seriously affected the country's reputation\", state media report. \"Myanmar would take actions appropriate for a responsible country but would not comply with requirements it considered inappropriate,\" the country's coup",
+      "id": "international-politics-2",
+      "micro_summary": "Myanmar refuses to comply with parts of ICJ genocide ruling.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.795,
+      "sources": [
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/24/genocide-verdict-myanmar-implications-israel-world"
+        },
+        {
+          "publisher": "The Conversation",
+          "url": "https://theconversation.com/myanmar-genocide-ruling-presents-china-with-a-dilemma-297324"
+        }
+      ],
+      "summary": "Myanmar refuses to comply with parts of ICJ genocide ruling. The recent ruling by the International Court of Justice (ICJ) that Myanmar committed genocide against its Rohingya Muslim minority in 2017 challenges China both economically and politically.",
+      "timestamp": "2026-11-26T09:23:23Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "Spain holds snap general elections on Sunday, called eight months early by Prime Minister Pedro Sánchez after MPs rejected housing law changes. The vote follows protests triggered by the eviction and death of 87-year-old Maricarmen Abascal. Polls open at 09:00 and close at 20:00. Nearly 39 million of Spain's almost 50 million population are eligible to vote. Opinion polls place Alberto Núñez Feijóo's People's Party narrowly ahead of Sánchez's Socialists, with far-right Vox third. The PP is projected to fall short of an outright majority but, with Vox, is expected to hold enough seats to govern. Andalusia, governed since May by a PP-Vox coalition, serves as a test case for national cooperation. Key issues include a housing crisis with prices up over 80% since 2015, cost of living, corruption, and immigration. On 11 November, four million Spaniards joined the first general strike in 14 years over housing shortages.",
+      "id": "international-politics-3",
+      "micro_summary": "Spain holds snap elections Sunday with the People's Party narrowly leading polls ahead of the Socialists and Vox.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.793,
+      "sources": [
+        {
+          "publisher": "Financial Times",
+          "url": "https://www.ft.com/content/6b8ac07d-d589-4ff2-9ad3-8cda56287a8e?syn-25a6b1a6=1"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6wy4ejnyvdyo"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/andalusia-offers-a-glimpse-of-spains-future-as-the-far-right-gains-ground"
+        }
+      ],
+      "summary": "Spain votes in snap elections Sunday after Prime Minister Pedro Sánchez called the vote early over housing protests. Polls show the People's Party narrowly ahead of the Socialists, with Vox third, among 39 million eligible voters.",
+      "timestamp": "2026-11-26T05:02:48Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "Estonian Prime Minister Kristen Michal has supported the idea of linking negotiations on the EU's long-term budget to funding for Ukraine. Source: Kristen Michal's remarks upon arrival at the EU summit in Brussels, as reported by European Pravda Details: Michal said Ukraine is facing a winter \"which is like hell\" and needs to know that Europe is ready to stand by it. Quote: \"Ukraine is fighting for us. We are only counting euros. That is not a bad thing, euros have to be counted, but they [Ukrainians – ed.] are shedding blood. So, I would say that whatever we can do – we must do.\" Details: Michal also warned against any further cuts to defence spending amid Russia's escalation of its hybrid warfare. Background: The Netherlands has supported Germany's demand that the EU's next long-term budget for 2028-2034 should not be approved without all member states agreeing to participate in",
+      "id": "international-politics-4",
+      "micro_summary": "After initial reluctance, Bulgaria will join €45 billion Ukraine loan.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.784,
+      "sources": [
+        {
+          "publisher": "Euronews.com",
+          "url": "https://www.euronews.com/2026/11/26/after-initial-reluctance-bulgaria-says-its-ready-to-join-45-billion-ukraine-loan"
+        },
+        {
+          "publisher": "Financial Times",
+          "url": "https://www.ft.com/content/75d9fa3c-61cf-4236-ae73-f555c27766a4"
+        },
+        {
+          "publisher": "Українська правда",
+          "url": "https://www.pravda.com.ua/eng/news/2026/11/26/8064758/"
+        }
+      ],
+      "summary": "After initial reluctance, Bulgaria will join €45 billion Ukraine loan. That is not a bad thing, euros have to be counted, but they [Ukrainians – ed.] are shedding blood.",
+      "timestamp": "2026-11-26T10:18:45Z"
+    },
+    {
+      "ai": true,
+      "articles": 10,
+      "category": "sports",
+      "extended_summary": "The Pittsburgh Steelers released quarterback Aaron Rodgers following his public criticism of head coach Mike McCarthy and an ultimatum demanding control over play-calling. Team president Art Rooney II stated that \"insubordination will not be tolerated\" and expressed \"100% confidence\" in McCarthy remaining coach for years to come. Rodgers, 42, had appeared on a national television show to accuse McCarthy of sleeping in meetings and mishandling a halftime huddle. Rooney criticized Rodgers for not being a \"good teammate\" by making comments two days before the Black Friday game against the Denver Broncos. Mason Rudolph will replace Rodgers as the starting quarterback, with Rooney expressing confidence in Rudolph and the locker room to perform well. The decision followed a meeting where Rodgers allegedly told McCarthy to either let him call all plays or release him.",
+      "id": "international-sports-1",
+      "micro_summary": "Steelers release Aaron Rodgers after public criticism of coach Mike McCarthy, naming Mason Rudolph as replacement quarterback.",
+      "publishers": 7,
+      "scope": "international",
+      "score": 0.947,
+      "sources": [
+        {
+          "publisher": "Pittsburgh Post-Gazette",
+          "url": "https://www.post-gazette.com/sports/steelers/art-rooney-aaron-rodgers-mike-mccarthy-OWI5SSIIDJC6FKGMOJ4BFAN32Q/"
+        },
+        {
+          "publisher": "ESPN",
+          "url": "https://www.espn.com/nfl/story/_/id/50605070/steelers-owner-disappointed-rodgers-backs-mccarthy"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/sport/2026/nov/26/aaron-rodgers-released-pittsburgh-steelers-nfl-exit"
+        },
+        {
+          "publisher": "Sky Sports",
+          "url": "https://www.skysports.com/nfl/live-blog/13616869/nfl-thanksgiving-2026-live-bears-vs-lions-cowboys-vs-eagles-updates-results-highlights-and-how-to-watch-live-on-sky-sports"
+        },
+        {
+          "publisher": "The New York Times",
+          "url": "https://www.nytimes.com/athletic/7812979/2026/11/25/steelers-headquarters-rodgers-mccarthy-mcafee/"
+        }
+      ],
+      "summary": "The Pittsburgh Steelers released quarterback Aaron Rodgers and named Mason Rudolph the starter after Rodgers publicly criticized coach Mike McCarthy and issued an ultimatum demanding play-calling control, prompting team president Art Rooney II to declare insubordination intolerable.",
+      "timestamp": "2026-11-26T17:17:00Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "",
+      "id": "international-sports-2",
+      "micro_summary": "",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.843,
+      "sources": [
+        {
+          "publisher": "This Is Anfield",
+          "url": "https://www.thisisanfield.com/2026/11/alexander-isak-10-goals-liverpool-record-england/"
+        },
+        {
+          "publisher": "ESPN",
+          "url": "https://www.espn.co.uk/football/story/_/id/50605027/liverpool-virgil-van-dijk-alexander-isak"
+        },
+        {
+          "publisher": "LiveScore",
+          "url": "https://www.livescore.com/en/news/football/more/alexander-isak-targets-mohamed-salah-record-in-merseyside-derby-si/"
+        }
+      ],
+      "summary": "",
+      "timestamp": "2026-11-26T17:09:17Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "The 2027 HSBC SVNS Series begins Saturday, 28 November at The Sevens Stadium in Dubai, with South Africa's defending champion Blitzboks opening their title defense against Australia, Argentina and the USA in Pool A. The tournament marks the first of six events culminating in a three-event World Championship, where a top-four finish secures automatic qualification for the Los Angeles 2028 Olympics. Captain Siviwe Soyizwapi, 33, leads the side for the 38th time, while the team faces injury setbacks with Impi Visser, top scorer Shilton van Wyk (160 points, 32 tries last season), Zander Reynders and Jayden Nell all ruled out, and Mfundo Ndhlovu and Donavan Don having departed for URC opportunities. The Blitzboks enter as 2026 league and World Championship winners, having secured victories in Cape Town, Perth, Vancouver, New York and their first Hong Kong title last season.",
+      "id": "international-sports-3",
+      "micro_summary": "Blitzboks begin 2027 SVNS Series title defense in Dubai amid injury concerns and Olympic qualification stakes.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.834,
+      "sources": [
+        {
+          "publisher": "News24",
+          "url": "https://www.news24.com/sport/rugby/sevens/new-blitzbok-mars-can-sidestep-someone-in-a-telephone-booth-says-former-boishaai-coach-20261126-0617"
+        },
+        {
+          "publisher": "Daily Maverick",
+          "url": "https://www.dailymaverick.co.za/article/2026-11-26-blitzboks-reload-for-another-crack-at-world-champs-glory/"
+        },
+        {
+          "publisher": "EWN",
+          "url": "https://www.ewn.co.za/2026/11/26/soyizwapi-says-blitzboks-will-ignore-olympic-pressure-and-focus-on-process"
+        }
+      ],
+      "summary": "South Africa's defending champion Blitzboks open the 2027 HSBC SVNS Series in Dubai on Saturday against Australia, Argentina and the USA while targeting Olympic qualification for Los Angeles 2028 despite several key injuries.",
+      "timestamp": "2026-11-26T11:30:27Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "The Los Angeles Rams defeated the Green Bay Packers 26-13 on Thanksgiving Eve, improving to 7-4 and moving into second place in the NFC West behind the 9-1 San Francisco 49ers. Both teams entered at 6-4 competing for the final NFC wild-card spot, and the victory raised the Rams' playoff chances from 45% to 55%. Running back Blake Corum had a career-high 32 carries for 184 yards and a touchdown, plus two catches for 21 yards. Kyren Williams scored on a 7-yard run. The Rams scored on their first three drives despite missing wide receivers Puka Nacua and Davante Adams. The team lost tight ends Davis Allen (ankle) and Tyler Higbee (chest), while Terrance Ferguson was expected to need season-ending surgery. The Rams have won five straight games but face the hardest remaining schedule in the NFL.",
+      "id": "international-sports-4",
+      "micro_summary": "The Los Angeles Rams defeated the Green Bay Packers 26-13 to improve to 7-4 and boost playoff chances to 55%.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.834,
+      "sources": [
+        {
+          "publisher": "The New York Times",
+          "url": "https://www.nytimes.com/athletic/7813754/2026/11/26/packers-playoff-picture-rams-loss/"
+        },
+        {
+          "publisher": "ESPN",
+          "url": "https://www.espn.com/nfl/story/_/id/50599736/2026-nfl-week-12-los-angeles-rams-green-bay-packers"
+        },
+        {
+          "publisher": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nfl/articles/channel-eagles-time-cowboys-game-175522876.html"
+        }
+      ],
+      "summary": "The Los Angeles Rams defeated the Green Bay Packers 26-13 on Thanksgiving Eve, improving to 7-4 and raising playoff chances to 55%. Blake Corum rushed for 184 yards and a touchdown, while the Rams lost two tight ends to injury.",
+      "timestamp": "2026-11-26T13:02:47Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "Two Italian technicians working for German arms manufacturer Rheinmetall died following a drone strike on a facility in Kuwait, which Italian and Kuwaiti authorities blamed on Iran. The attack also injured four people, including a Kuwaiti national and a Pakistani national, from falling shrapnel after drones were detected and intercepted. The victims were working at an air defence detection station performing maintenance on systems used by the Kuwaiti Armed Forces. Iran denied responsibility, with armed forces spokesperson Abolfazl Shekarchi stating no military operations had been conducted. The strike occurred just over a week after Kuwait repelled Iranian drone attacks on an airbase hosting US forces. The conflict began when the US and Israel attacked Iran in late February, prompting Iran to launch missiles and drones at Israel and Gulf Arab states hosting US military assets.",
+      "id": "international-tragedies-1",
+      "micro_summary": "Two Italian technicians were killed in an Iranian drone strike on a Kuwaiti Rheinmetall facility.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.805,
+      "sources": [
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh"
+        },
+        {
+          "publisher": "Financial Times",
+          "url": "https://www.ft.com/content/e5f3128d-5f8b-416c-90d1-2549175cb091?syn-25a6b1a6=1"
+        }
+      ],
+      "summary": "Two Italian nationals working for Rheinmetall died in a drone strike on a Kuwaiti facility blamed on Iran, which denied responsibility. Four people were injured, including a Kuwaiti and a Pakistani national, from falling shrapnel.",
+      "timestamp": "2026-11-26T15:36:08Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "Severe coastal storms prompting wind gusts between 60 and 70 mph forced officials to postpone the 100th Macy's Thanksgiving Day Parade in New York City to Saturday, Nov. 28 at 8:30 a.m., the first weather-related delay in the event's century-long history. The parade has only been canceled three times previously, during World War II from 1942 to 1944. Safety regulations require sustained winds below 23 mph and gusts under 34 mph for the giant balloons to fly, limits established after a 1997 incident. Macy's had planned 100 inflatables including 10 new balloons. Governor Kathy Hochul declared a state of emergency for Long Island, New York City and Westchester County. The balloons were deflated Wednesday night and stored in New Jersey for reinflation Saturday. Mayor Zohran Mamdani emphasized that safety remained the top priority despite the inconvenience to visitors.",
+      "id": "international-tragedies-2",
+      "micro_summary": "Macy's 100th Thanksgiving Day Parade postponed to Saturday due to severe coastal storm.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.795,
+      "sources": [
+        {
+          "publisher": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/world-news/2026/11/26/macys-thanksgiving-parade-deflates-balloons-storm-threat/"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo"
+        },
+        {
+          "publisher": "Fox News",
+          "url": "https://www.foxnews.com/us/macys-thanksgiving-day-parade-postponed-has-holiday-tradition-ever-been-canceled"
+        }
+      ],
+      "summary": "Severe coastal storms with 60-70 mph winds forced Macy's to postpone its 100th Thanksgiving Day Parade in New York City to Saturday, Nov. 28, marking the first weather-related delay in the event's history.",
+      "timestamp": "2026-11-26T09:55:00Z"
+    },
+    {
+      "ai": false,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "Powerful storms threaten Thanksgiving travel across North America Coastal areas of California are bracing for potential flooding as king tides peak in the state during the US Thanksgiving holiday. Water levels across the US state's vast coastline could reach over 8ft (2.4 metres) in some areas on Wednesday and Thursday, according to the National Weather Service (NWS) - breaking records set just last month. The NWS has warned parts of California could face major coastal flooding, which is likely to be significant in low-lying areas. There have already been some reports of flooding. Meanwhile, storms are also forecast for the Pacific Northwest, including the Canadian province of British Columbia, and eastern parts of the US. Portions of a pier in northern California came crashing down into the ocean on Wednesday as high tides and strong waves battered the structure, video showed. Beachgoers have been advised to stay away from the",
+      "id": "international-tragedies-3",
+      "micro_summary": "California warns of flooding as King Tides peak over Thanksgiving.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.767,
+      "sources": [
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckn806qq760po"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/25/california-flooding-high-tides"
+        },
+        {
+          "publisher": "AP News",
+          "url": "https://apnews.com/article/king-tides-flooding-sea-level-rise-climate-change-0f7fad0f90d229560b0840a4ff18bcc9"
+        }
+      ],
+      "summary": "California warns of flooding as King Tides peak over Thanksgiving. Powerful storms threaten Thanksgiving travel across North America Coastal areas of California are bracing for potential flooding as king tides peak in the state during the US Thanksgiving holiday.",
+      "timestamp": "2026-11-26T01:05:47Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "Ukrainian forces conducted a long-range strike on the Savasleyka air base in Russia's Nizhny Novgorod region east of Moscow, damaging five military aircraft. Three MiG-31 jets used to fire hypersonic missiles and two Su-34 fighter-bombers were knocked out of operation for some time. The air base hosts aircraft used to launch hypersonic missiles and glide bombs, with MiG-31 take-offs frequently triggering nationwide alerts across Ukraine. Russia did not immediately comment. The strike forms part of efforts to cripple Moscow's war effort and follows recent high-profile attacks by Kyiv's forces. Ukrainian forces also hit two oil refineries in Russia's Samara region and military targets in occupied territories, while Russian overnight attacks damaged energy infrastructure across four Ukrainian regions, killing ten people between 24 and 25 November.",
+      "id": "international-tragedies-4",
+      "micro_summary": "Ukrainian forces damaged five Russian military aircraft at the Savasleyka air base east of Moscow.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.756,
+      "sources": [
+        {
+          "publisher": "The Independent",
+          "url": "https://www.independent.co.uk/news/world/europe/savasleyka-air-base-russia-ukraine-strike-b3091788.html"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck"
+        }
+      ],
+      "summary": "Ukrainian forces struck the Savasleyka air base in Russia's Nizhny Novgorod region, damaging three MiG-31 jets and two Su-34 fighter-bombers.",
+      "timestamp": "2026-11-25T21:13:00Z"
+    },
+    {
+      "ai": false,
+      "articles": 3,
+      "category": "entertainment",
+      "extended_summary": "Action King Arjun Sarja and producer Anoop Mohan join for an ambitious patriotic Pan-India film. Mounted under the banner of Presidential Movies International Private Limited, the project marks the production house’s third feature film. The film’s auspicious muhurtham ceremony is scheduled to take place on November 27, 2026, at the sacred Sri Ram Janmabhoomi Temple in Ayodhya. Arjun Sarja will shoulder the dual responsibilities of director and lead actor. Being planned as a Pan-India production, the film will bring together prominent actors and technicians from Bollywood and various regional film industries. Retired Army officer Major Vijay Bhargavan has penned the story and screenplay. Rooted in patriotism, the film aims to celebrate the valour of the nation and its sacrifices for audiences across linguistic and regional boundaries. The auspicious ceremony in Ayodhya is expected to be attended by prominent personalities from the Indian film fraternity and distinguished guests from various walks",
+      "id": "national-entertainment-1",
+      "micro_summary": "Arjun joins hands with producer Anoop Mohan for a Pan-India patriotic film.",
+      "publishers": 3,
+      "scope": "national",
+      "score": 0.711,
+      "sources": [
+        {
+          "publisher": "https://www.metroindia.net/",
+          "url": "https://www.metroindia.net/news/articlenews/arjun-joins-hands-with-producer-anoop-mohan-47459"
+        },
+        {
+          "publisher": "Cinema Express",
+          "url": "https://www.cinemaexpress.com/tamil/news/2026/Nov/26/arjun-sarja-to-direct-and-star-in-patriotic-pan-india-film-title-to-be-unveiled-in-ayodhya"
+        },
+        {
+          "publisher": "The Hollywood Reporter India",
+          "url": "https://www.hollywoodreporterindia.com/features/insight/arjun-sarja-joins-forces-with-producer-anoop-mohan-for-ambitious-pan-india-film"
+        }
+      ],
+      "summary": "Arjun joins hands with producer Anoop Mohan for a Pan-India patriotic film. Action King Arjun Sarja and producer Anoop Mohan join for an ambitious patriotic Pan-India film.",
+      "timestamp": "2026-11-26T16:34:58Z"
+    },
+    {
+      "ai": true,
+      "articles": 3,
+      "category": "entertainment",
+      "extended_summary": "JioStar launched seven television channels on US-based live TV streaming platform Fubo on November 16, expanding Indian entertainment, movie and news content to audiences in the United States. The channels include Star Plus, Colors, Star Bharat, Colors Rishtey, Colors Cineplex, MTV India and News18 English. The lineup features general entertainment programming including shows such as \"Anupama,\" \"Yeh Rishta Kya Kehlata Hai\" and \"Kyunki Saas Bhi Kabhi Bahu Thi,\" reality franchises like \"Bigg Boss,\" Hindi films on Colors Cineplex, youth programming on MTV India, and news on News18 English. The channels are available through Fubo's Hindi Entertainment & Cricket package at $34.99 for the first month and $39.99 thereafter, or the JioStar package at $10.99 per month. The move targets South Asian households in the US and a wider audience interested in Indian storytelling.",
+      "id": "national-entertainment-2",
+      "micro_summary": "Seven JioStar channels including Star Plus and Colors launched on Fubo in the United States on November 16.",
+      "publishers": 3,
+      "scope": "national",
+      "score": 0.568,
+      "sources": [
+        {
+          "publisher": "BusinessLine",
+          "url": "https://www.thehindubusinessline.com/info-tech/jiostar-takes-indian-entertainment-films-and-news-to-us-viewers-through-fubo/article71745885.ece"
+        },
+        {
+          "publisher": "C21media",
+          "url": "https://www.c21media.net/news/indian-entertainment-giant-jiostar-expands-reach-in-the-us-via-fubo/"
+        },
+        {
+          "publisher": "Variety",
+          "url": "https://variety.com/2026/tv/news/jiostar-star-plus-colors-mtv-india-fubo-us-1236958804/"
+        }
+      ],
+      "summary": "JioStar launched seven channels including Star Plus, Colors, and News18 English on US streaming service Fubo on November 16, offering Indian entertainment and news to US viewers through packages priced at $10.99 and $34.99 monthly.",
+      "timestamp": "2026-11-26T09:18:18Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "politics",
+      "extended_summary": "Union Finance Minister Nirmala Sitharaman concluded pre-budget consultations for the Union Budget 2027-28 between November 16 and 26, chairing 13 meetings with over 200 stakeholders from 13 sectors. Participants included industry representatives, experts, academics, and youth representatives, with youth consultation being a new initiative. Discussions covered agriculture, manufacturing, MSMEs, banking, IT, infrastructure, energy, employment, housing, healthcare, education, R&D, and youth affairs. Stakeholders recommended strengthening human capital, boosting innovation, improving manufacturing competitiveness, raising agricultural productivity, and expanding employment. Key proposals included promoting domestic biofertiliser manufacturing, developing sector-specific AI models for local hardware, improving cyber-hygiene among MSMEs, supporting rural youth in non-farm employment, launching a nationwide reading movement for Grade 5 newspaper comprehension, emphasizing rental housing, and accelerating Tier-2 and Tier-3 city development. Secretary Anuradha Thakur, Chief Economic Adviser V. Anantha Nageswaran, and senior officials also participated.",
+      "id": "national-politics-1",
+      "micro_summary": "Finance Minister Nirmala Sitharaman concluded pre-budget consultations with over 200 stakeholders for the Union Budget 2027-28.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.603,
+      "sources": [
+        {
+          "publisher": "www.pib.gov.in",
+          "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2342200"
+        },
+        {
+          "publisher": "DD India",
+          "url": "https://ddindia.co.in/2026/11/finance-minister-concludes-pre-budget-consultations-for-union-budget-2027-28/"
+        }
+      ],
+      "summary": "Union Finance Minister Nirmala Sitharaman concluded pre-budget consultations for the Union Budget 2027-28, holding 13 meetings with over 200 stakeholders from 13 sectors between November 16 and 26 to discuss recommendations on manufacturing, agriculture, AI, education, and employment.",
+      "timestamp": "2026-11-26T18:59:41Z"
+    },
+    {
+      "ai": true,
+      "articles": 3,
+      "category": "politics",
+      "extended_summary": "The department of social justice and empowerment signed a memorandum of understanding with the Digital India BHASHINI Division to integrate AI-powered language technologies into SAMAVESH, the department's unified digital gateway. The initiative aims to remove barriers of scattered information and language limitations by enabling citizens to access welfare schemes in more than 22 languages. The integration will provide AI-powered translation, speech-based services and document summarisation, while strengthening the Samajik Sahayak chatbot. BHASHINI is also expanding to include tribal and underserved languages such as Bhili and Mizo across text, speech and video translation. The MoU was exchanged in the presence of Union social justice and empowerment minister Virendra Kumar and minister of state B L Verma. Amitabh Nag, CEO of Digital India BHASHINI Division, stated the vision is to ensure language never becomes a barrier to accessing government information and services.",
+      "id": "national-politics-2",
+      "micro_summary": "Social justice ministry signs MoU to deliver welfare services in over 22 languages via AI chatbot.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.507,
+      "sources": [
+        {
+          "publisher": "www.pib.gov.in",
+          "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2341811&reg=1&lang=1"
+        },
+        {
+          "publisher": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/india/ai-to-break-language-barriers-in-accessing-govt-welfare-schemes/articleshow/136196066.cms"
+        }
+      ],
+      "summary": "The social justice ministry signed an MoU with Digital India BHASHINI to integrate AI language tools into the SAMAVESH portal, enabling citizens to access welfare schemes in over 22 languages through an AI chatbot and document summarisation.",
+      "timestamp": "2026-11-26T14:57:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "science",
+      "extended_summary": "The Union Ministry of Electronics and Information Technology launched the indigenously developed Chariot-1 Foundation Models under the IndiaAI Mission. Developed by Chariot Artificial Intelligence Pvt. Ltd., one of the first four teams selected for the mission, the suite includes a Large Language Model and a Text-to-Speech model pre-trained from scratch in India. The Chariot-1 LLM is an 11-billion-parameter mixture-of-experts model with four billion active parameters per token, available in variants of 10.7 billion, 1.7 billion and 745 million parameters. The TTS model generates speech in English and 10 Indian languages including Hindi, Bengali, Marathi, Tamil, Telugu, Kannada, Malayalam, Gujarati, Punjabi and Odia, with context-aware pronunciation of numbers, dates, currencies and other elements. It recorded over 97 percent verbalisation accuracy on the Async TTS Pronunciation Benchmark, a 7.60 percent character error rate in Hindi, and a 6.47 percent average across nine other Indian languages.",
+      "id": "national-science-1",
+      "micro_summary": "India launches Chariot-1 AI models featuring an 11-billion-parameter LLM and multilingual speech system.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.483,
+      "sources": [
+        {
+          "publisher": "www.pib.gov.in",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2341725&lang=1&reg=48"
+        },
+        {
+          "publisher": "ET CIO",
+          "url": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/india-launches-indigenous-chariot-1-foundation-models-to-strengthen-sovereign-ai-capabilities/136183991"
+        }
+      ],
+      "summary": "India's Electronics Ministry launched the Chariot-1 Foundation Models, including an 11-billion-parameter LLM and a text-to-speech model supporting English and 10 Indian languages, achieving 97 percent accuracy on pronunciation benchmarks.",
+      "timestamp": "2026-11-26T08:30:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "sports",
+      "extended_summary": "The 2026-27 Big Bash League season will begin with a historic regular-season match at M.A. Chidambaram Stadium in Chennai on December 12, featuring Melbourne Renegades against defending champion Perth Scorchers. The fixture, starting at 2.40 p.m. local time, counts as a home game for the Renegades and represents the first time the league has staged a regular-season match outside Australia. Announced during Prime Minister Narendra Modi's visit to Australia in July, the match is a genuine league contest rather than an exhibition game. The event forms the climax of the G'day Namaste festival running from December 5-12 across multiple Indian cities. Australian High Commissioner Philip Green described cricket as the \"deep heartbeat\" of the India-Australia relationship, noting that the sport naturally binds the two nations together.",
+      "id": "national-sports-2",
+      "micro_summary": "The Big Bash League's first overseas regular-season match will open in Chennai on December 12.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.583,
+      "sources": [
+        {
+          "publisher": "The New Indian Express",
+          "url": "https://www.newindianexpress.com/cricket/2026/Nov/26/gday-namaste-cricket-binding-reality-in-india-australia-bilateral-relationships-says-high-commissioner-green"
+        },
+        {
+          "publisher": "Sportstar",
+          "url": "https://sportstar.thehindu.com/cricket/bbl-chennai-2026-australia-india-cricket-ties-renegades-scorchers-chepauk/article71746692.ece"
+        }
+      ],
+      "summary": "The 2026-27 Big Bash League season opener between Melbourne Renegades and defending champion Perth Scorchers will be played at M.A. Chidambaram Stadium in Chennai on December 12 at 2.40 p.m., marking the league's first regular-season match outside Australia.",
+      "timestamp": "2026-11-26T17:40:40Z"
+    }
+  ]
+}
