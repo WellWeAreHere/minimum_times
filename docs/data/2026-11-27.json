@@ -2,374 +2,393 @@
   "date": "2026-11-27",
   "events": [
     {
+      "ai": false,
+      "articles": 5,
+      "category": "entertainment",
+      "extended_summary": "WASHINGTON – Yesterday, U.S. Senator Jeanne Shaheen (D-NH), Ranking Member of the Senate Foreign Relations Committee, and Representative Gregory W. Meeks (D-NY), Ranking Member of the House Foreign Affairs Committee, sent a letter to Secretary of State Marco Rubio and Acting USAID Administrator Bill Woolf after USAID released a set of cherry-picked documents to justify DOGE’s illegal dismantling of the agency and misrepresent USAID’s life-saving work around the world.Full text of the letter is available HERE and provided below.Dear Secretary Rubio and Acting Administrator Woolf: We are writing to express our concern about the apparent misuse of the USAID.gov website. Last night, links to documents were posted that include Personally Identifiable Information (PII) and potentially other sensitive data in likely contravention of federal law and regulations. We urge you to immediately remove this information from the USAID.gov website and ensure any information that appears is in full compliance with applicable",
+      "id": "international-entertainment-1",
+      "micro_summary": "Right-Wing Influencer Involved in ‘Reckless’ Release of USAID Files - Organized Crime and Corruption Reporting Project.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.651,
+      "sources": [
+        {
+          "publisher": "Organized Crime and Corruption Reporting Project | OCCRP",
+          "url": "https://www.occrp.org/en/feature/right-wing-influencer-involved-in-reckless-release-of-usaid-files"
+        },
+        {
+          "publisher": "Devex",
+          "url": "https://www.devex.com/news/usaid-files-go-public-igniting-a-firestorm-over-disinformation-work-113981"
+        },
+        {
+          "publisher": "US Senate Committee on Foreign Relations (.gov)",
+          "url": "https://www.foreign.senate.gov/press/dem/release/shaheen-meeksdemand-answers-on-administrations-selective-release-of-usaid-files"
+        }
+      ],
+      "summary": "Right-Wing Influencer Involved in ‘Reckless’ Release of USAID Files - Organized Crime and Corruption Reporting Project.",
+      "timestamp": "2026-11-26T18:20:02Z"
+    },
+    {
       "ai": true,
       "articles": 5,
-      "category": "business",
-      "extended_summary": "Washington warned EU leaders against implementing a bloc-wide digital services tax as they gathered in Brussels to discuss funding the EU's €2 trillion long-term budget. The Trump administration opposes the EU-wide digital levy, arguing it discriminates against US companies and hurts consumers. European Council President António Costa proposed reviving talks on the tax, which would target companies with global turnover above €750 million including at least €50 million in Europe, catching US tech giants such as Google, Meta and Amazon. The proposal aims to generate new revenue and reduce the burden on national coffers. France, Denmark, Spain and Italy support the measure. The warning came as Washington threatened new tariffs on the EU following a separate investigation into industrial overcapacity. The European Commission originally proposed an EU-wide digital tax in 2018 but shelved it for OECD talks, while France, Austria and Italy implemented national levies that drew retaliation threats.",
-      "id": "international-business-1",
-      "micro_summary": "Washington opposes an EU digital services tax targeting Big Tech to fund the €2 trillion budget.",
-      "publishers": 4,
+      "category": "politics",
+      "extended_summary": "President Donald Trump adopted a stronger tone toward Russia, telling Vladimir Putin to halt military aggression against Europe and pull back to secure a peace deal with Ukraine. In comments posted Thursday, Trump said he urged the Russian leader during conversations in China last week to end military aggression across the continent to facilitate a rapid agreement between Russia and Ukraine. He also warned Putin not to widen the war against Ukraine. The remarks followed a Wednesday evening meeting with NATO Secretary General Mark Rutte at Mar-a-Lago in Florida, where the pair issued a joint statement calling on Putin not to expand the conflict and to resolve it peacefully as rapidly as possible. They also discussed boosting defense spending in both the United States and NATO. The Kremlin responded by accusing Kyiv of attempting to spread the war to the Mediterranean and Baltic seas, referencing Ukraine's sinking of a Russian naval corvette in a Libyan port on Sunday.",
+      "id": "international-politics-1",
+      "micro_summary": "President Trump urged Putin to halt military aggression against Europe and secure a peace deal with Ukraine.",
+      "publishers": 5,
       "scope": "international",
-      "score": 0.784,
+      "score": 0.821,
       "sources": [
-        {
-          "publisher": "POLITICO.eu",
-          "url": "https://www.politico.eu/article/us-fires-warning-shot-ahead-of-eu-leaders-big-tech-tax-talks/"
-        },
         {
           "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks"
+          "url": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates"
         },
         {
-          "publisher": "Financial Times",
-          "url": "https://www.ft.com/content/3f577839-deed-40f4-af9f-bf8fb54890e3?syn-25a6b1a6=1"
+          "publisher": "Sky News",
+          "url": "https://news.sky.com/story/ukraine-war-latest-kyiv-drone-attack-russian-warship-libya-12541713"
+        },
+        {
+          "publisher": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/world-news/2026/11/26/donald-trump-warning-ukraine-war-russia/"
         }
       ],
-      "summary": "The Trump administration warned EU leaders against a proposed bloc-wide digital services tax targeting companies with over €750 million global turnover, complicating efforts to fund the EU's €2 trillion budget as leaders meet in Brussels.",
-      "timestamp": "2026-11-26T11:21:00Z"
+      "summary": "President Trump told Vladimir Putin to halt military aggression against Europe and pull back to secure a peace deal with Ukraine, warning against widening the war after meeting NATO chief Mark Rutte at Mar-a-Lago.",
+      "timestamp": "2026-11-26T15:59:12Z"
     },
     {
-      "ai": false,
+      "ai": true,
       "articles": 5,
       "category": "politics",
-      "extended_summary": "Italy has denounced Ukraine for carrying out attacks against Russian vessels in Libyan waters, saying it was wrong to “violate Libya’s sovereignty”. Rome’s rebuke marks a crack in its relationship with Ukraine, which Italy has largely supported since Russia’s full-scale invasion in 2022, including with military assistance. It coincides with growing concern about the involvement of foreign powers in a divided Libya, as well as the risk of other nations being drawn into the Russia-Ukraine conflict. So why has Italy weighed in now, and what makes Libya so strategically important to Rome? Kyiv claimed it sank a Russian warship and struck a cargo vessel transporting military equipment off Libya’s coast on Sunday night. The attack on the warship at Benghazi port in eastern Libya killed two naval officers of the self-styled Libyan National Army (LNA), according to Libya’s eastern-based forces. Ukraine’s Foreign Minister Andrii Sybiha described the vessels as legitimate",
-      "id": "international-politics-1",
-      "micro_summary": "Why is Italy angry with Ukraine for striking Russian ships off Libya?",
+      "extended_summary": "Volodymyr Zelensky voiced frustration with the United States in an interview, saying delays in delivering anti-ballistic missiles are costing Ukrainian lives and that Washington is not pushing Russia hard enough during peace negotiations. He described as \"strange\" Donald Trump's social media post showing him embracing Vladimir Putin as \"my friend,\" stating that Putin is an aggressor and killer who cannot be a friend, comparing the situation to befriending Adolf Hitler during World War II. Zelensky noted that the latest round of peace talks mediated in Abu Dhabi earlier this month made no obvious progress, with talks expected to resume in December. While Trump posted that he urged Russia to pull back military aggression, Russia appears to have returned to hardline negotiating positions. Meanwhile, Russian strikes have grown more frequent and deadly, with civilian casualties reaching an all-time high during five years of full-scale invasion.",
+      "id": "international-politics-3",
+      "micro_summary": "Zelensky calls Trump's friendship with Putin 'strange' and says the Russian leader is a killer.",
       "publishers": 5,
       "scope": "international",
-      "score": 0.818,
-      "sources": [
-        {
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/26/why-is-italy-angry-with-ukraine-for-striking-russian-ships-off-libya"
-        },
-        {
-          "publisher": "Financial Times",
-          "url": "https://www.ft.com/content/7461793f-6983-45ea-8ba2-8b1824df9379?syn-25a6b1a6=1"
-        },
-        {
-          "publisher": "The Economist",
-          "url": "https://www.economist.com/the-world-this-week/2026/11/26/politics"
-        }
-      ],
-      "summary": "Why is Italy angry with Ukraine for striking Russian ships off Libya? Italy has denounced Ukraine for carrying out attacks against Russian vessels in Libyan waters, saying it was wrong to “violate Libya’s sovereignty”.",
-      "timestamp": "2026-11-26T15:07:56Z"
-    },
-    {
-      "ai": false,
-      "articles": 5,
-      "category": "politics",
-      "extended_summary": "Myanmar's president Min Aung Hlaing has led the country since he seized power in a 2021 military coup Myanmar will not comply with \"inappropriate\" parts of the genocide ruling by the International Court of Justice (ICJ), its leader Min Aung Hlaing has said in his first public comments since the court decision. The ICJ's landmark ruling last week found Myanmar guilty of committing genocide against its Rohingya minority in a 2017 military crackdown that killed thousands and forced more than 700,000 to flee. Myanmar denied committing genocide, saying its forces had responded to attacks by armed groups. It is the first state to have been found in violation of the 1948 Genocide Convention. Min Aung Hlaing said \"the term 'genocide' had seriously affected the country's reputation\", state media report. \"Myanmar would take actions appropriate for a responsible country but would not comply with requirements it considered inappropriate,\" the country's coup",
-      "id": "international-politics-2",
-      "micro_summary": "Myanmar refuses to comply with parts of ICJ genocide ruling.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.795,
+      "score": 0.814,
       "sources": [
         {
           "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo"
+          "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo"
         },
         {
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/commentisfree/2026/nov/24/genocide-verdict-myanmar-implications-israel-world"
+          "publisher": "WSJ",
+          "url": "https://www.wsj.com/opinion/apologizing-for-my-friend-vladimir-putin-trump-russia-904978e5"
         },
         {
-          "publisher": "The Conversation",
-          "url": "https://theconversation.com/myanmar-genocide-ruling-presents-china-with-a-dilemma-297324"
+          "publisher": "Reuters",
+          "url": "https://www.reuters.com/world/china/us-intelligence-chief-says-putin-is-not-americas-friend-ukraine-2026-11-22/"
         }
       ],
-      "summary": "Myanmar refuses to comply with parts of ICJ genocide ruling. The recent ruling by the International Court of Justice (ICJ) that Myanmar committed genocide against its Rohingya Muslim minority in 2017 challenges China both economically and politically.",
-      "timestamp": "2026-11-26T09:23:23Z"
+      "summary": "Volodymyr Zelensky criticized Donald Trump's friendship with Vladimir Putin as 'strange,' calling the Russian leader an aggressor and killer, while urging the US to push harder for peace talks amid stalled negotiations and rising civilian deaths.",
+      "timestamp": "2026-11-26T22:41:45Z"
     },
     {
       "ai": true,
       "articles": 5,
       "category": "politics",
-      "extended_summary": "Spain holds snap general elections on Sunday, called eight months early by Prime Minister Pedro Sánchez after MPs rejected housing law changes. The vote follows protests triggered by the eviction and death of 87-year-old Maricarmen Abascal. Polls open at 09:00 and close at 20:00. Nearly 39 million of Spain's almost 50 million population are eligible to vote. Opinion polls place Alberto Núñez Feijóo's People's Party narrowly ahead of Sánchez's Socialists, with far-right Vox third. The PP is projected to fall short of an outright majority but, with Vox, is expected to hold enough seats to govern. Andalusia, governed since May by a PP-Vox coalition, serves as a test case for national cooperation. Key issues include a housing crisis with prices up over 80% since 2015, cost of living, corruption, and immigration. On 11 November, four million Spaniards joined the first general strike in 14 years over housing shortages.",
-      "id": "international-politics-3",
-      "micro_summary": "Spain holds snap elections Sunday with the People's Party narrowly leading polls ahead of the Socialists and Vox.",
+      "extended_summary": "Spain holds snap general elections on 29 November, called eight months early by Prime Minister Pedro Sánchez after MPs rejected planned housing law changes and nationwide protests followed the eviction and subsequent death of 87-year-old Maricarmen Abascal in Madrid. Polls open at 09:00 and close at 20:00, with provisional results expected an hour later. Opinion polls place Alberto Núñez Feijóo's conservative People's Party narrowly ahead of Sánchez's Socialist PSOE, with the far-right Vox party third. While the PP is projected to fall short of an outright majority, together with Vox it is expected to hold enough seats to govern, mirroring the coalition already ruling Andalusia since May. Key voter concerns include housing costs, which have risen over 80% since 2015, high cost of living, corruption, immigration, and a recent devastating rail disaster. Nearly 39 million of Spain's almost 50 million population are eligible to vote.",
+      "id": "international-politics-4",
+      "micro_summary": "Spain votes in snap elections on 29 November with the People's Party narrowly leading polls against Prime Minister Sánchez's Socialists.",
       "publishers": 5,
       "scope": "international",
-      "score": 0.793,
+      "score": 0.807,
       "sources": [
         {
-          "publisher": "Financial Times",
-          "url": "https://www.ft.com/content/6b8ac07d-d589-4ff2-9ad3-8cda56287a8e?syn-25a6b1a6=1"
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/26/andalusia-offers-a-glimpse-of-spains-future-as-the-far-right-gains-ground"
         },
         {
           "publisher": "BBC",
           "url": "https://www.bbc.co.uk/news/articles/c6wy4ejnyvdyo"
         },
         {
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/26/andalusia-offers-a-glimpse-of-spains-future-as-the-far-right-gains-ground"
+          "publisher": "Financial Times",
+          "url": "https://www.ft.com/content/6b8ac07d-d589-4ff2-9ad3-8cda56287a8e?syn-25a6b1a6=1"
         }
       ],
-      "summary": "Spain votes in snap elections Sunday after Prime Minister Pedro Sánchez called the vote early over housing protests. Polls show the People's Party narrowly ahead of the Socialists, with Vox third, among 39 million eligible voters.",
-      "timestamp": "2026-11-26T05:02:48Z"
+      "summary": "Spain votes in snap elections on 29 November after Prime Minister Pedro Sánchez called the poll early following housing protests. Polls show Alberto Núñez Feijóo's People's Party narrowly ahead of Sánchez's Socialists with Vox third, requiring Vox support to govern.",
+      "timestamp": "2026-11-26T15:16:04Z"
     },
     {
-      "ai": false,
+      "ai": true,
       "articles": 5,
-      "category": "politics",
-      "extended_summary": "Estonian Prime Minister Kristen Michal has supported the idea of linking negotiations on the EU's long-term budget to funding for Ukraine. Source: Kristen Michal's remarks upon arrival at the EU summit in Brussels, as reported by European Pravda Details: Michal said Ukraine is facing a winter \"which is like hell\" and needs to know that Europe is ready to stand by it. Quote: \"Ukraine is fighting for us. We are only counting euros. That is not a bad thing, euros have to be counted, but they [Ukrainians – ed.] are shedding blood. So, I would say that whatever we can do – we must do.\" Details: Michal also warned against any further cuts to defence spending amid Russia's escalation of its hybrid warfare. Background: The Netherlands has supported Germany's demand that the EU's next long-term budget for 2028-2034 should not be approved without all member states agreeing to participate in",
-      "id": "international-politics-4",
-      "micro_summary": "After initial reluctance, Bulgaria will join €45 billion Ukraine loan.",
+      "category": "science",
+      "extended_summary": "Russia has started deploying its Rassvet satellite constellation, developed by Bureau 1440, for military communications and attacks over Ukraine. The system, which operates in low Earth orbit, is being used to improve strike accuracy, expand reconnaissance drone capabilities, and strengthen resilience against electronic warfare. First launches of serial Rassvet satellites occurred in March and July 2026. This deployment follows Russia's loss of access to SpaceX's Starlink network in early 2026, when SpaceX and the Ukrainian Defense Ministry implemented a whitelist that deactivated terminals used by Russian forces. Prior to this cutoff, Russian military units had acquired Starlink terminals through third countries to maintain communications in the battle zone. Since losing Starlink access, the Ukrainian army has recaptured approximately 400 square kilometers of territory. Ukrainian military intelligence reports that while Rassvet is now operational, the constellation remains insufficient to provide uninterrupted coverage of Ukrainian territory.",
+      "id": "international-science-3",
+      "micro_summary": "Russia deploys Rassvet satellite network for military operations in Ukraine after losing Starlink access.",
       "publishers": 5,
       "scope": "international",
-      "score": 0.784,
+      "score": 0.658,
       "sources": [
         {
-          "publisher": "Euronews.com",
-          "url": "https://www.euronews.com/2026/11/26/after-initial-reluctance-bulgaria-says-its-ready-to-join-45-billion-ukraine-loan"
+          "publisher": "DW.com",
+          "url": "https://www.dw.com/en/can-rassvet-russias-starlink-change-the-course-of-the-war-in-ukraine/a-80052579"
         },
         {
-          "publisher": "Financial Times",
-          "url": "https://www.ft.com/content/75d9fa3c-61cf-4236-ae73-f555c27766a4"
+          "publisher": "The Times",
+          "url": "https://www.thetimes.com/world/russia-ukraine-war/article/satellites-rassvet-starlink-bq2kql5vl"
         },
         {
-          "publisher": "Українська правда",
-          "url": "https://www.pravda.com.ua/eng/news/2026/11/26/8064758/"
+          "publisher": "The Independent",
+          "url": "https://www.independent.co.uk/bulletin/news/russian-starlink-threat-london-putin-b3092199.html"
         }
       ],
-      "summary": "After initial reluctance, Bulgaria will join €45 billion Ukraine loan. That is not a bad thing, euros have to be counted, but they [Ukrainians – ed.] are shedding blood.",
-      "timestamp": "2026-11-26T10:18:45Z"
+      "summary": "Russia has begun using its Rassvet satellite system for military communications and attacks over Ukraine, aiming to improve strike accuracy and drone capabilities after losing access to Starlink terminals in early 2026.",
+      "timestamp": "2026-11-26T07:22:42Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "science",
+      "extended_summary": "NATO chief Mark Rutte stated the alliance will defend against threats in space after claims indicated Russia is preparing to launch a nuclear-armed satellite within 60 days. The satellite, named Sputnik-S, carries a nuclear warhead capable of disrupting or destroying other satellites. Rutte vowed NATO would defend every inch of its territory, including space, and would assess deterrence options. German Chancellor Friedrich Merz called the claims shocking, revealing Russia's escalation. Kremlin spokesman Dmitry Peskov dismissed the stories, while the Russian embassy rejected the allegations as unfounded propaganda. Russia is a signatory to the 1967 Outer Space Treaty banning weapons of mass destruction from orbit. European Space Agency head Josef Aschbacher called nuclear weapons in space the ultimate nightmare scenario, while Durham University's Bleddyn Bowen warned of massive infrastructural effects from a space nuclear explosion.",
+      "id": "international-science-4",
+      "micro_summary": "NATO and Germany respond to claims that Russia plans to launch a nuclear-armed satellite within 60 days.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.6,
+      "sources": [
+        {
+          "publisher": "Le Monde.fr",
+          "url": "https://www.lemonde.fr/en/international/article/2026/11/25/risk-of-russia-launching-a-nuclear-weapon-into-space-within-two-months-deemed-serious_6788608_4.html"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/26/what-would-be-the-fallout-from-a-nuclear-armed-satellite-detonated-into-space"
+        },
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo"
+        }
+      ],
+      "summary": "NATO chief Mark Rutte and German Chancellor Friedrich Merz addressed claims that Russia plans to launch a nuclear-armed satellite dubbed Sputnik-S within 60 days, with Rutte vowing NATO will defend space and Merz calling the claims shocking.",
+      "timestamp": "2026-11-25T22:43:22Z"
     },
     {
       "ai": true,
       "articles": 10,
       "category": "sports",
-      "extended_summary": "The Pittsburgh Steelers released quarterback Aaron Rodgers following his public criticism of head coach Mike McCarthy and an ultimatum demanding control over play-calling. Team president Art Rooney II stated that \"insubordination will not be tolerated\" and expressed \"100% confidence\" in McCarthy remaining coach for years to come. Rodgers, 42, had appeared on a national television show to accuse McCarthy of sleeping in meetings and mishandling a halftime huddle. Rooney criticized Rodgers for not being a \"good teammate\" by making comments two days before the Black Friday game against the Denver Broncos. Mason Rudolph will replace Rodgers as the starting quarterback, with Rooney expressing confidence in Rudolph and the locker room to perform well. The decision followed a meeting where Rodgers allegedly told McCarthy to either let him call all plays or release him.",
+      "extended_summary": "The Nations Championship finals week at Twickenham requires unprecedented logistical coordination to host more than 550 players and support staff from the world's top 12 teams for six matches compressed into three days at a single venue. Organizers made block bookings at hotels across Brentford, Guildford, Cobham and beyond to accommodate teams during a busy Black Friday shopping weekend, with chefs and nutritionists ensuring adequate supplies for high-energy diets. Each team received private training facilities at local clubs, schools and universities, with choices based on world rankings, while South Africa secured the Teddington base. Teams conduct eve-of-match captain's runs at training grounds rather than the venue. Special requests included Argentina's asado barbecue and Japan's imported rice cooker. Each team was provided four vehicles including a bus, people carrier, kit van and equipment truck to transport players between accommodations, training bases and Twickenham.",
       "id": "international-sports-1",
-      "micro_summary": "Steelers release Aaron Rodgers after public criticism of coach Mike McCarthy, naming Mason Rudolph as replacement quarterback.",
-      "publishers": 7,
+      "micro_summary": "Organizers coordinate unprecedented logistics for Nations Championship finals week hosting 550 players from 12 teams at Twickenham.",
+      "publishers": 8,
       "scope": "international",
-      "score": 0.947,
+      "score": 0.913,
       "sources": [
-        {
-          "publisher": "Pittsburgh Post-Gazette",
-          "url": "https://www.post-gazette.com/sports/steelers/art-rooney-aaron-rodgers-mike-mccarthy-OWI5SSIIDJC6FKGMOJ4BFAN32Q/"
-        },
-        {
-          "publisher": "ESPN",
-          "url": "https://www.espn.com/nfl/story/_/id/50605070/steelers-owner-disappointed-rodgers-backs-mccarthy"
-        },
         {
           "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/sport/2026/nov/26/aaron-rodgers-released-pittsburgh-steelers-nfl-exit"
+          "url": "https://www.theguardian.com/sport/2026/nov/26/nations-championship-woolly-hats-battered-bodies-big-tv-numbers-mark-rugby-union-festival-finale"
         },
-        {
-          "publisher": "Sky Sports",
-          "url": "https://www.skysports.com/nfl/live-blog/13616869/nfl-thanksgiving-2026-live-bears-vs-lions-cowboys-vs-eagles-updates-results-highlights-and-how-to-watch-live-on-sky-sports"
-        },
-        {
-          "publisher": "The New York Times",
-          "url": "https://www.nytimes.com/athletic/7812979/2026/11/25/steelers-headquarters-rodgers-mccarthy-mcafee/"
-        }
-      ],
-      "summary": "The Pittsburgh Steelers released quarterback Aaron Rodgers and named Mason Rudolph the starter after Rodgers publicly criticized coach Mike McCarthy and issued an ultimatum demanding play-calling control, prompting team president Art Rooney II to declare insubordination intolerable.",
-      "timestamp": "2026-11-26T17:17:00Z"
-    },
-    {
-      "ai": false,
-      "articles": 5,
-      "category": "sports",
-      "extended_summary": "",
-      "id": "international-sports-2",
-      "micro_summary": "",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.843,
-      "sources": [
-        {
-          "publisher": "This Is Anfield",
-          "url": "https://www.thisisanfield.com/2026/11/alexander-isak-10-goals-liverpool-record-england/"
-        },
-        {
-          "publisher": "ESPN",
-          "url": "https://www.espn.co.uk/football/story/_/id/50605027/liverpool-virgil-van-dijk-alexander-isak"
-        },
-        {
-          "publisher": "LiveScore",
-          "url": "https://www.livescore.com/en/news/football/more/alexander-isak-targets-mohamed-salah-record-in-merseyside-derby-si/"
-        }
-      ],
-      "summary": "",
-      "timestamp": "2026-11-26T17:09:17Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "sports",
-      "extended_summary": "The 2027 HSBC SVNS Series begins Saturday, 28 November at The Sevens Stadium in Dubai, with South Africa's defending champion Blitzboks opening their title defense against Australia, Argentina and the USA in Pool A. The tournament marks the first of six events culminating in a three-event World Championship, where a top-four finish secures automatic qualification for the Los Angeles 2028 Olympics. Captain Siviwe Soyizwapi, 33, leads the side for the 38th time, while the team faces injury setbacks with Impi Visser, top scorer Shilton van Wyk (160 points, 32 tries last season), Zander Reynders and Jayden Nell all ruled out, and Mfundo Ndhlovu and Donavan Don having departed for URC opportunities. The Blitzboks enter as 2026 league and World Championship winners, having secured victories in Cape Town, Perth, Vancouver, New York and their first Hong Kong title last season.",
-      "id": "international-sports-3",
-      "micro_summary": "Blitzboks begin 2027 SVNS Series title defense in Dubai amid injury concerns and Olympic qualification stakes.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.834,
-      "sources": [
-        {
-          "publisher": "News24",
-          "url": "https://www.news24.com/sport/rugby/sevens/new-blitzbok-mars-can-sidestep-someone-in-a-telephone-booth-says-former-boishaai-coach-20261126-0617"
-        },
-        {
-          "publisher": "Daily Maverick",
-          "url": "https://www.dailymaverick.co.za/article/2026-11-26-blitzboks-reload-for-another-crack-at-world-champs-glory/"
-        },
-        {
-          "publisher": "EWN",
-          "url": "https://www.ewn.co.za/2026/11/26/soyizwapi-says-blitzboks-will-ignore-olympic-pressure-and-focus-on-process"
-        }
-      ],
-      "summary": "South Africa's defending champion Blitzboks open the 2027 HSBC SVNS Series in Dubai on Saturday against Australia, Argentina and the USA while targeting Olympic qualification for Los Angeles 2028 despite several key injuries.",
-      "timestamp": "2026-11-26T11:30:27Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "sports",
-      "extended_summary": "The Los Angeles Rams defeated the Green Bay Packers 26-13 on Thanksgiving Eve, improving to 7-4 and moving into second place in the NFC West behind the 9-1 San Francisco 49ers. Both teams entered at 6-4 competing for the final NFC wild-card spot, and the victory raised the Rams' playoff chances from 45% to 55%. Running back Blake Corum had a career-high 32 carries for 184 yards and a touchdown, plus two catches for 21 yards. Kyren Williams scored on a 7-yard run. The Rams scored on their first three drives despite missing wide receivers Puka Nacua and Davante Adams. The team lost tight ends Davis Allen (ankle) and Tyler Higbee (chest), while Terrance Ferguson was expected to need season-ending surgery. The Rams have won five straight games but face the hardest remaining schedule in the NFL.",
-      "id": "international-sports-4",
-      "micro_summary": "The Los Angeles Rams defeated the Green Bay Packers 26-13 to improve to 7-4 and boost playoff chances to 55%.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.834,
-      "sources": [
-        {
-          "publisher": "The New York Times",
-          "url": "https://www.nytimes.com/athletic/7813754/2026/11/26/packers-playoff-picture-rams-loss/"
-        },
-        {
-          "publisher": "ESPN",
-          "url": "https://www.espn.com/nfl/story/_/id/50599736/2026-nfl-week-12-los-angeles-rams-green-bay-packers"
-        },
-        {
-          "publisher": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/channel-eagles-time-cowboys-game-175522876.html"
-        }
-      ],
-      "summary": "The Los Angeles Rams defeated the Green Bay Packers 26-13 on Thanksgiving Eve, improving to 7-4 and raising playoff chances to 55%. Blake Corum rushed for 184 yards and a touchdown, while the Rams lost two tight ends to injury.",
-      "timestamp": "2026-11-26T13:02:47Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "tragedies",
-      "extended_summary": "Two Italian technicians working for German arms manufacturer Rheinmetall died following a drone strike on a facility in Kuwait, which Italian and Kuwaiti authorities blamed on Iran. The attack also injured four people, including a Kuwaiti national and a Pakistani national, from falling shrapnel after drones were detected and intercepted. The victims were working at an air defence detection station performing maintenance on systems used by the Kuwaiti Armed Forces. Iran denied responsibility, with armed forces spokesperson Abolfazl Shekarchi stating no military operations had been conducted. The strike occurred just over a week after Kuwait repelled Iranian drone attacks on an airbase hosting US forces. The conflict began when the US and Israel attacked Iran in late February, prompting Iran to launch missiles and drones at Israel and Gulf Arab states hosting US military assets.",
-      "id": "international-tragedies-1",
-      "micro_summary": "Two Italian technicians were killed in an Iranian drone strike on a Kuwaiti Rheinmetall facility.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.805,
-      "sources": [
         {
           "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o"
+          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6wy4kmjggr9o"
         },
-        {
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh"
-        },
-        {
-          "publisher": "Financial Times",
-          "url": "https://www.ft.com/content/e5f3128d-5f8b-416c-90d1-2549175cb091?syn-25a6b1a6=1"
-        }
-      ],
-      "summary": "Two Italian nationals working for Rheinmetall died in a drone strike on a Kuwaiti facility blamed on Iran, which denied responsibility. Four people were injured, including a Kuwaiti and a Pakistani national, from falling shrapnel.",
-      "timestamp": "2026-11-26T15:36:08Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "tragedies",
-      "extended_summary": "Severe coastal storms prompting wind gusts between 60 and 70 mph forced officials to postpone the 100th Macy's Thanksgiving Day Parade in New York City to Saturday, Nov. 28 at 8:30 a.m., the first weather-related delay in the event's century-long history. The parade has only been canceled three times previously, during World War II from 1942 to 1944. Safety regulations require sustained winds below 23 mph and gusts under 34 mph for the giant balloons to fly, limits established after a 1997 incident. Macy's had planned 100 inflatables including 10 new balloons. Governor Kathy Hochul declared a state of emergency for Long Island, New York City and Westchester County. The balloons were deflated Wednesday night and stored in New Jersey for reinflation Saturday. Mayor Zohran Mamdani emphasized that safety remained the top priority despite the inconvenience to visitors.",
-      "id": "international-tragedies-2",
-      "micro_summary": "Macy's 100th Thanksgiving Day Parade postponed to Saturday due to severe coastal storm.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.795,
-      "sources": [
         {
           "publisher": "The Telegraph",
-          "url": "https://www.telegraph.co.uk/world-news/2026/11/26/macys-thanksgiving-parade-deflates-balloons-storm-threat/"
+          "url": "https://www.telegraph.co.uk/rugby-union/2026/11/26/telegraph-writers-predict-nations-championships-finals/"
         },
         {
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo"
+          "publisher": "SA Rugby magazine",
+          "url": "https://www.sarugbymag.co.za/twickers-turf-beating/"
+        }
+      ],
+      "summary": "The Nations Championship finals week brings over 550 players and staff from 12 teams to Twickenham for six matches in three days, requiring block-booked hotels, private training grounds, and specialized catering including Argentina's asado and Japan's rice cooker.",
+      "timestamp": "2026-11-26T23:52:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "Police located stolen trophies at a home on Orrong Road in Elsternwick around 10am Thursday, but three Melbourne Cup trophies won by Makybe Diva between 2003 and 2005 and the 1948 Caulfield Cup remain missing. The Melbourne Cups are valued at $3 million. A 39-year-old man arrested on November 16 over a Caulfield Racecourse theft was charged with burglary and theft, then re-arrested and charged with offences relating to a Flemington Racecourse heist where the Makybe Diva trophies were stolen from a smashed cabinet around 6.30am on November 16. He was bailed to appear at Moorabbin Magistrates' Court on March 1. A 36-year-old man was also charged with burglary, theft and dealing proceeds of crime. The 1948 Caulfield Cup was allegedly stolen between November 4 and 11, while a fourth Melbourne Cup was taken on November 12. Makybe Diva's former owner Tony Santic was devastated by the theft.",
+      "id": "international-sports-2",
+      "micro_summary": "Stolen racing trophies found at Melbourne home while three Melbourne Cups worth $3 million remain missing.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.884,
+      "sources": [
+        {
+          "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "url": "https://www.abc.net.au/news/2026-11-27/parts-of-stolen-melbourne-cups-found-by-victoria-police/107434604"
+        },
+        {
+          "publisher": "Nine.com.au",
+          "url": "https://www.nine.com.au/australia-news/vic/stolen-racing-trophies-found-during-search-of-melbourne-home-20261126-p61hnv.html"
+        },
+        {
+          "publisher": "Herald Sun",
+          "url": "https://www.heraldsun.com.au/sport/horse-racing/melbourne-cup/stolen-racecourse-trophies-and-alcohol-found-in-elsternwick-search-but-four-melbourne-cups-still-missing/news-story/4e580146904eed11b2d284199c3bc9a0"
+        }
+      ],
+      "summary": "Police found stolen racing trophies at a Melbourne home but three Melbourne Cups won by Makybe Diva and the 1948 Caulfield Cup remain missing after heists at Caulfield and Flemington racecourses.",
+      "timestamp": "2026-11-27T01:21:57Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "The Buffalo Bills (9-1) host the Kansas City Chiefs (8-2) in the final primetime game of the NFL's Thanksgiving Day slate. Buffalo, tied for the best record in the league, can become the first 10-win team with a victory over Kansas City. The Chiefs have previously spoiled Bills' success, as Patrick Mahomes has defeated Josh Allen and Buffalo four times in the postseason. Kansas City enters the matchup following a 34-7 victory over the Arizona Cardinals, with Mahomes throwing for 672 yards and eight touchdowns over his last two games. Weather in Buffalo is expected to be poor, with temperatures around 37 degrees, a high chance of rain, and 19 mile-per-hour winds. Chiefs running back Kenneth Walker III is missing the game with a groin issue.",
+      "id": "international-sports-3",
+      "micro_summary": "Buffalo Bills host Kansas City Chiefs in Thanksgiving Day finale with 9-1 and 8-2 records.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.868,
+      "sources": [
+        {
+          "publisher": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nfl/live/chiefs-bills-score-live-updates-inactives-highlights-stats-where-to-watch-week-12-thanksgiving-235500403.html"
         },
         {
           "publisher": "Fox News",
-          "url": "https://www.foxnews.com/us/macys-thanksgiving-day-parade-postponed-has-holiday-tradition-ever-been-canceled"
+          "url": "https://www.foxnews.com/outkick-betting/patrick-mahomes-josh-allen-set-up-another-shootout-chiefs-face-bills-thanksgiving"
+        },
+        {
+          "publisher": "FOX Sports",
+          "url": "https://www.foxsports.com/live-blog/nfl/chiefs-vs-bills-live-updates-score"
         }
       ],
-      "summary": "Severe coastal storms with 60-70 mph winds forced Macy's to postpone its 100th Thanksgiving Day Parade in New York City to Saturday, Nov. 28, marking the first weather-related delay in the event's history.",
-      "timestamp": "2026-11-26T09:55:00Z"
+      "summary": "The Buffalo Bills (9-1) host the Kansas City Chiefs (8-2) in the final Thanksgiving Day NFL game, with Buffalo seeking to become the first 10-win team and Kansas City looking to spoil their rival's milestone.",
+      "timestamp": "2026-11-27T01:50:00Z"
     },
     {
-      "ai": false,
+      "ai": true,
       "articles": 5,
-      "category": "tragedies",
-      "extended_summary": "Powerful storms threaten Thanksgiving travel across North America Coastal areas of California are bracing for potential flooding as king tides peak in the state during the US Thanksgiving holiday. Water levels across the US state's vast coastline could reach over 8ft (2.4 metres) in some areas on Wednesday and Thursday, according to the National Weather Service (NWS) - breaking records set just last month. The NWS has warned parts of California could face major coastal flooding, which is likely to be significant in low-lying areas. There have already been some reports of flooding. Meanwhile, storms are also forecast for the Pacific Northwest, including the Canadian province of British Columbia, and eastern parts of the US. Portions of a pier in northern California came crashing down into the ocean on Wednesday as high tides and strong waves battered the structure, video showed. Beachgoers have been advised to stay away from the",
-      "id": "international-tragedies-3",
-      "micro_summary": "California warns of flooding as King Tides peak over Thanksgiving.",
+      "category": "sports",
+      "extended_summary": "The Philadelphia Eagles defeated the Dallas Cowboys 39-38 in a Thanksgiving Day game in Dallas after erasing a 31-10 deficit. Eagles kicker Jake Elliott won the game with a 59-yard field goal with two seconds remaining. Eagles quarterback Joe Milton threw for 331 yards with three touchdown passes and scored a rushing touchdown in his best career performance. Cowboys quarterback Dak Prescott threw for 291 yards with two touchdowns and no interceptions, while CeeDee Lamb had 134 receiving yards and Javonte Williams scored three total touchdowns. Eagles receiver DeVonta Smith caught 11 passes for 200 yards and two touchdowns. The Eagles also blocked a punt for a touchdown, while Cowboys kicker Brandon Aubrey missed a 40-yard field goal in the fourth quarter. The loss dropped Dallas to 5-7, while Philadelphia improved to 4-7.",
+      "id": "international-sports-4",
+      "micro_summary": "The Eagles defeated the Cowboys 39-38 on Thanksgiving with a 59-yard field goal as time expired.",
       "publishers": 5,
       "scope": "international",
-      "score": 0.767,
+      "score": 0.858,
       "sources": [
         {
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/ckn806qq760po"
+          "publisher": "ESPN",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873080"
         },
         {
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/nov/25/california-flooding-high-tides"
+          "publisher": "NBC Sports",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-mount-furious-comeback-beat-cowboys-39-38-in-thanksgiving-classic"
         },
         {
-          "publisher": "AP News",
-          "url": "https://apnews.com/article/king-tides-flooding-sea-level-rise-climate-change-0f7fad0f90d229560b0840a4ff18bcc9"
+          "publisher": "The New York Times",
+          "url": "https://www.nytimes.com/athletic/live-blogs/eagles-vs-cowboys-live-score-updates-nfl-thanksgiving-result/NQ1S3TgFOMcf/"
         }
       ],
-      "summary": "California warns of flooding as King Tides peak over Thanksgiving. Powerful storms threaten Thanksgiving travel across North America Coastal areas of California are bracing for potential flooding as king tides peak in the state during the US Thanksgiving holiday.",
-      "timestamp": "2026-11-26T01:05:47Z"
+      "summary": "The Eagles defeated the Cowboys 39-38 in Dallas on Thanksgiving after overcoming a 31-10 deficit, with Jake Elliott hitting a 59-yard field goal with two seconds left.",
+      "timestamp": "2026-11-27T01:45:43Z"
     },
     {
       "ai": true,
       "articles": 5,
       "category": "tragedies",
-      "extended_summary": "Ukrainian forces conducted a long-range strike on the Savasleyka air base in Russia's Nizhny Novgorod region east of Moscow, damaging five military aircraft. Three MiG-31 jets used to fire hypersonic missiles and two Su-34 fighter-bombers were knocked out of operation for some time. The air base hosts aircraft used to launch hypersonic missiles and glide bombs, with MiG-31 take-offs frequently triggering nationwide alerts across Ukraine. Russia did not immediately comment. The strike forms part of efforts to cripple Moscow's war effort and follows recent high-profile attacks by Kyiv's forces. Ukrainian forces also hit two oil refineries in Russia's Samara region and military targets in occupied territories, while Russian overnight attacks damaged energy infrastructure across four Ukrainian regions, killing ten people between 24 and 25 November.",
-      "id": "international-tragedies-4",
-      "micro_summary": "Ukrainian forces damaged five Russian military aircraft at the Savasleyka air base east of Moscow.",
+      "extended_summary": "Severe storms battered the US East Coast on Thanksgiving, prompting states of emergency in New York and New Jersey as winds up to 70mph knocked out power to approximately 800,000 homes and businesses. Macy's postponed its 100th Thanksgiving Day Parade through Manhattan for the first time in history, rescheduling it for Saturday morning due to safety concerns about high winds. More than 400 flights were cancelled and at least 1,700 delayed nationwide, while coastal flooding between North Carolina and New Jersey closed roads and forced emergency rescues. Gusts of 50-70mph were recorded across Virginia, Maryland, Delaware, New Jersey, New York and New England, ripping the roof off an apartment building in Ocean City, Maryland, and crushing houses with falling trees. Tornado warnings sounded in Norfolk, Virginia, and nearly two million people in Maryland counties were asked to conserve water due to power disruptions.",
+      "id": "international-tragedies-1",
+      "micro_summary": "Thanksgiving storms leave 800,000 without power and force first-ever postponement of Macy's parade.",
       "publishers": 5,
       "scope": "international",
-      "score": 0.756,
+      "score": 0.853,
       "sources": [
         {
-          "publisher": "The Independent",
-          "url": "https://www.independent.co.uk/news/world/europe/savasleyka-air-base-russia-ukraine-strike-b3091788.html"
+          "publisher": "BBC",
+          "url": "https://www.bbc.com/news/live/ck782zj6dnwet"
         },
         {
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo"
+          "publisher": "CNN",
+          "url": "https://www.cnn.com/2026/11/24/us/live-news/thanksgiving-travel"
+        },
+        {
+          "publisher": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/us/news/2026/11/26/thanksgiving-storms-batter-us/"
+        }
+      ],
+      "summary": "Severe storms battered the US East Coast on Thanksgiving, leaving 800,000 without power, cancelling hundreds of flights, and forcing Macy's to postpone its 100th parade for the first time as New York and New Jersey declared states of emergency.",
+      "timestamp": "2026-11-26T23:04:01Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "Ukraine carried out attacks against Russian vessels in Libyan waters off Benghazi port, claiming it sank a Russian warship and struck a cargo vessel transporting military equipment. The strike killed two naval officers of the self-styled Libyan National Army. Italy denounced the operation as a violation of Libya's sovereignty, with Foreign Minister Antonio Tajani stating Rome had received no prior notice of the strike in Libyan territorial waters. Libya's eastern-based forces, led by the LNA, condemned the attack as a declaration of war and promised retaliation. The Tripoli-based Presidential Council also called the strike a declaration of war against the Libyan state and held Ukraine fully responsible. Ukraine's Foreign Minister Andrii Sybiha described the vessels as legitimate targets, asserting Kyiv's right to self-defense against Russian aggression while stating the actions were not intended to harm Libya. The United Nations mission in Libya called for an independent investigation into the incident.",
+      "id": "international-tragedies-2",
+      "micro_summary": "Ukraine sank a Russian warship in Libyan waters, killing two officers and drawing Italy's condemnation.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.818,
+      "sources": [
+        {
+          "publisher": "The Moscow Times",
+          "url": "https://www.themoscowtimes.com/2026/11/26/ukraine-has-shaken-russia-s-confidence-in-its-naval-power-projection-a812382"
+        },
+        {
+          "publisher": "Financial Times",
+          "url": "https://www.ft.com/content/7461793f-6983-45ea-8ba2-8b1824df9379?syn-25a6b1a6=1"
         },
         {
           "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck"
+          "url": "https://www.aljazeera.com/news/2026/11/26/why-is-italy-angry-with-ukraine-for-striking-russian-ships-off-libya"
         }
       ],
-      "summary": "Ukrainian forces struck the Savasleyka air base in Russia's Nizhny Novgorod region, damaging three MiG-31 jets and two Su-34 fighter-bombers.",
-      "timestamp": "2026-11-25T21:13:00Z"
+      "summary": "Ukraine attacked Russian vessels in Libyan waters near Benghazi, sinking a warship and killing two Libyan National Army officers. Italy denounced the strike as a violation of Libya's sovereignty, while Libyan authorities condemned it as a declaration of war.",
+      "timestamp": "2026-11-26T16:41:20Z"
     },
     {
-      "ai": false,
+      "ai": true,
+      "articles": 4,
+      "category": "tragedies",
+      "extended_summary": "A massive fire erupted at multiple buildings in Lavallette, New Jersey on Thanksgiving afternoon, destroying one vacant home and damaging another. The blaze, which occurred around 3 p.m. on Jersey City Avenue less than a block from the ocean, escalated to four alarms. High winds from a storm in the area were present, though officials have not determined whether weather conditions caused the fire. Emergency services responded to the scene and continued working to control the flames. The vacant home collapsed due to the fire, while flames spread to a neighboring residence causing damage. No injuries have been reported. The cause of the fire remains under investigation and has not yet been announced.",
+      "id": "international-tragedies-4",
+      "micro_summary": "A four-alarm fire destroyed a vacant home and damaged another in Lavallette on Thanksgiving.",
+      "publishers": 4,
+      "scope": "international",
+      "score": 0.809,
+      "sources": [
+        {
+          "publisher": "Daily Express",
+          "url": "https://www.express.co.uk/news/world/2269649/lavallette-fire-live-new-jersey"
+        },
+        {
+          "publisher": "ABC7 New York",
+          "url": "https://abc7ny.com/post/lavallette-fire-consumes-home-jersey-shore-thanksgiving/20087084/"
+        },
+        {
+          "publisher": "Yahoo",
+          "url": "https://www.yahoo.com/news/weather-news/articles/raging-fire-consumes-home-lavallette-222553968.html"
+        }
+      ],
+      "summary": "A massive fire destroyed one vacant home and damaged another in Lavallette, New Jersey on Thanksgiving afternoon. The blaze reached four alarms amid high winds, but no injuries were reported and the cause remains undetermined.",
+      "timestamp": "2026-11-26T22:26:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "entertainment",
+      "extended_summary": "Ramayana: Rise of a Legend has accumulated Rs 1,777 crore in worldwide gross collections over 22 days, comprising Rs 1,185 crore domestically and Rs 592 crore from overseas markets. The film earned Rs 9.65 crore net in India and Rs 10 crore internationally on its fourth Friday, bringing its total India net collection to Rs 992.10 crore, just Rs 7.90 crore short of the Rs 1,000 crore domestic net milestone. Its first week generated Rs 564 crore net, followed by Rs 299 crore in the second week and Rs 128.35 crore in the third. Daily collections have slowed, with the film earning Rs 9.50 crore on day 21 after a boost to Rs 17.50 crore on day 20 from discounted tickets. The Hindi version contributed Rs 6.75 crore from 13,287 shows on Thursday, while show counts have declined from over 25,000 to approximately 15,418.",
+      "id": "national-entertainment-1",
+      "micro_summary": "Ramayana: Rise of a Legend reaches Rs 1,777 crore worldwide gross in 22 days.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.689,
+      "sources": [
+        {
+          "publisher": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ramayana-box-office-collection-day-22-ranbir-kapoor-and-yash-starrer-wraps-up-third-week-with-rs-128-crore-haul-epic-set-to-cross-rs-1000-crore-net-milestone/articleshow/136206443.cms"
+        },
+        {
+          "publisher": "India Today",
+          "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-box-office-day-22-film-adds-rs-20-crore-worldwide-nears-rs-1800-crore-3047939-2026-11-27"
+        }
+      ],
+      "summary": "Ramayana: Rise of a Legend collected Rs 1,777 crore worldwide in 22 days, with Rs 992.10 crore net domestically, nearing the Rs 1,000 crore milestone after earning Rs 9.65 crore on its fourth Friday.",
+      "timestamp": "2026-11-27T01:17:00Z"
+    },
+    {
+      "ai": true,
       "articles": 3,
       "category": "entertainment",
-      "extended_summary": "Action King Arjun Sarja and producer Anoop Mohan join for an ambitious patriotic Pan-India film. Mounted under the banner of Presidential Movies International Private Limited, the project marks the production house’s third feature film. The film’s auspicious muhurtham ceremony is scheduled to take place on November 27, 2026, at the sacred Sri Ram Janmabhoomi Temple in Ayodhya. Arjun Sarja will shoulder the dual responsibilities of director and lead actor. Being planned as a Pan-India production, the film will bring together prominent actors and technicians from Bollywood and various regional film industries. Retired Army officer Major Vijay Bhargavan has penned the story and screenplay. Rooted in patriotism, the film aims to celebrate the valour of the nation and its sacrifices for audiences across linguistic and regional boundaries. The auspicious ceremony in Ayodhya is expected to be attended by prominent personalities from the Indian film fraternity and distinguished guests from various walks",
-      "id": "national-entertainment-1",
-      "micro_summary": "Arjun joins hands with producer Anoop Mohan for a Pan-India patriotic film.",
+      "extended_summary": "Actor-filmmaker Arjun Sarja has joined producer Anoop Mohan for an ambitious patriotic pan-India film under Presidential Movies International Private Limited, marking the production house's third feature. Sarja will serve as both director and lead actor. The announcement was made on November 25 via an Instagram post. The film's muhurtham ceremony is scheduled for November 27, 2026, at the Sri Ram Janmabhoomi Temple in Ayodhya, where the official title will be unveiled. The story and screenplay have been written by retired Army officer Major Vijay Bhargavan, with Thomas Roy serving as executive producer. The project aims to combine emotional resonance with cinematic grandeur while exploring themes of courage, sacrifice, duty, and patriotism. Sarja was last seen in the Tamil film Blast and is next set to appear in Polimera 3.",
+      "id": "national-entertainment-2",
+      "micro_summary": "Arjun Sarja will direct and star in a pan-India patriotic film produced by Anoop Mohan, muhurtham November 27, 2026.",
       "publishers": 3,
       "scope": "national",
-      "score": 0.711,
+      "score": 0.65,
       "sources": [
         {
           "publisher": "https://www.metroindia.net/",
@@ -384,127 +403,131 @@
           "url": "https://www.hollywoodreporterindia.com/features/insight/arjun-sarja-joins-forces-with-producer-anoop-mohan-for-ambitious-pan-india-film"
         }
       ],
-      "summary": "Arjun joins hands with producer Anoop Mohan for a Pan-India patriotic film. Action King Arjun Sarja and producer Anoop Mohan join for an ambitious patriotic Pan-India film.",
+      "summary": "Arjun Sarja will direct and star in a patriotic pan-India film produced by Anoop Mohan. The muhurtham is set for November 27, 2026, at Sri Ram Janmabhoomi Temple in Ayodhya, where the title will be unveiled.",
       "timestamp": "2026-11-26T16:34:58Z"
     },
     {
       "ai": true,
-      "articles": 3,
+      "articles": 2,
       "category": "entertainment",
-      "extended_summary": "JioStar launched seven television channels on US-based live TV streaming platform Fubo on November 16, expanding Indian entertainment, movie and news content to audiences in the United States. The channels include Star Plus, Colors, Star Bharat, Colors Rishtey, Colors Cineplex, MTV India and News18 English. The lineup features general entertainment programming including shows such as \"Anupama,\" \"Yeh Rishta Kya Kehlata Hai\" and \"Kyunki Saas Bhi Kabhi Bahu Thi,\" reality franchises like \"Bigg Boss,\" Hindi films on Colors Cineplex, youth programming on MTV India, and news on News18 English. The channels are available through Fubo's Hindi Entertainment & Cricket package at $34.99 for the first month and $39.99 thereafter, or the JioStar package at $10.99 per month. The move targets South Asian households in the US and a wider audience interested in Indian storytelling.",
-      "id": "national-entertainment-2",
-      "micro_summary": "Seven JioStar channels including Star Plus and Colors launched on Fubo in the United States on November 16.",
-      "publishers": 3,
+      "extended_summary": "Nitesh Tiwari's \"Ramayana\" has doubled visitor numbers at Kerala's Jatayu Earth's Center, known locally as Jatayu Rock, Ministry of Tourism joint secretary Harikishore S. said at a WAVES Film Bazaar panel in Goa. The site is traditionally held to be where the mythical bird Jatayu fell after battling Ravana. Indian officials used the session, \"Filming in India: India's Rise as a Global Production Hub,\" to pitch a single-window filming portal and state incentives to international producers. The India Cine Hub portal, first launched November 21, 2015, now combines permission applications with directories of crew, equipment, services, an interactive location map, and incentive information. State governments, local administrations, and central agencies including Railways, the Archaeological Survey of India, and civil aviation authorities sit behind the single window, with each state having a nodal officer. The Ministry of Tourism has also signed a non-binding MoU with Netflix, Amazon, and JioCinema to encourage content about India and shooting in the country.",
+      "id": "national-entertainment-3",
+      "micro_summary": "Nitesh Tiwari's Ramayana doubled visitors at Kerala's Jatayu Earth's Center, officials said at WAVES Film Bazaar.",
+      "publishers": 2,
       "scope": "national",
-      "score": 0.568,
+      "score": 0.469,
       "sources": [
         {
-          "publisher": "BusinessLine",
-          "url": "https://www.thehindubusinessline.com/info-tech/jiostar-takes-indian-entertainment-films-and-news-to-us-viewers-through-fubo/article71745885.ece"
-        },
-        {
-          "publisher": "C21media",
-          "url": "https://www.c21media.net/news/indian-entertainment-giant-jiostar-expands-reach-in-the-us-via-fubo/"
+          "publisher": "The Chenab Times",
+          "url": "https://thechenabtimes.com/2026/11/26/indian-film-tourism-boosted-by-ramayana-shoot-at-keralas-jatayu-rock-officials-report/"
         },
         {
           "publisher": "Variety",
-          "url": "https://variety.com/2026/tv/news/jiostar-star-plus-colors-mtv-india-fubo-us-1236958804/"
+          "url": "https://variety.com/2026/film/markets-festivals/ramayana-shoot-doubled-jatayu-rock-visitors-1236958905/"
         }
       ],
-      "summary": "JioStar launched seven channels including Star Plus, Colors, and News18 English on US streaming service Fubo on November 16, offering Indian entertainment and news to US viewers through packages priced at $10.99 and $34.99 monthly.",
-      "timestamp": "2026-11-26T09:18:18Z"
+      "summary": "Nitesh Tiwari's Ramayana doubled visitors at Kerala's Jatayu Earth's Center, a Ministry of Tourism official said at the WAVES Film Bazaar in Goa, where India promoted its single-window filming portal and state incentives to international producers.",
+      "timestamp": "2026-11-26T12:28:09Z"
     },
     {
       "ai": true,
-      "articles": 2,
-      "category": "politics",
-      "extended_summary": "Union Finance Minister Nirmala Sitharaman concluded pre-budget consultations for the Union Budget 2027-28 between November 16 and 26, chairing 13 meetings with over 200 stakeholders from 13 sectors. Participants included industry representatives, experts, academics, and youth representatives, with youth consultation being a new initiative. Discussions covered agriculture, manufacturing, MSMEs, banking, IT, infrastructure, energy, employment, housing, healthcare, education, R&D, and youth affairs. Stakeholders recommended strengthening human capital, boosting innovation, improving manufacturing competitiveness, raising agricultural productivity, and expanding employment. Key proposals included promoting domestic biofertiliser manufacturing, developing sector-specific AI models for local hardware, improving cyber-hygiene among MSMEs, supporting rural youth in non-farm employment, launching a nationwide reading movement for Grade 5 newspaper comprehension, emphasizing rental housing, and accelerating Tier-2 and Tier-3 city development. Secretary Anuradha Thakur, Chief Economic Adviser V. Anantha Nageswaran, and senior officials also participated.",
-      "id": "national-politics-1",
-      "micro_summary": "Finance Minister Nirmala Sitharaman concluded pre-budget consultations with over 200 stakeholders for the Union Budget 2027-28.",
-      "publishers": 2,
+      "articles": 4,
+      "category": "sports",
+      "extended_summary": "India captain Shubman Gill won the toss and elected to bowl first against New Zealand in the second Test at Hagley Oval in Christchurch. India made one change to their playing XI, handing a Test debut to 26-year-old pacer Gurnoor Brar, who replaced Prasidh Krishna after the first Test in Wellington ended in a draw. New Zealand decided to go with the same playing XI for the series-deciding match. Former India captain Sunil Gavaskar questioned the omission of Ravindra Jadeja, noting he is India's third-highest wicket-taker in the ongoing World Test Championship cycle and that his spin would have been useful on the fourth and fifth days. Gavaskar also mentioned Mohammed Siraj's absence but ultimately backed the team selection, stating that once the playing XI is announced, everyone should support the team.",
+      "id": "national-sports-1",
+      "micro_summary": "India elected to bowl first in the second Test against New Zealand in Christchurch after winning the toss.",
+      "publishers": 4,
       "scope": "national",
-      "score": 0.603,
+      "score": 0.709,
       "sources": [
         {
-          "publisher": "www.pib.gov.in",
-          "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2342200"
-        },
-        {
-          "publisher": "DD India",
-          "url": "https://ddindia.co.in/2026/11/finance-minister-concludes-pre-budget-consultations-for-union-budget-2027-28/"
-        }
-      ],
-      "summary": "Union Finance Minister Nirmala Sitharaman concluded pre-budget consultations for the Union Budget 2027-28, holding 13 meetings with over 200 stakeholders from 13 sectors between November 16 and 26 to discuss recommendations on manufacturing, agriculture, AI, education, and employment.",
-      "timestamp": "2026-11-26T18:59:41Z"
-    },
-    {
-      "ai": true,
-      "articles": 3,
-      "category": "politics",
-      "extended_summary": "The department of social justice and empowerment signed a memorandum of understanding with the Digital India BHASHINI Division to integrate AI-powered language technologies into SAMAVESH, the department's unified digital gateway. The initiative aims to remove barriers of scattered information and language limitations by enabling citizens to access welfare schemes in more than 22 languages. The integration will provide AI-powered translation, speech-based services and document summarisation, while strengthening the Samajik Sahayak chatbot. BHASHINI is also expanding to include tribal and underserved languages such as Bhili and Mizo across text, speech and video translation. The MoU was exchanged in the presence of Union social justice and empowerment minister Virendra Kumar and minister of state B L Verma. Amitabh Nag, CEO of Digital India BHASHINI Division, stated the vision is to ensure language never becomes a barrier to accessing government information and services.",
-      "id": "national-politics-2",
-      "micro_summary": "Social justice ministry signs MoU to deliver welfare services in over 22 languages via AI chatbot.",
-      "publishers": 2,
-      "scope": "national",
-      "score": 0.507,
-      "sources": [
-        {
-          "publisher": "www.pib.gov.in",
-          "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2341811&reg=1&lang=1"
+          "publisher": "The Indian Express",
+          "url": "https://indianexpress.com/article/sports/cricket/india-vs-new-zealand-2nd-test-playing-11-will-mohammed-siraj-and-ravindra-jadeja-play-10979889/"
         },
         {
           "publisher": "The Times of India",
-          "url": "https://timesofindia.indiatimes.com/india/ai-to-break-language-barriers-in-accessing-govt-welfare-schemes/articleshow/136196066.cms"
-        }
-      ],
-      "summary": "The social justice ministry signed an MoU with Digital India BHASHINI to integrate AI language tools into the SAMAVESH portal, enabling citizens to access welfare schemes in over 22 languages through an AI chatbot and document summarisation.",
-      "timestamp": "2026-11-26T14:57:00Z"
-    },
-    {
-      "ai": true,
-      "articles": 2,
-      "category": "science",
-      "extended_summary": "The Union Ministry of Electronics and Information Technology launched the indigenously developed Chariot-1 Foundation Models under the IndiaAI Mission. Developed by Chariot Artificial Intelligence Pvt. Ltd., one of the first four teams selected for the mission, the suite includes a Large Language Model and a Text-to-Speech model pre-trained from scratch in India. The Chariot-1 LLM is an 11-billion-parameter mixture-of-experts model with four billion active parameters per token, available in variants of 10.7 billion, 1.7 billion and 745 million parameters. The TTS model generates speech in English and 10 Indian languages including Hindi, Bengali, Marathi, Tamil, Telugu, Kannada, Malayalam, Gujarati, Punjabi and Odia, with context-aware pronunciation of numbers, dates, currencies and other elements. It recorded over 97 percent verbalisation accuracy on the Async TTS Pronunciation Benchmark, a 7.60 percent character error rate in Hindi, and a 6.47 percent average across nine other Indian languages.",
-      "id": "national-science-1",
-      "micro_summary": "India launches Chariot-1 AI models featuring an 11-billion-parameter LLM and multilingual speech system.",
-      "publishers": 2,
-      "scope": "national",
-      "score": 0.483,
-      "sources": [
-        {
-          "publisher": "www.pib.gov.in",
-          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2341725&lang=1&reg=48"
+          "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/we-are-talking-about-mohammed-siraj-but-what-about-ravindra-jadeja-sunil-gavaskar-questions-indias-2nd-test-selection/articleshow/136206437.cms"
         },
         {
-          "publisher": "ET CIO",
-          "url": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/india-launches-indigenous-chariot-1-foundation-models-to-strengthen-sovereign-ai-capabilities/136183991"
+          "publisher": "NDTV Sports",
+          "url": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/sunil-gavaskar-questions-indias-stars-snub-for-2nd-new-zealand-test-not-mohammed-siraj-12382615"
+        },
+        {
+          "publisher": "ANI News",
+          "url": "https://www.aninews.in/news/sports/cricket/43-wtc-wickets-still-benched-mohammed-siraj-overlooked-again-as-india-hand-gurnoor-brar-debut-cap-in-2nd-test-against-new-zealand16020261127035238"
         }
       ],
-      "summary": "India's Electronics Ministry launched the Chariot-1 Foundation Models, including an 11-billion-parameter LLM and a text-to-speech model supporting English and 10 Indian languages, achieving 97 percent accuracy on pronunciation benchmarks.",
-      "timestamp": "2026-11-26T08:30:00Z"
+      "summary": "India captain Shubman Gill won the toss and elected to bowl first against New Zealand in the second Test at Hagley Oval in Christchurch, handing a Test debut to pacer Gurnoor Brar while leaving out Ravindra Jadeja and Mohammed Siraj.",
+      "timestamp": "2026-11-27T01:20:00Z"
     },
     {
       "ai": true,
       "articles": 2,
       "category": "sports",
-      "extended_summary": "The 2026-27 Big Bash League season will begin with a historic regular-season match at M.A. Chidambaram Stadium in Chennai on December 12, featuring Melbourne Renegades against defending champion Perth Scorchers. The fixture, starting at 2.40 p.m. local time, counts as a home game for the Renegades and represents the first time the league has staged a regular-season match outside Australia. Announced during Prime Minister Narendra Modi's visit to Australia in July, the match is a genuine league contest rather than an exhibition game. The event forms the climax of the G'day Namaste festival running from December 5-12 across multiple Indian cities. Australian High Commissioner Philip Green described cricket as the \"deep heartbeat\" of the India-Australia relationship, noting that the sport naturally binds the two nations together.",
+      "extended_summary": "India fast bowler Mohammed Shami has stated he is not considering the 2027 ODI World Cup or 2028 T20 World Cup, focusing instead on maintaining his rhythm through domestic cricket and the IPL. The 36-year-old, who took 24 wickets as leading wicket-taker at the 2023 World Cup and nine wickets at the 2025 Champions Trophy, retired from Test cricket earlier this month. He plans to play in the Vijay Hazare Trophy next month to demonstrate his capabilities and maintain fitness. Shami emphasized that his motivation comes from enjoying the game and sharing experience with younger players, stating he will continue playing white-ball cricket and red-ball cricket if required. He dismissed suggestions that his domestic participation relates to retirement, leaving future selection decisions to the selectors.",
       "id": "national-sports-2",
-      "micro_summary": "The Big Bash League's first overseas regular-season match will open in Chennai on December 12.",
+      "micro_summary": "Mohammed Shami focuses on domestic cricket and IPL, dismissing thoughts of 2027 and 2028 World Cups.",
       "publishers": 2,
       "scope": "national",
-      "score": 0.583,
+      "score": 0.625,
       "sources": [
         {
-          "publisher": "The New Indian Express",
-          "url": "https://www.newindianexpress.com/cricket/2026/Nov/26/gday-namaste-cricket-binding-reality-in-india-australia-bilateral-relationships-says-high-commissioner-green"
+          "publisher": "ICC",
+          "url": "https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/news/veteran-india-pacer-provides-update-on-availability-for-cwc27"
         },
         {
-          "publisher": "Sportstar",
-          "url": "https://sportstar.thehindu.com/cricket/bbl-chennai-2026-australia-india-cricket-ties-renegades-scorchers-chepauk/article71746692.ece"
+          "publisher": "NDTV Sports",
+          "url": "https://sports.ndtv.com/icc-cricket-world-cup-2027/i-have-stopped-counting-mohammed-shamis-honest-admission-on-india-comeback-plans-12381435"
         }
       ],
-      "summary": "The 2026-27 Big Bash League season opener between Melbourne Renegades and defending champion Perth Scorchers will be played at M.A. Chidambaram Stadium in Chennai on December 12 at 2.40 p.m., marking the league's first regular-season match outside Australia.",
-      "timestamp": "2026-11-26T17:40:40Z"
+      "summary": "India fast bowler Mohammed Shami says he is focused on domestic cricket and the IPL, leaving selection decisions to selectors while dismissing thoughts of the 2027 ODI World Cup and 2028 T20 World Cup.",
+      "timestamp": "2026-11-27T01:25:12Z"
+    },
+    {
+      "ai": true,
+      "articles": 2,
+      "category": "sports",
+      "extended_summary": "Sri Lanka A defeated India A by 8 wickets in the first semi-final of the Asia Cup Rising Stars tournament in Doha. Chasing a target of 318 runs, Sri Lanka A scored 318 runs with the loss of 2 wickets in 41.3 overs. India A batted first and scored 317 runs losing 8 wickets in 50 overs. Abhishek Sharma scored 78 runs off 63 balls for India A. Sineth scored 105 off 70 balls for Sri Lanka A and Jayawardena was declared player of the match. Sri Lanka A will play the final on Sunday against the winner of the second semi-final between Pakistan A and Bangladesh A.",
+      "id": "national-sports-3",
+      "micro_summary": "Sri Lanka A defeated India A by 8 wickets chasing 318 runs to reach the Asia Cup Rising Stars final.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.593,
+      "sources": [
+        {
+          "publisher": "News On AIR",
+          "url": "https://newsonair.gov.in/sri-lanka-a-defeat-india-a-by-8-wickets-to-enter-asia-cup-rising-stars-final/"
+        },
+        {
+          "publisher": "MediaBrief",
+          "url": "https://mediabrief.com/sony-sports-network-sony-liv-to-air-india-a-vs-sri-lanka-a-semi-final/"
+        }
+      ],
+      "summary": "Sri Lanka A defeated India A by 8 wickets in the Asia Cup Rising Stars semi-final in Doha, chasing 318 runs to score 318/2 in 41.3 overs after India A posted 317/8.",
+      "timestamp": "2026-11-27T01:05:00Z"
+    },
+    {
+      "ai": false,
+      "articles": 2,
+      "category": "sports",
+      "extended_summary": "Christchurch (New Zealand) (AFP) – New Zealand were 77-1 at lunch Friday on the first day of the second Test against India, after being asked to bat on a green wicket. Captain Tom Latham was 42 and Devon Conway was out for 31 with the last ball before lunch, lbw to Gurnoor Brar. Indian captain Shubman Gill won the toss - India's 10th toss win in 12 matches during the tour - and elected to field. The Hagley Oval pitch had long and dense grass coverage, leading both captains to expect pace and bounce throughout the Test. India made one change to their starting side from the drawn first Test in Wellington, offering a debut to speedster Brar in place of Prasidh Krishna. New Zealand named an unchanged team. Jasprit Bumrah thought he'd earned the first over wicket of Latham for a third time in three innings, only to have",
+      "id": "national-sports-4",
+      "micro_summary": "India wins toss, bowls in 2nd test against New Zealand, Gurnoor Brar to debut.",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.553,
+      "sources": [
+        {
+          "publisher": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/cricket/articles/india-wins-toss-bowls-2nd-220018774.html"
+        },
+        {
+          "publisher": "RFI",
+          "url": "https://www.rfi.fr/en/sports/20261127-new-zealand-77-1-at-lunch-after-india-win-toss-and-bowl"
+        }
+      ],
+      "summary": "India wins toss, bowls in 2nd test against New Zealand, Gurnoor Brar to debut.",
+      "timestamp": "2026-11-27T00:27:36Z"
     }
   ]
 }
