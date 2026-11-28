@@ -2,15 +2,15 @@
   "date": "2026-11-28",
   "events": [
     {
-      "ai": false,
+      "ai": true,
       "articles": 5,
       "category": "business",
-      "extended_summary": "In February 2025, US President Donald Trump marked his return to office by kick-starting a trade war with China. New tariffs, amid accusations that China was failing to prevent the flow of drugs into the United States, set the stage for an escalating economic confrontation between the world’s two largest economies, which stands to reshape global trade. While Trump’s new trade tariffs regime hit allies and rivals alike, China took the fight head-on. Washington first put a 10 percent duty on Chinese goods, citing fentanyl and immigration concerns, and Beijing responded by curbing exports of five rare earth metals key to defence, clean energy and tech products. Then it came to a showdown with Trump’s “Liberation Day” tariffs in April, including 34 percent for Chinese products. A tit-for-tat exercise ensued as headline US tariffs on China climbed to 145 percent, while US goods entering China were slapped with tariffs of",
+      "extended_summary": "The Trump administration announced plans to impose new tariffs on 14 major trading partners, including China, the European Union and India, accusing them of flooding markets with cheap goods through unfair subsidies and suppressed wages. China faces the highest rate at 20 percent, matching the truce rate from last year's Trump-Xi deal expiring in mid-January. The move follows a Supreme Court ruling declaring previous \"Liberation Day\" tariffs illegal, prompting the administration to rebuild leverage under a new legal basis. Tariffs take effect in January or February after consultation, with announced rates serving as upper ceilings open to negotiation. Beijing responded with muted criticism, calling overcapacity a \"false issue\" and urging implementation of the existing agreement. The UK remains unaffected but stays subject to 10 percent tariffs under forced labour provisions. Twenty-five states have sued to challenge those forced labour tariffs.",
       "id": "international-business-1",
-      "micro_summary": "Trump embraced Xi, then slapped new tariffs on China: What’s his game plan?",
+      "micro_summary": "The Trump administration announced new tariffs on 14 trading partners including China at 20 percent to rebuild trade leverage.",
       "publishers": 4,
       "scope": "international",
-      "score": 0.747,
+      "score": 0.687,
       "sources": [
         {
           "publisher": "Al Jazeera",
@@ -25,123 +25,100 @@
           "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat"
         }
       ],
-      "summary": "Trump embraced Xi, then slapped new tariffs on China: What’s his game plan? While Trump’s new trade tariffs regime hit allies and rivals alike, China took the fight head-on.",
+      "summary": "The US announced new tariffs on 14 major trading partners, including China at 20 percent, the EU and India, citing unfair subsidies and excess capacity, with rates set to take effect in January or February after consultation.",
       "timestamp": "2026-11-27T12:56:54Z"
     },
     {
-      "ai": false,
+      "ai": true,
       "articles": 5,
-      "category": "business",
-      "extended_summary": "Saudi Arabia and Yemen’s Iran-backed Houthis are trading increasingly intense strikes on strategic sites, including oil infrastructure and ports, marking a sharp escalation in fighting between the two sides. A projectile struck an oil refinery in Saudi Arabia’s southwestern Jazan region on Thursday, killing a Nepalese worker and injuring several others, according to the Saudi Ministry of Energy. The strike sparked a fire and temporarily suspended some operations at the facility, the ministry said. The attack came a day after the Houthis claimed to have struck Saudi Arabia’s biggest oil refinery at Ras Tanura. Satellite imagery taken Wednesday showed a huge plume of black smoke rising from the coastal peninsula following the attack. The Houthi-controlled armed forces said the attack caused a fire at Ras Tanura, part of one of the world’s largest crude oil export terminals, in Saudi Arabia’s Eastern Province. A shipping source told CNN Thursday that oil",
-      "id": "international-business-2",
-      "micro_summary": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security.",
+      "category": "politics",
+      "extended_summary": "Spain holds a snap election on Sunday with almost 39 million eligible voters casting ballots. Socialist Prime Minister Pedro Sánchez, whose coalition collapsed after failing to pass housing crisis measures, trails the center-right People's Party led by Alberto Núñez Feijóo in polls. Sánchez has expressed confidence in defying the polls and accused Feijóo of planning a coalition with the far-right Vox party, while Feijóo promised a new era of \"truth, decency and good governance\" and accused Sánchez of evading questions on corruption, rail disasters, immigration and national debt. If the right wins, it would likely form a governing coalition between the PP and Vox, led by Santiago Abascal, marking the first such right-wing government since the death of Francisco Franco. Under Spanish electoral law, no polls have been published since Monday. The election comes amid strikes, housing affordability crises and economic concerns, with commentators expecting high turnout and close finish.",
+      "id": "international-politics-1",
+      "micro_summary": "Spain votes Sunday in snap election with Socialist PM Sánchez trailing conservative PP in polls ahead of possible right-wing coalition.",
       "publishers": 5,
       "scope": "international",
-      "score": 0.732,
+      "score": 0.848,
       "sources": [
         {
           "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo"
+          "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/27/spain-far-right-vox-europe-santiago-abascal-france-coalition"
         },
         {
           "publisher": "CNN",
-          "url": "https://www.cnn.com/2026/11/26/middleeast/houthi-saudi-oil-refinery-strike-satellite-imagery-intl"
-        },
-        {
-          "publisher": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/saudi-led-coalition-says-houthis-attacked-aramcos-jazan-refinery-2026-11-26/"
+          "url": "https://www.cnn.com/2026/11/27/world/spains-sanchez-stood-up-against-trump-his-own-voters-may-be-about-to-bring-him-down"
         }
       ],
-      "summary": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security. The attack came a day after the Houthis claimed to have struck Saudi Arabia’s biggest oil refinery at Ras Tanura.",
-      "timestamp": "2026-11-27T06:04:51Z"
+      "summary": "Spain votes Sunday in a snap election with almost 39 million eligible voters, as Socialist Prime Minister Pedro Sánchez trails the conservative People's Party in polls, with a potential PP-Vox coalition looming if the right wins.",
+      "timestamp": "2026-11-27T20:09:09Z"
     },
     {
-      "ai": false,
+      "ai": true,
       "articles": 5,
       "category": "politics",
-      "extended_summary": "Yesterday, a group of Russian senators introduced a bill in the State Duma that calls for prison terms of up to five years for illegally distributing information about the aftermath of Ukrainian strikes, as well as terrorist attacks and sabotage. Bans on publishing photos and videos of attack aftermath are already in effect in many regions, though until now the punishment has only involved administrative fines. Now a new article could appear in the Criminal Code as well. Authors of pro-war Z-channels and “military correspondents” reacted to the initiative with unanimous criticism. In their view, almost anything could be classified as illegal distribution, and the bill is aimed at eliminating “unnecessary questions” about how the state allowed this to happen. The Kremlin, however, said that “there is a war going on, and accordingly, the decisions that need to be made during wartime must be made to ensure security.” We present",
-      "id": "international-politics-1",
-      "micro_summary": "Russia set to criminalise sharing information about Ukrainian strikes.",
+      "extended_summary": "Puma Shen of the Democratic Progressive Party is in a tight race against incumbent Chiang Wan-an of the Kuomintang to become Taipei's next mayor in Saturday's election. Shen, who founded a prominent civil defence organisation and was sanctioned by China two years ago as a 'diehard' separatist, takes a more combative approach to Beijing than his opponent. The contest could shape Taiwan's 2028 presidential run, where cross-strait issues will dominate. Taipei has not had a DPP mayor since 1998. China favours the KMT, whose chairman met President Xi Jinping earlier this year, while Beijing refers to President Lai Ching-te as a 'destroyer' of peace. A Shen victory, combined with a DPP win in neighbouring New Taipei City, could embolden the party ahead of 2028. In 2022 local elections the KMT won 15 seats to the DPP's six, though the DPP won more seats and the presidency in 2024.",
+      "id": "international-politics-2",
+      "micro_summary": "Puma Shen races incumbent Chiang Wan-an for Taipei mayor in a tight contest shaping Taiwan's 2028 presidential run.",
       "publishers": 5,
       "scope": "international",
-      "score": 0.856,
+      "score": 0.826,
+      "sources": [
+        {
+          "publisher": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/world-news/2026/11/27/criminologist-wanted-china-brink-of-power-taipei/"
+        },
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections"
+        },
+        {
+          "publisher": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/27/world/asia/puma-shen-taiwan-election-china.html"
+        }
+      ],
+      "summary": "Puma Shen of the DPP faces incumbent Chiang Wan-an of the KMT in a tight Taipei mayoral race that could shape the 2028 presidential election, with Shen sanctioned by Beijing as a 'diehard' separatist.",
+      "timestamp": "2026-11-27T19:54:00Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "politics",
+      "extended_summary": "During a visit to Berlin, Jean-Luc Mélenchon, La France insoumise's candidate in the French presidential election, called for a thorough overhaul of the French-German relationship. The 75-year-old politician, polling in second place and favourite to reach a run-off against Marine Le Pen, criticised Germany's economic dominance in the European Union and its record military spending. He expressed deep concern about German rearmament, noting Germany's military budget is set to reach €139.4 billion in 2027, more than twice the €63.3 billion planned for French defence. Mélenchon questioned Chancellor Friedrich Merz's commitment to making the German military the strongest conventional army in Europe, asking \"to make war against whom?\" and warning that Germany's growing military strength makes it a target. He met with Ines Schwerdtner, national leader of Die Linke, stating they were united against an economy of rearmament. Mélenchon denied charges of being Germanophobic, calling himself a disciple of Karl Marx.",
+      "id": "international-politics-3",
+      "micro_summary": "Jean-Luc Mélenchon called for an overhaul of French-German ties during a Berlin visit, criticizing Germany's €139.4 billion military budget.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.82,
       "sources": [
         {
           "publisher": "Financial Times",
-          "url": "https://www.ft.com/content/53a48a14-eadf-4fe3-bd33-9facd4c90266?syn-25a6b1a6=1"
+          "url": "https://www.ft.com/content/6689598a-47f2-41b3-92d7-e5c234914c5b?syn-25a6b1a6=1"
         },
         {
-          "publisher": "Meduza",
-          "url": "https://meduza.io/en/feature/2026/11/27/no-reports-no-strikes-russia-s-pro-war-bloggers-slam-proposed-prison-sentences-for-sharing-photos-and-videos-of-ukrainian-attacks"
+          "publisher": "Meta-Defense",
+          "url": "https://meta-defense.fr/en/2026/11/27/defense-francaise-modele-allemagne/"
         },
         {
-          "publisher": "EADaily",
-          "url": "https://eadaily.com/en/news/2026/11/27/z-bloggers-are-outraged-by-the-initiative-of-the-state-duma-people-will-start-reading-information-washes-from-ukraine"
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/france/20261127-french-far-left-candidate-m%C3%A9lenchon-demands-thorough-overhaul-germany-ties"
         }
       ],
-      "summary": "Russia set to criminalise sharing information about Ukrainian strikes.",
-      "timestamp": "2026-11-27T15:16:07Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "politics",
-      "extended_summary": "Macy's postponed its Thanksgiving Day Parade to Saturday at 8:30 a.m. for the first time in the event's 100-year history after a powerful storm brought strong winds and heavy rain to New York City. Organizers delayed the parade Wednesday due to safety concerns about giant balloons, which must stay grounded when winds exceed 23 mph. The storm caused coastal flooding and power outages. Hundreds of performers, including over 500 members of a Texas high school marching band, scrambled for new hotels and meals. The band raised $350,000 in hours from over 2,000 donors. Some performers skipped the event. The parade's only previous cancellations were from 1942 through 1944 during World War II. Forecasters predict dry, brisk weather with temperatures in the 40s for Saturday.",
-      "id": "international-politics-2",
-      "micro_summary": "The Macy's Thanksgiving Day Parade was postponed to Saturday for the first time in its 100-year history due to weather.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.85,
-      "sources": [
-        {
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo"
-        },
-        {
-          "publisher": "AccuWeather",
-          "url": "https://www.accuweather.com/en/weather-news/macys-parade-saturday-forecast-dry-brisk-and-chilly-for-830-a-m-start/1964927"
-        },
-        {
-          "publisher": "The Independent",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/thanksgiving-parade-mamdani-laura-loomer-b3092323.html"
-        }
-      ],
-      "summary": "Macy's postponed its Thanksgiving Day Parade to Saturday at 8:30 a.m. for the first time in 100 years due to strong winds and heavy rain threatening giant balloons, forcing hundreds of performers to rearrange travel and lodging plans.",
-      "timestamp": "2026-11-27T15:15:19Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "politics",
-      "extended_summary": "Spain's Prime Minister Pedro Sanchez stated he is confident of securing a left-wing majority in a snap general election scheduled for Sunday, despite public polling indicating an advantage for right-wing parties. Speaking on Friday, the Socialist leader said internal data suggested his Spanish Socialist Workers' Party would win the most votes, enabling re-election with support from smaller leftist allies. Nearly all polls released before a five-day ban on opinion surveys showed a potential coalition between the conservative People's Party and far-right Vox leading. During a televised debate, Sanchez clashed with opposition leaders over immigration, housing, and foreign policy, criticizing the Madrid regional government for honoring Israel during the Gaza assault and calling Israel's actions genocide. He framed the election as a choice between regression and progressivism. The outcome will be watched closely as Europe begins an electoral cycle that could reshape the European Union's balance of power.",
-      "id": "international-politics-4",
-      "micro_summary": "Spain's Pedro Sanchez confident of left-wing majority in Sunday's snap election despite adverse polling.",
-      "publishers": 4,
-      "scope": "international",
-      "score": 0.818,
-      "sources": [
-        {
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates"
-        },
-        {
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/27/spains-pedro-sanchez-bets-on-left-wing-voting-surge-to-defy-election-polls"
-        }
-      ],
-      "summary": "Spain's Prime Minister Pedro Sanchez expressed confidence he will secure a left-wing majority in Sunday's snap general election, despite polls showing a right-wing advantage for the People's Party and Vox coalition, as parties concluded campaigning before the vote.",
-      "timestamp": "2026-11-27T16:19:49Z"
+      "summary": "During a Berlin visit, French hard-left presidential candidate Jean-Luc Mélenchon called for an overhaul of ties with Germany, criticizing its economic dominance and €139.4 billion 2027 military budget, and questioning the purpose of German rearmament.",
+      "timestamp": "2026-11-27T16:45:39Z"
     },
     {
       "ai": true,
       "articles": 5,
       "category": "science",
-      "extended_summary": "A Russian triple-tap strike hit the center of Kryvyi Rih, Ukrainian President Volodymyr Zelensky's hometown, on Friday night, killing a seven-year-old boy and a 20-year-old woman and wounding 60 others. Ballistic missiles struck a restaurant parking lot, followed by jet-powered drones targeting rescue workers responding to the initial attack, and a third drone strike hit the location shortly after. Among the wounded were six children, rescuers and police officers, with 28 remaining hospitalized, five in intensive care including a three-year-old girl. The attack caused four fires and damaged approximately 25 apartment buildings, a hospital, schools, an industrial facility, businesses and vehicles. The strike occurred on Children's Day in Ukraine, November 20, in an ordinary civilian area with no military facilities nearby.",
-      "id": "international-science-2",
-      "micro_summary": "Russian strike on Kryvyi Rih killed two people and wounded 60 others.",
+      "extended_summary": "A Russian triple-tap strike hit the center of Kryvyi Rih, President Volodymyr Zelensky's hometown, on Friday night, killing a seven-year-old boy and a 20-year-old paramedic and wounding 60 others. Ballistic missiles struck a restaurant parking lot, followed by jet-powered drones targeting rescue workers responding to the initial blast, and a third drone strike shortly after. The attack caused four fires and damaged approximately 25 apartment buildings, a hospital, schools, an industrial facility, businesses and vehicles. Among the wounded were six children, with 28 people remaining hospitalized, including a three-year-old girl, and five in intensive care. The strike occurred on Children's Day in Ukraine, near a popular restaurant in the city center where no military facilities are located. The boy, identified as Tikhon, was visiting the city with his family, and two of his brothers were among those in intensive care.",
+      "id": "international-science-1",
+      "micro_summary": "Russian strike on Kryvyi Rih killed two people and wounded 60, including a seven-year-old boy.",
       "publishers": 5,
       "scope": "international",
-      "score": 0.648,
+      "score": 0.792,
       "sources": [
         {
           "publisher": "Metro.co.uk",
@@ -156,170 +133,216 @@
           "url": "https://www.cnn.com/2026/11/21/europe/kryvyi-rih-ukraine-russia-attack-intl"
         }
       ],
-      "summary": "A Russian triple-tap strike on Kryvyi Rih, President Zelensky's hometown, killed a 7-year-old boy and a 20-year-old woman and wounded 60 others, damaging 25 apartment buildings, a hospital and schools on Children's Day.",
+      "summary": "A Russian triple-tap strike on Kryvyi Rih, President Zelensky's hometown, killed a seven-year-old boy and a 20-year-old paramedic Friday night, wounding 60 others, including six children, and damaging 25 apartment buildings, a hospital and schools.",
       "timestamp": "2026-11-27T12:33:00Z"
     },
     {
       "ai": true,
+      "articles": 5,
+      "category": "science",
+      "extended_summary": "Research using Sentinel-1 satellite radar imagery reveals that some of Africa's largest coastal cities are sinking faster than previously estimated. Scientists mapped land movement beneath 20 African coastal cities, finding Lagos, Nigeria and Alexandria, Egypt sinking at average rates of 5mm and 6mm per year respectively. Human activities such as groundwater extraction drive this subsidence, which compounds sea level rise from climate change. The study estimates that by 2050, seven million people, one billion buildings and $180bn in assets across these cities could face flood risk, with five million people and $150bn in assets exposed in Lagos and Alexandria alone. Four million people in Lagos may be exposed to extreme sea levels by the end of the century. Using over 4,000 satellite images, researchers detected land movements as small as 1mm per year, overcoming previous monitoring limitations.",
+      "id": "international-science-2",
+      "micro_summary": "Lagos and Alexandria sink 5mm and 6mm yearly, putting seven million people at flood risk by 2050.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.764,
+      "sources": [
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq074p95z4llo"
+        },
+        {
+          "publisher": "Courthouse News",
+          "url": "https://www.courthousenews.com/african-coastal-cities-projected-to-sink-by-several-millimeters-in-next-two-decades/"
+        },
+        {
+          "publisher": "Carbon Brief",
+          "url": "https://www.carbonbrief.org/sinking-african-megacities-will-expose-seven-million-people-to-flooding-by-2050"
+        }
+      ],
+      "summary": "Satellite data shows Lagos and Alexandria are sinking 5mm and 6mm per year, and with rising seas could expose seven million people, one billion buildings and $180bn in assets to flooding by 2050.",
+      "timestamp": "2026-11-27T19:03:18Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "science",
+      "extended_summary": "NATO fighter jets conducted simulated ground strikes and air superiority missions during the Protective Fence 26 military exercise in northern Finland near the Russian border. For the first time, the French Air and Space Force deployed three Rafale multirole fighter jets to the Arctic-region exercise, joining Finnish F/A-18 Hornets, Dutch F-35A Lightning IIs, and Swedish JAS 39 Gripens. The training took place at the Jännevirta highway strip, approximately 104 miles from the Russian border, and included air-to-ground attacks, air superiority operations, simulated airspace-entry Entry Force missions, and Defensive Counter Air scenarios. The exercise allowed participating NATO air forces to practice combined air operations involving four different fighter aircraft types in demanding Arctic conditions.",
+      "id": "international-science-3",
+      "micro_summary": "Three French Rafale jets participated in NATO's Protective Fence 26 exercise in northern Finland near Russia.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.673,
+      "sources": [
+        {
+          "publisher": "UNITED24 Media",
+          "url": "https://united24media.com/world/nato-takes-rafales-f-35s-and-gripens-to-russias-doorstep-for-arctic-combat-drills-24779"
+        },
+        {
+          "publisher": "ac.nato.int",
+          "url": "https://ac.nato.int/archive/2026/allied-fighters-trained-in-dispersed-operations-during-finnishled-exercise-protective-fence-26.aspx"
+        },
+        {
+          "publisher": "Defensehere",
+          "url": "https://defensehere.com/en/dutch-f-35-fighter-jets-land-on-highway/"
+        }
+      ],
+      "summary": "NATO fighter jets conducted simulated strikes and air superiority missions during the Protective Fence 26 exercise in northern Finland near the Russian border, with three French Rafale jets participating for the first time alongside Finnish, Dutch, and Swedish aircraft.",
+      "timestamp": "2026-11-27T14:54:13Z"
+    },
+    {
+      "ai": true,
       "articles": 10,
       "category": "sports",
-      "extended_summary": "Round 22 of the 2026 Formula 1 season takes place at the Lusail International Circuit for the Qatar Grand Prix from 27-29 November, despite earlier concerns over the conflict in the Middle East. The 57-lap race begins at 16:00 GMT (7pm local time) with dry, sunny conditions and temperatures reaching 25C. Drivers will be limited to 27 laps on a single set of Pirelli tyres, an increase from last year's 25-lap limit due to reduced downforce levels on the 2026 cars, requiring at least two pit stops during the race. The event follows a chaotic Las Vegas Grand Prix where Max Verstappen won with 352 overtakes, ahead of Lando Norris and Oscar Piastri, while Ferrari missed securing second in the constructors' championship after Charles Leclerc made contact with Lewis Hamilton. Haas has also confirmed Oliver Bearman will continue racing for the team in 2027.",
+      "extended_summary": "Morgan Gibbs-White scored twice to lead Nottingham Forest to a 3-2 victory over Chelsea at the City Ground, deepening the crisis for Xabi Alonso's side. Igor Jesus volleyed Forest in front inside five minutes, and Gibbs-White converted a penalty early in the second half after Wesley Fofana conceded it. Gibbs-White added a second goal later to reflect Forest's superiority. Emmanuel Emegha came off the bench to score twice for Chelsea, including an 89th-minute goal that made for a nervy finish, but Forest held on for their first win over Chelsea at the City Ground since 1997. The victory lifts Forest clear of the bottom six, while Chelsea missed the chance to climb back into the top five and have now lost four of their last five Premier League games under Alonso.",
       "id": "international-sports-1",
-      "micro_summary": "Qatar Grand Prix set for Lusail with 27-lap tyre limit and 57-lap race starting 16:00 GMT.",
-      "publishers": 8,
+      "micro_summary": "Morgan Gibbs-White scored twice as Nottingham Forest beat Chelsea 3-2 at the City Ground.",
+      "publishers": 7,
       "scope": "international",
-      "score": 0.895,
+      "score": 0.889,
       "sources": [
-        {
-          "publisher": "Motorsport.com",
-          "url": "https://www.motorsport.com/f1/live-text/f1-qatar-gp-follow-fp1-from-lusail-with-live-timing-/1128420/"
-        },
-        {
-          "publisher": "Formula 1",
-          "url": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-qatar-grand-prix.1bXINUYO8R8X3K7DjINr1A"
-        },
         {
           "publisher": "BBC",
-          "url": "https://www.bbc.com/sport/formula1/articles/cjzx912pyekdo"
+          "url": "https://www.bbc.com/sport/football/articles/cmwy85xxjgxvo"
         },
         {
-          "publisher": "RacingNews365",
-          "url": "https://racingnews365.com/live-2026-f1-qatar-grand-prix-free-practice-1"
-        }
-      ],
-      "summary": "Round 22 of the 2026 F1 season heads to Lusail for the Qatar Grand Prix from 27-29 November. The 57-lap race starts at 16:00 GMT with drivers limited to 27 laps per tyre set, forcing two pit stops.",
-      "timestamp": "2026-11-27T15:56:30Z"
-    },
-    {
-      "ai": true,
-      "articles": 10,
-      "category": "sports",
-      "extended_summary": "The Pittsburgh Steelers released quarterback Aaron Rodgers on Wednesday after he publicly criticized head coach Mike McCarthy during a 34-minute appearance on The Pat McAfee Show, and Rodgers went unclaimed on waivers Thursday. The 42-year-old four-time MVP had aired grievances about McCarthy but did not criticize any teammates. Former players Terry Bradshaw and Tom Brady criticized Rodgers for going public with complaints, with Bradshaw calling him a \"strange guy\" and Brady lecturing him about locker room sanctity. Despite the controversy, some NFL executives left the door open for Rodgers to sign with a playoff contender, noting his arm strength and command remain valuable. Financial considerations complicated potential waiver claims, as Rodgers had $8.56 million remaining on his contract. Rodgers previously led the Green Bay Packers to a 31-25 victory over the Steelers in Super Bowl XLV.",
-      "id": "international-sports-2",
-      "micro_summary": "Aaron Rodgers was released by the Pittsburgh Steelers after criticizing coach Mike McCarthy and went unclaimed on waivers.",
-      "publishers": 9,
-      "scope": "international",
-      "score": 0.855,
-      "sources": [
-        {
-          "publisher": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/article/will-anyone-else-sign-aaron-rodgers-after-he-torched-steelers-breaking-down-5-questions-including-most-logical-match-065446773.html"
+          "publisher": "ESPN",
+          "url": "https://www.espn.com/soccer/report/_/gameId/401879225"
         },
-        {
-          "publisher": "NFL.com",
-          "url": "https://www.nfl.com/news/steelers-president-art-rooney-ii-supports-mike-mccarthy-blasts-aaron-rodgers"
-        },
-        {
-          "publisher": "Fox News",
-          "url": "https://www.foxnews.com/outkick-sports/tom-brady-terry-bradshaw-roast-aaron-rodgers-mccarthy-breakup-overlook-public-coach-feuds"
-        },
-        {
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/sport/2026/nov/26/steelers-owner-gives-backing-to-mike-mccarthy-in-row-with-aaron-rodgers"
-        },
-        {
-          "publisher": "Sky Sports",
-          "url": "https://www.skysports.com/nfl/news/13616939/aaron-rodgers-quarterback-losing-respect-as-nfl-reacts-to-stunning-mike-mccarthy-claims"
-        },
-        {
-          "publisher": "The Independent",
-          "url": "https://www.independent.co.uk/bulletin/sport/aaron-rodgers-pittsburgh-steelers-release-mike-mccarthy-b3091810.html"
-        }
-      ],
-      "summary": "The Pittsburgh Steelers released quarterback Aaron Rodgers after he criticized head coach Mike McCarthy on a talk show, and he went unclaimed on waivers Thursday, leaving the 42-year-old four-time MVP unsigned despite some interest from playoff contenders.",
-      "timestamp": "2026-11-27T06:54:00Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "sports",
-      "extended_summary": "The British Boxing Board of Control has cleared Tyson Fury to fight Anthony Joshua at Principality Stadium in Cardiff, Wales, on December 11 Eastern time (December 12 UK time) after the heavyweight champion passed all pre-fight medical tests. The clearance came after concerns were raised regarding Fury's mental health following statements by his wife, Paris Fury, in a documentary about the boxer. Paris initially used the word \"schizophrenic\" when discussing Fury's condition, but later clarified that while he showed some symptoms associated with schizophrenia, he has never received a diagnosis of the condition. The documentary was edited to remove the reference following her clarification. The Board's general secretary confirmed that Fury cleared medicals and was fit to compete, stating that medical issues would prevent any boxer from fighting regardless of their status. The documentary details Fury's struggles with depression, anxiety and bipolar disorder.",
-      "id": "international-sports-3",
-      "micro_summary": "British Boxing Board of Control clears Tyson Fury to fight Anthony Joshua on December 11.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.848,
-      "sources": [
-        {
-          "publisher": "Sky Sports",
-          "url": "https://www.skysports.com/boxing/news/13617169/tyson-fury-cleared-to-face-anthony-joshua-by-british-boxing-board-of-control-after-schizophrenia-claim-by-wife-paris-fury"
-        },
-        {
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/sport/boxing/articles/cwj3klxj10edo"
-        },
-        {
-          "publisher": "CNN",
-          "url": "https://www.cnn.com/2026/11/27/sport/paris-tyson-fury-clarifies-schizophrenia-diagnosis-intl-scli"
-        }
-      ],
-      "summary": "The British Boxing Board of Control cleared Tyson Fury to fight Anthony Joshua in Cardiff on December 11 after medical tests, following his wife's retraction of claims that he was diagnosed with schizophrenia.",
-      "timestamp": "2026-11-27T13:33:31Z"
-    },
-    {
-      "ai": true,
-      "articles": 5,
-      "category": "sports",
-      "extended_summary": "Manchester United have triggered their one-year option on captain Bruno Fernandes' contract, extending the 32-year-old's deal through to 2028. The extension prevents overseas clubs from approaching Fernandes when the transfer window opens on January 1. Fernandes, who joined from Sporting for £47m in January 2020, has made 343 appearances and scored 115 goals for United. The Portugal international confirmed that discussions over a new long-term contract have been paused and will resume once United's league position improves. Fernandes is currently a doubt for Saturday's Premier League match against Brentford after returning from the Champions League trip to Sporting with a virus. He scored both goals in the 2-2 draw with his former club but did not train on Friday. Head coach Mauricio Pochettino said he would assess Fernandes' fitness on Saturday morning before deciding whether to risk playing him.",
-      "id": "international-sports-4",
-      "micro_summary": "Manchester United triggered a one-year contract option on captain Bruno Fernandes, extending his deal through 2028.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.841,
-      "sources": [
         {
           "publisher": "The New York Times",
-          "url": "https://www.nytimes.com/athletic/7778764/2026/11/27/manchester-united-bruno-fernandes-contract-option/"
+          "url": "https://www.nytimes.com/athletic/7814363/2026/11/27/nottingham-forest-chelsea-result-analysis/"
         },
         {
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo"
+          "publisher": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/13613199/nottingham-forest-3-2-chelsea-morgan-gibbs-white-brace-heaps-pressure-on-xabi-alonso-as-wesley-fofana-is-booed"
         },
         {
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/football/live/2026/nov/27/premier-league-news-levski-fans-marseille-violence-football"
+          "publisher": "Chelsea Football Club",
+          "url": "https://www.chelseafc.com/en/news/article/confirmed-chelsea-line-up-vs-nottingham-forest-271126"
         }
       ],
-      "summary": "Manchester United activated a one-year option on captain Bruno Fernandes' contract through 2028, blocking overseas approaches when the transfer window opens January 1. The 32-year-old has made 343 appearances and scored 115 goals since joining for £47m in 2020.",
-      "timestamp": "2026-11-27T13:59:28Z"
+      "summary": "Morgan Gibbs-White scored twice as Nottingham Forest defeated Chelsea 3-2 at the City Ground, with Igor Jesus opening the scoring in five minutes and Emmanuel Emegha scoring twice for the visitors in a nervy finale.",
+      "timestamp": "2026-11-27T21:59:48Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "No. 3 Texas travels to College Station Friday to face rival Texas A&M in the Lone Star Showdown with an SEC championship game berth and a first-round College Football Playoff bye on the line. The Longhorns have won five consecutive games and can clinch a spot in the SEC Championship with a victory. Texas A&M has struggled this season, going from last year's College Football Playoff to missing a bowl game, and coach Mike Elko has yet to beat Texas in three attempts. Texas won the first two meetings since joining the SEC in 2024, including a 27-17 victory in Austin last year. During the game, Texas kicker Gianni Spetic connected on a 54-yard field goal after freshman Kohen Brown recovered a muffed punt, while quarterback Arch Manning completed passes to Emaree Winston, Emmett Mosley V, and Raleek Brown.",
+      "id": "international-sports-2",
+      "micro_summary": "No. 3 Texas plays Texas A&M Friday with SEC championship and playoff berth on the line.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.868,
+      "sources": [
+        {
+          "publisher": "CBS Sports",
+          "url": "https://www.cbssports.com/college-football/news/texas-texas-a-m-live-updates-score-college-football-week-13-2026/live/"
+        },
+        {
+          "publisher": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/college-football/articles/no-7-texas-texas-m-011805122.html"
+        },
+        {
+          "publisher": "247Sports",
+          "url": "https://247sports.com/college/texas/article/texas-vs-texas-am-pregame-observations-aggies-qb-situation-longhorns-injury-latest-293404955/"
+        }
+      ],
+      "summary": "No. 3 Texas faces Texas A&M in College Station Friday with an SEC championship berth and College Football Playoff first-round bye at stake. Texas has won five straight and beat the Aggies 27-17 last year.",
+      "timestamp": "2026-11-28T01:33:13Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "The Pittsburgh Steelers defeated the Denver Broncos 27-5 on Black Friday in Pittsburgh, improving their record to 7-4 while dropping Denver to 8-3. The Steelers defense dominated, scoring twice: T.J. Watt recovered a Bo Nix fumble in the end zone for a 7-0 lead in the first quarter, and Jalen Ramsey returned an interception for a touchdown in the second quarter to make it 24-5. Broncos quarterback Bo Nix struggled, completing 22 of 40 passes for 169 yards with two interceptions, three sacks, and a 44.7 passer rating. Steelers quarterback Mason Rudolph, starting for the first time since Aaron Rodgers was benched and released, completed 9 of 15 passes for 142 yards with one touchdown and no interceptions. The game was played in cold, wet conditions with temperatures around 37 degrees, sleet, and wind.",
+      "id": "international-sports-3",
+      "micro_summary": "The Pittsburgh Steelers defeated the Denver Broncos 27-5 on Black Friday.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.867,
+      "sources": [
+        {
+          "publisher": "NBC Sports",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/no-aaron-rodgers-no-problem-steelers-crush-broncos-with-dominant-defense"
+        },
+        {
+          "publisher": "ESPN",
+          "url": "https://www.espn.com/nfl/story/_/id/50599095/steelers-beat-broncos-black-friday-two-defensive-touchdowns"
+        },
+        {
+          "publisher": "TribLIVE.com",
+          "url": "https://triblive.com/sports/feats-of-strength-big-defensive-scores-mason-rudolphs-solid-start-spark-season-saving-win-for-steelers/"
+        }
+      ],
+      "summary": "The Pittsburgh Steelers defeated the Denver Broncos 27-5 on Black Friday, improving to 7-4 behind defensive touchdowns by T.J. Watt and Jalen Ramsey.",
+      "timestamp": "2026-11-27T22:54:47Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "sports",
+      "extended_summary": "Australia has omitted veteran spinner Nathan Lyon from its 13-man Test squad for the four-match home series against New Zealand beginning December 9. The 39-year-old, who has taken 577 Test wickets in 145 matches and served as first-choice spinner since 2013, was left out alongside Cooper Connolly, Beau Webster and Marnus Labuschagne. Uncapped pair Corey Rocchiccioli and Jack Clayton have earned call-ups, with Rocchiccioli usurping Lyon as the frontline spinner. Steve Smith returns to the side after injury, while Cameron Green is recovering from concussion. Selectors will add a 14th player following the sixth Sheffield Shield round. Selection chair George Bailey stated Lyon had not quite had the desired impact recently, though acknowledging his extraordinary record. Lyon remains determined to fight back into the side for next year's tours of India and England.",
+      "id": "international-sports-4",
+      "micro_summary": "Nathan Lyon omitted from Australia's 13-man Test squad for four-Test series against New Zealand.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.867,
+      "sources": [
+        {
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/sport/2026/nov/28/australia-test-squad-named-as-corey-rocchiccioli-ends-nathan-lyons-reign-as-first-choice-spinner"
+        },
+        {
+          "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "url": "https://www.abc.net.au/news/2026-11-28/nathan-lyon-axed-as-australia-names-test-squad/107437842"
+        },
+        {
+          "publisher": "cricket.com.au",
+          "url": "https://www.cricket.com.au/news/4615317/australia-test-squad-v-new-zealand-series-reveal-perth-stadium-pat-cummins-nathan-lyon-dropped-rocchiccioli-clayton"
+        }
+      ],
+      "summary": "Australia named a 13-man Test squad for the four-match series against New Zealand beginning December 9, omitting veteran spinner Nathan Lyon (577 wickets) in favor of uncapped Corey Rocchiccioli and Jack Clayton.",
+      "timestamp": "2026-11-27T22:50:00Z"
     },
     {
       "ai": false,
       "articles": 5,
       "category": "tragedies",
-      "extended_summary": "The self-styled pastor was arrested in 2023 after the discovery of more than 400 bodies in shallow graves A court in Kenya has convicted the leader of a doomsday Christian cult of the manslaughter of 123 of his followers. Paul Mackenzie was found guilty in Mombasa of ordering his followers, all adults, to fast to death in Shakahola forest near the coast between January 2021 and September 2023. Earlier this month Mackenzie was jailed for 200 years for murdering 191 people, all but one of them children, in the same mass killing. Mackenzie had pleaded not guilty to manslaughter and one of his lawyers said he would appeal against the conviction after sentencing, Reuters news agency reports. Warning: This article contains details which some people might find distressing. The court also convicted 29 others including Mackenzie's wife, Rhoda Mumbua Maweu, of their part in the manslaughter. Sixty defendants were acquitted.",
+      "extended_summary": "A 14-year-old Iranian girl was beaten to death by her husband days after giving birth, campaigners have revealed. Sogand Moshtareki, from the country's Kerman province, was killed on November 6 after she had asked her 20-year-old husband if she could visit her family. The teenager, who had given birth ten days earlier, had been forced into marriage at the age of 13. Sogand's husband confessed to her murder and said the motive was 'family disputes', according to the National Council of Resistance of Iran (NCRI)'s Women Committee. The schoolgirl had recently survived a traffic accident and was still recovering when she gave birth. The Iran Human Rights (IHR) organisation said they had learned from Sogand's father that her husband had restricted her contact with family and would lock her inside the house when he went out. Her husband is understood to have been arrested, according to IHR. Sogand's death came",
       "id": "international-tragedies-1",
-      "micro_summary": "Paul Mackenzie: Kenyan doomsday cult leader convicted over further 123 deaths.",
+      "micro_summary": "Teen bride, 14, beaten to death by Iranian husband, 20, days after giving birth ‘because she asked to visit her.",
       "publishers": 5,
       "scope": "international",
-      "score": 0.859,
+      "score": 0.824,
       "sources": [
         {
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo"
+          "publisher": "The Sun",
+          "url": "https://www.thesun.co.uk/news/41174408/teen-bride-murdered-iran-child/"
         },
         {
-          "publisher": "Sky News",
-          "url": "https://news.sky.com/story/kenyan-cult-leader-in-jail-for-191-murders-convicted-over-another-123-deaths-13617227"
+          "publisher": "Daily Mail",
+          "url": "https://www.dailymail.com/news/article-16326575/14-year-old-bride-beaten-death-Iranian-husband-days-giving-birth-asked-visit-family.html"
         },
         {
-          "publisher": "The Independent",
-          "url": "https://www.independent.co.uk/bulletin/news/paul-mackenzie-kenya-cult-leader-child-cruelty-assault-b3091576.html"
+          "publisher": "Iran International",
+          "url": "https://www.iranintl.com/en/202611259011"
         }
       ],
-      "summary": "Paul Mackenzie: Kenyan doomsday cult leader convicted over further 123 deaths. Earlier this month Mackenzie was jailed for 200 years for murdering 191 people, all but one of them children, in the same mass killing.",
-      "timestamp": "2026-11-27T16:06:37Z"
+      "summary": "Teen bride, 14, beaten to death by Iranian husband, 20, days after giving birth ‘because she asked to visit her family’. A 14-year-old Iranian girl was beaten to death by her husband days after giving birth, campaigners have revealed.",
+      "timestamp": "2026-11-27T16:50:00Z"
     },
     {
       "ai": true,
       "articles": 5,
       "category": "tragedies",
-      "extended_summary": "Alleged Russia-directed sabotage across Europe is intensifying, with attacks on rail lines, airports and energy networks roughly doubling over the past year and presenting a risk of mass casualties. Between October 2025 and September 2026, 29 Moscow-linked incidents were recorded in Poland alone, including a November 2025 explosive charge that damaged a rail line linking Warsaw to the Ukraine border, though no casualties occurred. Germany and Poland, which play the largest roles in supporting Ukraine, account for more than half of reported incidents. Meanwhile, new data indicates 720,000 Russian soldiers have been killed since the start of the Ukraine war, averaging one death every four minutes. Such sabotage could bring calls for retaliation and possibly divide European governments.",
+      "extended_summary": "Alleged Russia-directed sabotage across Europe is intensifying, with the use of explosives and arson roughly doubling over the past year and presenting a risk of mass casualties as Moscow targets rail lines, airports and energy networks. Germany and Poland account for more than half of reported incidents between October 2025 and September 2026, including 29 Moscow-linked incidents in Poland. In November 2025, an explosive charge damaged a rail line linking Warsaw to the Ukraine border; though there were no casualties, Polish Prime Minister Donald Tusk said the explosion was likely planned to destroy a train. Meanwhile, new data suggests 720,000 Russian soldiers have been killed since the start of the Ukraine war. While US envoy Jared Kushner praised Vladimir Putin's restraint regarding nuclear weapons, unconventional war poses an immediate threat to Europe.",
       "id": "international-tragedies-2",
-      "micro_summary": "Russia-linked sabotage in Europe roughly doubles with 29 incidents in Poland and 720,000 Russian soldiers killed in Ukraine war.",
+      "micro_summary": "Russian-linked sabotage in Europe doubles with 29 Poland incidents and 720,000 Russian soldiers killed in Ukraine war.",
       "publishers": 5,
       "scope": "international",
-      "score": 0.858,
+      "score": 0.815,
       "sources": [
         {
           "publisher": "The Guardian",
@@ -334,19 +357,46 @@
           "url": "https://www.cnn.com/2026/11/26/europe/russias-europe-ukraine-iiss-report-intl-hnk-ml"
         }
       ],
-      "summary": "Russia-directed sabotage targeting European infrastructure has roughly doubled, with 29 Moscow-linked incidents in Poland including a damaged rail line, while new data indicates 720,000 Russian soldiers have been killed since the Ukraine war began.",
-      "timestamp": "2026-11-27T17:16:00Z"
+      "summary": "Alleged Russia-directed sabotage targeting European infrastructure has roughly doubled, with 29 Moscow-linked incidents in Poland between October 2025 and September 2026, including a rail line bombing, while new data suggests 720,000 Russian soldiers have been killed in the Ukraine war.",
+      "timestamp": "2026-11-27T19:11:00Z"
     },
     {
       "ai": true,
       "articles": 5,
       "category": "tragedies",
-      "extended_summary": "Severe storms struck both coasts of the United States during the Thanksgiving holiday, causing widespread disruption. The number of homes without power peaked at close to a million on Thursday evening, with Pennsylvania, Virginia, Maryland and New Jersey badly affected. More than 2,500 flights were delayed and over 450 cancelled on Thursday, with disruptions continuing into Friday. The Macy's Thanksgiving Day parade was postponed to Saturday, marking the first delay in the event's 100-year history. Washington DC experienced its wettest Thanksgiving on record, with nearly 2 inches of rain falling in New York City's Central Park. States of emergency were declared in several states including New York, while bridges closed in Maryland and flooding affected Delaware and New Jersey. The US President said he would consider releasing emergency funds.",
+      "extended_summary": "A court in Mombasa, Kenya, convicted self-styled pastor Paul Mackenzie and 29 accomplices, including his wife Rhoda Mumbua Maweu, of manslaughter for the deaths of 123 adult followers. The court found Mackenzie systematically persuaded followers to fast to death in Shakahola forest between January 2021 and September 2023 as part of a suicide pact to meet Jesus, with children ordered to die first, then women, then men. Mackenzie, who pleaded not guilty and plans to appeal, was arrested in 2023 after authorities discovered more than 400 bodies in shallow graves. This conviction follows his sentencing earlier this month to 200 years in prison for murdering 191 people, 190 of them children. Sixty other defendants were acquitted, prompting the prosecution to announce an appeal. Mackenzie also faces separate convictions for child cruelty, assault, radicalization, and terrorism-related offenses.",
       "id": "international-tragedies-3",
-      "micro_summary": "Severe Thanksgiving storms left nearly a million without power and postponed the Macy's parade for the first time in history.",
+      "micro_summary": "Paul Mackenzie convicted of manslaughter of 123 followers in Kenya cult deaths.",
+      "publishers": 5,
+      "scope": "international",
+      "score": 0.79,
+      "sources": [
+        {
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo"
+        },
+        {
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/kenyan-cult-leader-guilty-of-manslaughter-more-than-123-starvation-deaths"
+        },
+        {
+          "publisher": "The Independent",
+          "url": "https://www.independent.co.uk/bulletin/news/paul-mackenzie-kenya-cult-leader-child-cruelty-assault-b3091576.html"
+        }
+      ],
+      "summary": "A Kenyan court convicted cult leader Paul Mackenzie and 29 others of manslaughter over the deaths of 123 followers who starved in Shakahola forest, adding to his 200-year sentence for murdering 191 people.",
+      "timestamp": "2026-11-27T16:06:37Z"
+    },
+    {
+      "ai": true,
+      "articles": 5,
+      "category": "tragedies",
+      "extended_summary": "A massive storm hammered the US during Thanksgiving week, disrupting travel for more than 80 million Americans. On Thursday, 460 flights were cancelled and 2,508 were delayed, while nearly 980,000 households lost power, particularly in Pennsylvania, Virginia, Maryland and New Jersey. Damaging winds reached 70mph, causing coastal flooding and prompting state of emergencies in New Jersey and New York. The Macy's Thanksgiving parade was postponed to Saturday. In Maryland, almost two million customers were asked to limit water use due to power disruptions. Washington DC experienced its wettest Thanksgiving on record, with tidal flooding soaking runways at Reagan National Airport. President Donald Trump said he would consider releasing emergency funds for the east coast, while Pacific storms threatened the West Coast.",
+      "id": "international-tragedies-4",
+      "micro_summary": "A powerful Thanksgiving storm cancelled 460 flights and left nearly one million US households without power.",
       "publishers": 4,
       "scope": "international",
-      "score": 0.775,
+      "score": 0.744,
       "sources": [
         {
           "publisher": "Sky News",
@@ -354,49 +404,22 @@
         },
         {
           "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo"
+          "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o"
         }
       ],
-      "summary": "Severe storms hit both US coasts during Thanksgiving, leaving nearly a million without power, delaying over 2,500 flights, and forcing the first postponement of the Macy's parade in its 100-year history.",
+      "summary": "A powerful Thanksgiving storm battered the US with heavy rain and winds up to 70mph, cancelling 460 flights, delaying 2,508, and leaving nearly one million households without power across Pennsylvania, Virginia, Maryland and New Jersey.",
       "timestamp": "2026-11-27T13:37:11Z"
     },
     {
-      "ai": true,
-      "articles": 5,
-      "category": "tragedies",
-      "extended_summary": "The US Army conducted a controlled detonation of nearly five tonnes of toxic lead azide explosives at an ammunition plant in Iowa on Wednesday morning, with smoke rising shortly after 09:00 local time. The explosives had been stored for approximately 20 years and degraded through recrystallisation, making them volatile. Officials declared the operation a success and issued an all-clear, stating the risk was as close to zero as possible. Environmental Protection Agency Administrator Lee Zeldin reported that air monitors detected zero airborne lead following the blast, while over 1,000 post-detonation samples were collected from homes, parks, farms and drinking water taps, alongside 1,591 pre-detonation samples. Additional sampling at churches, schools and playgrounds was planned for Thursday. President Donald Trump stated that mitigation efforts far exceeded expectations, while Middletown Mayor Rodney Johnson expressed relief. Local soil, air and water testing continues.",
-      "id": "international-tragedies-4",
-      "micro_summary": "The US Army detonated nearly five tonnes of toxic explosives in Iowa, with officials reporting zero airborne lead detected.",
-      "publishers": 5,
-      "scope": "international",
-      "score": 0.745,
-      "sources": [
-        {
-          "publisher": "The Independent",
-          "url": "https://www.independent.co.uk/bulletin/news/vance-obama-lead-iowa-trump-b3092428.html"
-        },
-        {
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko"
-        },
-        {
-          "publisher": "U.S. Environmental Protection Agency (.gov)",
-          "url": "https://www.epa.gov/newsreleases/epa-provides-update-sampling-following-yesterdays-controlled-detonation-iowa-army"
-        }
-      ],
-      "summary": "The US Army conducted a controlled detonation of nearly five tonnes of toxic lead azide explosives in Iowa on Wednesday, with officials reporting zero airborne lead detected and over 1,000 post-detonation samples collected from the surrounding area.",
-      "timestamp": "2026-11-26T19:46:00Z"
-    },
-    {
-      "ai": true,
+      "ai": false,
       "articles": 4,
       "category": "entertainment",
-      "extended_summary": "Ramayana: Rise Of A Legend has become the highest-grossing Indian production of all time in 27 countries, with worldwide collections reaching Rs 1,777 crore in 22 days. The film, directed by Nitesh Tiwari, has set records across North America, Europe, Southeast Asia and parts of Africa, including the United States, Canada, United Kingdom, Thailand, Indonesia, Nepal, Netherlands, Vietnam, Cambodia, South Africa, Kazakhstan, Kenya, Ghana, Ukraine, Finland and Romania. North America emerged as a strong market where the film surpassed Dhurandhar 2. Domestically, the film grossed Rs 1,185 crore while overseas earnings reached Rs 592 crore. Weekly collections included Rs 675 crore in the first week, Rs 357.10 crore in the second and Rs 152.85 crore in the third. Now in its fourth week, the film is preparing for releases in China, Japan, South Korea and Russia in the first quarter of 2027.",
+      "extended_summary": "Ramayana: Rise Of A Legend has become the highest-grossing Indian production of all time in 27 countries. Directed by Nitesh Tiwari, the film has set records across North America, Europe, Southeast Asia and parts of Africa, including markets where Indian films have traditionally recorded limited business.The milestone comes as the film&#039;s worldwide gross collection reached Rs 1,777 crore in 22 days. Now in its fourth week, the mythological epic is also reportedly preparing for releases in China, Japan, South Korea and Russia in the first quarter of 2027, subject to scheduling and approvals.According to the makers, the record-setting markets include the United States and Canada, the United Kingdom, Thailand, Indonesia, Nepal, the Netherlands, Vietnam, Cambodia, South Africa and Kazakhstan. The list also includes Kenya, Ghana, Ukraine, Finland, Romania and several smaller European and Caribbean territories.The financial contribution from each market varies, but the geographical spread shows that the film has",
       "id": "national-entertainment-1",
-      "micro_summary": "Ramayana: Rise Of A Legend became the highest-grossing Indian film in 27 countries with Rs 1,777 crore worldwide.",
+      "micro_summary": "Ramayana expands global footprint, becomes No. 1 Indian film in 27 nations.",
       "publishers": 4,
       "scope": "national",
-      "score": 0.679,
+      "score": 0.632,
       "sources": [
         {
           "publisher": "Business Standard",
@@ -407,16 +430,39 @@
           "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-becomes-highest-grossing-indian-production-in-27-countries-3048097-2026-11-27"
         },
         {
-          "publisher": "NKTV",
-          "url": "https://www.nktv.in/ramayana-becomes-highest-grossing-indian-film-in-27-countries-expands-indian-cinemas-global-reach/"
+          "publisher": "EasternEye",
+          "url": "https://www.easterneye.biz/ranbir-kapoor-ramayana-no-1-indian-film-27-countries/"
         },
         {
-          "publisher": "EasternEye",
-          "url": "https://www.easterneye.biz/ranbir-kapoor-s-ramayana-becomes-no-1-indian-film-in-27-countries-as-global-box-office-hits-ps160m/"
+          "publisher": "NKTV",
+          "url": "https://www.nktv.in/ramayana-becomes-highest-grossing-indian-film-in-27-countries-expands-indian-cinemas-global-reach/"
         }
       ],
-      "summary": "Ramayana: Rise Of A Legend became the highest-grossing Indian production in 27 countries, earning Rs 1,777 crore worldwide in 22 days, including Rs 1,185 crore domestically and Rs 592 crore overseas.",
-      "timestamp": "2026-11-27T13:17:18Z"
+      "summary": "Ramayana expands global footprint, becomes No. 1 Indian film in 27 nations. Ramayana: Rise Of A Legend has become the highest-grossing Indian production of all time in 27 countries.",
+      "timestamp": "2026-11-27T13:27:20Z"
+    },
+    {
+      "ai": false,
+      "articles": 2,
+      "category": "entertainment",
+      "extended_summary": "A controversy has erupted over Netflix's planned global release of Pakistani web series 'Jo Bachay Hain Sang Samait Lo', with the Indian government asking the streaming platform to ensure that Pakistani-origin content remains unavailable to viewers in the country. The show, featuring actors Fawad Khan, Mahira Khan and Hamza Ali Abbasi, is scheduled to premiere on December 4. The row has intensified after a 2017 photograph of Abbasi posing for a selfie with Lashkar-e-Taiba (LeT) founder Hafiz Saeed resurfaced online, bringing renewed scrutiny to the actor's past association with the Pakistan-based terrorist leader. The Ministry of Information and Broadcasting has asked Netflix to honour its earlier commitment not to stream Pakistani-origin films or series in India. The direction follows complaints over the upcoming show and demands from Indian film industry organisations to block its release in the country. Hamza Abbasi's photograph with Hafiz Saeed resurfaces The photograph, reportedly taken in",
+      "id": "national-entertainment-2",
+      "micro_summary": "Pakistani actor Hamza Abbasi's 2017 selfie with Hafiz Saeed resurfaces amid row over Netflix series...",
+      "publishers": 2,
+      "scope": "national",
+      "score": 0.455,
+      "sources": [
+        {
+          "publisher": "Moneycontrol.com",
+          "url": "https://www.moneycontrol.com/world/pakistani-actor-hamza-abbasi-s-2017-selfie-with-hafiz-saeed-resurfaces-amid-row-over-netflix-series-jo-bachay-hain-sang-samait-lo-article-14090315.html"
+        },
+        {
+          "publisher": "The Pamphlet",
+          "url": "https://thepamphlet.in/fwice-threatens-to-boycott-netflix-productions-but-netflix-india-still-wont-budge-on-pakistani-show/"
+        }
+      ],
+      "summary": "Pakistani actor Hamza Abbasi's 2017 selfie with Hafiz Saeed resurfaces amid row over Netflix series... The Ministry of Information and Broadcasting has asked Netflix to honour its earlier commitment not to stream Pakistani-origin films or series in India.",
+      "timestamp": "2026-11-27T11:21:57Z"
     }
   ]
 }
